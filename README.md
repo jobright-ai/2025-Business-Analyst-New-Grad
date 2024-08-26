@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fisher Investments](https://www.fisherinvestments.com/en-us)** | **[Business Analyst Associate](https://jobright-internal.com/jobs/info/66cc7fbe64bb49aca7626342?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, WA | On Site | Aug 26 |
+| ↳ | **[Business Analyst Associate](https://jobright-internal.com/jobs/info/66cc7fbe64bb49aca762634a?utm_campaign=Business%20Analyst&utm_source=1103)** | Portland, OR | On Site | Aug 26 |
+| ↳ | **[Business Analyst Associate](https://jobright-internal.com/jobs/info/66cc7fbe64bb49aca762636e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview, OR | On Site | Aug 26 |
+| ↳ | **[Business Analyst Associate](https://jobright-internal.com/jobs/info/66cc7fbe64bb49aca762637c?utm_campaign=Business%20Analyst&utm_source=1103)** | Gresham, OR | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[Senior Business Analyst](https://jobright-internal.com/jobs/info/663cd82f48c58dbb56c2711e?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Aug 25 |
 | **[Gaming Laboratories International (GLI)](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright-internal.com/jobs/info/66b20d7fae6d4ddd9a157f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Aug 25 |
 | **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[Associate Business Management Analyst](https://jobright-internal.com/jobs/info/66caac1413bc7fe9ddc91ad9?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Aug 24 |
+| **[Oracle](https://www.oracle.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/66cc8099c007f34166361c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Aug 24 |
 | **[Amazon](https://amazon.com)** | **[Senior Business Analyst](https://jobright-internal.com/jobs/info/663cbe527d058fb08c35606c?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Aug 24 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/65f37c81611c16a421405758?utm_campaign=Business%20Analyst&utm_source=1103)** | Rocky Mount, NC | On Site | Aug 24 |
 | **[Gary Plastic Packaging](https://www.plasticboxes.com)** | **[Business Analyst - Procurement](https://jobright-internal.com/jobs/info/66c971cc785ba6dabbb77a10?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring Hill, FL | On Site | Aug 23 |
@@ -107,6 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Condé Nast](http://www.condenast.com)** | **[Performance Analyst](https://jobright-internal.com/jobs/info/66c48747d7e7ecb3cfbebc78?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 20 |
 | **[Nestle Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66a8171425b61b8fef1d56e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | Aug 20 |
 | **[Alix Partners](http://www.alixpartners.com)** | **[Business Research Assistant](https://jobright-internal.com/jobs/info/66979b9ffafc80d91285c8b9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Aug 20 |
-| **[Accenture Federal Services](https://www.accenture.com)** | **[Summer Analyst](https://jobright-internal.com/jobs/info/66c3b9c45f5369949dc0c964?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Aug 19 |
-| **[Cal Fire](https://www.fire.ca.gov/)** | **[Performance Management Analyst](https://jobright-internal.com/jobs/info/66c3938a1340db0128fd469c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
