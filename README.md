@@ -107,4 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Condé Nast](http://www.condenast.com)** | **[Performance Analyst](https://jobright-internal.com/jobs/info/66c48747d7e7ecb3cfbebc78?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 20 |
 | **[Nestle Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66a8171425b61b8fef1d56e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | Aug 20 |
 | **[Alix Partners](http://www.alixpartners.com)** | **[Business Research Assistant](https://jobright-internal.com/jobs/info/66979b9ffafc80d91285c8b9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Aug 20 |
+| **[Accenture Federal Services](https://www.accenture.com)** | **[Summer Analyst](https://jobright-internal.com/jobs/info/66c3b9c45f5369949dc0c964?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Aug 19 |
+| **[Cal Fire](https://www.fire.ca.gov/)** | **[Performance Management Analyst](https://jobright-internal.com/jobs/info/66c3938a1340db0128fd469c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
