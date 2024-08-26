@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Business%20Analyst by Jobright.ai
+# Daily Intern Jobs in Business Analyst by Jobright.ai
 
 
 
