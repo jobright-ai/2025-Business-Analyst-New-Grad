@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pennymac](https://www.pennymac.com)** | **[Production Business Technology Rotational Analyst Program](https://jobright-internal.com/jobs/info/66ccaf9a45d36408d3c2c604?utm_campaign=Business%20Analyst&utm_source=1103)** | Cary, NC | On Site | Aug 26 |
 | **[Fisher Investments](https://www.fisherinvestments.com/en-us)** | **[Business Analyst Associate](https://jobright-internal.com/jobs/info/66cc7fbe64bb49aca7626342?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, WA | On Site | Aug 26 |
 | ↳ | **[Business Analyst Associate](https://jobright-internal.com/jobs/info/66cc7fbe64bb49aca762634a?utm_campaign=Business%20Analyst&utm_source=1103)** | Portland, OR | On Site | Aug 26 |
 | ↳ | **[Business Analyst Associate](https://jobright-internal.com/jobs/info/66cc7fbe64bb49aca762636e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview, OR | On Site | Aug 26 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Publicis Health](http://publicishealth.com)** | **[Senior Associate, Business Management](https://jobright-internal.com/jobs/info/66c7b73eae43499602fa0a96?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 22 |
 | **[Citibank](https://www.citi.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/66c7a3afcc0c77bd3e8b1fa9?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Aug 22 |
 | **[SWAN Capital](http://SWAN-Capital.com)** | **[New Business Administrator](https://jobright-internal.com/jobs/info/66c7910c742578246340c761?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL | On Site | Aug 22 |
-| **[Morgan & Morgan](https://www.forthepeople.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66c79cceb0ec0df61d0380a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Aug 22 |
-| ↳ | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66c79cceb0ec0df61d037e87?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Aug 22 |
+| **[Morgan & Morgan](https://www.forthepeople.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66c79cceb0ec0df61d037e87?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Aug 22 |
+| ↳ | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66c79cceb0ec0df61d0380a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Aug 22 |
 | **[Coders Data](https://codersdata.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66c756fa553f75f05508f7c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Aug 22 |
 | **[Techpoint](http://www.techpointinc.net/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66c7505e2f5fab89bdc4afaa?utm_campaign=Business%20Analyst&utm_source=1103)** | SC | On Site | Aug 22 |
 | **[Walmart](http://www.walmart.com)** | **[Senior Analyst, Business Support](https://jobright-internal.com/jobs/info/66c724f0e73bdbcd4cc2c1e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Draper, UT | On Site | Aug 22 |
