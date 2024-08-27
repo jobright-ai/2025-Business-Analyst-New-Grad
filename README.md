@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, TESS](https://jobright-internal.com/jobs/info/66b187ee70c5dad8acf68edd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Aug 27 |
+| ↳ | **[Business Analyst, TESS](https://jobright-internal.com/jobs/info/66b167251d74d113c8dc1411?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Aug 27 |
 | **[Kwik Trip](https://www.kwiktrip.com/)** | **[IT Business Analyst 1](https://jobright-internal.com/jobs/info/66cd762143cc9ce906cbb302?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5381?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Aug 26 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5390?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Aug 26 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5393?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Aug 26 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5390?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Aug 26 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5395?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66cd1d92e8fad19035cb34e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Aug 26 |
 | **[Noblis](http://www.noblis.org)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/66cd0cf7f2f04af3cc02d844?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Aug 26 |
@@ -70,9 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 26 |
 | **[Brooksource](http://www.brooksource.com)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66ccdf566d718e282f245a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Aug 26 |
 | **[Pennymac](https://www.pennymac.com)** | **[Production Business Technology Rotational Analyst Program](https://jobright-internal.com/jobs/info/66ccaf9a45d36408d3c2c604?utm_campaign=Business%20Analyst&utm_source=1103)** | Cary, NC | On Site | Aug 26 |
-| **[Fisher Investments](https://www.fisherinvestments.com/en-us)** | **[Business Analyst Associate](https://jobright-internal.com/jobs/info/66cc7fbe64bb49aca7626342?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, WA | On Site | Aug 26 |
-| ↳ | **[Business Analyst Associate](https://jobright-internal.com/jobs/info/66cc7fbe64bb49aca762636e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview, OR | On Site | Aug 26 |
-| ↳ | **[Business Analyst Associate](https://jobright-internal.com/jobs/info/66cc7fbe64bb49aca762637c?utm_campaign=Business%20Analyst&utm_source=1103)** | Gresham, OR | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[Senior Business Analyst](https://jobright-internal.com/jobs/info/663cd82f48c58dbb56c2711e?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Aug 25 |
 | **[Gaming Laboratories International (GLI)](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright-internal.com/jobs/info/66b20d7fae6d4ddd9a157f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Aug 25 |
 | **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[Associate Business Management Analyst](https://jobright-internal.com/jobs/info/66caac1413bc7fe9ddc91ad9?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Aug 24 |
@@ -97,19 +96,17 @@ For a complete list, click the following sortable link below:
 | **[Citibank](https://www.citi.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/66c7a3afcc0c77bd3e8b1fa9?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Aug 22 |
 | **[SWAN Capital](http://SWAN-Capital.com)** | **[New Business Administrator](https://jobright-internal.com/jobs/info/66c7910c742578246340c761?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL | On Site | Aug 22 |
 | **[Morgan & Morgan](https://www.forthepeople.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66c79cceb0ec0df61d037e87?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Aug 22 |
-| ↳ | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66c79cceb0ec0df61d0380a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Aug 22 |
 | **[Coders Data](https://codersdata.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66c756fa553f75f05508f7c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Aug 22 |
 | **[Techpoint](http://www.techpointinc.net/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66c7505e2f5fab89bdc4afaa?utm_campaign=Business%20Analyst&utm_source=1103)** | SC | On Site | Aug 22 |
 | **[Walmart](http://www.walmart.com)** | **[Senior Analyst, Business Support](https://jobright-internal.com/jobs/info/66c724f0e73bdbcd4cc2c1e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Draper, UT | On Site | Aug 22 |
 | **[Royal Bank of Canada](https://www.rbc.com)** | **[Junior Global Markets Business Manager - Analyst/Associate](https://jobright-internal.com/jobs/info/66c71b6758079a2ed1520916?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 22 |
 | **[Exemplis](http://www.exemplis.com/)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66c68aa43a1eba2aa809c3e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Cypress, CA | Hybrid | Aug 21 |
-| **[Citibank](https://www.citi.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/66c789079cbf5ee980d06197?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa Florida United States | Hybrid | Aug 21 |
-| ↳ | **[Business Coordinator](https://jobright-internal.com/jobs/info/66c789079cbf5ee980d05fd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa Florida United States | On Site | Aug 21 |
+| **[Citibank](https://www.citi.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/66c789079cbf5ee980d05fd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa Florida United States | On Site | Aug 21 |
+| ↳ | **[Business Coordinator](https://jobright-internal.com/jobs/info/66c789079cbf5ee980d06197?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa Florida United States | Hybrid | Aug 21 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright-internal.com/jobs/info/66c650f854d55c7b1625bf26?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Aug 21 |
 | **[GroupM](http://www.groupm.com/)** | **[Senior Associate New Business](https://jobright-internal.com/jobs/info/66b2ab15b3a848d8f74354f2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 21 |
 | ↳ | **[Senior Associate New Business](https://jobright-internal.com/jobs/info/66b2ab15b3a848d8f74354d5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 21 |
 | **[State Street Corporation](http://www.statestreet.com)** | **[Alpha Services Business Analyst](https://jobright-internal.com/jobs/info/66c8aca3ffb02eafa7d267eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Aug 21 |
 | **[CGI](https://www.cgi.com)** | **[Functional Business Analyst](https://jobright-internal.com/jobs/info/66a9a29efe29b4d386af992e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Aug 21 |
 | **[ice](https://www.ice.com)** | **[Business Analyst, Market Data Account Management](https://jobright-internal.com/jobs/info/66a90a8d5e55e6eb33298006?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 21 |
-| **[CGI](https://www.cgi.com)** | **[Junior Momentum Business Analyst](https://jobright-internal.com/jobs/info/66c50c5a43652497e60b003e?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
