@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright-internal.com/jobs/info/669ec46f2154cfa646384610?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 03 |
+| ↳ | **[Single Family Business Analyst](https://jobright-internal.com/jobs/info/669ec46f2154cfa646384602?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 03 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Jr.](https://jobright-internal.com/jobs/info/66bb1dabe4831ca893eacda8?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 03 |
 | **[State Street Corporation](http://www.statestreet.com)** | **[Alpha Services Business Analyst](https://jobright-internal.com/jobs/info/66d642563d3e3c12da4cb9a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Sep 02 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66757d0d18f8e42094329bae?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 01 |
 | **[Apollo](https://www.apollo.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/6646a796e13e61b188cd7cd6?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA | On Site | Sep 01 |
@@ -64,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health South Florida](http://baptisthealth.net/)** | **[Associate Business Systems Analyst](https://jobright-internal.com/jobs/info/66b6a55ee460494057a850d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton, FL | On Site | Aug 31 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66d27386b6645bf2cf77290f?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 30 |
 | **[Travelers Insurance](https://www.travelers.com)** | **[Business Analyst (Business Insurance Product)](https://jobright-internal.com/jobs/info/66d2501dc4573d09330f7738?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 30 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb55d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb55a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
 | ↳ | **[Business Process Analyst - Workday (HCM)](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright-internal.com/jobs/info/66d20a6b5d7020cef9e2d426?utm_campaign=Business%20Analyst&utm_source=1103)** | Ridgeland, MS | On Site | Aug 30 |
 | **[Aledade](https://www.aledade.com)** | **[Performance Analyst](https://jobright-internal.com/jobs/info/66b537eaeba40094b3ebf407?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Aug 30 |
@@ -88,9 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Morgan & Morgan](https://www.forthepeople.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66cf5c5604966487f97f3bbb?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Aug 28 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Aug 27 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 27 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 27 |
-| ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Aug 27 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c889f?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 27 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88af?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 27 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Aug 27 |
-| **[Hatch Ltd](https://www.hatch.com)** | **[New Graduate - Transit Business Analyst](https://jobright-internal.com/jobs/info/66ce2fe8e8674f09369acb75?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Aug 27 |
+| ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
