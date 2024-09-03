@@ -88,12 +88,9 @@ For a complete list, click the following sortable link below:
 | **[Morgan & Morgan](https://www.forthepeople.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66cf5c5604966487f97f3bbb?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Aug 28 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Aug 27 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 27 |
-| ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Aug 27 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c889f?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 27 |
+| ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Aug 27 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88af?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 27 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Aug 27 |
 | **[Hatch Ltd](https://www.hatch.com)** | **[New Graduate - Transit Business Analyst](https://jobright-internal.com/jobs/info/66ce2fe8e8674f09369acb75?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Aug 27 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, TESS](https://jobright-internal.com/jobs/info/66b187ee70c5dad8acf68edd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Aug 27 |
-| ↳ | **[Business Analyst, TESS](https://jobright-internal.com/jobs/info/66b167251d74d113c8dc1411?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Aug 27 |
-| **[Holthouse Carlin & Van Trigt](http://www.hcvt.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/6679c7e21db8ec5328a2a7dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
