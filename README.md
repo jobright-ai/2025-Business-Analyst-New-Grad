@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insight](https://www.insight.com)** | **[Business Analyst I-W2](https://jobright-internal.com/jobs/info/66d7aba5410faa907fe3faad?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona, United States | On Site | Sep 03 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst, Junior](https://jobright-internal.com/jobs/info/66d7946bb838e93c75493adf?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Sep 03 |
 | **[ALTEN Technology USA](https://altenusa.com/)** | **[Business Analyst - Supply Chain](https://jobright-internal.com/jobs/info/66d78c1fdcda647e3eed2df8?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Hartford | Hybrid | Sep 03 |
 | **[TheGuarantors](https://www.theguarantors.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/66d780fb247b0daf10fc43be?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 03 |
-| **[Campus Child Care](https://campuschildcareinc.org)** | **[Business Administrator, Campus Child Care](https://jobright-internal.com/jobs/info/66d771ee0307f1b71fe0f91d?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA | On Site | Sep 03 |
 | **[ALLO Communications](http://www.allocommunications.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d789df5942e5358da6a82f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Sep 03 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Business Analyst, Underwriting Controls, Global Transaction Solutions](https://jobright-internal.com/jobs/info/66d76591a62ced1312e8779b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 03 |
 | **[HP](http://www.hp.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66d767cc8c83a6429f73ce86?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Sep 03 |
@@ -75,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health South Florida](http://baptisthealth.net/)** | **[Associate Business Systems Analyst](https://jobright-internal.com/jobs/info/66b6a55ee460494057a850d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton, FL | On Site | Aug 31 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66d27386b6645bf2cf77290f?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 30 |
 | **[Travelers Insurance](https://www.travelers.com)** | **[Business Analyst (Business Insurance Product)](https://jobright-internal.com/jobs/info/66d2501dc4573d09330f7738?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 30 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb55a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb55d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
 | ↳ | **[Business Process Analyst - Workday (HCM)](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright-internal.com/jobs/info/66d20a6b5d7020cef9e2d426?utm_campaign=Business%20Analyst&utm_source=1103)** | Ridgeland, MS | On Site | Aug 30 |
 | **[Aledade](https://www.aledade.com)** | **[Performance Analyst](https://jobright-internal.com/jobs/info/66b537eaeba40094b3ebf407?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Aug 30 |
