@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Videojet Technologies](http://www.videojet.com)** | **[Procurement Business Analyst](https://jobright-internal.com/jobs/info/6685baf6daed635a51efaf9e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wood Dale, IL | Hybrid | Sep 05 |
+| **[Protiviti](http://www.protiviti.com)** | **[Americas Delivery Center Analyst-Technology](https://jobright-internal.com/jobs/info/66a02a8b83fe12fc9f1d4523?utm_campaign=Business%20Analyst&utm_source=1103)** | Blue Ash, OH | On Site | Sep 05 |
+| **[New American Funding](https://www.newamericanfunding.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/66bd3ed296320f62d18260f7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
+| **[Total Safety](http://www.totalsafety.com)** | **[Business Administrator](https://jobright-internal.com/jobs/info/667e545fab5cfe08f73eabc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Martinez, CA | On Site | Sep 05 |
+| **[Q2 Lab Solutions](https://www.q2labsolutions.com)** | **[Business Systems Analyst 1](https://jobright-internal.com/jobs/info/66d98a0971b7f22db1c46903?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD | Hybrid | Sep 05 |
 | **[Walmart](http://www.walmart.com)** | **[Coordinator, Enterprise Business Services](https://jobright-internal.com/jobs/info/66d93034fbc5131adc621d80?utm_campaign=Business%20Analyst&utm_source=1103)** | Bentonville, AR | On Site | Sep 04 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d8e71f4a471adf397a9798?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Sep 04 |
 | **[Cask LLC](https://casknx.com)** | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66d8da64064372d079858db1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 04 |
@@ -64,8 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Noblis](http://www.noblis.org)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/66cd0cf7f2f04af3cc02d843?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Sep 04 |
 | **[HCTec](http://www.hctec.com)** | **[Project Business Analyst](https://jobright-internal.com/jobs/info/66d8abe7d06677690012a22d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 04 |
 | **[Generis Tek Inc](http://www.generistek.com)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66d8c332bc5c2e125e0366bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Bolingbrook, IL | On Site | Sep 04 |
-| **[Coders Data](https://codersdata.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66d8786391d2058ee03b8919?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Sep 04 |
-| **[BRMi](http://brmi.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d9686f9488ed13c0403203?utm_campaign=Business%20Analyst&utm_source=1103)** | Virginia, United States | On Site | Sep 04 |
 | **[Intelliswift Software](https://www.intelliswift.com/)** | **[IT - Business Process Specialist, Expert](https://jobright-internal.com/jobs/info/66d806a583024ed5df8a24f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Sep 03 |
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Business Systems Analyst I](https://jobright-internal.com/jobs/info/66d7ecd003e3c058d0c59463?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA | Hybrid | Sep 03 |
 | **[Travelers Insurance](https://www.travelers.com)** | **[Business Analyst (Business Insurance Product)](https://jobright-internal.com/jobs/info/66d2501dc4573d09330f7738?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Sep 03 |
@@ -97,8 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Seller Insights & Planning](https://jobright-internal.com/jobs/info/66d110ace4eb5bc510de9f2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Aug 29 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Mulesoft Business Analyst](https://jobright-internal.com/jobs/info/668883218782f8290ad59011?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Aug 29 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66d10ac907f52b809e80ebeb?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Aug 29 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66d0db88505db71c77eade3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Aug 29 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66d0d44b861759d914b63d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Aug 29 |
-| ↳ | **[ServiceNow Senior Business Analyst](https://jobright-internal.com/jobs/info/66d0d44b861759d914b63d26?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | On Site | Aug 29 |
-| **[Wavemaker](https://wavemakerglobal.com)** | **[Senior Associate, Business Analytics & Measurement](https://jobright-internal.com/jobs/info/66cfcaa44ac79963e276e992?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
