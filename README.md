@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Coordinator, Enterprise Business Services](https://jobright-internal.com/jobs/info/66d93034fbc5131adc621d80?utm_campaign=Business%20Analyst&utm_source=1103)** | Bentonville, AR | On Site | Sep 04 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d8e71f4a471adf397a9798?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Sep 04 |
 | **[Cask LLC](https://casknx.com)** | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66d8da64064372d079858db1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 04 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66ac1d1d350d2169736bb81b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 04 |
@@ -64,7 +65,7 @@ For a complete list, click the following sortable link below:
 | **[HCTec](http://www.hctec.com)** | **[Project Business Analyst](https://jobright-internal.com/jobs/info/66d8abe7d06677690012a22d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 04 |
 | **[Generis Tek Inc](http://www.generistek.com)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66d8c332bc5c2e125e0366bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Bolingbrook, IL | On Site | Sep 04 |
 | **[Coders Data](https://codersdata.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66d8786391d2058ee03b8919?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Sep 04 |
-| **[Inspur Cloud](https://cloud.inspur.com/)** | **[Business Assistant](https://jobright-internal.com/jobs/info/66d81f33c39566fd436fbd3f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Sep 04 |
+| **[BRMi](http://brmi.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d9686f9488ed13c0403203?utm_campaign=Business%20Analyst&utm_source=1103)** | Virginia, United States | On Site | Sep 04 |
 | **[Intelliswift Software](https://www.intelliswift.com/)** | **[IT - Business Process Specialist, Expert](https://jobright-internal.com/jobs/info/66d806a583024ed5df8a24f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Sep 03 |
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Business Systems Analyst I](https://jobright-internal.com/jobs/info/66d7ecd003e3c058d0c59463?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA | Hybrid | Sep 03 |
 | **[Travelers Insurance](https://www.travelers.com)** | **[Business Analyst (Business Insurance Product)](https://jobright-internal.com/jobs/info/66d2501dc4573d09330f7738?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Sep 03 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Anduril Industries](https://www.anduril.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66b67f06c6d2678e7624e911?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA | On Site | Aug 31 |
 | **[Baptist Health South Florida](http://baptisthealth.net/)** | **[Associate Business Systems Analyst](https://jobright-internal.com/jobs/info/66b6a55ee460494057a850d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton, FL | On Site | Aug 31 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66d27386b6645bf2cf77290f?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 30 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb55d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb55a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
 | ↳ | **[Business Process Analyst - Workday (HCM)](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright-internal.com/jobs/info/66d20a6b5d7020cef9e2d426?utm_campaign=Business%20Analyst&utm_source=1103)** | Ridgeland, MS | On Site | Aug 30 |
 | **[Aledade](https://www.aledade.com)** | **[Performance Analyst](https://jobright-internal.com/jobs/info/66b537eaeba40094b3ebf407?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Aug 30 |
