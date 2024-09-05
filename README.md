@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/66d9e43624e7ab8a317ff0d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Sep 05 |
 | **[Videojet Technologies](http://www.videojet.com)** | **[Procurement Business Analyst](https://jobright-internal.com/jobs/info/6685baf6daed635a51efaf9e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wood Dale, IL | Hybrid | Sep 05 |
 | **[Protiviti](http://www.protiviti.com)** | **[Americas Delivery Center Analyst-Technology](https://jobright-internal.com/jobs/info/66a02a8b83fe12fc9f1d4523?utm_campaign=Business%20Analyst&utm_source=1103)** | Blue Ash, OH | On Site | Sep 05 |
 | **[New American Funding](https://www.newamericanfunding.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/66bd3ed296320f62d18260f7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
@@ -96,8 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Aledade](https://www.aledade.com)** | **[Performance Analyst](https://jobright-internal.com/jobs/info/66b537eaeba40094b3ebf407?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Aug 30 |
 | **[Deckers Outdoor Corporation](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright-internal.com/jobs/info/667c95638b79c077c3ac1d82?utm_campaign=Business%20Analyst&utm_source=1103)** | Goleta, CA | On Site | Aug 30 |
 | **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[Associate Business Management Analyst](https://jobright-internal.com/jobs/info/66d15df1dc58755d204496f9?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Aug 29 |
-| **[Momentum](https://momentum.com/)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66d126b3aa3de1c53e980862?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Aug 29 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I, Seller Insights & Planning](https://jobright-internal.com/jobs/info/66d110ace4eb5bc510de9f2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Aug 29 |
-| **[Accenture Federal Services](https://www.accenture.com)** | **[Mulesoft Business Analyst](https://jobright-internal.com/jobs/info/668883218782f8290ad59011?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Aug 29 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66d10ac907f52b809e80ebeb?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
