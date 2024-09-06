@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Owl](https://www.blueowl.com/)** | **[Business Services Platform Analyst](https://jobright-internal.com/jobs/info/66a2a64af2776e44f8f810b2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 06 |
+| **[Goldman Sachs](https://www.goldmansachs.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66be3ec2bc0154f92aa37c04?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 06 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66daadcfb017f943b1bb3760?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Sep 06 |
 | **[The Marlin Alliance](https://themarlinalliance.com/)** | **[Requirements Business Analyst](https://jobright-internal.com/jobs/info/66da9822de67d18a58039032?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Hybrid | Sep 05 |
 | **[The Oakleaf Group](http://theoakleafgroup.com)** | **[Junior Business Analyst- UAT](https://jobright-internal.com/jobs/info/66da39f4272d39a37621f1d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 05 |
@@ -96,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66d27386b6645bf2cf77290f?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 30 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb55d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
 | ↳ | **[Business Process Analyst - Workday (HCM)](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright-internal.com/jobs/info/66d20a6b5d7020cef9e2d426?utm_campaign=Business%20Analyst&utm_source=1103)** | Ridgeland, MS | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
