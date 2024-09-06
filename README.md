@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sphera [formerly riskmethods]](https://sphera.com/supply-chain-risk-management/)** | **[Associate Business Analyst - Supplier Programs](https://jobright-internal.com/jobs/info/66db4d5f96bfba6fdc41aa08?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
+| **[Coders Data](https://codersdata.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66db35899789273ad4bc0dc9?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | On Site | Sep 06 |
 | **[Blue Owl](https://www.blueowl.com/)** | **[Business Services Platform Analyst](https://jobright-internal.com/jobs/info/66a2a64af2776e44f8f810b2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 06 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66be3ec2bc0154f92aa37c04?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 06 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66daadcfb017f943b1bb3760?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Sep 06 |
 | **[The Marlin Alliance](https://themarlinalliance.com/)** | **[Requirements Business Analyst](https://jobright-internal.com/jobs/info/66da9822de67d18a58039032?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Hybrid | Sep 05 |
 | **[The Oakleaf Group](http://theoakleafgroup.com)** | **[Junior Business Analyst- UAT](https://jobright-internal.com/jobs/info/66da39f4272d39a37621f1d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 05 |
+| **[Genesis10](http://www.genesis10.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66db2f70408d0e75f4447b90?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 05 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Summer Analyst](https://jobright-internal.com/jobs/info/66c3b9c45f5369949dc0c964?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 05 |
 | **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[Business Management Analyst](https://jobright-internal.com/jobs/info/66da0f49727e9e0d0e8ec03c?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 05 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66da0d873a63eaf603d5fd33?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | Hybrid | Sep 05 |
@@ -95,7 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Apollo](https://www.apollo.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/6646a796e13e61b188cd7cd6?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA | On Site | Sep 01 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66b67f06c6d2678e7624e911?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA | On Site | Aug 31 |
 | **[Baptist Health South Florida](http://baptisthealth.net/)** | **[Associate Business Systems Analyst](https://jobright-internal.com/jobs/info/66b6a55ee460494057a850d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton, FL | On Site | Aug 31 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66d27386b6645bf2cf77290f?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 30 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb55d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
-| ↳ | **[Business Process Analyst - Workday (HCM)](https://jobright-internal.com/jobs/info/66d24d2c154da6cdcf4bb558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
