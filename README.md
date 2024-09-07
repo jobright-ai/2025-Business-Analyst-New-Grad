@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[Business Management Analyst](https://jobright-internal.com/jobs/info/66dc7123dab2c0079296d925?utm_campaign=Business%20Analyst&utm_source=1103)** | Annapolis, MD | Hybrid | Sep 07 |
 | **[Prime Healthcare Services](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66ae3ae5ad056a7e56770212?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 07 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66dbe8b68bc9217a6550c235?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 06 |
 | **[State Street Corporation](http://www.statestreet.com)** | **[Alpha Services Business Analyst](https://jobright-internal.com/jobs/info/66dbdfd360d22748c46e6937?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Sep 06 |
@@ -70,7 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Analyst](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da09462b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 06 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66db5558e311fc905e04b9ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Sep 06 |
 | **[University of Rochester Medical Center](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da094635f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jackson, MI | On Site | Sep 06 |
-| **[Sphera [formerly riskmethods]](https://sphera.com/supply-chain-risk-management/)** | **[Associate Business Analyst - Supplier Programs](https://jobright-internal.com/jobs/info/66db4d5f96bfba6fdc41aa01?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
+| **[Sphera [formerly riskmethods]](https://sphera.com/supply-chain-risk-management/)** | **[Associate Business Analyst - Supplier Programs](https://jobright-internal.com/jobs/info/66db4d5f96bfba6fdc41aa08?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
 | **[Coders Data](https://codersdata.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66db35899789273ad4bc0dc9?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | On Site | Sep 06 |
 | **[Blue Owl](https://www.blueowl.com/)** | **[Business Services Platform Analyst](https://jobright-internal.com/jobs/info/66a2a64af2776e44f8f810b2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Catalog Integrity](https://jobright-internal.com/jobs/info/66db7b27af4345f06c361159?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Sep 06 |
