@@ -105,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Business Analyst II](https://jobright-internal.com/jobs/info/66d8729db382dfc3f0ce0ffd?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Sep 02 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66757d0d18f8e42094329bae?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 01 |
 | **[Apollo](https://www.apollo.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/6646a796e13e61b188cd7cd6?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA | On Site | Sep 01 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66b67f06c6d2678e7624e911?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA | On Site | Aug 31 |
-| **[Baptist Health South Florida](http://baptisthealth.net/)** | **[Associate Business Systems Analyst](https://jobright-internal.com/jobs/info/66b6a55ee460494057a850d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton, FL | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
