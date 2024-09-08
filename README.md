@@ -106,6 +106,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Jr.](https://jobright-internal.com/jobs/info/66bb1dabe4831ca893eacda8?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 03 |
 | **[Manulife Financial](http://www.manulife.com/)** | **[Associate IT Business Analyst](https://jobright-internal.com/jobs/info/66d75e3cd3d824e2efc8c6b7?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Massachusetts, Boston, 200 Berkeley Street | On Site | Sep 02 |
 | **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Business Analyst II](https://jobright-internal.com/jobs/info/66d8729db382dfc3f0ce0ffd?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Sep 02 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66757d0d18f8e42094329bae?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 01 |
-| **[Apollo](https://www.apollo.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/6646a796e13e61b188cd7cd6?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
