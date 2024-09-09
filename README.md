@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[John Hancock](http://www.johnhancock.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66de242c9bbbe2073343123e?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Sep 08 |
 | **[ChemTreat](http://www.chemtreat.com/)** | **[ERP Business Systems Analyst](https://jobright-internal.com/jobs/info/66bfc0ed0c1b350aaf92a519?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen, VA | On Site | Sep 07 |
 | **[Prime Healthcare Services](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66ae3ae5ad056a7e56770212?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 07 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66dbe8b68bc9217a6550c228?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 06 |
@@ -105,5 +104,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Single Family Business Analyst](https://jobright-internal.com/jobs/info/669ec46f2154cfa646384602?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 03 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Jr.](https://jobright-internal.com/jobs/info/66bb1dabe4831ca893eacda8?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 03 |
 | **[Manulife Financial](http://www.manulife.com/)** | **[Associate IT Business Analyst](https://jobright-internal.com/jobs/info/66d75e3cd3d824e2efc8c6b7?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Massachusetts, Boston, 200 Berkeley Street | On Site | Sep 02 |
-| **[Willis Towers Watson](https://www.willistowerswatson.com)** | **[Business Analyst II](https://jobright-internal.com/jobs/info/66d8729db382dfc3f0ce0ffd?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
