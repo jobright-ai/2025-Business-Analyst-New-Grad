@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reinsurance Group Of America](http://www.rgare.com)** | **[Associate Business Architect](https://jobright-internal.com/jobs/info/66df9304d6964f2148b35d93?utm_campaign=Business%20Analyst&utm_source=1103)** | Chesterfield, MO | Hybrid | Sep 09 |
 | **[Coders Data](https://codersdata.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66df74186fed1cb4c18f6493?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | On Site | Sep 09 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/66df7c8becff4a09ee180d8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississippi, United States | On Site | Sep 09 |
 | ↳ | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/66df7c8becff4a09ee180d8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisiana, United States | On Site | Sep 09 |
@@ -69,9 +70,13 @@ For a complete list, click the following sortable link below:
 | **[Coders Data](https://codersdata.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66df0c0d15e5cd7a44f8486c?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 09 |
 | **[Abbott](http://www.abbott.com)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/66def949d982f7d42fcb79de?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | On Site | Sep 09 |
 | **[Raymond James](http://www.raymondjames.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66c2e75fad75c352f8d5c3e4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 09 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Process Improvement Analyst](https://jobright-internal.com/jobs/info/66dfa5128be9eed0078bf01c?utm_campaign=Business%20Analyst&utm_source=1103)** | Sioux Falls, SD | On Site | Sep 08 |
+| ↳ | **[Process Improvement Analyst](https://jobright-internal.com/jobs/info/66dfa5128be9eed0078bf014?utm_campaign=Business%20Analyst&utm_source=1103)** | Hennepin County, MN | On Site | Sep 08 |
+| ↳ | **[Process Improvement Analyst](https://jobright-internal.com/jobs/info/66dfa5128be9eed0078bf011?utm_campaign=Business%20Analyst&utm_source=1103)** | Fargo, ND | On Site | Sep 08 |
+| ↳ | **[Process Improvement Analyst](https://jobright-internal.com/jobs/info/66dfa5128be9eed0078bf00e?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnehaha County, SD | On Site | Sep 08 |
 | **[ChemTreat](http://www.chemtreat.com/)** | **[ERP Business Systems Analyst](https://jobright-internal.com/jobs/info/66bfc0ed0c1b350aaf92a519?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen, VA | On Site | Sep 07 |
 | **[Prime Healthcare Services](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66ae3ae5ad056a7e56770212?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 07 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66dbe8b68bc9217a6550c228?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 06 |
+| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66dbe8b68bc9217a6550c235?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 06 |
 | **[State Street Corporation](http://www.statestreet.com)** | **[Alpha Services Business Analyst](https://jobright-internal.com/jobs/info/66dbdfd360d22748c46e6937?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Sep 06 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66cfa35a521cbaf9ba60066a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 06 |
 | **[NYMBUS](http://nymbus.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/66db8fe924a2ebed8354bae4?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Remote | Sep 06 |
@@ -107,7 +112,4 @@ For a complete list, click the following sortable link below:
 | **[California Franchise Tax Board](http://www.ftb.ca.gov)** | **[Publication Business Analyst](https://jobright-internal.com/jobs/info/66d8c332bc5c2e125e036890?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Sep 03 |
 | **[Nebraska Department of Transportation](https://dot.nebraska.gov)** | **[IT Business Systems Analyst](https://jobright-internal.com/jobs/info/66d9010e8ac0ee54c408649a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Sep 03 |
 | **[TheGuarantors](https://www.theguarantors.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/66d780fb247b0daf10fc43be?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 03 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright-internal.com/jobs/info/669ec46f2154cfa646384610?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 03 |
-| ↳ | **[Single Family Business Analyst](https://jobright-internal.com/jobs/info/669ec46f2154cfa646384602?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 03 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Jr.](https://jobright-internal.com/jobs/info/66bb1dabe4831ca893eacda8?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
