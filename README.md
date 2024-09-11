@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I, Brand Protection](https://jobright-internal.com/jobs/info/66e0ddeaf06a5e0317a9f779?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Sep 10 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I, Brand Protection](https://jobright-internal.com/jobs/info/66e10527d5b051a5ab514d85?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 10 |
+| ↳ | **[Business Analyst I, Brand Protection](https://jobright-internal.com/jobs/info/66e0ddeaf06a5e0317a9f779?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Sep 10 |
 | **[Blu Omega](https://bluomega.com)** | **[Business Analyst - Communications Workstream](https://jobright-internal.com/jobs/info/66e0c795e4d06f7a51a3b9c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanscom Air Force Base, MA | On Site | Sep 10 |
 | **[Nestle Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e0a0b5a692cb8ec3d5db53?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | On Site | Sep 10 |
 | **[Aon](http://www.aon.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/66e099798f3a00004538edf3?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN | Hybrid | Sep 10 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[California State University, Fresno](https://csufresno.edu)** | **[Research Analyst](https://jobright-internal.com/jobs/info/66dff0ee1f229ab7ffbdf372?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Sep 09 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Process Improvement Analyst](https://jobright-internal.com/jobs/info/66dfe8aa0888983334ceef0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Sioux Falls, SD | On Site | Sep 09 |
 | ↳ | **[Process Improvement Analyst](https://jobright-internal.com/jobs/info/66dfe8aa0888983334ceedb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Fargo, ND | On Site | Sep 09 |
-| ↳ | **[Process Improvement Analyst](https://jobright-internal.com/jobs/info/66dfe8aa0888983334ceedcf?utm_campaign=Business%20Analyst&utm_source=1103)** | Beresford, SD | On Site | Sep 09 |
 | ↳ | **[Process Improvement Analyst](https://jobright-internal.com/jobs/info/66dfe8aa0888983334ceedb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Sep 09 |
+| ↳ | **[Process Improvement Analyst](https://jobright-internal.com/jobs/info/66dfe8aa0888983334ceedcf?utm_campaign=Business%20Analyst&utm_source=1103)** | Beresford, SD | On Site | Sep 09 |
 | **[Reinsurance Group Of America](http://www.rgare.com)** | **[Associate Business Architect](https://jobright-internal.com/jobs/info/66df9304d6964f2148b35d93?utm_campaign=Business%20Analyst&utm_source=1103)** | Chesterfield, MO | Hybrid | Sep 09 |
 | **[Capgemini](http://www.capgemini.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66df553074aafe0522cb8f43?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 09 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d10ac907f52b809e80ebeb?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Remote | Sep 09 |
