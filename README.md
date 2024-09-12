@@ -58,11 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e2e6ef00fb1ea2719fe92e?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Sep 12 |
+| **[Walmart](http://www.walmart.com)** | **[Senior Analyst, Business Support](https://jobright-internal.com/jobs/info/66d1c6ffb1619328e700317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Draper, UT | On Site | Sep 12 |
 | **[ice](https://www.ice.com)** | **[Business Analyst, Market Data Account Management](https://jobright-internal.com/jobs/info/66a90a8d5e55e6eb33298006?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 12 |
 | **[Capgemini](http://www.capgemini.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66df553074aafe0522cb8f43?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 11 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66e24f1a225ea5365111dab6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 11 |
 | **[U.S. Bancorp](http://www.usbank.com)** | **[Process Analyst](https://jobright-internal.com/jobs/info/66e243c3542ebadf54e729c1?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | On Site | Sep 11 |
-| **[Samaritan Health Services](https://www.samhealth.org/)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66e2b7fbde4e73302dad667b?utm_campaign=Business%20Analyst&utm_source=1103)** | Corvallis, OR | Remote | Sep 11 |
 | **[Grayce](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright-internal.com/jobs/info/66e2b7fbde4e73302dad6699?utm_campaign=Business%20Analyst&utm_source=1103)** | Farmington, CT | On Site | Sep 11 |
 | **[Total Safety](http://www.totalsafety.com)** | **[Business Administrator](https://jobright-internal.com/jobs/info/66e1ed79cbcb44f1cfc98c99?utm_campaign=Business%20Analyst&utm_source=1103)** | Martinez, CA | On Site | Sep 11 |
 | **[The Hartford](http://www.thehartford.com)** | **[Performance Analyst – Operations](https://jobright-internal.com/jobs/info/66e1f6257488da1f5bfc7627?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Sep 11 |
