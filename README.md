@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capgemini](http://www.capgemini.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e24f1a225ea5365111dab6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 11 |
+| **[U.S. Bancorp](http://www.usbank.com)** | **[Process Analyst](https://jobright-internal.com/jobs/info/66e243c3542ebadf54e729c1?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | On Site | Sep 11 |
 | **[Total Safety](http://www.totalsafety.com)** | **[Business Administrator](https://jobright-internal.com/jobs/info/66e1ed79cbcb44f1cfc98c99?utm_campaign=Business%20Analyst&utm_source=1103)** | Martinez, CA | On Site | Sep 11 |
 | **[The Hartford](http://www.thehartford.com)** | **[Performance Analyst – Operations](https://jobright-internal.com/jobs/info/66e1f6257488da1f5bfc7627?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Sep 11 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d0d44b861759d914b63d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 11 |
@@ -104,8 +106,4 @@ For a complete list, click the following sortable link below:
 | **[The Marlin Alliance](https://themarlinalliance.com/)** | **[Requirements Business Analyst](https://jobright-internal.com/jobs/info/66da9822de67d18a58039032?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Hybrid | Sep 05 |
 | **[Genesis10](http://www.genesis10.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66db2f70408d0e75f4447b90?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 05 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66da0d873a63eaf603d5fd33?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | Hybrid | Sep 05 |
-| **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e1922e35fe27513f7b04f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Sep 05 |
-| **[Videojet Technologies](http://www.videojet.com)** | **[Procurement Business Analyst](https://jobright-internal.com/jobs/info/6685baf6daed635a51efaf9e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wood Dale, IL | Hybrid | Sep 05 |
-| **[New American Funding](https://www.newamericanfunding.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/66bd3ed296320f62d18260f7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| **[Total Safety](http://www.totalsafety.com)** | **[Business Administrator](https://jobright-internal.com/jobs/info/667e545fab5cfe08f73eabc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Martinez, CA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
