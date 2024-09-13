@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Coders Data](https://codersdata.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66e34c72af26bd7bda725c8c?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Sep 12 |
+| **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d0db88505db71c77eade3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 12 |
+| **[Adobe](http://www.adobe.com)** | **[IT Business Analyst - University Graduate](https://jobright-internal.com/jobs/info/66e396d88ec126f0eabcf9d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Lehi, UT | On Site | Sep 12 |
 | **[New York State Department of Health](https://health.ny.gov/)** | **[Business Systems Analyst 1 (Health)/Trainee](https://jobright-internal.com/jobs/info/66e342e0bdfea77108d2f950?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Sep 12 |
 | **[Walmart](http://www.walmart.com)** | **[Senior Analyst, Business Support](https://jobright-internal.com/jobs/info/66d1c6ffb1619328e700317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Draper, UT | On Site | Sep 12 |
 | **[ice](https://www.ice.com)** | **[Business Analyst, Market Data Account Management](https://jobright-internal.com/jobs/info/66a90a8d5e55e6eb33298006?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 12 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d0d44b861759d914b63d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 11 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66e1e65e39d2fdfce53095d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Sep 11 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/66e1adc64ddef03d0da6db05?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Sep 11 |
+| **[Grayce](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright-internal.com/jobs/info/66e1b2f21540d154e8aba0b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Farmington, CT | On Site | Sep 11 |
 | **[BNY Mellon](http://www.bnymellon.com)** | **[Senior Vice President, Business Analysis](https://jobright-internal.com/jobs/info/66e199c275d0c496a6378742?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 11 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst - Child & Family Services](https://jobright-internal.com/jobs/info/66c4f1e3e1fd05e296264f30?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 11 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66c501218e739449736f07f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Sep 11 |
@@ -103,7 +105,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Analyst](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da09462b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 06 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66db5558e311fc905e04b9ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Sep 06 |
 | **[University of Rochester Medical Center](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da094635f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jackson, MI | On Site | Sep 06 |
-| **[Blue Owl](https://www.blueowl.com/)** | **[Business Services Platform Analyst](https://jobright-internal.com/jobs/info/66a2a64af2776e44f8f810b2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 06 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, Catalog Integrity](https://jobright-internal.com/jobs/info/66db7b27af4345f06c361159?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Sep 06 |
-| ↳ | **[Business Analyst, Catalog Integrity](https://jobright-internal.com/jobs/info/66db7b27af4345f06c3611c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
