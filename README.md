@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e2e6ef00fb1ea2719fe92e?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Sep 12 |
+| **[Coders Data](https://codersdata.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66e34c72af26bd7bda725c8c?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Sep 12 |
+| **[New York State Department of Health](https://health.ny.gov/)** | **[Business Systems Analyst 1 (Health)/Trainee](https://jobright-internal.com/jobs/info/66e342e0bdfea77108d2f950?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Sep 12 |
 | **[Walmart](http://www.walmart.com)** | **[Senior Analyst, Business Support](https://jobright-internal.com/jobs/info/66d1c6ffb1619328e700317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Draper, UT | On Site | Sep 12 |
 | **[ice](https://www.ice.com)** | **[Business Analyst, Market Data Account Management](https://jobright-internal.com/jobs/info/66a90a8d5e55e6eb33298006?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 12 |
 | **[Capgemini](http://www.capgemini.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66df553074aafe0522cb8f43?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 11 |
@@ -105,6 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Owl](https://www.blueowl.com/)** | **[Business Services Platform Analyst](https://jobright-internal.com/jobs/info/66a2a64af2776e44f8f810b2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Catalog Integrity](https://jobright-internal.com/jobs/info/66db7b27af4345f06c361159?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Sep 06 |
 | ↳ | **[Business Analyst, Catalog Integrity](https://jobright-internal.com/jobs/info/66db7b27af4345f06c3611c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 06 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66daadcfb017f943b1bb3760?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Sep 06 |
-| **[The Marlin Alliance](https://themarlinalliance.com/)** | **[Requirements Business Analyst](https://jobright-internal.com/jobs/info/66da9822de67d18a58039032?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
