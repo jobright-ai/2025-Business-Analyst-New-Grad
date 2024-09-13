@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Requirements Analyst](https://jobright-internal.com/jobs/info/66e427c1f1806f060062285d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | On Site | Sep 13 |
+| ↳ | **[Business Requirements Analyst](https://jobright-internal.com/jobs/info/66e427c1f1806f060062285e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tarrytown, NY | On Site | Sep 13 |
+| ↳ | **[Business Requirements Analyst](https://jobright-internal.com/jobs/info/66e427c1f1806f060062285b?utm_campaign=Business%20Analyst&utm_source=1103)** | Schenectady, NY | On Site | Sep 13 |
+| ↳ | **[Business Requirements Analyst](https://jobright-internal.com/jobs/info/66e423d418dcd2ff02c64ad2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e3e76d5b74af1aad26ea79?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Sep 12 |
 | **[Adobe](http://www.adobe.com)** | **[2025 University Graduate - IT Business Analyst](https://jobright-internal.com/jobs/info/66e3beaf5aa5b29f1f036d4a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lehi, UT | On Site | Sep 12 |
 | **[State Street Corporation](http://www.statestreet.com)** | **[Alpha Services Business Analyst](https://jobright-internal.com/jobs/info/66dbdfd360d22748c46e6937?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Sep 12 |
@@ -96,14 +100,8 @@ For a complete list, click the following sortable link below:
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Business Application Analyst](https://jobright-internal.com/jobs/info/66e031df529a1b31e6ad1c4a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 07 |
 | **[NYMBUS](http://nymbus.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/66e18003b4e3b6dd532c9c72?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Sep 07 |
 | **[ChemTreat](http://www.chemtreat.com/)** | **[ERP Business Systems Analyst](https://jobright-internal.com/jobs/info/66bfc0ed0c1b350aaf92a519?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen, VA | On Site | Sep 07 |
+| **[Warby Parker](http://www.warbyparker.com)** | **[Business Analyst, Contact Lens Business](https://jobright-internal.com/jobs/info/66db73065b6de77d7f1f6aea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 07 |
 | **[Prime Healthcare Services](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66ae3ae5ad056a7e56770212?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 07 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66dbe8b68bc9217a6550c228?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 06 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66cfa35a521cbaf9ba60066a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 06 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da0946299?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 06 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da09464d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Sep 06 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da09464d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Sep 06 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da09464d8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Sep 06 |
-| ↳ | **[Summer Analyst](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da09462b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 06 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66db5558e311fc905e04b9ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Sep 06 |
-| **[University of Rochester Medical Center](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da094635f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jackson, MI | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
