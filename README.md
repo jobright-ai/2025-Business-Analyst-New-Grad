@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright-internal.com/jobs/info/66e53ad095f259f0368b4cfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | On Site | Sep 14 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66e528b8007435b664359bbf?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Sep 13 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Systems Analyst (Digital Risk) I/II](https://jobright-internal.com/jobs/info/66e52bcaea8d04a526a100b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL | Hybrid | Sep 13 |
+| ↳ | **[Business Systems Analyst (Digital Risk) I/II](https://jobright-internal.com/jobs/info/66e52b99ea8d04a526a0f978?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | Hybrid | Sep 13 |
 | **[ICF](https://www.icf.com)** | **[Jr. Technical Business Analyst](https://jobright-internal.com/jobs/info/66e4e0a54a3ab1d92eb7ccd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Sep 13 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e4c24f1886e7bcb4b07753?utm_campaign=Business%20Analyst&utm_source=1103)** | Lone Tree, CO | On Site | Sep 13 |
 | **[Holman Automotive](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66e4b187fbb295b63c64d1fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 13 |
@@ -82,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Grayce](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright-internal.com/jobs/info/66e2b7fbde4e73302dad6699?utm_campaign=Business%20Analyst&utm_source=1103)** | Farmington, CT | On Site | Sep 11 |
 | **[Total Safety](http://www.totalsafety.com)** | **[Business Administrator](https://jobright-internal.com/jobs/info/66e1ed79cbcb44f1cfc98c99?utm_campaign=Business%20Analyst&utm_source=1103)** | Martinez, CA | On Site | Sep 11 |
 | **[The Hartford](http://www.thehartford.com)** | **[Performance Analyst – Operations](https://jobright-internal.com/jobs/info/66e1f6257488da1f5bfc7627?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Sep 11 |
-| **[TM Floyd & Company](http://tmfloyd.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e187fd6deeb009ca023449?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, South Carolina Metropolitan Area | On Site | Sep 11 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d0d44b861759d914b63d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 11 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66e1e65e39d2fdfce53095d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Sep 11 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/66e1adc64ddef03d0da6db05?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Sep 11 |
@@ -102,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Alix Partners](http://www.alixpartners.com)** | **[Business Research Assistant](https://jobright-internal.com/jobs/info/66979b9ffafc80d91285c8b9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Sep 10 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Research Analyst](https://jobright-internal.com/jobs/info/66dff0ee1f229ab7ffbdf372?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Sep 09 |
 | **[Reinsurance Group Of America](http://www.rgare.com)** | **[Associate Business Architect](https://jobright-internal.com/jobs/info/66df9304d6964f2148b35d93?utm_campaign=Business%20Analyst&utm_source=1103)** | Chesterfield, MO | Hybrid | Sep 09 |
-| **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Business Application Analyst](https://jobright-internal.com/jobs/info/66e031df529a1b31e6ad1c4a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 07 |
-| **[NYMBUS](http://nymbus.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/66e18003b4e3b6dd532c9c72?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
