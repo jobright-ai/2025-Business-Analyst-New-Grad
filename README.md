@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e4c24f1886e7bcb4b07753?utm_campaign=Business%20Analyst&utm_source=1103)** | Lone Tree, CO | On Site | Sep 13 |
+| **[Holman Automotive](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66e4b187fbb295b63c64d1fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 13 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[NA SS&P GTM Business Planning Analyst I](https://jobright-internal.com/jobs/info/66e4be3a3d712ee629a57ec8?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | On Site | Sep 13 |
+| **[Holman Automotive](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66e4adb947949d821b75faad?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 13 |
 | **[Magellan Health Services](http://magellanhealth.com)** | **[Accumulator Business Analyst](https://jobright-internal.com/jobs/info/66e4813b677a6ee161268b3b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 13 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Mulesoft Business Analyst](https://jobright-internal.com/jobs/info/668883218782f8290ad59011?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Sep 13 |
 | ↳ | **[Salesforce Business Analyst](https://jobright-internal.com/jobs/info/6684ee828fde485ce05898f1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | Hybrid | Sep 13 |
 | ↳ | **[Salesforce Business Analyst](https://jobright-internal.com/jobs/info/6676e0b2c909276a3772de82?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Sep 13 |
+| ↳ | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66ac1d1d350d2169736bb81b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Sep 13 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66d10ac907f52b809e80ebeb?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Remote | Sep 13 |
 | **[Acrisure](http://acrisure.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e46b751a7dcb2a0c8f0502?utm_campaign=Business%20Analyst&utm_source=1103)** | SD Metro Area | Hybrid | Sep 13 |
-| **[Optum](https://www.optum.com)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66e43f5d59b40890b5876fa5?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | Sep 13 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Business Requirements Analyst](https://jobright-internal.com/jobs/info/66e427c1f1806f060062285e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tarrytown, NY | On Site | Sep 13 |
-| ↳ | **[Business Requirements Analyst](https://jobright-internal.com/jobs/info/66e427c1f1806f060062285b?utm_campaign=Business%20Analyst&utm_source=1103)** | Schenectady, NY | On Site | Sep 13 |
-| ↳ | **[Business Requirements Analyst](https://jobright-internal.com/jobs/info/66e427c1f1806f060062285d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | On Site | Sep 13 |
 | **[Adobe](http://www.adobe.com)** | **[2025 University Graduate - IT Business Analyst](https://jobright-internal.com/jobs/info/66e3beaf5aa5b29f1f036d4a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lehi, UT | On Site | Sep 12 |
 | **[State Street Corporation](http://www.statestreet.com)** | **[Alpha Services Business Analyst](https://jobright-internal.com/jobs/info/66dbdfd360d22748c46e6937?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Sep 12 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d0db88505db71c77eade3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 12 |
@@ -100,10 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Alix Partners](http://www.alixpartners.com)** | **[Business Research Assistant](https://jobright-internal.com/jobs/info/66979b9ffafc80d91285c8b9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Sep 10 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Research Analyst](https://jobright-internal.com/jobs/info/66dff0ee1f229ab7ffbdf372?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Sep 09 |
 | **[Reinsurance Group Of America](http://www.rgare.com)** | **[Associate Business Architect](https://jobright-internal.com/jobs/info/66df9304d6964f2148b35d93?utm_campaign=Business%20Analyst&utm_source=1103)** | Chesterfield, MO | Hybrid | Sep 09 |
-| **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d10ac907f52b809e80ebeb?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Remote | Sep 09 |
 | **[SWCA Environmental Consultants](https://www.swca.com/)** | **[Business Application Analyst](https://jobright-internal.com/jobs/info/66e031df529a1b31e6ad1c4a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 07 |
 | **[NYMBUS](http://nymbus.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/66e18003b4e3b6dd532c9c72?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Sep 07 |
 | **[ChemTreat](http://www.chemtreat.com/)** | **[ERP Business Systems Analyst](https://jobright-internal.com/jobs/info/66bfc0ed0c1b350aaf92a519?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen, VA | On Site | Sep 07 |
-| **[Warby Parker](http://www.warbyparker.com)** | **[Business Analyst, Contact Lens Business](https://jobright-internal.com/jobs/info/66db73065b6de77d7f1f6aea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 07 |
 | **[Prime Healthcare Services](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66ae3ae5ad056a7e56770212?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
