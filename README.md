@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/66d866cba96245903d5e2864?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Sep 15 |
+| **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/65f37c81611c16a421405758?utm_campaign=Business%20Analyst&utm_source=1103)** | Rocky Mount, NC | On Site | Sep 15 |
 | **[Premium Retail Services](http://premiumretail.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e636be25c24e347911e5d3?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Sep 14 |
 | **[Citizant](https://citizant.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e628f68beed7f3f0c168a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Remote | Sep 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright-internal.com/jobs/info/66c8eee515e7212923c8cafb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 14 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[IT Business Analyst - University Graduate](https://jobright-internal.com/jobs/info/66e396d88ec126f0eabcf9d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Lehi, UT | On Site | Sep 12 |
 | **[New York State Department of Health](https://health.ny.gov/)** | **[Business Systems Analyst 1 (Health)/Trainee](https://jobright-internal.com/jobs/info/66e342e0bdfea77108d2f950?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Sep 12 |
 | **[Walmart](http://www.walmart.com)** | **[Senior Analyst, Business Support](https://jobright-internal.com/jobs/info/66d1c6ffb1619328e700317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Draper, UT | On Site | Sep 12 |
+| **[TM Floyd & Company](http://tmfloyd.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e187fd6deeb009ca023449?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, South Carolina Metropolitan Area | On Site | Sep 12 |
 | **[ice](https://www.ice.com)** | **[Business Analyst, Market Data Account Management](https://jobright-internal.com/jobs/info/66a90a8d5e55e6eb33298006?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 12 |
 | **[Capgemini](http://www.capgemini.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66df553074aafe0522cb8f43?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 11 |
 | **[U.S. Bancorp](http://www.usbank.com)** | **[Process Analyst](https://jobright-internal.com/jobs/info/66e243c3542ebadf54e729c1?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | On Site | Sep 11 |
