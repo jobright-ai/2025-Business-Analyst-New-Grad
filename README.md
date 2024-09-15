@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Premium Retail Services](http://premiumretail.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e636be25c24e347911e5d3?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Sep 14 |
+| **[Citizant](https://citizant.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e628f68beed7f3f0c168a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Remote | Sep 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright-internal.com/jobs/info/66c8eee515e7212923c8cafb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 14 |
 | **[Tricon Residential](https://triconresidential.com/)** | **[Jr IT Business Analyst](https://jobright-internal.com/jobs/info/66908b4757e7a5bf5c5ff1a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Tustin, CA | On Site | Sep 14 |
 | **[Northrop Grumman Corporation](https://www.northropgrumman.com/)** | **[Associate Business Management Analyst/Business Management Analyst Pathways](https://jobright-internal.com/jobs/info/66c91565dacc14e7e9cd9c67?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunnyvale, CA | On Site | Sep 14 |
