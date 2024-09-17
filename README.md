@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/66e8b3d4a6c0988dfeb2092d?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Sep 16 |
+| **[Magellan Health Services](http://magellanhealth.com)** | **[Accumulator Business Analyst](https://jobright-internal.com/jobs/info/66e4813b677a6ee161268b3b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
 | **[Kiss Products](https://www.kissusa.com)** | **[Business Planner](https://jobright-internal.com/jobs/info/66e85ae50b621502e40e4bd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Sep 16 |
 | **[Gaming Laboratories International (GLI)](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright-internal.com/jobs/info/66b20d7fae6d4ddd9a157f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Sep 16 |
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Business Analyst Digital Applications (eCommerce)](https://jobright-internal.com/jobs/info/660c5b51259fd4b11cbbf8bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA | On Site | Sep 16 |
+| **[Texas A&M University](http://www.tamu.edu/)** | **[IT Business Analyst I](https://jobright-internal.com/jobs/info/66e89996a26fdffa70d3e2ac?utm_campaign=Business%20Analyst&utm_source=1103)** | College Station, TX | On Site | Sep 15 |
 | **[Oracle](https://www.oracle.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/66d866cba96245903d5e2864?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Sep 15 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/65f37c81611c16a421405758?utm_campaign=Business%20Analyst&utm_source=1103)** | Rocky Mount, NC | On Site | Sep 15 |
 | **[Premium Retail Services](http://premiumretail.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e636be25c24e347911e5d3?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Sep 14 |
@@ -72,8 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I](https://jobright-internal.com/jobs/info/66e4adb947949d821b75faad?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 13 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66cfa35a521cbaf9ba60066a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 13 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66d0d44b861759d914b63d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 13 |
-| **[Magellan Health Services](http://magellanhealth.com)** | **[Accumulator Business Analyst](https://jobright-internal.com/jobs/info/66e4813b677a6ee161268b3b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 13 |
-| **[Accenture Federal Services](https://www.accenture.com)** | **[Mulesoft Business Analyst](https://jobright-internal.com/jobs/info/668883218782f8290ad59011?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Sep 13 |
+| ↳ | **[Mulesoft Business Analyst](https://jobright-internal.com/jobs/info/668883218782f8290ad59011?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Sep 13 |
 | ↳ | **[Salesforce Business Analyst](https://jobright-internal.com/jobs/info/6684ee828fde485ce05898f1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | Hybrid | Sep 13 |
 | ↳ | **[Salesforce Business Analyst](https://jobright-internal.com/jobs/info/6676e0b2c909276a3772de82?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Sep 13 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66ac1d1d350d2169736bb81b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Sep 13 |
@@ -106,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Blu Omega](https://bluomega.com)** | **[Business Analyst - Communications Workstream](https://jobright-internal.com/jobs/info/66e0c795e4d06f7a51a3b9c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanscom Air Force Base, MA | On Site | Sep 10 |
 | **[Nestle Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e0a0b5a692cb8ec3d5db53?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | On Site | Sep 10 |
 | **[Alix Partners](http://www.alixpartners.com)** | **[Business Research Assistant](https://jobright-internal.com/jobs/info/66979b9ffafc80d91285c8b9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Sep 10 |
-| **[California State University, Fresno](https://csufresno.edu)** | **[Research Analyst](https://jobright-internal.com/jobs/info/66dff0ee1f229ab7ffbdf372?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
