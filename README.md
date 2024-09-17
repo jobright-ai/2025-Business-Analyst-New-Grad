@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Semtech](http://www.semtech.com)** | **[Business and Sales Analyst](https://jobright-internal.com/jobs/info/66e9c76281852960ad2ad41d?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 17 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5395?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5390?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5393?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Sep 17 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5381?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Sep 17 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e4c24f1886e7bcb4b07753?utm_campaign=Business%20Analyst&utm_source=1103)** | Lone Tree, CO | On Site | Sep 16 |
 | **[Diebold Nixdorf](http://www.dieboldnixdorf.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e8d45e6689a5a73eb81286?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
+| **[Christy Sports](http://www.christysports.com/)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66e9ac0f409ca7dca15a4774?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakewood, CO | Hybrid | Sep 16 |
 | **[Texas A&M University](http://www.tamu.edu/)** | **[IT Business Analyst I](https://jobright-internal.com/jobs/info/66e8c863b532cca33b35681d?utm_campaign=Business%20Analyst&utm_source=1103)** | College Station, TX | On Site | Sep 16 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/66e8b3d4a6c0988dfeb2092d?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Sep 16 |
 | **[Proskauer Rose](http://www.proskauer.com)** | **[Client Operations Analyst](https://jobright-internal.com/jobs/info/66d8737bca187c0216627a96?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
@@ -111,6 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Condé Nast](http://www.condenast.com)** | **[Performance Analyst, Global Performance & Measurement](https://jobright-internal.com/jobs/info/66c48747d7e7ecb3cfbebc78?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 11 |
 | **[Novartis](https://www.novartis.com)** | **[Business Analyst in LIMS for Assay development and flow cytometry](https://jobright-internal.com/jobs/info/66c753e9af9694831d699c29?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, TX | On Site | Sep 11 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Associate IT Business Analyst](https://jobright-internal.com/jobs/info/66e1370b29f75f884f2d4bc5?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | Hybrid | Sep 10 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I, Brand Protection](https://jobright-internal.com/jobs/info/66e10527d5b051a5ab514d85?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 10 |
-| ↳ | **[Business Analyst I, Brand Protection](https://jobright-internal.com/jobs/info/66e0ddeaf06a5e0317a9f779?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
