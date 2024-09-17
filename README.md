@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diebold Nixdorf](http://www.dieboldnixdorf.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e8d45e6689a5a73eb81286?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/66e8b3d4a6c0988dfeb2092d?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Sep 16 |
+| **[Proskauer Rose](http://www.proskauer.com)** | **[Client Operations Analyst](https://jobright-internal.com/jobs/info/66d8737bca187c0216627a96?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
 | **[Magellan Health Services](http://magellanhealth.com)** | **[Accumulator Business Analyst](https://jobright-internal.com/jobs/info/66e4813b677a6ee161268b3b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
 | **[Kiss Products](https://www.kissusa.com)** | **[Business Planner](https://jobright-internal.com/jobs/info/66e85ae50b621502e40e4bd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Sep 16 |
 | **[Gaming Laboratories International (GLI)](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright-internal.com/jobs/info/66b20d7fae6d4ddd9a157f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Sep 16 |
@@ -107,5 +109,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I, Brand Protection](https://jobright-internal.com/jobs/info/66e0ddeaf06a5e0317a9f779?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Sep 10 |
 | **[Blu Omega](https://bluomega.com)** | **[Business Analyst - Communications Workstream](https://jobright-internal.com/jobs/info/66e0c795e4d06f7a51a3b9c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanscom Air Force Base, MA | On Site | Sep 10 |
 | **[Nestle Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e0a0b5a692cb8ec3d5db53?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | On Site | Sep 10 |
-| **[Alix Partners](http://www.alixpartners.com)** | **[Business Research Assistant](https://jobright-internal.com/jobs/info/66979b9ffafc80d91285c8b9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
