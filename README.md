@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e4c24f1886e7bcb4b07753?utm_campaign=Business%20Analyst&utm_source=1103)** | Lone Tree, CO | On Site | Sep 16 |
 | **[Diebold Nixdorf](http://www.dieboldnixdorf.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e8d45e6689a5a73eb81286?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
+| **[Texas A&M University](http://www.tamu.edu/)** | **[IT Business Analyst I](https://jobright-internal.com/jobs/info/66e8c863b532cca33b35681d?utm_campaign=Business%20Analyst&utm_source=1103)** | College Station, TX | On Site | Sep 16 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/66e8b3d4a6c0988dfeb2092d?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Sep 16 |
 | **[Proskauer Rose](http://www.proskauer.com)** | **[Client Operations Analyst](https://jobright-internal.com/jobs/info/66d8737bca187c0216627a96?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
 | **[Magellan Health Services](http://magellanhealth.com)** | **[Accumulator Business Analyst](https://jobright-internal.com/jobs/info/66e4813b677a6ee161268b3b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Tricon Residential](https://triconresidential.com/)** | **[Jr IT Business Analyst](https://jobright-internal.com/jobs/info/66908b4757e7a5bf5c5ff1a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Tustin, CA | On Site | Sep 14 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66e528b8007435b664359bbf?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Sep 13 |
 | **[ICF](https://www.icf.com)** | **[Jr. Technical Business Analyst](https://jobright-internal.com/jobs/info/66e4e0a54a3ab1d92eb7ccd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Sep 13 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e4c24f1886e7bcb4b07753?utm_campaign=Business%20Analyst&utm_source=1103)** | Lone Tree, CO | On Site | Sep 13 |
 | **[Holman Automotive](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66e4b187fbb295b63c64d1fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 13 |
 | ↳ | **[Business Analyst I](https://jobright-internal.com/jobs/info/66e4adb947949d821b75faad?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 13 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66cfa35a521cbaf9ba60066a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 13 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[IT Business Analyst - University Graduate](https://jobright-internal.com/jobs/info/66e396d88ec126f0eabcf9d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Lehi, UT | On Site | Sep 12 |
 | **[New York State Department of Health](https://health.ny.gov/)** | **[Business Systems Analyst 1 (Health)/Trainee](https://jobright-internal.com/jobs/info/66e342e0bdfea77108d2f950?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Sep 12 |
 | **[Walmart](http://www.walmart.com)** | **[Senior Analyst, Business Support](https://jobright-internal.com/jobs/info/66d1c6ffb1619328e700317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Draper, UT | On Site | Sep 12 |
-| **[TM Floyd & Company](http://tmfloyd.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e187fd6deeb009ca023449?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, South Carolina Metropolitan Area | On Site | Sep 12 |
 | **[ice](https://www.ice.com)** | **[Business Analyst, Market Data Account Management](https://jobright-internal.com/jobs/info/66a90a8d5e55e6eb33298006?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 12 |
 | **[Capgemini](http://www.capgemini.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66df553074aafe0522cb8f43?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 11 |
 | **[U.S. Bancorp](http://www.usbank.com)** | **[Process Analyst](https://jobright-internal.com/jobs/info/66e243c3542ebadf54e729c1?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | On Site | Sep 11 |
@@ -103,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Prudential Financial](http://www.prudential.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66c501218e739449736f07f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Sep 11 |
 | **[Condé Nast](http://www.condenast.com)** | **[Performance Analyst, Global Performance & Measurement](https://jobright-internal.com/jobs/info/66c48747d7e7ecb3cfbebc78?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 11 |
 | **[Novartis](https://www.novartis.com)** | **[Business Analyst in LIMS for Assay development and flow cytometry](https://jobright-internal.com/jobs/info/66c753e9af9694831d699c29?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, TX | On Site | Sep 11 |
-| **[CGI](https://www.cgi.com)** | **[Junior Momentum Business Analyst](https://jobright-internal.com/jobs/info/66c50c5a43652497e60b003e?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Sep 11 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Associate IT Business Analyst](https://jobright-internal.com/jobs/info/66e1370b29f75f884f2d4bc5?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | Hybrid | Sep 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Brand Protection](https://jobright-internal.com/jobs/info/66e10527d5b051a5ab514d85?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 10 |
 | ↳ | **[Business Analyst I, Brand Protection](https://jobright-internal.com/jobs/info/66e0ddeaf06a5e0317a9f779?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Sep 10 |
