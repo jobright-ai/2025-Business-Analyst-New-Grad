@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta Sales & Marketing](https://www.acosta.com)** | **[Associate Business Manager](https://jobright-internal.com/jobs/info/66ea2f8f5a74cb89a37673fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Chesterfield, MO | On Site | Sep 17 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I - SQL](https://jobright-internal.com/jobs/info/66ea140e478d1ce392d96129?utm_campaign=Business%20Analyst&utm_source=1103)** | New Jersey, United States | Remote | Sep 17 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Jr. Business & Technology Analyst - MarTech Personalization](https://jobright-internal.com/jobs/info/66ea0ca6b6b0a943252ad4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 17 |
 | **[Campbell Soup Company](http://www.campbellsoupcompany.com/)** | **[IT Business Analyst - Martech](https://jobright-internal.com/jobs/info/66e9f5905c7bbf38201b2649?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 17 |
@@ -65,14 +66,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business and Sales Analyst](https://jobright-internal.com/jobs/info/66e9c76281852960ad2ad41d?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 17 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66cd1d92e8fad19035cb34e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 17 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5395?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Sep 17 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5390?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5393?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Sep 17 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5390?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7c0?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, NJ | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5381?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Sep 17 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e4c24f1886e7bcb4b07753?utm_campaign=Business%20Analyst&utm_source=1103)** | Lone Tree, CO | On Site | Sep 16 |
-| **[Diebold Nixdorf](http://www.dieboldnixdorf.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e8d45e6689a5a73eb81286?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
 | **[Christy Sports](http://www.christysports.com/)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66e9ac0f409ca7dca15a4774?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakewood, CO | Hybrid | Sep 16 |
 | **[Texas A&M University](http://www.tamu.edu/)** | **[IT Business Analyst I](https://jobright-internal.com/jobs/info/66e8c863b532cca33b35681d?utm_campaign=Business%20Analyst&utm_source=1103)** | College Station, TX | On Site | Sep 16 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/66e8b3d4a6c0988dfeb2092d?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Sep 16 |
@@ -113,8 +113,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66e1e65e39d2fdfce53095d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Sep 11 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/66e1adc64ddef03d0da6db05?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Sep 11 |
 | **[Grayce](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright-internal.com/jobs/info/66e1b2f21540d154e8aba0b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Farmington, CT | On Site | Sep 11 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst - Child & Family Services](https://jobright-internal.com/jobs/info/66c4f1e3e1fd05e296264f30?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 11 |
-| **[Prudential Financial](http://www.prudential.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66c501218e739449736f07f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Sep 11 |
-| **[Condé Nast](http://www.condenast.com)** | **[Performance Analyst, Global Performance & Measurement](https://jobright-internal.com/jobs/info/66c48747d7e7ecb3cfbebc78?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 11 |
-| **[Novartis](https://www.novartis.com)** | **[Business Analyst in LIMS for Assay development and flow cytometry](https://jobright-internal.com/jobs/info/66c753e9af9694831d699c29?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, TX | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
