@@ -118,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2025 University Graduate - IT Business Analyst](https://jobright-internal.com/jobs/info/66e3beaf5aa5b29f1f036d4a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lehi, UT | On Site | Sep 12 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66d0db88505db71c77eade3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 12 |
 | **[Adobe](http://www.adobe.com)** | **[IT Business Analyst - University Graduate](https://jobright-internal.com/jobs/info/66e396d88ec126f0eabcf9d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Lehi, UT | On Site | Sep 12 |
-| **[New York State Department of Health](https://health.ny.gov/)** | **[Business Systems Analyst 1 (Health)/Trainee](https://jobright-internal.com/jobs/info/66e342e0bdfea77108d2f950?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
