@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I, Seller Insights & Planning](https://jobright-internal.com/jobs/info/66d110ace4eb5bc510de9f2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 20 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (Remote)](https://jobright-internal.com/jobs/info/66ed010559fe44a749e73ef4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 19 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66ed21a6635bbd8dd06c3d7a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 19 |
 | **[U.S. Bancorp](http://www.usbank.com)** | **[Business Technology/Process Analyst - Operations Wealth, Corporate, Commercial & Institutional Banking](https://jobright-internal.com/jobs/info/66ecce749c9fb1878cb991c6?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | Hybrid | Sep 19 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Business System Analyst](https://jobright-internal.com/jobs/info/66eca71453b3990bbe55b589?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Remote | Sep 19 |
 | **[Ross Stores](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright-internal.com/jobs/info/66ec6c09611da98b4c5a32eb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 19 |
 | **[Guidehouse](https://guidehouse.com)** | **[Dynamics 365 Business Analyst](https://jobright-internal.com/jobs/info/66ec6aa128a0a4813586109b?utm_campaign=Business%20Analyst&utm_source=1103)** | District of Columbia, United States | Remote | Sep 19 |
-| **[Coders Data](https://codersdata.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66ec57d5b80e15eafa3a96a9?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Sep 19 |
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Business Systems Analyst - Junior-Level](https://jobright-internal.com/jobs/info/66ec530bb42cb2aad56df643?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 19 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Mulesoft Business Analyst](https://jobright-internal.com/jobs/info/668883218782f8290ad59011?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Sep 19 |
 | **[Ascendion](https://ascendion.com)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66ec57d5b80e15eafa3a97d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Sep 19 |
@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/66d0d44b861759d914b63d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 19 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66ac1d1d350d2169736bb81b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Sep 19 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[IS Business Analyst](https://jobright-internal.com/jobs/info/66ec3ee9c09b03d60a9ea09c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Sep 19 |
+| **[Amazon](https://amazon.com)** | **[Senior Business Analyst](https://jobright-internal.com/jobs/info/66ed4120e6259c7514f56562?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Sep 19 |
 | **[Amazon](https://amazon.com)** | **[Senior Business Analyst](https://jobright-internal.com/jobs/info/66ebc927f6ecfc93798e7d90?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Sep 18 |
 | **[Brown and Caldwell](http://www.brownandcaldwell.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66ed23fd13816ede2efdf358?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakewood, IL | On Site | Sep 18 |
 | **[Summa Health](http://www.summahealth.org/)** | **[Pharmacy Business Analyst](https://jobright-internal.com/jobs/info/66ecaad00b8740b6daf2cb40?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Cleveland | On Site | Sep 18 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5393?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7c0?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, NJ | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Sep 17 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5381?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Sep 17 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Sep 17 |
 | **[CVS Health](http://cvshealth.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66ea61b36b6068eb0c77a093?utm_campaign=Business%20Analyst&utm_source=1103)** | Blue Bell, PA | On Site | Sep 16 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e4c24f1886e7bcb4b07753?utm_campaign=Business%20Analyst&utm_source=1103)** | Lone Tree, CO | On Site | Sep 16 |
 | **[Christy Sports](http://www.christysports.com/)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66e9ac0f409ca7dca15a4774?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakewood, CO | Hybrid | Sep 16 |
@@ -128,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66e528b8007435b664359bbf?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Sep 13 |
 | **[ICF](https://www.icf.com)** | **[Jr. Technical Business Analyst](https://jobright-internal.com/jobs/info/66e4e0a54a3ab1d92eb7ccd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Sep 13 |
 | **[Holman Automotive](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66e4b187fbb295b63c64d1fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 13 |
-| ↳ | **[Business Analyst I](https://jobright-internal.com/jobs/info/66e4adb947949d821b75faad?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
