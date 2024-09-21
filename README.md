@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland Credit Management](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66b228e08bcbf2aac54ec7e0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 21 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66d27386b6645bf2cf77290f?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Sep 21 |
 | **[Aledade](https://www.aledade.com)** | **[Performance Analyst](https://jobright-internal.com/jobs/info/66ee9dfa55f7695c542c8761?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Sep 21 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Analyst, Capital Structure Advisory - Business Management](https://jobright-internal.com/jobs/info/66edff490e7dba7cd85e8c0f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 20 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e4c24f1886e7bcb4b07753?utm_campaign=Business%20Analyst&utm_source=1103)** | Lone Tree, CO | On Site | Sep 20 |
@@ -94,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Hatch Ltd](https://www.hatch.com)** | **[New Graduate - Transit Business Analyst](https://jobright-internal.com/jobs/info/66ce2fe8e8674f09369acb75?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Sep 18 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c889f?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 18 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Sep 18 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 18 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Sep 18 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 18 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88af?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Sep 18 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Sep 18 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Sep 18 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Axos Bank](https://www.axosbank.com/)** | **[Jr. Business & Technology Analyst - MarTech Personalization](https://jobright-internal.com/jobs/info/66ea0ca6b6b0a943252ad4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 17 |
 | **[Campbell Soup Company](http://www.campbellsoupcompany.com/)** | **[IT Business Analyst - Martech](https://jobright-internal.com/jobs/info/66e9f5905c7bbf38201b2649?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 17 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5395?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Sep 17 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5390?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5393?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Sep 17 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5390?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7c0?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, NJ | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5381?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Sep 17 |
@@ -121,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Gaming Laboratories International (GLI)](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright-internal.com/jobs/info/66b20d7fae6d4ddd9a157f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Sep 16 |
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Business Analyst Digital Applications (eCommerce)](https://jobright-internal.com/jobs/info/660c5b51259fd4b11cbbf8bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA | On Site | Sep 16 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/65f37c81611c16a421405758?utm_campaign=Business%20Analyst&utm_source=1103)** | Rocky Mount, NC | On Site | Sep 15 |
-| **[Premium Retail Services](http://premiumretail.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e636be25c24e347911e5d3?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
