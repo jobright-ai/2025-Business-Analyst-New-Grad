@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moelis & Company](http://moelis.com)** | **[Business Analyst, Capital Structure Advisory - Business Management](https://jobright-internal.com/jobs/info/66edff490e7dba7cd85e8c0f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 20 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66e4c24f1886e7bcb4b07753?utm_campaign=Business%20Analyst&utm_source=1103)** | Lone Tree, CO | On Site | Sep 20 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Seller Insights & Planning](https://jobright-internal.com/jobs/info/66d110ace4eb5bc510de9f2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 20 |
 | **[Momentum](https://momentum.com/)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66d126b3aa3de1c53e980862?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Sep 20 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bancorp](http://www.usbank.com)** | **[Business Technology/Process Analyst - Operations Wealth, Corporate, Commercial & Institutional Banking](https://jobright-internal.com/jobs/info/66ecce749c9fb1878cb991c6?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | Hybrid | Sep 19 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66da0d873a63eaf603d5fd33?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | Hybrid | Sep 19 |
 | **[Summa Health](http://www.summahealth.org/)** | **[Pharmacy Business Analyst](https://jobright-internal.com/jobs/info/66ecdf8274557fbb2d0a3f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Akron, OH | On Site | Sep 19 |
+| **[Empire Merchants](https://empiremerchants.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66edf3f3a82a9a449e952be4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 19 |
 | **[Brown and Caldwell](http://www.brownandcaldwell.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66ecd52a17f1c2c5908811e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakewood, CO | On Site | Sep 19 |
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Business System Analyst](https://jobright-internal.com/jobs/info/66eca71453b3990bbe55b589?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Remote | Sep 19 |
 | **[Ross Stores](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright-internal.com/jobs/info/66ec6c09611da98b4c5a32eb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 19 |
@@ -107,12 +109,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Analyst - Martech](https://jobright-internal.com/jobs/info/66e9db57fd21ef4a859ddcc5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 17 |
 | **[Semtech](http://www.semtech.com)** | **[Business and Sales Analyst](https://jobright-internal.com/jobs/info/66e9c76281852960ad2ad41d?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 17 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5395?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Sep 17 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5393?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5390?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Sep 17 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5393?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7c0?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, NJ | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Sep 17 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5381?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Sep 17 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Sep 17 |
 | **[CVS Health](http://cvshealth.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66ea61b36b6068eb0c77a093?utm_campaign=Business%20Analyst&utm_source=1103)** | Blue Bell, PA | On Site | Sep 16 |
 | **[Christy Sports](http://www.christysports.com/)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/66e9ac0f409ca7dca15a4774?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakewood, CO | Hybrid | Sep 16 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/66e8b3d4a6c0988dfeb2092d?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Sep 16 |
@@ -123,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/65f37c81611c16a421405758?utm_campaign=Business%20Analyst&utm_source=1103)** | Rocky Mount, NC | On Site | Sep 15 |
 | **[Premium Retail Services](http://premiumretail.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66e636be25c24e347911e5d3?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Sep 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright-internal.com/jobs/info/66c8eee515e7212923c8cafb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 14 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66e528b8007435b664359bbf?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Sep 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
