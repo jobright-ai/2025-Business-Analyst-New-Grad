@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Midland Credit Management](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66b228e08bcbf2aac54ec7e0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 21 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright-internal.com/jobs/info/66d20a6b5d7020cef9e2d426?utm_campaign=Business%20Analyst&utm_source=1103)** | Ridgeland, MS | On Site | Sep 21 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66d27386b6645bf2cf77290f?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Sep 21 |
 | **[Aledade](https://www.aledade.com)** | **[Performance Analyst](https://jobright-internal.com/jobs/info/66ee9dfa55f7695c542c8761?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Sep 21 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Analyst, Capital Structure Advisory - Business Management](https://jobright-internal.com/jobs/info/66edff490e7dba7cd85e8c0f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 20 |
