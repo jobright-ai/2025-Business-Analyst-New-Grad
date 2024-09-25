@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66f3afc52ae06f6ed820875f?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL | Hybrid | Sep 24 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Jr.](https://jobright-internal.com/jobs/info/66bb1dabe4831ca893eacda8?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 25 |
 | **[Merck](http://www.merck.com)** | **[Specialist Business Analyst Operational Excellence](https://jobright-internal.com/jobs/info/66f378e3ef136e38d12fb34f?utm_campaign=Business%20Analyst&utm_source=1103)** | Rahway, NJ | Hybrid | Sep 24 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66f36ed07e6cd993e4692a9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL | On Site | Sep 24 |
 | **[Total Safety](http://www.totalsafety.com)** | **[Business Administrator](https://jobright-internal.com/jobs/info/66f3617cb3d7a421ed48fd82?utm_campaign=Business%20Analyst&utm_source=1103)** | Martinez, CA | On Site | Sep 24 |
+| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66f3ab65decbde7666c825ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL | Hybrid | Sep 24 |
 | **[Grayce](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright-internal.com/jobs/info/66f3416dcf1104094192325f?utm_campaign=Business%20Analyst&utm_source=1103)** | Farmington, CT | On Site | Sep 24 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66f32aaefc869e500fcbd3d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL | Hybrid | Sep 24 |
 | **[ThunderSoft](http://www.thundersoft.com)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66f3190703376a88beba79cb?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 24 |
