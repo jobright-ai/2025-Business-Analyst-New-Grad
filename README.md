@@ -57,16 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UC San Diego](https://extension.ucsd.edu/)** | **[Fleet Business Analyst](https://jobright-internal.com/jobs/info/66f4b3fc5408589b00161be7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 25 |
+| **[Citibank](https://www.citi.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/66f4b02ddb9fcaad37f06721?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Sep 25 |
 | **[San Diego State University](http://www.sdsu.edu/)** | **[Business System Analyst](https://jobright-internal.com/jobs/info/66f49fac1e2e516883a549ac?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | On Site | Sep 25 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66f4965a4f2115295d38b303?utm_campaign=Business%20Analyst&utm_source=1103)** | MI | Remote | Sep 25 |
 | **[Merkle](http://www.merkleinc.com)** | **[Business Analyst, Adobe Experience Manager-Remote](https://jobright-internal.com/jobs/info/66f46bd64234c4c941dc2bf8?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | Remote | Sep 25 |
 | **[Holman Automotive](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66f44f928a53efb98d7218cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 25 |
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Business Systems Analyst I](https://jobright-internal.com/jobs/info/66d7ecd003e3c058d0c59463?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA | Hybrid | Sep 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Jr.](https://jobright-internal.com/jobs/info/66bb1dabe4831ca893eacda8?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Sep 25 |
+| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66f3afc52ae06f6ed820875f?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL | Hybrid | Sep 24 |
 | **[Merck](http://www.merck.com)** | **[Specialist Business Analyst Operational Excellence](https://jobright-internal.com/jobs/info/66f378e3ef136e38d12fb34f?utm_campaign=Business%20Analyst&utm_source=1103)** | Rahway, NJ | Hybrid | Sep 24 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66f36ed07e6cd993e4692a9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL | On Site | Sep 24 |
 | **[Total Safety](http://www.totalsafety.com)** | **[Business Administrator](https://jobright-internal.com/jobs/info/66f3617cb3d7a421ed48fd82?utm_campaign=Business%20Analyst&utm_source=1103)** | Martinez, CA | On Site | Sep 24 |
-| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66f3ab65decbde7666c825ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL | Hybrid | Sep 24 |
+| **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da09464d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Sep 24 |
 | **[Wiley Edge](https://www.wiley.com/edge)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66f48cb1ab249f7d51b10461?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, Florida, United States | On Site | Sep 24 |
 | ↳ | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66f48cb1ab249f7d51b104b6?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | On Site | Sep 24 |
 | **[Grayce](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright-internal.com/jobs/info/66f3416dcf1104094192325f?utm_campaign=Business%20Analyst&utm_source=1103)** | Farmington, CT | On Site | Sep 24 |
