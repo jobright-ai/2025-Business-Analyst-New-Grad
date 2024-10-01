@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wipro](http://www.wipro.com)** | **[Business Analyst (Commercial Bank/Treasury Management)](https://jobright-internal.com/jobs/info/66fb464928cb132ed4d6e05e?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 30 |
 | **[Simpalm | Digital Innovation](https://www.simpalm.com)** | **[Entry Level Business Analyst](https://jobright-internal.com/jobs/info/66fb1dfdd4ff898ff678438b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 30 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fb05bf7821461bb17cf6ab?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 30 |
 | **[Coders Data](https://codersdata.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fab68bccf99b9c910a0c05?utm_campaign=Business%20Analyst&utm_source=1103)** | Harrisburg, PA | On Site | Sep 30 |
@@ -70,10 +71,10 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da0946299?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 27 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright-internal.com/jobs/info/66f650e13cfd46a53fba65ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Sep 26 |
 | **[Miami-Dade County](http://miamidade.gov)** | **[Enterprise Business Analyst 1](https://jobright-internal.com/jobs/info/66f62587ce6812c64d397807?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | Hybrid | Sep 26 |
-| **[First American](http://www.firstam.com)** | **[Associate Business Analyst (Remote)](https://jobright-internal.com/jobs/info/66f7ab39aacfbd677b02600d?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, California, Remote | Remote | Sep 26 |
+| **[First American](http://www.firstam.com)** | **[Associate Business Analyst (Remote)](https://jobright-internal.com/jobs/info/66f7ab70aacfbd677b026670?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Arizona, Scottsdale | Remote | Sep 26 |
 | ↳ | **[Associate Business Analyst (Remote)](https://jobright-internal.com/jobs/info/66f7ab70aacfbd677b026671?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Arizona, Remote | Remote | Sep 26 |
 | ↳ | **[Associate Business Analyst (Remote)](https://jobright-internal.com/jobs/info/66f7ab70aacfbd677b026676?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Nevada, Remote | Remote | Sep 26 |
-| ↳ | **[Associate Business Analyst (Remote)](https://jobright-internal.com/jobs/info/66f7ab70aacfbd677b026670?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Arizona, Scottsdale | Remote | Sep 26 |
+| ↳ | **[Associate Business Analyst (Remote)](https://jobright-internal.com/jobs/info/66f7ab39aacfbd677b02600d?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, California, Remote | Remote | Sep 26 |
 | **[Prime Video & Amazon Studios](http://primevideo.com)** | **[Business Analyst, Prime Video Publishing Operations](https://jobright-internal.com/jobs/info/66f5e418f757854a909891ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 26 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Business Analyst I, Ambulatory Capacity Management](https://jobright-internal.com/jobs/info/66f5c329824f557f1117b07b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 26 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Analyst Material Planning](https://jobright-internal.com/jobs/info/66f58d4035c5f4f42caf5fda?utm_campaign=Business%20Analyst&utm_source=1103)** | Jamaica, NY | Hybrid | Sep 26 |
@@ -92,7 +93,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66f48cb1ab249f7d51b104b6?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | On Site | Sep 24 |
 | **[ThunderSoft](http://www.thundersoft.com)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/66f3190703376a88beba79cb?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 24 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Analyst, Property Systems](https://jobright-internal.com/jobs/info/66f315aec893087d3142af41?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Sep 24 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright-internal.com/jobs/info/669ec46f2154cfa646384610?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 24 |
-| ↳ | **[Single Family Business Analyst](https://jobright-internal.com/jobs/info/669ec46f2154cfa646384602?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 24 |
-| **[Inspur Group](https://cloud.inspur.com/)** | **[Business Assistant](https://jobright-internal.com/jobs/info/66f29e81cb73e36928a58947?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
