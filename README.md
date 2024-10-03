@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, Perfect Order Experience, Product Quality Seller Experience](https://jobright-internal.com/jobs/info/66fe831e4a3ab45e362f764d?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
+| ↳ | **[Business Analyst, Perfect Order Experience, Product Quality Seller Experience](https://jobright-internal.com/jobs/info/66fe831e4a3ab45e362f76fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Oct 02 |
+| ↳ | **[Business Analyst, Perfect Order Experience, Product Quality Seller Experience](https://jobright-internal.com/jobs/info/66fe831e4a3ab45e362f76fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Oct 02 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fdd004fe5710d97baf1974?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Oct 02 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdd0ed517813d0b31a2a0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 02 |
 | ↳ | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdd0ed517813d0b31a2f98?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
@@ -72,12 +75,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Control Specialist](https://jobright-internal.com/jobs/info/66e0d7bb23cd9cd07e7776ea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | ↳ | **[Business Control Specialist](https://jobright-internal.com/jobs/info/66e0e0f21d02f5bc12b7d48b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Oct 02 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Operations Analyst 2](https://jobright-internal.com/jobs/info/66fca05e462158784a45dd12?utm_campaign=Business%20Analyst&utm_source=1103)** | Harrisburg, PA | On Site | Oct 01 |
-| ↳ | **[Business Operations Analyst 2](https://jobright-internal.com/jobs/info/66fcac0afc11473a9a4178aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Oct 01 |
 | ↳ | **[Business Operations Analyst 2](https://jobright-internal.com/jobs/info/66fcac0afc11473a9a4178a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 01 |
 | ↳ | **[Business Operations Analyst 2](https://jobright-internal.com/jobs/info/66fcac0afc11473a9a4178a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Oct 01 |
-| **[Voya Financial](https://www.voya.com/)** | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdb9050a0ec21594067a4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 01 |
-| ↳ | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdb9050a0ec21594067b2a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Oct 01 |
+| ↳ | **[Business Operations Analyst 2](https://jobright-internal.com/jobs/info/66fcac0afc11473a9a4178aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Oct 01 |
+| **[Voya Financial](https://www.voya.com/)** | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdb9050a0ec21594067b2a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Oct 01 |
 | ↳ | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdb9050a0ec21594067b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 01 |
+| ↳ | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdb9050a0ec21594067a4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 01 |
 | **[State Street](http://www.statestreet.com)** | **[Alpha Services Business Analyst](https://jobright-internal.com/jobs/info/66fd70d7189beb9fdf27520c?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts | On Site | Oct 01 |
 | **[Core Digital Media](http://www.coredigitalmedia.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcbc5c912719f7c6b26f18?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Oct 01 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fc7eb45d7ab3923c7e19c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Kennesaw, GA | On Site | Oct 01 |
@@ -101,6 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright-internal.com/jobs/info/66f650e13cfd46a53fba65ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Sep 26 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcce5ac640b717d4cae72e?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Sep 26 |
 | **[Miami-Dade County](http://miamidade.gov)** | **[Office of Management and Budget Enterprise Business Analyst 1](https://jobright-internal.com/jobs/info/66f62587ce6812c64d397807?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | Hybrid | Sep 26 |
-| **[Prime Video & Amazon Studios](http://primevideo.com)** | **[Business Analyst, Prime Video Publishing Operations](https://jobright-internal.com/jobs/info/66f5e418f757854a909891ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 26 |
-| **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Business Analyst I, Ambulatory Capacity Management](https://jobright-internal.com/jobs/info/66f5c329824f557f1117b07b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
