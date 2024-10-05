@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/670075f4ccda536d5111b14c?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 04 |
+| **[Salesforce](https://www.salesforce.com)** | **[Analyst, Cloud GTM Strategy](https://jobright-internal.com/jobs/info/670061430adfcee77fa02db9?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Oct 04 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I - Remote](https://jobright-internal.com/jobs/info/67001993e535f5962fd6841a?utm_campaign=Business%20Analyst&utm_source=1103)** | AR | Remote | Oct 04 |
 | **[Cognizant](https://www.cognizant.com)** | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66ffba99607a14d64c11d6fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Oct 03 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/66ff4081df21895f2f86ff07?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Oct 03 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670032e8e392c9ef39766527?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma County | On Site | Oct 03 |
 | **[Salesforce](https://www.salesforce.com)** | **[Analyst, Cloud GTM Strategy](https://jobright-internal.com/jobs/info/67000d7ae074b78c496d7262?utm_campaign=Business%20Analyst&utm_source=1103)** | California - Irvine | Hybrid | Oct 03 |
-| ↳ | **[Analyst, Cloud GTM Strategy](https://jobright-internal.com/jobs/info/67000d7ae074b78c496d6f6e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York - New York | Hybrid | Oct 03 |
 | ↳ | **[Analyst, Cloud GTM Strategy](https://jobright-internal.com/jobs/info/67000d7ae074b78c496d7266?utm_campaign=Business%20Analyst&utm_source=1103)** | California - San Francisco | Hybrid | Oct 03 |
+| ↳ | **[Analyst, Cloud GTM Strategy](https://jobright-internal.com/jobs/info/67000d7ae074b78c496d6f6e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York - New York | Hybrid | Oct 03 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/6700664292cddaa33c80aed4?utm_campaign=Business%20Analyst&utm_source=1103)** | Garden City, NY | Hybrid | Oct 03 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66ff22111a480d4844c2c7be?utm_campaign=Business%20Analyst&utm_source=1103)** | Highlands Ranch, CO | On Site | Oct 03 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[New Business Specialist I](https://jobright-internal.com/jobs/info/66ff28ce6a0e2c1679f427ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | Hybrid | Oct 03 |
 | ↳ | **[New Business Specialist I](https://jobright-internal.com/jobs/info/66ff5262646299eebce34225?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Oct 03 |
@@ -93,9 +96,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Control Specialist](https://jobright-internal.com/jobs/info/66e0d7bb23cd9cd07e7776ea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | ↳ | **[Business Control Specialist](https://jobright-internal.com/jobs/info/66e0e0f21d02f5bc12b7d48b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Oct 02 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Operations Analyst 2](https://jobright-internal.com/jobs/info/66fca05e462158784a45dd12?utm_campaign=Business%20Analyst&utm_source=1103)** | Harrisburg, PA | On Site | Oct 01 |
-| ↳ | **[Business Operations Analyst 2](https://jobright-internal.com/jobs/info/66fcac0afc11473a9a4178a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 01 |
-| ↳ | **[Business Operations Analyst 2](https://jobright-internal.com/jobs/info/66fcac0afc11473a9a4178a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Oct 01 |
 | ↳ | **[Business Operations Analyst 2](https://jobright-internal.com/jobs/info/66fcac0afc11473a9a4178aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Oct 01 |
+| ↳ | **[Business Operations Analyst 2](https://jobright-internal.com/jobs/info/66fcac0afc11473a9a4178a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Oct 01 |
+| ↳ | **[Business Operations Analyst 2](https://jobright-internal.com/jobs/info/66fcac0afc11473a9a4178a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 01 |
 | **[Voya Financial](https://www.voya.com/)** | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdb9050a0ec21594067b2a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Oct 01 |
 | ↳ | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdb9050a0ec21594067b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 01 |
 | ↳ | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdb9050a0ec21594067a4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 01 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Capgemini](http://www.capgemini.com)** | **[Business Analyst - Life Sciences](https://jobright-internal.com/jobs/info/66fc179bee6704beb5389b2a?utm_campaign=Business%20Analyst&utm_source=1103)** | New Jersey, United States | On Site | Sep 30 |
 | **[Wipro](http://www.wipro.com)** | **[Business Analyst (Commercial Bank/Treasury Management)](https://jobright-internal.com/jobs/info/66fb464928cb132ed4d6e05e?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 30 |
 | **[KeyBank](https://www.key.com)** | **[2025 Key’s Technology, Operations & Services Rotational Analyst Program (Data & Analytics Track)- Cleveland](https://jobright-internal.com/jobs/info/66fc64007ed6411568a10015?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Sep 30 |
-| **[Simpalm | Digital Innovation](https://www.simpalm.com)** | **[Entry Level Business Analyst](https://jobright-internal.com/jobs/info/66fb1dfdd4ff898ff678438b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 30 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fb05bf7821461bb17cf6ab?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 30 |
 | **[Wiley Edge](https://www.wiley.com/edge)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/66fb220935b180f512599002?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | On Site | Sep 29 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66db5558e311fc905e04b9ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Sep 28 |
