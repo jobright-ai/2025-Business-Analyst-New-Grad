@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/670214b112ffdbdfaba81301?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, TX | On Site | Oct 05 |
+| **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/6702b9c7f4a912f0d2206561?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, TX | On Site | Oct 06 |
 | **[Syntricate Technologies](https://www.syntricatetechnologies.com)** | **[Business Analyst (Supply Chain)](https://jobright-internal.com/jobs/info/67021223a15a236376d774db?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6700a473caa049ead760f63a?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 04 |
 | ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/670075f4ccda536d5111b14c?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 04 |
@@ -70,9 +70,9 @@ For a complete list, click the following sortable link below:
 | **[Cognizant](https://www.cognizant.com)** | **[ServiceNow Business Analyst](https://jobright-internal.com/jobs/info/66ffba99607a14d64c11d6fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Oct 03 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/66ff4081df21895f2f86ff07?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Oct 03 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670032e8e392c9ef39766527?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma County | On Site | Oct 03 |
-| **[Salesforce](https://www.salesforce.com)** | **[Analyst, Cloud GTM Strategy](https://jobright-internal.com/jobs/info/67000d7ae074b78c496d7266?utm_campaign=Business%20Analyst&utm_source=1103)** | California - San Francisco | Hybrid | Oct 03 |
+| **[Salesforce](https://www.salesforce.com)** | **[Analyst, Cloud GTM Strategy](https://jobright-internal.com/jobs/info/67000d7ae074b78c496d7262?utm_campaign=Business%20Analyst&utm_source=1103)** | California - Irvine | Hybrid | Oct 03 |
+| ↳ | **[Analyst, Cloud GTM Strategy](https://jobright-internal.com/jobs/info/67000d7ae074b78c496d7266?utm_campaign=Business%20Analyst&utm_source=1103)** | California - San Francisco | Hybrid | Oct 03 |
 | ↳ | **[Analyst, Cloud GTM Strategy](https://jobright-internal.com/jobs/info/67000d7ae074b78c496d6f6e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York - New York | Hybrid | Oct 03 |
-| ↳ | **[Analyst, Cloud GTM Strategy](https://jobright-internal.com/jobs/info/67000d7ae074b78c496d7264?utm_campaign=Business%20Analyst&utm_source=1103)** | California - Irvine | Hybrid | Oct 03 |
 | **[CVS Health](http://cvshealth.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67015b92e72d3af368423758?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Blue Bell | Hybrid | Oct 03 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/6700664292cddaa33c80aed4?utm_campaign=Business%20Analyst&utm_source=1103)** | Garden City, NY | Hybrid | Oct 03 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66ff22111a480d4844c2c7be?utm_campaign=Business%20Analyst&utm_source=1103)** | Highlands Ranch, CO | On Site | Oct 03 |
@@ -118,5 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Community Mental Health Authority of Clinton, Eaton and Ingham Counties](https://www.ceicmh.org)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fc1b9283aaccc95455ab90?utm_campaign=Business%20Analyst&utm_source=1103)** | Lansing, MI | Hybrid | Oct 01 |
 | **[Capgemini](http://www.capgemini.com)** | **[Business Analyst - Life Sciences](https://jobright-internal.com/jobs/info/66fc179bee6704beb5389b2a?utm_campaign=Business%20Analyst&utm_source=1103)** | New Jersey, United States | On Site | Sep 30 |
 | **[Wipro](http://www.wipro.com)** | **[Business Analyst (Commercial Bank/Treasury Management)](https://jobright-internal.com/jobs/info/66fb464928cb132ed4d6e05e?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 30 |
+| **[KeyBank](https://www.key.com)** | **[2025 Key’s Technology, Operations & Services Rotational Analyst Program (Data & Analytics Track)- Cleveland](https://jobright-internal.com/jobs/info/66fc64007ed6411568a10015?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Sep 30 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fb05bf7821461bb17cf6ab?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
