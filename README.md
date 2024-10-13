@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66d27386b6645bf2cf77290f?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 12 |
 | **[Wurl](http://www.wurl.com)** | **[Business Analyst, Wurl](https://jobright-internal.com/jobs/info/6709ce096ef944f1ffe504a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Oct 11 |
 | ↳ | **[Business Analyst, Wurl](https://jobright-internal.com/jobs/info/6709c9b2dd69232bfbbaa1c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Oct 11 |
 | **[Zenith](https://www.zenithmedia.com)** | **[Business Analyst, Data Governance](https://jobright-internal.com/jobs/info/670992637a315682a99c3b10?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Oct 11 |
@@ -117,5 +118,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Unit Analyst](https://jobright-internal.com/jobs/info/670987f43eaec8556b940284?utm_campaign=Business%20Analyst&utm_source=1103)** | Field Office - TX - Dallas/Denton/Collin/Ellis/Kaufman/Rockwall/Harris/Liberty/Galveston/Fort Bend/Waller/Brazoria/Tarrant/Travis/Williamson/Hays | On Site | Oct 07 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6704779702cc8fd67bf69a17?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Oct 07 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright-internal.com/jobs/info/66c8eee515e7212923c8cafb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 06 |
-| **[Syntricate Technologies](https://www.syntricatetechnologies.com)** | **[Business Analyst (Supply Chain)](https://jobright-internal.com/jobs/info/67021223a15a236376d774db?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
