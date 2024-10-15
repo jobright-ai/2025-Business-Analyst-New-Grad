@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abbott](http://www.abbott.com)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/670dbab9d337f7192aa4ac66?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Oct 14 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670dad20180a2e6daaf5dec2?utm_campaign=Business%20Analyst&utm_source=1103)** | The Highlands, CO | On Site | Oct 14 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670db3ebebdfb435fb5863b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Highlands Ranch, CO | On Site | Oct 14 |
 | **[University of Kentucky](https://medicine.uky.edu/centers/sbcoa/)** | **[College Business Analyst](https://jobright-internal.com/jobs/info/670da2f4dab080abdfd94826?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, KY | On Site | Oct 14 |
 | **[Eclaro](http://www.eclaro.com)** | **[Quality - Business Systems Analyst](https://jobright-internal.com/jobs/info/670d8ff5a3719acf5f99b7a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Libertyville, IL | On Site | Oct 14 |
-| **[Wipro](http://www.wipro.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670d9ea413e4b2496ed6ed0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Oct 14 |
 | **[Signify Health](https://www.signifyhealth.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/670d819c12db15742ffaa8ac?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 14 |
 | **[Schneider Electric](https://www.se.com)** | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d8ff5a3719acf5f99ba8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Middletown, PA | Hybrid | Oct 14 |
 | ↳ | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d78a8bc1f37b7d62e1f19?utm_campaign=Business%20Analyst&utm_source=1103)** | Athens, TX | Hybrid | Oct 14 |
@@ -119,7 +120,4 @@ For a complete list, click the following sortable link below:
 | **[LSEG (London Stock Exchange Group)](http://www.lseg.com)** | **[Business Graduate Programme (FTSE Russell) 2025](https://jobright-internal.com/jobs/info/67055229a32f750ce447b67d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | Hybrid | Oct 08 |
 | ↳ | **[Business Graduate Programme (Data and Analytics) 2025](https://jobright-internal.com/jobs/info/6705422195400bf9b37bceef?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Oct 08 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Oct 08 |
-| **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Commercial Business Analyst - NJ](https://jobright-internal.com/jobs/info/66b20d7fae6d4ddd9a157f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Oct 08 |
-| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Business Planner](https://jobright-internal.com/jobs/info/66e85ae50b621502e40e4bd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Oct 08 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5381?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
