@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670dad20180a2e6daaf5dec2?utm_campaign=Business%20Analyst&utm_source=1103)** | The Highlands, CO | On Site | Oct 14 |
+| **[University of Kentucky](https://medicine.uky.edu/centers/sbcoa/)** | **[College Business Analyst](https://jobright-internal.com/jobs/info/670da2f4dab080abdfd94826?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, KY | On Site | Oct 14 |
+| **[Eclaro](http://www.eclaro.com)** | **[Quality - Business Systems Analyst](https://jobright-internal.com/jobs/info/670d8ff5a3719acf5f99b7a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Libertyville, IL | On Site | Oct 14 |
+| **[Wipro](http://www.wipro.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670d9ea413e4b2496ed6ed0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Oct 14 |
+| **[Signify Health](https://www.signifyhealth.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/670d819c12db15742ffaa8ac?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 14 |
+| **[Schneider Electric](https://www.se.com)** | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d8ff5a3719acf5f99ba8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Middletown, PA | Hybrid | Oct 14 |
+| ↳ | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d78a8bc1f37b7d62e1f19?utm_campaign=Business%20Analyst&utm_source=1103)** | Athens, TX | Hybrid | Oct 14 |
+| ↳ | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d78a8bc1f37b7d62e20ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, TN | Hybrid | Oct 14 |
 | **[Abbott](http://www.abbott.com)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/670d6601ea9a284dab630fb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnetonka, MN | On Site | Oct 14 |
+| **[University of Kentucky](https://medicine.uky.edu/centers/sbcoa/)** | **[College Business Analyst](https://jobright-internal.com/jobs/info/670d71d14d78202651f94827?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, KY | On Site | Oct 14 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst – West Coast (Remote)](https://jobright-internal.com/jobs/info/670d5cc64db7155079d1761e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
 | ↳ | **[Business Analyst (Remote)](https://jobright-internal.com/jobs/info/670d5cc64db7155079d1761f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
+| **[Sunrise Systems, Inc.](http://www.sunrisesys.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/670da04c3997d9a903296889?utm_campaign=Business%20Analyst&utm_source=1103)** | Libertyville, IL | On Site | Oct 13 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright-internal.com/jobs/info/66d20a6b5d7020cef9e2d426?utm_campaign=Business%20Analyst&utm_source=1103)** | Ridgeland, MS | On Site | Oct 13 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66d27386b6645bf2cf77290f?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 12 |
 | **[Wurl](http://www.wurl.com)** | **[Business Analyst, Wurl](https://jobright-internal.com/jobs/info/6709ce096ef944f1ffe504a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Oct 11 |
@@ -112,6 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Commercial Business Analyst - NJ](https://jobright-internal.com/jobs/info/66b20d7fae6d4ddd9a157f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Oct 08 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Business Planner](https://jobright-internal.com/jobs/info/66e85ae50b621502e40e4bd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Oct 08 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5381?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Oct 08 |
-| **[Ascot Group](https://ascotgroup.com/)** | **[Associate Business Analyst - Portfolio Solutions Group](https://jobright-internal.com/jobs/info/6708be21d2ee6b3cc92398d5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 07 |
-| **[Walmart](http://www.walmart.com)** | **[Senior Analyst, Business Analysis And Insights (MRO Parts and Supplier Management)](https://jobright-internal.com/jobs/info/6704b34aba918e7c46fe0873?utm_campaign=Business%20Analyst&utm_source=1103)** | Bentonville, AR | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
