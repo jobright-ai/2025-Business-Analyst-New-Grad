@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670ebe38e5fe79250f26f911?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 15 |
+| **[System Soft Technologies](http://www.sstech.us)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670eab22c6a205eeefe04024?utm_campaign=Business%20Analyst&utm_source=1103)** | Lansing, MI | Hybrid | Oct 15 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[3DX Operations Analyst](https://jobright-internal.com/jobs/info/670ea1670de49c2445b3629c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Oct 15 |
+| **[Heritage Christian Services](https://heritagechristianservices.org/)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/670e7cbb08d5aeb8cb9a1948?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | On Site | Oct 15 |
+| **[PlanMember Financial Corporation](http://online.planmember.com)** | **[Business Analyst Level 1](https://jobright-internal.com/jobs/info/670e83c9e3c940e8f78bc6c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Carpinteria, CA | On Site | Oct 15 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright-internal.com/jobs/info/670e2ac5a9af309d528b733c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Oct 15 |
 | **[Conduent](https://www.conduent.com/)** | **[Technology Business Analyst II](https://jobright-internal.com/jobs/info/670dfc1bb6e09263959cdc8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynnfield, MA | On Site | Oct 14 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright-internal.com/jobs/info/670df7bb7f5ea8875ce6a655?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Oct 14 |
@@ -101,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[IT Banking Business Analyst-LoanIQ](https://jobright-internal.com/jobs/info/67074c45bb2addd53a81bf2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Oct 09 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Research Specialist](https://jobright-internal.com/jobs/info/6706e8577aaa0c147345ddc1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Oct 09 |
 | ↳ | **[Business Research Specialist](https://jobright-internal.com/jobs/info/6706e8577aaa0c147345e070?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Oct 09 |
-| ↳ | **[Business Research Specialist](https://jobright-internal.com/jobs/info/6706e8577aaa0c147345e072?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Oct 09 |
 | ↳ | **[Business Research Specialist](https://jobright-internal.com/jobs/info/6706e8577aaa0c147345e071?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Oct 09 |
+| ↳ | **[Business Research Specialist](https://jobright-internal.com/jobs/info/6706e8577aaa0c147345e072?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Oct 09 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/6706d176fcbdd802085a68d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Oct 09 |
 | **[Wiley Edge](https://www.wiley.com/edge)** | **[Graduate Claims Business Analyst](https://jobright-internal.com/jobs/info/6706b7966430f039d59ace8a?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | On Site | Oct 09 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Oct 09 |
@@ -112,6 +117,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5395?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Oct 09 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5390?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Oct 09 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright-internal.com/jobs/info/6709d7a516be1ec974288641?utm_campaign=Business%20Analyst&utm_source=1103)** | US VA Remote | On Site | Oct 09 |
-| **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[Business Analyst - Emerging Technologies](https://jobright-internal.com/jobs/info/670642ceb14f46c7c391a20e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 08 |
-| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst (Farm & Home)](https://jobright-internal.com/jobs/info/6705f0a16aa823e2a6f775ee?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
