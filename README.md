@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Associate Business Management Analyst](https://jobright-internal.com/jobs/info/67115b099d9bc5b8ff02ae68?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Oct 17 |
+| ↳ | **[Associate Business Management Analyst](https://jobright-internal.com/jobs/info/6711624f4bdc7b3b436d77a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Oct 17 |
+| **[OneStream Software](http://www.onestreamsoftware.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671142717be14d498882987f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 17 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6710fee04ad07af8a9850ec2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA | On Site | Oct 17 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcce5ac640b717d4cae72e?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 17 |
 | **[Amgen](http://www.amgen.com)** | **[Associate Business Performance](https://jobright-internal.com/jobs/info/6710e92024fcd899db3011b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Thousand Oaks, CA | Hybrid | Oct 17 |
 | **[BlackLine](https://www.blackline.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6710aab968bac7aa1735223d?utm_campaign=Business%20Analyst&utm_source=1103)** | Westport, CT | On Site | Oct 16 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[FY25 Hybrid Cloud usiness Planning Analyst](https://jobright-internal.com/jobs/info/671095e8319137fb089c5492?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Oct 16 |
 | **[Jet Aviation](http://www.jetaviation.com/)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/6710937446974efb882e2f61?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | Hybrid | Oct 16 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[FY25 Hybrid Cloud usiness Planning Analyst](https://jobright-internal.com/jobs/info/6710970c0d89713881ddd2f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Oct 16 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[January 2025 Associate Business Management Analyst/ Business Management Analyst  Pathways San Diego](https://jobright-internal.com/jobs/info/6710628ea20f4e1cbd861ad8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Oct 16 |
@@ -119,6 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright-internal.com/jobs/info/66ec6c09611da98b4c5a32eb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[ICE](https://www.ice.com)** | **[Business Analyst, Market Data Account Management](https://jobright-internal.com/jobs/info/6708f1322b4d2d3dd4f3d5d8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Oct 11 |
 | **[VEIC](https://www.veic.org)** | **[Business Solutions Analyst 1](https://jobright-internal.com/jobs/info/67099f35e7f79c6d177d0c51?utm_campaign=Business%20Analyst&utm_source=1103)** | 20 Winooski Falls Way, Winooski, VT, US | Hybrid | Oct 10 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Oct 10 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Associate Business Analyst - Material Master Data](https://jobright-internal.com/jobs/info/67086e1b25ead5d3ff685332?utm_campaign=Business%20Analyst&utm_source=1103)** | Salisbury, MD | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
