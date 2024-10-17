@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[January 2025 Associate Business Management Analyst/ Business Management Analyst  Pathways San Diego](https://jobright-internal.com/jobs/info/6710628ea20f4e1cbd861ad8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Oct 16 |
+| **[IPSY](http://www.ipsy.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671059d25be7f242c0e477ee?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 16 |
+| **[BMO Capital Markets](https://capitalmarkets.bmo.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67107bb510adfa2a3113f506?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 16 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67103b7fae5542dc1aaf30fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Oct 16 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6710174451fae911fc904f3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Oct 16 |
 | **[Genesis10](http://www.genesis10.com/)** | **[Corporate Business Analyst I](https://jobright-internal.com/jobs/info/67101743d039e86b7ae20c69?utm_campaign=Business%20Analyst&utm_source=1103)** | Williamsport, MD | On Site | Oct 16 |
@@ -97,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[University of Kentucky](https://medicine.uky.edu/centers/sbcoa/)** | **[College Business Analyst](https://jobright-internal.com/jobs/info/670d71d14d78202651f94827?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, KY | On Site | Oct 14 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst – West Coast (Remote)](https://jobright-internal.com/jobs/info/670d5cc64db7155079d1761e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
 | ↳ | **[Business Analyst (Remote)](https://jobright-internal.com/jobs/info/670d5cc64db7155079d1761f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
-| **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670f115770adf5669424f756?utm_campaign=Business%20Analyst&utm_source=1103)** | US - VA, McLean | On Site | Oct 13 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f115770adf5669424f7dc?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Remote (Any location) | On Site | Oct 13 |
+| **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670f115770adf5669424f7dc?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Remote (Any location) | On Site | Oct 13 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f115770adf5669424f756?utm_campaign=Business%20Analyst&utm_source=1103)** | US - VA, McLean | On Site | Oct 13 |
 | **[Sunrise Systems, Inc.](http://www.sunrisesys.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/670da04c3997d9a903296889?utm_campaign=Business%20Analyst&utm_source=1103)** | Libertyville, IL | On Site | Oct 13 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright-internal.com/jobs/info/66d20a6b5d7020cef9e2d426?utm_campaign=Business%20Analyst&utm_source=1103)** | Ridgeland, MS | On Site | Oct 13 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66d27386b6645bf2cf77290f?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 12 |
@@ -116,8 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Capgemini](http://www.capgemini.com)** | **[Salesforce Business Analyst](https://jobright-internal.com/jobs/info/67083d1526b1998d30fb424f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Oct 10 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67082c669bb13eea63efdbec?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Oct 10 |
 | **[SoCalGas](http://www.socalgas.com)** | **[Associate Business Analyst - Rotation (Hybrid Schedule)](https://jobright-internal.com/jobs/info/670838f937309c7d2c50429e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 10 |
-| **[Hatch](https://www.hatch.com)** | **[New Graduate - Transit Business Analyst](https://jobright-internal.com/jobs/info/66ce2fe8e8674f09369acb75?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Oct 10 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Oct 10 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 10 |
-| ↳ | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c889f?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
