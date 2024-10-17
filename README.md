@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6710fee04ad07af8a9850ec2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA | On Site | Oct 17 |
+| **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcce5ac640b717d4cae72e?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 17 |
+| **[Amgen](http://www.amgen.com)** | **[Associate Business Performance](https://jobright-internal.com/jobs/info/6710e92024fcd899db3011b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Thousand Oaks, CA | Hybrid | Oct 17 |
 | **[BlackLine](https://www.blackline.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6710aab968bac7aa1735223d?utm_campaign=Business%20Analyst&utm_source=1103)** | Westport, CT | On Site | Oct 16 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[FY25 Hybrid Cloud usiness Planning Analyst](https://jobright-internal.com/jobs/info/671095e8319137fb089c5492?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Oct 16 |
 | **[Jet Aviation](http://www.jetaviation.com/)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/6710937446974efb882e2f61?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | Hybrid | Oct 16 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Eclaro](http://www.eclaro.com)** | **[Quality - Business Systems Analyst](https://jobright-internal.com/jobs/info/670d8ff5a3719acf5f99b7a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Libertyville, IL | On Site | Oct 14 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/6706f28d8d789c5ab3b359e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Oct 14 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/670e0e5cc0e649edf6c380a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Oct 14 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fc0f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
-| ↳ | **[Business Analyst – West Coast](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fbcf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
+| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst – West Coast](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fbcf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fc0f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
 | **[Schneider Electric](https://www.se.com)** | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d8ff5a3719acf5f99ba8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Middletown, PA | Hybrid | Oct 14 |
 | ↳ | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d78a8bc1f37b7d62e1f19?utm_campaign=Business%20Analyst&utm_source=1103)** | Athens, TX | Hybrid | Oct 14 |
 | ↳ | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d78a8bc1f37b7d62e20ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, TN | Hybrid | Oct 14 |
@@ -118,8 +121,4 @@ For a complete list, click the following sortable link below:
 | **[VEIC](https://www.veic.org)** | **[Business Solutions Analyst 1](https://jobright-internal.com/jobs/info/67099f35e7f79c6d177d0c51?utm_campaign=Business%20Analyst&utm_source=1103)** | 20 Winooski Falls Way, Winooski, VT, US | Hybrid | Oct 10 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Oct 10 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Associate Business Analyst - Material Master Data](https://jobright-internal.com/jobs/info/67086e1b25ead5d3ff685332?utm_campaign=Business%20Analyst&utm_source=1103)** | Salisbury, MD | On Site | Oct 10 |
-| **[Brooksource](http://www.brooksource.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6709871d9b33e34ba8a5e0b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Oct 10 |
-| **[Capgemini](http://www.capgemini.com)** | **[Salesforce Business Analyst](https://jobright-internal.com/jobs/info/67083d1526b1998d30fb424f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Oct 10 |
-| **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67082c669bb13eea63efdbec?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Oct 10 |
-| **[SoCalGas](http://www.socalgas.com)** | **[Associate Business Analyst - Rotation (Hybrid Schedule)](https://jobright-internal.com/jobs/info/670838f937309c7d2c50429e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
