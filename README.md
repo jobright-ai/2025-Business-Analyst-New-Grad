@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/6713e84c20d1ec63a5a9c385?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, TX | On Site | Oct 19 |
 | ↳ | **[Process Analyst](https://jobright-internal.com/jobs/info/6713e84c20d1ec63a5a9c386?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, OR | On Site | Oct 19 |
+| **[JetBlue](http://www.jetblue.com/)** | **[Analyst Material Planning](https://jobright-internal.com/jobs/info/66f58d4035c5f4f42caf5fda?utm_campaign=Business%20Analyst&utm_source=1103)** | Jamaica, NY | Hybrid | Oct 18 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6712cdc31b1dc32ee7be0958?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Oct 18 |
 | **[KeyBank](https://www.key.com)** | **[IT Banking Business Analyst-LoanIQ](https://jobright-internal.com/jobs/info/67074c45bb2addd53a81bf2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Oct 18 |
 | **[Magellan Health](http://magellanhealth.com)** | **[Business Analyst, Business Systems - Remote Opportunity](https://jobright-internal.com/jobs/info/6712b44f34784f3f45e172f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 18 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Eclaro](http://www.eclaro.com)** | **[Quality - Business Systems Analyst](https://jobright-internal.com/jobs/info/670d8ff5a3719acf5f99b7a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Libertyville, IL | On Site | Oct 14 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/6706f28d8d789c5ab3b359e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Oct 14 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/670e0e5cc0e649edf6c380a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Oct 14 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst – West Coast](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fbcf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fc0f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
+| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fc0f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
+| ↳ | **[Business Analyst – West Coast](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fbcf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
 | **[Schneider Electric](https://www.se.com)** | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d8ff5a3719acf5f99ba8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Middletown, PA | Hybrid | Oct 14 |
 | ↳ | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d78a8bc1f37b7d62e1f19?utm_campaign=Business%20Analyst&utm_source=1103)** | Athens, TX | Hybrid | Oct 14 |
 | ↳ | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d78a8bc1f37b7d62e20ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, TN | Hybrid | Oct 14 |
@@ -126,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Sunrise Systems, Inc.](http://www.sunrisesys.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/67135206c11424c9b051f5ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Libertyville, IL | On Site | Oct 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670f115770adf5669424f7dc?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Remote (Any location) | On Site | Oct 13 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f115770adf5669424f756?utm_campaign=Business%20Analyst&utm_source=1103)** | US - VA, McLean | On Site | Oct 13 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright-internal.com/jobs/info/66d20a6b5d7020cef9e2d426?utm_campaign=Business%20Analyst&utm_source=1103)** | Ridgeland, MS | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
