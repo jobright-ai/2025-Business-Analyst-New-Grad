@@ -118,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Eclaro](http://www.eclaro.com)** | **[Quality - Business Systems Analyst](https://jobright-internal.com/jobs/info/670d8ff5a3719acf5f99b7a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Libertyville, IL | On Site | Oct 14 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/6706f28d8d789c5ab3b359e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Oct 14 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/670e0e5cc0e649edf6c380a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Oct 14 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst – West Coast](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fbcf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fc0f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
+| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fc0f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
+| ↳ | **[Business Analyst – West Coast](https://jobright-internal.com/jobs/info/670efbfe582c6e9a1240fbcf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
 | **[Schneider Electric](https://www.se.com)** | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d8ff5a3719acf5f99ba8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Middletown, PA | Hybrid | Oct 14 |
 | ↳ | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d78a8bc1f37b7d62e1f19?utm_campaign=Business%20Analyst&utm_source=1103)** | Athens, TX | Hybrid | Oct 14 |
 | ↳ | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d78a8bc1f37b7d62e20ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, TN | Hybrid | Oct 14 |
@@ -127,6 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst – West Coast (Remote)](https://jobright-internal.com/jobs/info/670d5cc64db7155079d1761e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
 | ↳ | **[Business Analyst (Remote)](https://jobright-internal.com/jobs/info/670d5cc64db7155079d1761f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
 | **[Sunrise Systems, Inc.](http://www.sunrisesys.com)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/67135206c11424c9b051f5ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Libertyville, IL | On Site | Oct 13 |
-| **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670f115770adf5669424f756?utm_campaign=Business%20Analyst&utm_source=1103)** | US - VA, McLean | On Site | Oct 13 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f115770adf5669424f7dc?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Remote (Any location) | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
