@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deutsche Bank](https://www.db.com)** | **[CCAR Stress Testing Line of Business Analyst - Associate](https://jobright-internal.com/jobs/info/6715db4f5881a45e94f555b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, 5201 Gate Parkway | Hybrid | Oct 20 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66db5558e311fc905e04b9ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Oct 20 |
 | **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/6713e84c20d1ec63a5a9c385?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, TX | On Site | Oct 19 |
 | ↳ | **[Process Analyst](https://jobright-internal.com/jobs/info/6713e84c20d1ec63a5a9c386?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, OR | On Site | Oct 19 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6710fee04ad07af8a9850ec2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA | On Site | Oct 17 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcce5ac640b717d4cae72e?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 17 |
 | **[Jet Aviation](http://www.jetaviation.com/)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/6710937446974efb882e2f61?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | Hybrid | Oct 16 |
-| **[BMO Capital Markets](https://capitalmarkets.bmo.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6715c3d7017cfdd75d458589?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 16 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[January 2025 Associate Business Management Analyst/ Business Management Analyst  Pathways San Diego](https://jobright-internal.com/jobs/info/6710628ea20f4e1cbd861ad8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Oct 16 |
 | ↳ | **[January 2025 Associate Business Management Analyst/ Business Management Analyst Pathways San Diego](https://jobright-internal.com/jobs/info/671169f796bd25a15b4fd4ef?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Oct 16 |
 | **[Core Digital Media](http://www.coredigitalmedia.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcbc5c912719f7c6b26f18?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Oct 16 |
@@ -111,7 +111,8 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright-internal.com/jobs/info/670e2ac5a9af309d528b733c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Oct 15 |
 | **[Conduent](https://www.conduent.com/)** | **[Technology Business Analyst II](https://jobright-internal.com/jobs/info/670dfc1bb6e09263959cdc8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynnfield, MA | On Site | Oct 14 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright-internal.com/jobs/info/670df7bb7f5ea8875ce6a655?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Oct 14 |
-| ↳ | **[Business Operations Analyst (Starlink)](https://jobright-internal.com/jobs/info/670e012b832ce6f47db3529e?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Oct 14 |
+| **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6715e873d86afe993cb00e28?utm_campaign=Business%20Analyst&utm_source=1103)** | District of Columbia, United States | On Site | Oct 14 |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright-internal.com/jobs/info/670e012b832ce6f47db3529e?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Oct 14 |
 | **[Abbott](http://www.abbott.com)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/670dbab9d337f7192aa4ac66?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Oct 14 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670dad20180a2e6daaf5dec2?utm_campaign=Business%20Analyst&utm_source=1103)** | The Highlands, CO | On Site | Oct 14 |
 | **[University of Kentucky](https://medicine.uky.edu/centers/sbcoa/)** | **[College Business Analyst](https://jobright-internal.com/jobs/info/670da2f4dab080abdfd94826?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, KY | On Site | Oct 14 |
@@ -124,6 +125,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d78a8bc1f37b7d62e1f19?utm_campaign=Business%20Analyst&utm_source=1103)** | Athens, TX | Hybrid | Oct 14 |
 | ↳ | **[Schneider Development Program: Business Analyst](https://jobright-internal.com/jobs/info/670d78a8bc1f37b7d62e20ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, TN | Hybrid | Oct 14 |
 | **[University of Kentucky](https://medicine.uky.edu/centers/sbcoa/)** | **[College Business Analyst](https://jobright-internal.com/jobs/info/670d71d14d78202651f94827?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, KY | On Site | Oct 14 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst – West Coast (Remote)](https://jobright-internal.com/jobs/info/670d5cc64db7155079d1761e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
-| ↳ | **[Business Analyst (Remote)](https://jobright-internal.com/jobs/info/670d5cc64db7155079d1761f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
