@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HP](http://www.hp.com)** | **[Business/RFQ Analyst](https://jobright-internal.com/jobs/info/6716fb091af646eecce244c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States of America | On Site | Oct 21 |
+| **[Softheon](http://softheon.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/671706da366cc599721c16a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook, NY | Remote | Oct 21 |
+| **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I, II, or Sr. - Remote](https://jobright-internal.com/jobs/info/6716fbd910a4024af8e3b80c?utm_campaign=Business%20Analyst&utm_source=1103)** | AR | Remote | Oct 21 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6716bd9fe72e5e0692d58363?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Oct 21 |
 | **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Business Analyst-Technical-Staff](https://jobright-internal.com/jobs/info/6716d2aaf973d11c87099aa9?utm_campaign=Business%20Analyst&utm_source=1103)** | Murray, UT | On Site | Oct 21 |
 | **[Coders Data](https://codersdata.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67166ac4f3b8254bc0be79be?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, TX | On Site | Oct 21 |
@@ -115,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Heritage Christian Services](https://heritagechristianservices.org/)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/670e7cbb08d5aeb8cb9a1948?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | On Site | Oct 15 |
 | **[PlanMember Financial Corporation](http://online.planmember.com)** | **[Business Analyst Level 1](https://jobright-internal.com/jobs/info/670e83c9e3c940e8f78bc6c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Carpinteria, CA | On Site | Oct 15 |
 | **[CGI](https://www.cgi.com)** | **[Junior Momentum Business Analyst](https://jobright-internal.com/jobs/info/66f1af7abb8de7edc047c675?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Oct 15 |
-| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright-internal.com/jobs/info/670e2ac5a9af309d528b733c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
