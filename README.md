@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ID Logistics US](https://www.kanelogistics.com/)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/66fb04073b1f1139b5a0703d?utm_campaign=Business%20Analyst&utm_source=1103)** | Duluth, GA | On Site | Oct 22 |
+| **[HP](http://www.hp.com)** | **[Business/RFQ Analyst](https://jobright-internal.com/jobs/info/671765e3b30bfbc022fc5325?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Oct 21 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671736b54b33831202be31aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Oct 21 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Business Process Analyst I](https://jobright-internal.com/jobs/info/671731ae0adbc9afff39d490?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | On Site | Oct 21 |
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Business Process Analyst I](https://jobright-internal.com/jobs/info/671724372eaab5d29288aca4?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | Hybrid | Oct 21 |
@@ -90,7 +92,7 @@ For a complete list, click the following sortable link below:
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright-internal.com/jobs/info/66fdbc07c5dbabf4ba5dcaea?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Oct 18 |
 | **[Magellan Health](http://magellanhealth.com)** | **[Accumulator Business Analyst](https://jobright-internal.com/jobs/info/670debadce5ab939651f03f9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 17 |
 | **[Evolent](http://evolenthealth.com)** | **[Senior Business Analyst](https://jobright-internal.com/jobs/info/6711dfbc509de1f0fa887a9b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 17 |
-| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Analyst, High School Management Office](https://jobright-internal.com/jobs/info/67120511cc0fe8e0d29fec88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 17 |
+| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Analyst, High School Management Office](https://jobright-internal.com/jobs/info/6711cbab3a8471f9dbe77696?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 17 |
 | **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Pharmacy Business Analyst](https://jobright-internal.com/jobs/info/6711bd3a7ffe286a33fae59f?utm_campaign=Business%20Analyst&utm_source=1103)** | Murray, UT | On Site | Oct 17 |
 | **[Mindgrub](http://www.mindgrub.com)** | **[Business Solutions Specialist](https://jobright-internal.com/jobs/info/67128c423b06be68165a7fcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Oct 17 |
 | **[BlackLine](https://www.blackline.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6711942d33b554cb75573aef?utm_campaign=Business%20Analyst&utm_source=1103)** | Westport, CT | On Site | Oct 17 |
@@ -114,6 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f2eefe25ce19426a929d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Oct 15 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f37fb3c69104f56c8d918?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Oct 15 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f00772a474bb97e782aad?utm_campaign=Business%20Analyst&utm_source=1103)** | Kennesaw, GA | Hybrid | Oct 15 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670ebe38e5fe79250f26f911?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 15 |
-| **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670ec72762d4c49bccaf74f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
