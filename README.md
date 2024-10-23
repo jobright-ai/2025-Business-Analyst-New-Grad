@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cummins Inc.](https://www.cummins.com/)** | **[Warehouse Management - IT Business Analyst - Onsite](https://jobright-internal.com/jobs/info/67182f169db960cb6724b496?utm_campaign=Business%20Analyst&utm_source=1103)** | Florence, KY | On Site | Oct 22 |
+| **[Centene Corporation](http://www.centene.com)** | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/67189759efb10283b8901f83?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisiana, United States | On Site | Oct 22 |
+| ↳ | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/671878469bd6729aa6f5299e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arkansas, United States | On Site | Oct 22 |
+| ↳ | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/671878469bd6729aa6f5299f?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississippi, United States | On Site | Oct 22 |
+| ↳ | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/67186cad97e85c974664ef7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Oct 22 |
+| **[Cummins Inc.](https://www.cummins.com/)** | **[Warehouse Management - IT Business Analyst - Onsite](https://jobright-internal.com/jobs/info/671867c32cde0d751ea80442?utm_campaign=Business%20Analyst&utm_source=1103)** | Florence, KY | Hybrid | Oct 22 |
+| ↳ | **[Warehouse Management - IT Business Analyst - Onsite](https://jobright-internal.com/jobs/info/67182f169db960cb6724b496?utm_campaign=Business%20Analyst&utm_source=1103)** | Florence, KY | On Site | Oct 22 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/67180bf17167d6f9f15e0611?utm_campaign=Business%20Analyst&utm_source=1103)** | NM - Albuquerque | On Site | Oct 22 |
 | **[ID Logistics US](https://www.kanelogistics.com/)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/66fb04073b1f1139b5a0703d?utm_campaign=Business%20Analyst&utm_source=1103)** | Duluth, GA | On Site | Oct 22 |
 | **[HP](http://www.hp.com)** | **[Business/RFQ Analyst](https://jobright-internal.com/jobs/info/671765e3b30bfbc022fc5325?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Oct 21 |
@@ -65,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[BAE Systems](http://www.baesystems.com)** | **[Business Process Analyst I](https://jobright-internal.com/jobs/info/671731ae0adbc9afff39d490?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | On Site | Oct 21 |
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Business Process Analyst I](https://jobright-internal.com/jobs/info/671724372eaab5d29288aca4?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | Hybrid | Oct 21 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67171b14ce2f5c8472a7c180?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Oct 21 |
-| **[HP](http://www.hp.com)** | **[Business/RFQ Analyst](https://jobright-internal.com/jobs/info/6716fb091af646eecce244e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States of America | On Site | Oct 21 |
+| **[HP](http://www.hp.com)** | **[Business/RFQ Analyst](https://jobright-internal.com/jobs/info/6716fb091af646eecce244c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States of America | On Site | Oct 21 |
 | **[Core Digital Media](http://www.coredigitalmedia.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcbc5c912719f7c6b26f18?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Oct 21 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I, II, or Sr. - Remote](https://jobright-internal.com/jobs/info/6716fbd910a4024af8e3b80c?utm_campaign=Business%20Analyst&utm_source=1103)** | AR | Remote | Oct 21 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6716bd9fe72e5e0692d58363?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Oct 21 |
@@ -104,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6710fee04ad07af8a9850ec2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA | On Site | Oct 17 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcce5ac640b717d4cae72e?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 17 |
 | **[Jet Aviation](http://www.jetaviation.com/)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/6710937446974efb882e2f61?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | Hybrid | Oct 16 |
-| **[BMO Capital Markets](https://capitalmarkets.bmo.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67186595138933e4bd793e23?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
