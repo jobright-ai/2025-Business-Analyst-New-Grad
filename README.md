@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optum](https://www.optum.com)** | **[Business Analyst - National Remote](https://jobright-internal.com/jobs/info/6718e5f9b96e888432a86263?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Remote | Oct 23 |
+| **[Centene Corporation](http://www.centene.com)** | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/6718be320813abfc7674ddef?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Hybrid | Oct 23 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/67189759efb10283b8901f83?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisiana, United States | On Site | Oct 22 |
 | ↳ | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/671878469bd6729aa6f5299e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arkansas, United States | On Site | Oct 22 |
 | ↳ | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/671878469bd6729aa6f5299f?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississippi, United States | On Site | Oct 22 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[BAE Systems](http://www.baesystems.com)** | **[Business Process Analyst I](https://jobright-internal.com/jobs/info/671731ae0adbc9afff39d490?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | On Site | Oct 21 |
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Business Process Analyst I](https://jobright-internal.com/jobs/info/671724372eaab5d29288aca4?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | Hybrid | Oct 21 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67171b14ce2f5c8472a7c180?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Oct 21 |
-| **[HP](http://www.hp.com)** | **[Business/RFQ Analyst](https://jobright-internal.com/jobs/info/6716fb091af646eecce244c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States of America | On Site | Oct 21 |
 | **[Core Digital Media](http://www.coredigitalmedia.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcbc5c912719f7c6b26f18?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Oct 21 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I, II, or Sr. - Remote](https://jobright-internal.com/jobs/info/6716fbd910a4024af8e3b80c?utm_campaign=Business%20Analyst&utm_source=1103)** | AR | Remote | Oct 21 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6716bd9fe72e5e0692d58363?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Oct 21 |
@@ -98,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright-internal.com/jobs/info/66fdbc07c5dbabf4ba5dcaea?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Oct 18 |
 | **[Magellan Health](http://magellanhealth.com)** | **[Accumulator Business Analyst](https://jobright-internal.com/jobs/info/670debadce5ab939651f03f9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 17 |
 | **[Evolent](http://evolenthealth.com)** | **[Senior Business Analyst](https://jobright-internal.com/jobs/info/6711dfbc509de1f0fa887a9b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 17 |
-| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Analyst, High School Management Office](https://jobright-internal.com/jobs/info/67120511cc0fe8e0d29fec88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 17 |
+| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Analyst, High School Management Office](https://jobright-internal.com/jobs/info/6711cbab3a8471f9dbe77696?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 17 |
 | **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Pharmacy Business Analyst](https://jobright-internal.com/jobs/info/6711bd3a7ffe286a33fae59f?utm_campaign=Business%20Analyst&utm_source=1103)** | Murray, UT | On Site | Oct 17 |
 | **[Mindgrub](http://www.mindgrub.com)** | **[Business Solutions Specialist](https://jobright-internal.com/jobs/info/67128c423b06be68165a7fcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Oct 17 |
 | **[BlackLine](https://www.blackline.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6711942d33b554cb75573aef?utm_campaign=Business%20Analyst&utm_source=1103)** | Westport, CT | On Site | Oct 17 |
