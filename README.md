@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cummins Inc.](https://www.cummins.com/)** | **[Warehouse Management - IT Business Analyst - Onsite](https://jobright-internal.com/jobs/info/67182f169db960cb6724b496?utm_campaign=Business%20Analyst&utm_source=1103)** | Florence, KY | On Site | Oct 22 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/67180bf17167d6f9f15e0611?utm_campaign=Business%20Analyst&utm_source=1103)** | NM - Albuquerque | On Site | Oct 22 |
 | **[ID Logistics US](https://www.kanelogistics.com/)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/66fb04073b1f1139b5a0703d?utm_campaign=Business%20Analyst&utm_source=1103)** | Duluth, GA | On Site | Oct 22 |
 | **[HP](http://www.hp.com)** | **[Business/RFQ Analyst](https://jobright-internal.com/jobs/info/671765e3b30bfbc022fc5325?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Oct 21 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671736b54b33831202be31aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Oct 21 |
@@ -69,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6716bd9fe72e5e0692d58363?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Oct 21 |
 | **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Business Analyst-Technical-Staff](https://jobright-internal.com/jobs/info/6716d2aaf973d11c87099aa9?utm_campaign=Business%20Analyst&utm_source=1103)** | Murray, UT | On Site | Oct 21 |
 | **[Coders Data](https://codersdata.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67166ac4f3b8254bc0be79be?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, TX | On Site | Oct 21 |
-| **[System Soft Technologies](http://www.sstech.us)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671664c11224a73e8debd0a2?utm_campaign=Business%20Analyst&utm_source=1103)** | North Dakota, United States | Remote | Oct 21 |
 | **[RSI](https://www.rsidelivers.com/)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/67165f88d760ca4ec5138c14?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Oct 21 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright-internal.com/jobs/info/67165f88d760ca4ec5138c3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Gaithersburg, MD | On Site | Oct 21 |
+| **[Genesis10](http://www.genesis10.com/)** | **[Business Analyst – Content Specialist](https://jobright-internal.com/jobs/info/6717a393cb00a649004781b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 21 |
 | **[Ohio Lottery Commission](https://www.ohiolottery.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/67165045920a83a00eb97150?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Oct 21 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright-internal.com/jobs/info/67165093025488a0e458762f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Oct 21 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66eba1a78df0f93bb2b58f02?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Oct 21 |
@@ -103,17 +105,5 @@ For a complete list, click the following sortable link below:
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6710fee04ad07af8a9850ec2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA | On Site | Oct 17 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcce5ac640b717d4cae72e?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 17 |
 | **[Jet Aviation](http://www.jetaviation.com/)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/6710937446974efb882e2f61?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | Hybrid | Oct 16 |
-| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[January 2025 Associate Business Management Analyst/ Business Management Analyst  Pathways San Diego](https://jobright-internal.com/jobs/info/6710628ea20f4e1cbd861ad8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Oct 16 |
-| ↳ | **[January 2025 Associate Business Management Analyst/ Business Management Analyst Pathways San Diego](https://jobright-internal.com/jobs/info/671169f796bd25a15b4fd4ef?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Oct 16 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Analyst, Property Systems](https://jobright-internal.com/jobs/info/66f315aec893087d3142af41?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Oct 16 |
-| **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670fbfbcbb4022df7046a92a?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX | Hybrid | Oct 15 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f5234b6f845a0b3c382d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Kennesaw, GA | On Site | Oct 15 |
-| **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Pharmacy Business Technical Analyst](https://jobright-internal.com/jobs/info/67172ce75af4b99e2981ac7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Murray, UT | On Site | Oct 15 |
-| **[Wiley Edge](https://www.wiley.com/edge)** | **[Entry Level Business Analyst - Healthcare](https://jobright-internal.com/jobs/info/67069b2f57b2e3ad8c34b571?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | On Site | Oct 15 |
-| **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670f1a6a19e8647631288da2?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 15 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f2eefe25ce19426a929de?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 15 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f2eefe25ce19426a929bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 15 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f2eefe25ce19426a929d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Oct 15 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f37fb3c69104f56c8d918?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Oct 15 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f00772a474bb97e782aad?utm_campaign=Business%20Analyst&utm_source=1103)** | Kennesaw, GA | Hybrid | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
