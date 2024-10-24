@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable](https://equitable.com/)** | **[Business Analyst- Metrics Reporting (Remote)](https://jobright-internal.com/jobs/info/67197e17fb39709e7283b7c0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
+| ↳ | **[Business Analyst- Metrics Reporting (Remote)](https://jobright-internal.com/jobs/info/67197e17fb39709e7283b95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Remote | Oct 23 |
+| ↳ | **[Business Analyst- Metrics Reporting (Remote)](https://jobright-internal.com/jobs/info/671985f6337a40c3b63aa720?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | Remote | Oct 23 |
+| **[Citi](https://www.citi.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/6719594ed685d25e339f62e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Oct 23 |
+| **[Serco](https://www.serco.com)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/6719530bfc275500d38b269a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | On Site | Oct 23 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright-internal.com/jobs/info/6719395752782f29758c3904?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Bossier City | Hybrid | Oct 23 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Process Analyst (IT)](https://jobright-internal.com/jobs/info/671938f9bb9b8b92fa40b3c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | Oct 23 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1/Business Systems Analyst Trainee (NYHELPS), Central Office;](https://jobright-internal.com/jobs/info/671907186ff811a986aeda08?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Oct 23 |
-| **[Optum](https://www.optum.com)** | **[Business Analyst - National Remote](https://jobright-internal.com/jobs/info/6718e5f9b96e888432a86263?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Remote | Oct 23 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/6718be320813abfc7674ddef?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Hybrid | Oct 23 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/67189759efb10283b8901f83?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisiana, United States | On Site | Oct 22 |
 | ↳ | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/671878469bd6729aa6f5299e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arkansas, United States | On Site | Oct 22 |
@@ -89,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Deutsche Bank](https://www.db.com)** | **[CCAR Stress Testing Line of Business Analyst - Associate](https://jobright-internal.com/jobs/info/6715db4f5881a45e94f555b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, 5201 Gate Parkway | Hybrid | Oct 20 |
 | **[Citizens Business Bank](https://www.cbbank.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/6716e3853f89cdc2107fa7a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Oct 20 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66db5558e311fc905e04b9ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Oct 20 |
-| **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/6713e84c20d1ec63a5a9c386?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, OR | On Site | Oct 19 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Analyst Material Planning](https://jobright-internal.com/jobs/info/66f58d4035c5f4f42caf5fda?utm_campaign=Business%20Analyst&utm_source=1103)** | Jamaica, NY | Hybrid | Oct 18 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6712cdc31b1dc32ee7be0958?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Oct 18 |
 | **[KeyBank](https://www.key.com)** | **[IT Banking Business Analyst-LoanIQ](https://jobright-internal.com/jobs/info/67074c45bb2addd53a81bf2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Oct 18 |
@@ -111,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671142717be14d498882987f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 17 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6710fee04ad07af8a9850ec2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA | On Site | Oct 17 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcce5ac640b717d4cae72e?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 17 |
-| **[Jet Aviation](http://www.jetaviation.com/)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/6710937446974efb882e2f61?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | Hybrid | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
