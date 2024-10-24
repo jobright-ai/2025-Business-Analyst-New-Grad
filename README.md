@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 1)](https://jobright-internal.com/jobs/info/6719ae442becc1f306b7e435?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Oct 23 |
+| **[Square](https://block.xyz)** | **[Business Operations Supply Chain Analyst](https://jobright-internal.com/jobs/info/6719989a659ccf78def116fa?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | On Site | Oct 23 |
 | **[Equitable](https://equitable.com/)** | **[Business Analyst- Metrics Reporting (Remote)](https://jobright-internal.com/jobs/info/67197e17fb39709e7283b7c0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
 | ↳ | **[Business Analyst- Metrics Reporting (Remote)](https://jobright-internal.com/jobs/info/67197e17fb39709e7283b95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Remote | Oct 23 |
 | ↳ | **[Business Analyst- Metrics Reporting (Remote)](https://jobright-internal.com/jobs/info/671985f6337a40c3b63aa720?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | Remote | Oct 23 |
@@ -100,11 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright-internal.com/jobs/info/6712875eca3ad8a3f2567043?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucker, GA | Remote | Oct 18 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright-internal.com/jobs/info/67125711116380188c8778cd?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | On Site | Oct 18 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Business Analyst, CoStar Risk Analytics](https://jobright-internal.com/jobs/info/66f56b7de3733c001865b67c?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Oct 18 |
-| **[Prime Video & Amazon Studios](http://primevideo.com)** | **[Business Analyst, Prime Video Publishing Operations](https://jobright-internal.com/jobs/info/66f5e418f757854a909891ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Oct 18 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright-internal.com/jobs/info/66fdbc07c5dbabf4ba5dcaea?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Oct 18 |
 | **[Magellan Health](http://magellanhealth.com)** | **[Accumulator Business Analyst](https://jobright-internal.com/jobs/info/670debadce5ab939651f03f9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 17 |
 | **[Evolent](http://evolenthealth.com)** | **[Senior Business Analyst](https://jobright-internal.com/jobs/info/6711dfbc509de1f0fa887a9b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 17 |
-| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Analyst, High School Management Office](https://jobright-internal.com/jobs/info/6711cbab3a8471f9dbe77696?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 17 |
+| **[Success Academy Charter Schools](https://www.successacademies.org)** | **[Analyst, High School Management Office](https://jobright-internal.com/jobs/info/67120511cc0fe8e0d29fec88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 17 |
 | **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Pharmacy Business Analyst](https://jobright-internal.com/jobs/info/6711bd3a7ffe286a33fae59f?utm_campaign=Business%20Analyst&utm_source=1103)** | Murray, UT | On Site | Oct 17 |
 | **[Mindgrub](http://www.mindgrub.com)** | **[Business Solutions Specialist](https://jobright-internal.com/jobs/info/67128c423b06be68165a7fcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Oct 17 |
 | **[BlackLine](https://www.blackline.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6711942d33b554cb75573aef?utm_campaign=Business%20Analyst&utm_source=1103)** | Westport, CT | On Site | Oct 17 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Worldpay](https://worldpay.com)** | **[Business Analyst, Legal Technology & Operations](https://jobright-internal.com/jobs/info/671199d0b8ba73b01fb7e5ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | Hybrid | Oct 17 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671142717be14d498882987f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 17 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6710fee04ad07af8a9850ec2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA | On Site | Oct 17 |
-| **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcce5ac640b717d4cae72e?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
