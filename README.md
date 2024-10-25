@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citi](https://www.citi.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/66ff4081df21895f2f86ff07?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Oct 25 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Process Analyst - NICE Knowledge Expert](https://jobright-internal.com/jobs/info/671ad82051a457abc39085d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | Oct 24 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671ac60555093765052673ed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671b07a9bdefefb871b24c44?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, WI | Hybrid | Oct 24 |
 | **[COCC](http://www.cocc.com)** | **[Business Analyst I-1020](https://jobright-internal.com/jobs/info/671a730d80e09e2e6cddc462?utm_campaign=Business%20Analyst&utm_source=1103)** | Southington, CT | On Site | Oct 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Brand Protection](https://jobright-internal.com/jobs/info/66e0ddeaf06a5e0317a9f779?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Oct 24 |
 | **[Acentra Health](https://acentra.com/)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66fdb3c63aa1cda7ea89c27d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 24 |
+| **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/66e1adc64ddef03d0da6db05?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Oct 24 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdd0ed517813d0b31a2f99?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 24 |
 | ↳ | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdd0ed517813d0b31a2a0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 24 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66e1e65e39d2fdfce53095d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Oct 24 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Core Digital Media](http://www.coredigitalmedia.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/66fcbc5c912719f7c6b26f18?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Oct 21 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6716bd9fe72e5e0692d58363?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Oct 21 |
 | **[Intermountain Health](http://intermountainhealthcare.org/Pages/home.aspx)** | **[Business Analyst-Technical-Staff](https://jobright-internal.com/jobs/info/6716d2aaf973d11c87099aa9?utm_campaign=Business%20Analyst&utm_source=1103)** | Murray, UT | On Site | Oct 21 |
-| **[Coders Data](https://codersdata.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67166ac4f3b8254bc0be79be?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, TX | On Site | Oct 21 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright-internal.com/jobs/info/67165f88d760ca4ec5138c3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Gaithersburg, MD | On Site | Oct 21 |
 | **[Genesis10](http://www.genesis10.com/)** | **[Business Analyst – Content Specialist](https://jobright-internal.com/jobs/info/6717a393cb00a649004781b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 21 |
 | **[Ohio Lottery Commission](https://www.ohiolottery.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/67165045920a83a00eb97150?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Oct 21 |
@@ -105,7 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Citizens Business Bank](https://www.cbbank.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/6716e3853f89cdc2107fa7a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Oct 20 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66db5558e311fc905e04b9ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Oct 20 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Analyst Material Planning](https://jobright-internal.com/jobs/info/66f58d4035c5f4f42caf5fda?utm_campaign=Business%20Analyst&utm_source=1103)** | Jamaica, NY | Hybrid | Oct 18 |
-| **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6712cdc31b1dc32ee7be0958?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Oct 18 |
-| **[KeyBank](https://www.key.com)** | **[IT Banking Business Analyst-LoanIQ](https://jobright-internal.com/jobs/info/67074c45bb2addd53a81bf2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Oct 18 |
-| **[SWAN Capital](http://SWAN-Capital.com)** | **[New Business Administrator](https://jobright-internal.com/jobs/info/6712ba10ba66b2270adc6d26?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
