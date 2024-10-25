@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Business Analyst I-ServiceNow Development](https://jobright-internal.com/jobs/info/671bc25c5e8300e32c6e3955?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Oct 25 |
+| **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/671bd461c1573085ae0026cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, TX | On Site | Oct 25 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671ba14589162cb8f1b8d60e?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, WI | Hybrid | Oct 25 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/66ff4081df21895f2f86ff07?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Oct 25 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Process Analyst - NICE Knowledge Expert](https://jobright-internal.com/jobs/info/671ad82051a457abc39085d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | Oct 24 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671ac60555093765052673ed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 24 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671b07a9bdefefb871b24c44?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, WI | Hybrid | Oct 24 |
 | **[COCC](http://www.cocc.com)** | **[Business Analyst I-1020](https://jobright-internal.com/jobs/info/671a730d80e09e2e6cddc462?utm_campaign=Business%20Analyst&utm_source=1103)** | Southington, CT | On Site | Oct 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Brand Protection](https://jobright-internal.com/jobs/info/66e0ddeaf06a5e0317a9f779?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Oct 24 |
-| **[Acentra Health](https://acentra.com/)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66fdb3c63aa1cda7ea89c27d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 24 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/66e1adc64ddef03d0da6db05?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Oct 24 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdd0ed517813d0b31a2f99?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 24 |
 | ↳ | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdd0ed517813d0b31a2a0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 24 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst- Metrics Reporting (Remote)](https://jobright-internal.com/jobs/info/67197e17fb39709e7283b95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Remote | Oct 23 |
 | ↳ | **[Business Analyst- Metrics Reporting (Remote)](https://jobright-internal.com/jobs/info/671985f6337a40c3b63aa720?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | Remote | Oct 23 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/6719594ed685d25e339f62e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Oct 23 |
-| **[Serco](https://www.serco.com)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/6719530bfc275500d38b269a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | On Site | Oct 23 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright-internal.com/jobs/info/6719395752782f29758c3904?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Bossier City | Hybrid | Oct 23 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Process Analyst (IT)](https://jobright-internal.com/jobs/info/671938f9bb9b8b92fa40b3c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | Oct 23 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1/Business Systems Analyst Trainee (NYHELPS), Central Office;](https://jobright-internal.com/jobs/info/671907186ff811a986aeda08?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Oct 23 |
@@ -105,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Deutsche Bank](https://www.db.com)** | **[CCAR Stress Testing Line of Business Analyst - Associate](https://jobright-internal.com/jobs/info/6715db4f5881a45e94f555b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, 5201 Gate Parkway | Hybrid | Oct 20 |
 | **[Citizens Business Bank](https://www.cbbank.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/6716e3853f89cdc2107fa7a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Oct 20 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66db5558e311fc905e04b9ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Oct 20 |
-| **[JetBlue](http://www.jetblue.com/)** | **[Analyst Material Planning](https://jobright-internal.com/jobs/info/66f58d4035c5f4f42caf5fda?utm_campaign=Business%20Analyst&utm_source=1103)** | Jamaica, NY | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
