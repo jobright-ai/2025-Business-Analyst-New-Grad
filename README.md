@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Process Analyst - NICE Knowledge Expert](https://jobright-internal.com/jobs/info/671ad82051a457abc39085d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | Oct 24 |
+| **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671ac60555093765052673ed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 24 |
 | **[COCC](http://www.cocc.com)** | **[Business Analyst I-1020](https://jobright-internal.com/jobs/info/671a730d80e09e2e6cddc462?utm_campaign=Business%20Analyst&utm_source=1103)** | Southington, CT | On Site | Oct 24 |
 | **[Acentra Health](https://acentra.com/)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/66fdb3c63aa1cda7ea89c27d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 24 |
-| **[Voya Investment Management](http://investments.voya.com)** | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdd0ed517813d0b31a2a0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 24 |
+| **[Voya Investment Management](http://investments.voya.com)** | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdd0ed517813d0b31a2f99?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 24 |
+| ↳ | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdd0ed517813d0b31a2a0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 24 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66e1e65e39d2fdfce53095d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Oct 24 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst - Web & Audio/Visual Support](https://jobright-internal.com/jobs/info/671a51ae269736bb99c77d61?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, US | On Site | Oct 23 |
 | **[American Express](http://www.americanexpress.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6719be28e3a4c20e169d0f36?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunrise, FL | Hybrid | Oct 23 |
@@ -106,6 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright-internal.com/jobs/info/67125711116380188c8778cd?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | On Site | Oct 18 |
 | **[Prime Video & Amazon Studios](http://primevideo.com)** | **[Business Analyst, Prime Video Publishing Operations](https://jobright-internal.com/jobs/info/671a204eaea01596707b8df5?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Oct 18 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Business Analyst, CoStar Risk Analytics](https://jobright-internal.com/jobs/info/66f56b7de3733c001865b67c?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Oct 18 |
-| **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright-internal.com/jobs/info/66fdbc07c5dbabf4ba5dcaea?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Oct 18 |
-| **[Evolent](http://evolenthealth.com)** | **[Senior Business Analyst](https://jobright-internal.com/jobs/info/6711dfbc509de1f0fa887a9b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
