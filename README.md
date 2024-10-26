@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright-internal.com/jobs/info/671c4a081462307b5042888f?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Oct 25 |
+| **[Cummins Inc.](https://www.cummins.com/)** | **[Service Business Analyst Entry Level Full-Time Position](https://jobright-internal.com/jobs/info/671c3d52e4761584c87b1529?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, IN | Hybrid | Oct 25 |
+| **[Centene Corporation](http://www.centene.com)** | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/671878469bd6729aa6f5299e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arkansas, United States | On Site | Oct 25 |
 | **[Broadridge](http://www.broadridge.com)** | **[Business Analyst (CONTRACT) REMOTE](https://jobright-internal.com/jobs/info/671c11a33df5065ae6a497b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Remote | Oct 25 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Business Analyst I-ServiceNow Development](https://jobright-internal.com/jobs/info/671bc25c5e8300e32c6e3955?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Oct 25 |
 | **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/671bd461c1573085ae0026cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, TX | On Site | Oct 25 |
@@ -82,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Associate Business Architect](https://jobright-internal.com/jobs/info/66fc768482cd602caaac9178?utm_campaign=Business%20Analyst&utm_source=1103)** | Chesterfield, MO | Hybrid | Oct 23 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/6718be320813abfc7674ddef?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Hybrid | Oct 23 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/67189759efb10283b8901f83?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisiana, United States | On Site | Oct 22 |
-| ↳ | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/671878469bd6729aa6f5299e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arkansas, United States | On Site | Oct 22 |
 | ↳ | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/671878469bd6729aa6f5299f?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississippi, United States | On Site | Oct 22 |
 | ↳ | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/67186cad97e85c974664ef7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Oct 22 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[Warehouse Management - IT Business Analyst - Onsite](https://jobright-internal.com/jobs/info/671867c32cde0d751ea80442?utm_campaign=Business%20Analyst&utm_source=1103)** | Florence, KY | Hybrid | Oct 22 |
