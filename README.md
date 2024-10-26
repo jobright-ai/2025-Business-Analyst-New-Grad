@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FairPoint Communications](http://www.fairpoint.com)** | **[Remote Infor XA Business Analyst - Full Time - Must Have Infor XA](https://jobright-internal.com/jobs/info/671c690f72d54048cccf4777?utm_campaign=Business%20Analyst&utm_source=1103)** | Lodi, WI | Remote | Oct 25 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright-internal.com/jobs/info/671c4a081462307b5042888f?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Oct 25 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[Service Business Analyst Entry Level Full-Time Position](https://jobright-internal.com/jobs/info/671c3d52e4761584c87b1529?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, IN | Hybrid | Oct 25 |
 | **[Centene Corporation](http://www.centene.com)** | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/671878469bd6729aa6f5299e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arkansas, United States | On Site | Oct 25 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Medicaid Enrollment Business Analyst I](https://jobright-internal.com/jobs/info/67186cad97e85c974664ef7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Oct 22 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[Warehouse Management - IT Business Analyst - Onsite](https://jobright-internal.com/jobs/info/671867c32cde0d751ea80442?utm_campaign=Business%20Analyst&utm_source=1103)** | Florence, KY | Hybrid | Oct 22 |
 | ↳ | **[Warehouse Management - IT Business Analyst - Onsite](https://jobright-internal.com/jobs/info/67182f169db960cb6724b496?utm_campaign=Business%20Analyst&utm_source=1103)** | Florence, KY | On Site | Oct 22 |
-| **[ID Logistics US](https://www.kanelogistics.com/)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/66fb04073b1f1139b5a0703d?utm_campaign=Business%20Analyst&utm_source=1103)** | Duluth, GA | On Site | Oct 22 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671736b54b33831202be31aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Oct 21 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Business Process Analyst I](https://jobright-internal.com/jobs/info/671731ae0adbc9afff39d490?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | On Site | Oct 21 |
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Business Process Analyst I](https://jobright-internal.com/jobs/info/671724372eaab5d29288aca4?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | Hybrid | Oct 21 |
