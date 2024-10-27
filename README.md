@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66e528b8007435b664359bbf?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Oct 27 |
 | **[ID Logistics US](https://www.kanelogistics.com/)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/671ce9a3692d2652bec3beae?utm_campaign=Business%20Analyst&utm_source=1103)** | Duluth, GA | Hybrid | Oct 26 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Business Analyst I-ServiceNow Development](https://jobright-internal.com/jobs/info/671dbf43e2d7dc3003950715?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | On Site | Oct 26 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671cc3953d5e815df474b7b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Oct 26 |
@@ -82,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Voya Investment Management](http://investments.voya.com)** | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdd0ed517813d0b31a2f99?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 24 |
 | ↳ | **[Client Business Implementation Analyst](https://jobright-internal.com/jobs/info/66fdd0ed517813d0b31a2a0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 24 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66e1e65e39d2fdfce53095d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Oct 24 |
+| **[American Express](http://www.americanexpress.com)** | **[Business Analyst: Future Opportunities](https://jobright-internal.com/jobs/info/6719be28e3a4c20e169d0f36?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunrise, FL | Hybrid | Oct 23 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst - Web & Audio/Visual Support](https://jobright-internal.com/jobs/info/671a51ae269736bb99c77d61?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, US | On Site | Oct 23 |
-| **[American Express](http://www.americanexpress.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6719be28e3a4c20e169d0f36?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunrise, FL | Hybrid | Oct 23 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 1)](https://jobright-internal.com/jobs/info/6719ae442becc1f306b7e435?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Oct 23 |
 | **[Square](https://block.xyz)** | **[Business Operations Supply Chain Analyst](https://jobright-internal.com/jobs/info/6719989a659ccf78def116fa?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | On Site | Oct 23 |
 | **[Muckleshoot Casino Resort](http://muckleshootcasino.com)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/671ae84e7df2054ed3f28d26?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Oct 23 |
