@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66eba1a78df0f93bb2b58f02?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Oct 21 |
 | **[Deutsche Bank](https://www.db.com)** | **[CCAR Stress Testing Line of Business Analyst - Associate](https://jobright-internal.com/jobs/info/6715db4f5881a45e94f555b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, 5201 Gate Parkway | Hybrid | Oct 20 |
 | **[Citizens Business Bank](https://www.cbbank.com)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/6716e3853f89cdc2107fa7a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Oct 20 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66db5558e311fc905e04b9ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
