@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Genesis10](http://www.genesis10.com/)** | **[Business Analyst – Content Specialist](https://jobright-internal.com/jobs/info/6717a393cb00a649004781b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Oct 21 |
 | **[Ohio Lottery Commission](https://www.ohiolottery.com)** | **[Business Process Analyst 1](https://jobright-internal.com/jobs/info/67165045920a83a00eb97150?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Oct 21 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright-internal.com/jobs/info/67165093025488a0e458762f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Oct 21 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66eba1a78df0f93bb2b58f02?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
