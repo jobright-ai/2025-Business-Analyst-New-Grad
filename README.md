@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coders Data](https://codersdata.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/6720f9bb269cdc0eb226ba92?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Oct 29 |
+| **[Slingshot](https://www.slingshotedu.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/67210314fb7f61330820d759?utm_campaign=Business%20Analyst&utm_source=1103)** | Marion, IN | On Site | Oct 29 |
 | **[Optum](https://www.optum.com)** | **[Associate Business Analyst - National Remote](https://jobright-internal.com/jobs/info/6720d37a3b1b27bd634f5002?utm_campaign=Business%20Analyst&utm_source=1103)** | West Hills, CA | Hybrid | Oct 29 |
+| ↳ | **[Associate Business Analyst - National Remote](https://jobright-internal.com/jobs/info/6720de193e3cf99dd4a56131?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 29 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6720c04f9f670c7b367c922d?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Remote | Oct 29 |
 | **[Equitable](https://equitable.com/)** | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/672015a3f806b1549aad6ff0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 28 |
 | ↳ | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/67201a73361c124e63405b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 28 |
 | ↳ | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/67201a73361c124e63405b7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | On Site | Oct 28 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0e?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Oct 28 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 28 |
 | ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 28 |
-| ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 28 |
+| ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0e?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Oct 28 |
 | **[Managed Health Services (MHS)](http://www.mhsindiana.com/)** | **[Business Analyst I - Enrollment & Encounters](https://jobright-internal.com/jobs/info/6720124c01649616d72a575e?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | On Site | Oct 28 |
 | **[Wipro](http://www.wipro.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/671fe94e99f43c34ebe0ceb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright-internal.com/jobs/info/66c8eee515e7212923c8cafb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 28 |
@@ -95,6 +98,4 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Process Analyst (IT)](https://jobright-internal.com/jobs/info/671938f9bb9b8b92fa40b3c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | Oct 23 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1/Business Systems Analyst Trainee (NYHELPS), Central Office;](https://jobright-internal.com/jobs/info/671907186ff811a986aeda08?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Oct 23 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Associate Business Architect](https://jobright-internal.com/jobs/info/66fc768482cd602caaac9178?utm_campaign=Business%20Analyst&utm_source=1103)** | Chesterfield, MO | Hybrid | Oct 23 |
-| **[Cummins Inc.](https://www.cummins.com/)** | **[Warehouse Management - IT Business Analyst - Onsite](https://jobright-internal.com/jobs/info/671867c32cde0d751ea80442?utm_campaign=Business%20Analyst&utm_source=1103)** | Florence, KY | Hybrid | Oct 22 |
-| ↳ | **[Warehouse Management - IT Business Analyst - Onsite](https://jobright-internal.com/jobs/info/67182f169db960cb6724b496?utm_campaign=Business%20Analyst&utm_source=1103)** | Florence, KY | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
