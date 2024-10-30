@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](http://cvshealth.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67226db40538ca01293d40da?utm_campaign=Business%20Analyst&utm_source=1103)** | Blue Bell, PA | On Site | Oct 30 |
+| **[EnIn Systems](https://www.eninsystems.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672259c4f62ac9dbb0e3e6de?utm_campaign=Business%20Analyst&utm_source=1103)** | Chesterfield, MO | On Site | Oct 30 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6722201f8131dd28b59e032a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulare, CA | On Site | Oct 30 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6722201f8131dd28b59e0349?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | On Site | Oct 30 |
 | **[Red Ventures](http://www.redventures.com)** | **[Business Operations Analyst / Bankrate](https://jobright-internal.com/jobs/info/67059f6fac9dc0905ea10245?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 30 |
@@ -80,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/672015a3f806b1549aad6ff0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 28 |
 | ↳ | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/67201a73361c124e63405b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 28 |
 | ↳ | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/67201a73361c124e63405b7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | On Site | Oct 28 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0e?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Oct 28 |
-| ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 28 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 28 |
 | ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 28 |
+| ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0e?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Oct 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright-internal.com/jobs/info/66c8eee515e7212923c8cafb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 28 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66e528b8007435b664359bbf?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Oct 27 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Research Team Assistant](https://jobright-internal.com/jobs/info/670101e896464f15923e27e9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Oct 26 |
@@ -104,7 +106,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66e1e65e39d2fdfce53095d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Oct 24 |
 | **[American Express](http://www.americanexpress.com)** | **[Business Analyst: Future Opportunities](https://jobright-internal.com/jobs/info/6719be28e3a4c20e169d0f36?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunrise, FL | Hybrid | Oct 23 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst - Web & Audio/Visual Support](https://jobright-internal.com/jobs/info/671a51ae269736bb99c77d61?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, US | On Site | Oct 23 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 1)](https://jobright-internal.com/jobs/info/6719ae442becc1f306b7e435?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Oct 23 |
-| **[Square](https://block.xyz)** | **[Business Operations Supply Chain Analyst](https://jobright-internal.com/jobs/info/6719989a659ccf78def116fa?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | On Site | Oct 23 |
-| **[Muckleshoot Casino Resort](http://muckleshootcasino.com)** | **[Business Process Analyst](https://jobright-internal.com/jobs/info/671ae84e7df2054ed3f28d26?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
