@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/6723b8d0f27265e5859ef79b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, TX | On Site | Oct 31 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672369b013fde4d9f1dc5caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Oct 31 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/672349ed7561aaa6bdf9383f?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 31 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Fusus ](https://jobright-internal.com/jobs/info/67233d9fb4eea638541402f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, United States | Hybrid | Oct 31 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Business Process Design & Improvement Analyst I (Cox Automotive, Atlanta, GA)](https://jobright-internal.com/jobs/info/6723264ec59b662603e876f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 30 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/67231f5ca0db500f0a788f00?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 30 |
-| ↳ | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/67231f5ca0db500f0a788df4?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 30 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67232252c244dbb852264030?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Remote | Oct 30 |
 | **[Jet Aviation](http://www.jetaviation.com/)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/67230d7bae5baa563b5b2bf3?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | Hybrid | Oct 30 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6722fd172a6022b6df586805?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Oct 30 |
@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[AssetMark](http://www.assetmark.com)** | **[Senior Business Systems Analyst](https://jobright-internal.com/jobs/info/6721b452e66f7aa3c325fae5?utm_campaign=Business%20Analyst&utm_source=1103)** | Concord, CA | Hybrid | Oct 29 |
 | **[Conduent](https://www.conduent.com/)** | **[Technology Business Analyst II](https://jobright-internal.com/jobs/info/67216aa83aa2339ae3024739?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynnfield, MA | On Site | Oct 29 |
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672173ad006c95de9da130c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Oct 29 |
-| **[JLL](http://www.jll.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67216259186d1c069d295f05?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Oct 29 |
 | **[GroupM](http://www.groupm.com/)** | **[Senior Associate, Business Analytics & Measurement](https://jobright-internal.com/jobs/info/6721609a953d297dc6fa5a7e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 29 |
 | ↳ | **[Senior Associate, Business Analytics & Measurement](https://jobright-internal.com/jobs/info/6721609a953d297dc6fa5a91?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 29 |
 | **[Slingshot](https://www.slingshotedu.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/67210314fb7f61330820d759?utm_campaign=Business%20Analyst&utm_source=1103)** | Marion, IN | On Site | Oct 29 |
@@ -97,9 +96,9 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/672015a3f806b1549aad6ff0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 28 |
 | ↳ | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/67201a73361c124e63405b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 28 |
 | ↳ | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/67201a73361c124e63405b7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | On Site | Oct 28 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 28 |
-| ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 28 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 28 |
 | ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0e?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Oct 28 |
+| ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright-internal.com/jobs/info/66c8eee515e7212923c8cafb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 28 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66e528b8007435b664359bbf?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Oct 27 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Research Team Assistant](https://jobright-internal.com/jobs/info/670101e896464f15923e27e9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Oct 26 |
@@ -112,5 +111,5 @@ For a complete list, click the following sortable link below:
 | **[Cummins Inc.](https://www.cummins.com/)** | **[Service Business Analyst Entry Level Full-Time Position](https://jobright-internal.com/jobs/info/671c3d52e4761584c87b1529?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, IN | Hybrid | Oct 25 |
 | **[Integra Partners](http://accessintegra.com)** | **[Service Operations Business Analyst](https://jobright-internal.com/jobs/info/671dba62e73af1a686b9b5b2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 25 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Business Analyst I-ServiceNow Development](https://jobright-internal.com/jobs/info/671bc25c5e8300e32c6e3955?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Oct 25 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Process Analyst - NICE Knowledge Expert](https://jobright-internal.com/jobs/info/671ad82051a457abc39085d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | Oct 24 |
+| **[COCC](http://www.cocc.com)** | **[Business Analyst I-Req ID1020](https://jobright-internal.com/jobs/info/671a730d80e09e2e6cddc462?utm_campaign=Business%20Analyst&utm_source=1103)** | Southington, CT | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
