@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Axon](https://www.axon.com)** | **[Business Analyst, Fusus ](https://jobright-internal.com/jobs/info/67233d9fb4eea638541402f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, United States | Hybrid | Oct 31 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672369b013fde4d9f1dc5caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Oct 31 |
+| **[Axon](https://www.axon.com)** | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/672349ed7561aaa6bdf9383f?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 31 |
+| ↳ | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/672349ed7561aaa6bdf93888?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 31 |
 | ↳ | **[Business Analyst, Fusus ](https://jobright-internal.com/jobs/info/67233d9fb4eea63854140319?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Oct 31 |
+| ↳ | **[Business Analyst, Fusus ](https://jobright-internal.com/jobs/info/67233d9fb4eea638541402f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, United States | Hybrid | Oct 31 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Business Process Design & Improvement Analyst I (Cox Automotive, Atlanta, GA)](https://jobright-internal.com/jobs/info/6723264ec59b662603e876f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 30 |
-| **[Axon](https://www.axon.com)** | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/67231f5ca0db500f0a788df4?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 30 |
-| ↳ | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/67231f5ca0db500f0a788f00?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 30 |
+| **[Axon](https://www.axon.com)** | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/67231f5ca0db500f0a788f00?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 30 |
+| ↳ | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/67231f5ca0db500f0a788df4?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 30 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67232252c244dbb852264030?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Remote | Oct 30 |
 | **[Jet Aviation](http://www.jetaviation.com/)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/67230d7bae5baa563b5b2bf3?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | Hybrid | Oct 30 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6722fd172a6022b6df586805?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Oct 30 |
@@ -93,9 +97,9 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/672015a3f806b1549aad6ff0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 28 |
 | ↳ | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/67201a73361c124e63405b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 28 |
 | ↳ | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/67201a73361c124e63405b7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | On Site | Oct 28 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 28 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 28 |
+| ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 28 |
 | ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0e?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Oct 28 |
-| ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright-internal.com/jobs/info/66c8eee515e7212923c8cafb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 28 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66e528b8007435b664359bbf?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Oct 27 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Research Team Assistant](https://jobright-internal.com/jobs/info/670101e896464f15923e27e9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Oct 26 |
