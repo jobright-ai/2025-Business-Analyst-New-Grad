@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright-internal.com/jobs/info/6726ab7334b63a81811797e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Nov 02 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Associate Business Management Analyst/Business Management Analyst Linthicum MD](https://jobright-internal.com/jobs/info/6726373f77000eb84aa0b167?utm_campaign=Business%20Analyst&utm_source=1103)** | Linthicum, MD | On Site | Nov 02 |
 | ↳ | **[2025 Associate Business Management Analyst/Business Management Analyst Linthicum MD](https://jobright-internal.com/jobs/info/67262a3d5b46a0c3c74d4e40?utm_campaign=Business%20Analyst&utm_source=1103)** | Linthicum, MD | On Site | Nov 02 |
 | **[Wurl](http://www.wurl.com)** | **[Business Analyst, Wurl](https://jobright-internal.com/jobs/info/6709ce096ef944f1ffe504a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Nov 02 |
@@ -65,59 +66,58 @@ For a complete list, click the following sortable link below:
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst – West Coast](https://jobright-internal.com/jobs/info/6725a19a4ca64ed6770645c1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 01 |
 | **[Optum](https://www.optum.com)** | **[Business Analyst Coordinator - National Remote](https://jobright-internal.com/jobs/info/67256f2bbb39374f00b59bfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Nov 01 |
 | ↳ | **[Business Analyst - National Remote](https://jobright-internal.com/jobs/info/67256e4083979785176c5074?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Remote | Nov 01 |
-| ↳ | **[Business Analyst Coordinator - National Remote](https://jobright-internal.com/jobs/info/67256e4083979785176c5005?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Nov 01 |
 | **[Nymbus](http://nymbus.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/672541cfb4d777ee0ab6a6c1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Nov 01 |
 | **[GEHA Health](https://geha.com/)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/67253933f6e193cf53a05dcd?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 01 |
 | **[Publicis Health](http://publicishealth.com)** | **[Senior Associate, Business Management](https://jobright-internal.com/jobs/info/67254a4d937b579248f3883e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 01 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright-internal.com/jobs/info/66ec6c09611da98b4c5a32eb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 01 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Nov 01 |
-| **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright-internal.com/jobs/info/672425c7117ef96b808b2b06?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 31 |
+| **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright-internal.com/jobs/info/6724311ca29125ef8fbc457e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 31 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[ITS Business Operations Coordinator](https://jobright-internal.com/jobs/info/67242039ed2dfc4fccaa608d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 31 |
-| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Roanoke - 10 Franklin | Remote | Oct 31 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Great Falls - 3rd Street | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville - South Pleasantbur | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany - Pointe | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05be?utm_campaign=Business%20Analyst&utm_source=1103)** | Watford City - Main | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Grand Rapids - First | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0597?utm_campaign=Business%20Analyst&utm_source=1103)** | Harrisonburg - Main | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle - Fifth Avenue | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Roanoke - 10 Franklin | Remote | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05a4?utm_campaign=Business%20Analyst&utm_source=1103)** | King of Prussia - 2300 Renaiss | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0592?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis - 800 Market | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Missoula - 2925 Palmer | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Wauwatosa - Discovery | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f059c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette - Johnston | Remote | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05df?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville - Exchange | Remote | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0601?utm_campaign=Business%20Analyst&utm_source=1103)** | Meadville - Main | Remote | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05af?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Canal | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville - Shore | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0595?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoboken - River | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Tallahassee - Mahan | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Grand Rapids - First | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville - South Pleasantbur | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park - College | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany - Pointe | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle - Fifth Avenue | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0609?utm_campaign=Business%20Analyst&utm_source=1103)** | Butte - Monroe | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola - Garden | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Great Falls - 3rd Street | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0597?utm_campaign=Business%20Analyst&utm_source=1103)** | Harrisonburg - Main | Remote | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0604?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalispell - Timberwolf | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Greensboro - Burlington | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0592?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis - 800 Market | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Missoula - 2925 Palmer | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville - Shore | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Statesville - Broad | Remote | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen - Brick | Remote | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f060e?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta - 2520 Northwinds | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0596?utm_campaign=Business%20Analyst&utm_source=1103)** | Rockville - Church | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Vero Beach - Cardinal | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05be?utm_campaign=Business%20Analyst&utm_source=1103)** | Watford City - Main | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville - Lily | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Bend - Arizona | Remote | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston - Huntington | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0596?utm_campaign=Business%20Analyst&utm_source=1103)** | Rockville - Church | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0609?utm_campaign=Business%20Analyst&utm_source=1103)** | Butte - Monroe | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Greensboro - Burlington | Remote | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Shreveport - Youree | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham - Richard | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Piscataway - Knightsbridge | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Statesville - Broad | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Wauwatosa - Discovery | Remote | Oct 31 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f059c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette - Johnston | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville - Lily | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f0595?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoboken - River | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Tallahassee - Mahan | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola - Garden | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Vero Beach - Cardinal | Remote | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05b8?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean - Pinnacle | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park - College | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Piscataway - Knightsbridge | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham - Richard | Remote | Oct 31 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6723e80e22ab5b22499f05e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Bend - Arizona | Remote | Oct 31 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[ITS Business Operations Coordinator](https://jobright-internal.com/jobs/info/6723e27a75d438b7e47377f0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 31 |
 | **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/6723b8d0f27265e5859ef79b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, TX | On Site | Oct 31 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672369b013fde4d9f1dc5caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Oct 31 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/672349ed7561aaa6bdf9383f?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Oct 31 |
-| ↳ | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/672349ed7561aaa6bdf93888?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 31 |
 | ↳ | **[Business Analyst, Fusus ](https://jobright-internal.com/jobs/info/67233d9fb4eea638541402f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, United States | Hybrid | Oct 31 |
 | ↳ | **[Business Analyst, Fusus ](https://jobright-internal.com/jobs/info/67233d9fb4eea63854140319?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Oct 31 |
 | **[LSEG (London Stock Exchange Group)](http://www.lseg.com)** | **[Business Graduate Programme (Data and Analytics) 2025](https://jobright-internal.com/jobs/info/6705422195400bf9b37bceef?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Oct 31 |
+| **[Axon](https://www.axon.com)** | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/67231f5ca0db500f0a788df4?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 30 |
 | **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67232252c244dbb852264030?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Remote | Oct 30 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6722fd172a6022b6df586805?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Oct 30 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Business Process Design & Improvement Analyst I (Cox Automotive, Atlanta, GA)](https://jobright-internal.com/jobs/info/6722b01b30048ae6e4c63543?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 30 |
