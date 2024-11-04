@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Apixio](http://www.apixio.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672877f372030c2d4bbc2728?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Remote | Nov 03 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright-internal.com/jobs/info/6726ab7334b63a81811797e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Nov 02 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Associate Business Management Analyst/Business Management Analyst Linthicum MD](https://jobright-internal.com/jobs/info/67262a3d5b46a0c3c74d4e40?utm_campaign=Business%20Analyst&utm_source=1103)** | Linthicum, MD | On Site | Nov 02 |
 | **[Wurl](http://www.wurl.com)** | **[Business Analyst, Wurl](https://jobright-internal.com/jobs/info/6709ce096ef944f1ffe504a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Nov 02 |
 | **[Optum](https://www.optum.com)** | **[Business Analyst - National Remote](https://jobright-internal.com/jobs/info/6725c3b4ccb799c4a0f41ea3?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Remote | Nov 01 |
 | **[Virginia Tech](http://www.vt.edu)** | **[Business Systems Analyst](https://jobright-internal.com/jobs/info/6725e32485a7ff6a022c92de?utm_campaign=Business%20Analyst&utm_source=1103)** | Blacksburg, VA | Hybrid | Nov 01 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst – West Coast](https://jobright-internal.com/jobs/info/6725a19a4ca64ed6770645c1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 01 |
-| **[Optum](https://www.optum.com)** | **[Business Analyst Coordinator - National Remote](https://jobright-internal.com/jobs/info/67256f2bbb39374f00b59bfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Nov 01 |
+| **[Optum](https://www.optum.com)** | **[Business Analyst Coordinator - National Remote](https://jobright-internal.com/jobs/info/67256e4083979785176c5005?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Nov 01 |
 | ↳ | **[Business Analyst - National Remote](https://jobright-internal.com/jobs/info/67256e4083979785176c5074?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Remote | Nov 01 |
 | **[Nymbus](http://nymbus.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/672541cfb4d777ee0ab6a6c1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Nov 01 |
 | **[GEHA Health](https://geha.com/)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/67253933f6e193cf53a05dcd?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 01 |
@@ -106,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/672015a3f806b1549aad6ff0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 28 |
 | ↳ | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/67201a73361c124e63405b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 28 |
 | ↳ | **[EB360 Jr. Business Analyst – Member Enrollment (Syracuse, NY Location Highly Preferred))](https://jobright-internal.com/jobs/info/67201a73361c124e63405b7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | On Site | Oct 28 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0e?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Oct 28 |
-| ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 28 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 28 |
+| ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24b0e?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Oct 28 |
 | ↳ | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6720154c184e89a306a24ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
