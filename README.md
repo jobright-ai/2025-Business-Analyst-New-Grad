@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](http://cvshealth.com)** | **[Senior Coordinator, Business Analytics-Hybrid Hartford, CT.](https://jobright-internal.com/jobs/info/672982862f3854efce6962a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Nov 04 |
+| **[Metro Vein Centers](https://www.metroveincenters.com/)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/67296f0633f90f252f1b7787?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Nov 04 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Commercial Business Process Analyst](https://jobright-internal.com/jobs/info/672962fbe5b41c23ec28addf?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Nov 04 |
 | **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e23840186722a46?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, PA, West Chester | On Site | Nov 04 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e238401867229e9?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, NY, New York City | On Site | Nov 04 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright-internal.com/jobs/info/6729395c8e23840186722a12?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Bossier City | On Site | Nov 04 |
@@ -79,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Publicis Health](http://publicishealth.com)** | **[Senior Associate, Business Management](https://jobright-internal.com/jobs/info/67254a4d937b579248f3883e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 01 |
 | **[Hatch](https://www.hatch.com)** | **[New Graduate - Transit Business Analyst](https://jobright-internal.com/jobs/info/66ce2fe8e8674f09369acb75?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Nov 01 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Nov 01 |
-| **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright-internal.com/jobs/info/6724311ca29125ef8fbc457e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 31 |
+| **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright-internal.com/jobs/info/672425c7117ef96b808b2b06?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 31 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[ITS Business Operations Coordinator](https://jobright-internal.com/jobs/info/67242039ed2dfc4fccaa608d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 31 |
 | ↳ | **[ITS Business Operations Coordinator](https://jobright-internal.com/jobs/info/6723e27a75d438b7e47377f0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 31 |
 | **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/6723b8d0f27265e5859ef79b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, TX | On Site | Oct 31 |
@@ -110,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[GroupM](http://www.groupm.com/)** | **[Senior Associate, Business Analytics & Measurement](https://jobright-internal.com/jobs/info/6721609a953d297dc6fa5a7e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 29 |
 | ↳ | **[Senior Associate, Business Analytics & Measurement](https://jobright-internal.com/jobs/info/6721609a953d297dc6fa5a91?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 29 |
 | **[Slingshot](https://www.slingshotedu.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/67210314fb7f61330820d759?utm_campaign=Business%20Analyst&utm_source=1103)** | Marion, IN | On Site | Oct 29 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright-internal.com/jobs/info/6722029e884d8f433922aec8?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
