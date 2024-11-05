@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6729a7c2571a830ec22336d4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 04 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/67299ba6e148a0ad2efd3d2c?utm_campaign=Business%20Analyst&utm_source=1103)** | West Chester, PA | On Site | Nov 04 |
 | **[CVS Health](http://cvshealth.com)** | **[Senior Coordinator, Business Analytics-Hybrid Hartford, CT.](https://jobright-internal.com/jobs/info/672982862f3854efce6962a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Nov 04 |
 | **[Metro Vein Centers](https://www.metroveincenters.com/)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/67296f0633f90f252f1b7787?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Nov 04 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Commercial Business Process Analyst](https://jobright-internal.com/jobs/info/672962fbe5b41c23ec28addf?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Nov 04 |
-| **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e23840186722a46?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, PA, West Chester | On Site | Nov 04 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e238401867229e9?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, NY, New York City | On Site | Nov 04 |
+| **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e238401867229e9?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, NY, New York City | On Site | Nov 04 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e23840186722a46?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, PA, West Chester | On Site | Nov 04 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright-internal.com/jobs/info/6729395c8e23840186722a12?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Bossier City | On Site | Nov 04 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672937fc4780726a9c9f6187?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 04 |
 | **[Genpact](http://www.genpact.com/home)** | **[Business Analyst-HMS051673](https://jobright-internal.com/jobs/info/67293a63ded6b2dff41121cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Alexandria, VA | On Site | Nov 04 |
@@ -112,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.accenture.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672173ad006c95de9da130c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Oct 29 |
 | **[GroupM](http://www.groupm.com/)** | **[Senior Associate, Business Analytics & Measurement](https://jobright-internal.com/jobs/info/6721609a953d297dc6fa5a7e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 29 |
 | ↳ | **[Senior Associate, Business Analytics & Measurement](https://jobright-internal.com/jobs/info/6721609a953d297dc6fa5a91?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 29 |
-| **[Slingshot](https://www.slingshotedu.com/)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/67210314fb7f61330820d759?utm_campaign=Business%20Analyst&utm_source=1103)** | Marion, IN | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
