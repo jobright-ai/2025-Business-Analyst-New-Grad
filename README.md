@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672bbce63703b361a25a6396?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulare, CA | Hybrid | Nov 06 |
+| **[ByteDance](http://bytedance.com)** | **[Business Analyst (Multiple Positions)](https://jobright-internal.com/jobs/info/672b91e3ffb287a10b5900b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Nov 06 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672b6169494880845849d331?utm_campaign=Business%20Analyst&utm_source=1103)** | The Highlands, CO | On Site | Nov 06 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f37fb3c69104f56c8d918?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Nov 06 |
 | **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672b64b124f69a6678e63150?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 06 |
@@ -66,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/672adb8e043f959c0be51d7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Nov 05 |
 | **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672adb8e043f959c0be51d95?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst, Technology & Digital](https://jobright-internal.com/jobs/info/672aaf285e1bf204c5215677?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Nov 05 |
-| **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d2c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
+| **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d2c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst ,Technology & Digital, FT, 8A-4:30P](https://jobright-internal.com/jobs/info/672a7f58e746d4b496ec831e?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Nov 05 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/672a805ca67ec6bf44501f86?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York | On Site | Nov 05 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright-internal.com/jobs/info/672a419e4a94f21df6c43d8e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 05 |
@@ -94,11 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst – West Coast](https://jobright-internal.com/jobs/info/6725a19a4ca64ed6770645c1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 01 |
 | **[Nymbus](http://nymbus.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/672541cfb4d777ee0ab6a6c1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Nov 01 |
 | **[Publicis Health](http://publicishealth.com)** | **[Senior Associate, Business Management](https://jobright-internal.com/jobs/info/67254a4d937b579248f3883e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 01 |
-| **[Hatch](https://www.hatch.com)** | **[New Graduate - Transit Business Analyst](https://jobright-internal.com/jobs/info/66ce2fe8e8674f09369acb75?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Nov 01 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Nov 01 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright-internal.com/jobs/info/672425c7117ef96b808b2b06?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 31 |
-| **[Southern New Hampshire University](http://www.snhu.edu)** | **[ITS Business Operations Coordinator](https://jobright-internal.com/jobs/info/67242039ed2dfc4fccaa608d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 31 |
-| ↳ | **[ITS Business Operations Coordinator](https://jobright-internal.com/jobs/info/6723e27a75d438b7e47377f0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 31 |
 | **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/6723b8d0f27265e5859ef79b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, TX | On Site | Oct 31 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672369b013fde4d9f1dc5caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Oct 31 |
