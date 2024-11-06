@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/672adb8e043f959c0be51d7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Nov 05 |
+| **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672adb8e043f959c0be51d95?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst, Technology & Digital](https://jobright-internal.com/jobs/info/672aaf285e1bf204c5215677?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Nov 05 |
 | **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d2c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
@@ -72,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](http://cvshealth.com)** | **[Senior Coordinator, Business Analytics-Hybrid Hartford, CT.](https://jobright-internal.com/jobs/info/672982862f3854efce6962a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Nov 04 |
 | **[Metro Vein Centers](https://www.metroveincenters.com/)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/67296f0633f90f252f1b7787?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Nov 04 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Commercial Business Process Analyst](https://jobright-internal.com/jobs/info/672962fbe5b41c23ec28addf?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Nov 04 |
-| **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e23840186722a46?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, PA, West Chester | On Site | Nov 04 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e238401867229e9?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, NY, New York City | On Site | Nov 04 |
+| **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e238401867229e9?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, NY, New York City | On Site | Nov 04 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e23840186722a46?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, PA, West Chester | On Site | Nov 04 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright-internal.com/jobs/info/6729395c8e23840186722a12?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Bossier City | On Site | Nov 04 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 1)](https://jobright-internal.com/jobs/info/6719ae442becc1f306b7e435?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Nov 04 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672937fc4780726a9c9f6187?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 04 |
@@ -103,13 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Business Process Design & Improvement Analyst I (Cox Automotive, Atlanta, GA)](https://jobright-internal.com/jobs/info/6722b01b30048ae6e4c63543?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 30 |
 | **[GroupM](http://www.groupm.com/)** | **[Associate, Business Analytics & Measurement](https://jobright-internal.com/jobs/info/6722b01b30048ae6e4c637ed?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 30 |
 | **[CVS Health](http://cvshealth.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67226db40538ca01293d40da?utm_campaign=Business%20Analyst&utm_source=1103)** | Blue Bell, PA | On Site | Oct 30 |
-| **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6722201f8131dd28b59e032a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulare, CA | On Site | Oct 30 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6722201f8131dd28b59e0349?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | On Site | Oct 30 |
-| **[Red Ventures](http://www.redventures.com)** | **[Business Operations Analyst / Bankrate](https://jobright-internal.com/jobs/info/67059f6fac9dc0905ea10245?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 30 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Oct 30 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5395?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Oct 30 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5390?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Oct 30 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ccf11942f56550e89fc7bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Oct 30 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66cd476d3db7a33ab71e5393?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Oct 30 |
-| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Business Planner](https://jobright-internal.com/jobs/info/66e85ae50b621502e40e4bd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
