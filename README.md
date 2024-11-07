@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jet Aviation](http://www.jetaviation.com/)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/672bf278f5b9196d69af4623?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | Hybrid | Nov 06 |
+| **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad 2025](https://jobright-internal.com/jobs/info/672bee52020f91413ae2584b?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Nov 06 |
+| ↳ | **[Associate Business Analyst - New College Grad 2025](https://jobright-internal.com/jobs/info/672bde96b2a1541a3498fa75?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Nov 06 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672bd37b771c4b0d03214eff?utm_campaign=Business%20Analyst&utm_source=1103)** | Blue Bell, PA | On Site | Nov 06 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672bbce63703b361a25a6396?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulare, CA | Hybrid | Nov 06 |
 | **[ByteDance](http://bytedance.com)** | **[Business Analyst (Multiple Positions)](https://jobright-internal.com/jobs/info/672b91e3ffb287a10b5900b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Nov 06 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672b6169494880845849d331?utm_campaign=Business%20Analyst&utm_source=1103)** | The Highlands, CO | On Site | Nov 06 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f2eefe25ce19426a929d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Nov 06 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f37fb3c69104f56c8d918?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Nov 06 |
 | **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672b64b124f69a6678e63150?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 06 |
 | **[Principal Financial Group](https://principaletfs.com/)** | **[New Business Analyst](https://jobright-internal.com/jobs/info/672b3faac3c76165bceaf825?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA | Remote | Nov 06 |
@@ -69,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672adb8e043f959c0be51d95?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst, Technology & Digital](https://jobright-internal.com/jobs/info/672aaf285e1bf204c5215677?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Nov 05 |
 | **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d2c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst ,Technology & Digital, FT, 8A-4:30P](https://jobright-internal.com/jobs/info/672a7f58e746d4b496ec831e?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Nov 05 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[Junior Business Analyst](https://jobright-internal.com/jobs/info/672a805ca67ec6bf44501f86?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York | On Site | Nov 05 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright-internal.com/jobs/info/672a419e4a94f21df6c43d8e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 05 |
@@ -102,8 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Oct 31 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672369b013fde4d9f1dc5caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Oct 31 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst, Fusus](https://jobright-internal.com/jobs/info/672349ed7561aaa6bdf93888?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Oct 31 |
-| ↳ | **[Business Analyst, Fusus ](https://jobright-internal.com/jobs/info/67233d9fb4eea63854140319?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Oct 31 |
-| **[LSEG (London Stock Exchange Group)](http://www.lseg.com)** | **[Business Graduate Programme (Data and Analytics) 2025](https://jobright-internal.com/jobs/info/6705422195400bf9b37bceef?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Oct 31 |
-| **[ECS](https://www.ecstech.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67232252c244dbb852264030?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Remote | Oct 30 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6722fd172a6022b6df586805?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
