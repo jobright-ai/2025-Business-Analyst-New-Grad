@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Slalom](http://www.slalom.com)** | **[Slalom Flex (Project Based) - Business Analyst](https://jobright-internal.com/jobs/info/672cb27d91b2040fc84f7db1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Nov 07 |
+| **[BMO Capital Markets](https://capitalmarkets.bmo.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672cbab025df699caa4fb295?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 07 |
 | **[ByteDance](http://bytedance.com)** | **[Business Analyst (Multiple Positions)](https://jobright-internal.com/jobs/info/672c3ee7d70644f7e875b529?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Nov 06 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/672c2b5f7ca796d399598efc?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | Hybrid | Nov 06 |
 | **[AMAX](http://amax.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672c0a6b4c6ce94bdbe5c81c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Nov 06 |
@@ -85,8 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672a0bf1031ee8e1992eb70e?utm_campaign=Business%20Analyst&utm_source=1103)** | District of Columbia, United States | On Site | Nov 05 |
 | **[CGI](https://www.cgi.com)** | **[Junior Momentum Business Analyst](https://jobright-internal.com/jobs/info/66f1af7abb8de7edc047c675?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Nov 05 |
 | **[Principal Financial Group](https://principaletfs.com/)** | **[New Business Analyst](https://jobright-internal.com/jobs/info/6729fe6c859573e05167fb85?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA | Remote | Nov 05 |
-| **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6729a7c2571a830ec22336d4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 04 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/67299ba6e148a0ad2efd3d2c?utm_campaign=Business%20Analyst&utm_source=1103)** | West Chester, PA | On Site | Nov 04 |
+| **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67299ba6e148a0ad2efd3d2c?utm_campaign=Business%20Analyst&utm_source=1103)** | West Chester, PA | On Site | Nov 04 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Senior Coordinator, Business Analytics-Hybrid Hartford, CT.](https://jobright-internal.com/jobs/info/672982862f3854efce6962a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Nov 04 |
 | **[Metro Vein Centers](https://www.metroveincenters.com/)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/67296f0633f90f252f1b7787?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Nov 04 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Commercial Business Process Analyst](https://jobright-internal.com/jobs/info/672962fbe5b41c23ec28addf?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Nov 04 |
