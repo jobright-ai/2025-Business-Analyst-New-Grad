@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Business Analyst (Multiple Positions)](https://jobright-internal.com/jobs/info/672c3ee7d70644f7e875b529?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Nov 06 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/672c2b5f7ca796d399598efc?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | Hybrid | Nov 06 |
 | **[AMAX](http://amax.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672c0a6b4c6ce94bdbe5c81c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Nov 06 |
 | **[Jet Aviation](http://www.jetaviation.com/)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/672bf278f5b9196d69af4623?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | Hybrid | Nov 06 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Analyst - New College Grad 2025](https://jobright-internal.com/jobs/info/672bde96b2a1541a3498fa75?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Nov 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672bd37b771c4b0d03214eff?utm_campaign=Business%20Analyst&utm_source=1103)** | Blue Bell, PA | On Site | Nov 06 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672bbce63703b361a25a6396?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulare, CA | Hybrid | Nov 06 |
-| **[ByteDance](http://bytedance.com)** | **[Business Analyst (Multiple Positions)](https://jobright-internal.com/jobs/info/672b91e3ffb287a10b5900b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Nov 06 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672b6169494880845849d331?utm_campaign=Business%20Analyst&utm_source=1103)** | The Highlands, CO | On Site | Nov 06 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f5234b6f845a0b3c382d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Kennesaw, GA | On Site | Nov 06 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f2eefe25ce19426a929d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Nov 06 |
@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Senior Coordinator, Business Analytics-Hybrid Hartford, CT.](https://jobright-internal.com/jobs/info/672982862f3854efce6962a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Nov 04 |
 | **[Metro Vein Centers](https://www.metroveincenters.com/)** | **[Business Operations Analyst](https://jobright-internal.com/jobs/info/67296f0633f90f252f1b7787?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Nov 04 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Commercial Business Process Analyst](https://jobright-internal.com/jobs/info/672962fbe5b41c23ec28addf?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Nov 04 |
-| **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e23840186722a46?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, PA, West Chester | On Site | Nov 04 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e238401867229e9?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, NY, New York City | On Site | Nov 04 |
+| **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e238401867229e9?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, NY, New York City | On Site | Nov 04 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6729395c8e23840186722a46?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, PA, West Chester | On Site | Nov 04 |
 | **[General Dynamics Information Technology](http://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright-internal.com/jobs/info/6729395c8e23840186722a12?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Bossier City | On Site | Nov 04 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 1)](https://jobright-internal.com/jobs/info/6719ae442becc1f306b7e435?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Nov 04 |
 | **[Genpact](https://www.genpact.com)** | **[Business Analyst-HMS051673](https://jobright-internal.com/jobs/info/67293a63ded6b2dff41121cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Alexandria, VA | On Site | Nov 04 |
@@ -106,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Publicis Health](http://publicishealth.com)** | **[Senior Associate, Business Management](https://jobright-internal.com/jobs/info/67254a4d937b579248f3883e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 01 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/66ce9701164f67be514c88a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Nov 01 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright-internal.com/jobs/info/672425c7117ef96b808b2b06?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Oct 31 |
-| **[Antares Tech Services Inc](http://www.antarestechnologies.us)** | **[Process Analyst](https://jobright-internal.com/jobs/info/6723b8d0f27265e5859ef79b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bay City, TX | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
