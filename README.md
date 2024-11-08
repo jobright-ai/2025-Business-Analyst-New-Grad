@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ID Logistics US](https://www.kanelogistics.com/)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/672d629485ed943ec09be6bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Duluth, GA | Hybrid | Nov 07 |
+| **[Microsoft](https://www.microsoft.com)** | **[Business Analyst: MBA Full Time Opportunities](https://jobright-internal.com/jobs/info/672d8a28bfd506ac7855c53b?utm_campaign=Business%20Analyst&utm_source=1103)** | Redmond, WA | On Site | Nov 07 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright-internal.com/jobs/info/672d1331f3571f2d66e11c50?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 07 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL - R10176461](https://jobright-internal.com/jobs/info/672d1baa3fb042c7dd363a72?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Nov 07 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright-internal.com/jobs/info/672d169819b55791f22b5614?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 07 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672ced6d10476b0ad2a8791c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 07 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL](https://jobright-internal.com/jobs/info/672cf8915c7d0f63024c927b?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Nov 07 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672cc7137e3b872a4974e788?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Nov 07 |
-| **[Slalom](http://www.slalom.com)** | **[Slalom Flex (Project Based) - Business Analyst](https://jobright-internal.com/jobs/info/672cb27d91b2040fc84f7db1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Nov 07 |
 | **[BMO Capital Markets](https://capitalmarkets.bmo.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672cbab025df699caa4fb295?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 07 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright-internal.com/jobs/info/672c2b5f7ca796d399598efc?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | Hybrid | Nov 06 |
 | **[AMAX](http://amax.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672c0a6b4c6ce94bdbe5c81c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Nov 06 |
@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f2eefe25ce19426a929d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Nov 06 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f37fb3c69104f56c8d918?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Nov 06 |
 | **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672b64b124f69a6678e63150?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 06 |
-| **[Principal Financial Group](https://principaletfs.com/)** | **[New Business Analyst](https://jobright-internal.com/jobs/info/672b3faac3c76165bceaf825?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA | Remote | Nov 06 |
 | **[Esri](https://www.esri.com)** | **[Business Analyst I - HRIS](https://jobright-internal.com/jobs/info/672b01f931235e93a49d3051?utm_campaign=Business%20Analyst&utm_source=1103)** | Redlands, CA | On Site | Nov 05 |
 | **[American Express](http://www.americanexpress.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672aeb03ed001c1543fde09d?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunrise, FL | Hybrid | Nov 05 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright-internal.com/jobs/info/672adb8e043f959c0be51d7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Nov 05 |
@@ -108,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[VEIC](https://www.veic.org)** | **[Business Solutions Analyst 1](https://jobright-internal.com/jobs/info/6709a80f02731e9fb84eff1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Winooski, VT | Hybrid | Nov 02 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright-internal.com/jobs/info/6726ab7334b63a81811797e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Nov 02 |
 | **[Wurl](http://www.wurl.com)** | **[Business Analyst, Wurl](https://jobright-internal.com/jobs/info/6709ce096ef944f1ffe504a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Nov 02 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst – West Coast](https://jobright-internal.com/jobs/info/6725a19a4ca64ed6770645c1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 01 |
 | **[Nymbus](http://nymbus.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/672541cfb4d777ee0ab6a6c1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Nov 01 |
 | **[Publicis Health](http://publicishealth.com)** | **[Senior Associate, Business Management](https://jobright-internal.com/jobs/info/67254a4d937b579248f3883e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
