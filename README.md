@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BlackLine](https://www.blackline.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6711942d33b554cb75573aef?utm_campaign=Business%20Analyst&utm_source=1103)** | Westport, CT | On Site | Nov 08 |
 | **[ID Logistics US](https://www.kanelogistics.com/)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/672d629485ed943ec09be6bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Duluth, GA | Hybrid | Nov 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analyst: MBA Full Time Opportunities](https://jobright-internal.com/jobs/info/672d8a28bfd506ac7855c53b?utm_campaign=Business%20Analyst&utm_source=1103)** | Redmond, WA | On Site | Nov 07 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright-internal.com/jobs/info/672d1331f3571f2d66e11c50?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 07 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672adb8e043f959c0be51d95?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/670e0e5cc0e649edf6c380a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Nov 05 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst, Technology & Digital](https://jobright-internal.com/jobs/info/672aaf285e1bf204c5215677?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Nov 05 |
-| **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d2c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
+| **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d4e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst ,Technology & Digital, FT, 8A-4:30P](https://jobright-internal.com/jobs/info/672a7f58e746d4b496ec831e?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Nov 05 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright-internal.com/jobs/info/672a419e4a94f21df6c43d8e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 05 |
 | **[Blue Owl Capital](https://www.blueowl.com)** | **[Business Services Platform Analyst](https://jobright-internal.com/jobs/info/672a066e5eb3541bb7eeae48?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
@@ -107,6 +108,4 @@ For a complete list, click the following sortable link below:
 | **[VEIC](https://www.veic.org)** | **[Business Solutions Analyst 1](https://jobright-internal.com/jobs/info/6709a80f02731e9fb84eff1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Winooski, VT | Hybrid | Nov 02 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright-internal.com/jobs/info/6726ab7334b63a81811797e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Nov 02 |
 | **[Wurl](http://www.wurl.com)** | **[Business Analyst, Wurl](https://jobright-internal.com/jobs/info/6709ce096ef944f1ffe504a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Nov 02 |
-| **[Nymbus](http://nymbus.com)** | **[Technical Business Analyst](https://jobright-internal.com/jobs/info/672541cfb4d777ee0ab6a6c1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Nov 01 |
-| **[Publicis Health](http://publicishealth.com)** | **[Senior Associate, Business Management](https://jobright-internal.com/jobs/info/67254a4d937b579248f3883e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
