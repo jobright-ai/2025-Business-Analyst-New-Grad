@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Noblis](http://www.noblis.org)** | **[Business Analyst – Multiple Levels](https://jobright-internal.com/jobs/info/673102a00ce258317f222384?utm_campaign=Business%20Analyst&utm_source=1103)** | Mercer County, NJ | On Site | Nov 10 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6730d5fa12455b3ef36dc992?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Nov 10 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/6730d5fa12455b3ef36dc9a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Nov 10 |
+| ↳ | **[Business Analyst I, Global Logistics, Business Operations](https://jobright-internal.com/jobs/info/6730d5fa12455b3ef36dc9b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Nov 10 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright-internal.com/jobs/info/66db5558e311fc905e04b9ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Nov 10 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst, AWS Analytics and Data Solutions (ADS)](https://jobright-internal.com/jobs/info/672f712d13ce6f33190702b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Nov 09 |
 | **[Worldpay](https://worldpay.com)** | **[Business Analyst, Legal Technology & Operations](https://jobright-internal.com/jobs/info/671199d0b8ba73b01fb7e5ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | Hybrid | Nov 09 |
@@ -74,10 +78,10 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[IS Business Analyst-Assistant - Information Technology - Public Works (1051 PEX) (152540)](https://jobright-internal.com/jobs/info/672e9441f44d10ba109491e0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Nov 08 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672eb39e99b2a45464ecf3a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Nov 08 |
 | ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa834c2?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Gilbert | Hybrid | Nov 08 |
-| ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa833c8?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Phoenix | Hybrid | Nov 08 |
 | ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa834c5?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Tempe | Hybrid | Nov 08 |
-| ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa834c4?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Scottsdale | Hybrid | Nov 08 |
 | ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa834c3?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Mesa | Hybrid | Nov 08 |
+| ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa833c8?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Phoenix | Hybrid | Nov 08 |
+| ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa834c4?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Scottsdale | Hybrid | Nov 08 |
 | **[BlackLine](https://www.blackline.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6711942d33b554cb75573aef?utm_campaign=Business%20Analyst&utm_source=1103)** | Westport, CT | On Site | Nov 08 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright-internal.com/jobs/info/6724311ca29125ef8fbc457e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analyst: MBA Full Time Opportunities](https://jobright-internal.com/jobs/info/672d8a28bfd506ac7855c53b?utm_campaign=Business%20Analyst&utm_source=1103)** | Redmond, WA | On Site | Nov 07 |
