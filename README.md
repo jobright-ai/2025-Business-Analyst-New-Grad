@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Esri](https://www.esri.com)** | **[Associate Business Analyst](https://jobright-internal.com/jobs/info/673297942cce34a5b343a6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Redlands, CA | On Site | Nov 11 |
+| **[Intralox](http://www.intralox.com)** | **[Business Administrator](https://jobright-internal.com/jobs/info/67326d725d29c3e6251931d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | Nov 11 |
 | **[Easy Dynamics Corp](https://www.easydynamics.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/67325146e47f8016ebeb6546?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Nov 11 |
 | **[Laitram](https://www.laitram.com)** | **[Business Administrator](https://jobright-internal.com/jobs/info/673247f8e2ab13388ea0ae75?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Nov 11 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright-internal.com/jobs/info/66eba1a78df0f93bb2b58f02?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 11 |
@@ -73,16 +75,16 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Analyst - Business Systems](https://jobright-internal.com/jobs/info/672ed2fabecd33fbd19a6305?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunrise, FL | Hybrid | Nov 08 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672eb39e99b2a45464ecf35c?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Nov 08 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Improvement Strategist](https://jobright-internal.com/jobs/info/672e96f8c569b915379c4173?utm_campaign=Business%20Analyst&utm_source=1103)** | Sioux Falls, SD | On Site | Nov 08 |
-| ↳ | **[Business Improvement Strategist](https://jobright-internal.com/jobs/info/672e9441f44d10ba109491b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Fargo, ND | On Site | Nov 08 |
 | ↳ | **[Business Improvement Strategist](https://jobright-internal.com/jobs/info/672e9441f44d10ba109491c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Sioux Falls, SD | On Site | Nov 08 |
 | ↳ | **[Business Improvement Strategist](https://jobright-internal.com/jobs/info/672e90e971dd777880e8f38a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fargo, ND | On Site | Nov 08 |
+| ↳ | **[Business Improvement Strategist](https://jobright-internal.com/jobs/info/672e90e971dd777880e8f39c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fargo, ND | On Site | Nov 08 |
 | ↳ | **[Business Improvement Strategist](https://jobright-internal.com/jobs/info/672ea7bcc7dd19a03895094b?utm_campaign=Business%20Analyst&utm_source=1103)** | Sioux Falls, SD | On Site | Nov 08 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[IS Business Analyst-Assistant - Information Technology - Public Works (1051 PEX) (152540)](https://jobright-internal.com/jobs/info/672e9441f44d10ba109491e0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Nov 08 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672eb39e99b2a45464ecf3a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Nov 08 |
 | ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa833c8?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Phoenix | Hybrid | Nov 08 |
-| ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa834c3?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Mesa | Hybrid | Nov 08 |
 | ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa834c2?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Gilbert | Hybrid | Nov 08 |
 | ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa834c4?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Scottsdale | Hybrid | Nov 08 |
+| ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa834c3?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Mesa | Hybrid | Nov 08 |
 | ↳ | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright-internal.com/jobs/info/672e30a5fb9699375fa834c5?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Tempe | Hybrid | Nov 08 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Business Analyst, CoStar Risk Analytics](https://jobright-internal.com/jobs/info/66f56b7de3733c001865b67c?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Nov 08 |
 | **[BlackLine](https://www.blackline.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/6711942d33b554cb75573aef?utm_campaign=Business%20Analyst&utm_source=1103)** | Westport, CT | On Site | Nov 08 |
@@ -100,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[AMAX](http://amax.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672c0a6b4c6ce94bdbe5c81c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Nov 06 |
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad 2025](https://jobright-internal.com/jobs/info/672bee52020f91413ae2584b?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Nov 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672bd37b771c4b0d03214eff?utm_campaign=Business%20Analyst&utm_source=1103)** | Blue Bell, PA | On Site | Nov 06 |
+| **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/670f00772a474bb97e782aad?utm_campaign=Business%20Analyst&utm_source=1103)** | Kennesaw, GA | Hybrid | Nov 06 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672bbce63703b361a25a6396?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulare, CA | Hybrid | Nov 06 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672b6169494880845849d331?utm_campaign=Business%20Analyst&utm_source=1103)** | The Highlands, CO | On Site | Nov 06 |
 | ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/670f5234b6f845a0b3c382d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Kennesaw, GA | On Site | Nov 06 |
@@ -112,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672adb8e043f959c0be51d95?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright-internal.com/jobs/info/670e0e5cc0e649edf6c380a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Nov 05 |
 | **[S&P Global](https://www.spglobal.com)** | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d2c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
-| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
+| ↳ | **[Business Analyst](https://jobright-internal.com/jobs/info/672a8a93d0e389a21cbf0d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Nov 05 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst ,Technology & Digital, FT, 8A-4:30P](https://jobright-internal.com/jobs/info/672a7f58e746d4b496ec831e?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Nov 05 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright-internal.com/jobs/info/672a419e4a94f21df6c43d8e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 05 |
 | **[Abbott](https://www.abbott.com)** | **[IT Business Analyst](https://jobright-internal.com/jobs/info/670dbab9d337f7192aa4ac66?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Nov 05 |
