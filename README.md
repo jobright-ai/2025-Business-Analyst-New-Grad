@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Information Technology Operations Analyst](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a08?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Nov 20 |
+| **[AssetMark](http://www.assetmark.com)** | **[Senior Business Systems Analyst](https://jobright.ai/jobs/info/6721b452e66f7aa3c325fae5?utm_campaign=Business%20Analyst&utm_source=1103)** | Concord, CA | Hybrid | Nov 20 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/673dc581e052fcddee8f5556?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax County, VA | On Site | Nov 20 |
+| **[National Grid](https://www.nationalgrid.com)** | **[Business Specialist, IT](https://jobright.ai/jobs/info/673daff024b6539538b73512?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | Hybrid | Nov 20 |
+| ↳ | **[Business Specialist, IT](https://jobright.ai/jobs/info/673daf16b23568528ff63648?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | Hybrid | Nov 20 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/673d74b08c4cdf701c802b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 19 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Business Analyst](https://jobright.ai/jobs/info/673d609c440c0b23cc76c8a9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 19 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst for Lonely Planet](https://jobright.ai/jobs/info/673d5bc7addd446a8917979f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 19 |
@@ -92,13 +97,12 @@ For a complete list, click the following sortable link below:
 | **[GroupM](http://www.groupm.com/)** | **[Senior Associate, Business Analytics & Measurement](https://jobright.ai/jobs/info/6721609a953d297dc6fa5a91?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 13 |
 | **[PENNYMAC](https://www.pennymac.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/67355a8788af357f213faa8d?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Worth, TX | On Site | Nov 13 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67356111b224d5897e4bfb97?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Nov 13 |
-| **[Citi](https://www.citi.com)** | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/6735409a98d9e4fd4d77474e?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas Nevada United States | On Site | Nov 13 |
-| ↳ | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/6735409a98d9e4fd4d774841?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno California United States | On Site | Nov 13 |
+| **[Citi](https://www.citi.com)** | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/6735409a98d9e4fd4d774841?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno California United States | On Site | Nov 13 |
+| ↳ | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/6735409a98d9e4fd4d77474e?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas Nevada United States | On Site | Nov 13 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst II (Full Time) United States](https://jobright.ai/jobs/info/6735409a98d9e4fd4d774843?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | On Site | Nov 13 |
+| ↳ | **[Business Analyst II (Full Time) United States](https://jobright.ai/jobs/info/6735409a98d9e4fd4d77472e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California | On Site | Nov 13 |
 | ↳ | **[Business Analyst II (Full Time) United States](https://jobright.ai/jobs/info/6735409a98d9e4fd4d774844?utm_campaign=Business%20Analyst&utm_source=1103)** | RTP, North Carolina | On Site | Nov 13 |
 | ↳ | **[Business Analyst II (Full Time) United States](https://jobright.ai/jobs/info/6735409a98d9e4fd4d774842?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas | On Site | Nov 13 |
-| ↳ | **[Business Analyst II (Full Time) United States](https://jobright.ai/jobs/info/6735409a98d9e4fd4d77472e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California | On Site | Nov 13 |
 | **[Delta Dental of Washington](http://deltadentalwa.com/)** | **[Associate Business Analyst – Group Support](https://jobright.ai/jobs/info/67354890a0ca7dfc921726a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | On Site | Nov 13 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/673522ce217cdf682027a79c?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Nov 13 |
-| **[Infinity Software Development, Inc.](http://www.infinity-software.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/673502c1255e9a2c714c3cbe?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 13 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67353b5a1df87486a6758398?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
