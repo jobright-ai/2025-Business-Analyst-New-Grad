@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/673e991dd25eaf1ada044fe8?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Nov 20 |
+| **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/673e7c228e8e398e9b9c0145?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Barbara, CA | Hybrid | Nov 20 |
 | **[Equitable](https://equitable.com/)** | **[Business Analyst- Metrics Reporting](https://jobright.ai/jobs/info/673e7504c3d18d0508ee4956?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | On Site | Nov 20 |
 | ↳ | **[Business Analyst- Metrics Reporting](https://jobright.ai/jobs/info/673e7636c3d18d0508ee54ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 20 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/673e6bc04ee025687570153f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
@@ -64,10 +66,10 @@ For a complete list, click the following sortable link below:
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/673e6bc04ee02568757017c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Gaithersburg, MD | On Site | Nov 20 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Facilities Business Analyst - Associate /Intermediate](https://jobright.ai/jobs/info/673e45f1e5ad99a7361cc23d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Nov 20 |
 | **[Wipro](https://www.wipro.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/673e35ad4505162d9b19d3cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Nov 20 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e592a?utm_campaign=Business%20Analyst&utm_source=1103)** | US ME Remote | On Site | Nov 20 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5928?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Nov 20 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e592a?utm_campaign=Business%20Analyst&utm_source=1103)** | US ME Remote | On Site | Nov 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e58e1?utm_campaign=Business%20Analyst&utm_source=1103)** | US NH Remote | On Site | Nov 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5929?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 20 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5928?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Nov 20 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Information Technology Operations Analyst](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a08?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Nov 20 |
 | **[AssetMark](http://www.assetmark.com)** | **[Senior Business Systems Analyst](https://jobright.ai/jobs/info/6721b452e66f7aa3c325fae5?utm_campaign=Business%20Analyst&utm_source=1103)** | Concord, CA | Hybrid | Nov 20 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/673dc581e052fcddee8f5556?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax County, VA | On Site | Nov 20 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Specialist, IT](https://jobright.ai/jobs/info/673daf16b23568528ff63648?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | Hybrid | Nov 20 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/673d74b08c4cdf701c802b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 19 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Business Analyst](https://jobright.ai/jobs/info/673d609c440c0b23cc76c8a9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 19 |
-| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst for Lonely Planet](https://jobright.ai/jobs/info/673d5bc7addd446a8917979f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 19 |
 | **[Blue Owl Capital](https://www.blueowl.com)** | **[Business Services Platform Analyst](https://jobright.ai/jobs/info/672a066e5eb3541bb7eeae48?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 19 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/673cfdc955e90583c5fe8fc7?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Nov 19 |
 | **[Terabase Energy](https://www.terabase.energy/)** | **[Business Analyst - Drone Operations](https://jobright.ai/jobs/info/673d04f008cb1ec26770cd27?utm_campaign=Business%20Analyst&utm_source=1103)** | Berkeley, CA | Remote | Nov 19 |
@@ -102,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/6736b160e3a16f3f0dad0ddc?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Nov 14 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Brand Protection](https://jobright.ai/jobs/info/66e10527d5b051a5ab514d85?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Nov 14 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Senior Associate, Business Management](https://jobright.ai/jobs/info/67365e0b028d7e86aec2c725?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 14 |
-| **[Hitachi Digital Services](https://hitachids.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67199387dd6c266bc72597fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Nov 14 |
-| **[PENNYMAC](https://www.pennymac.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/673e5c2239e036a02447d27a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Worth, TX | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
