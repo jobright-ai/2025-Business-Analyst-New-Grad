@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blue Cross Blue Shield of Massachusetts](https://www.bluecrossma.org)** | **[Pharmacy Business Analyst](https://jobright.ai/jobs/info/6741196f5843fcd03c9b7b26?utm_campaign=Business%20Analyst&utm_source=1103)** | Hingham, MA | Remote | Nov 22 |
 | **[Transamerica](http://www.transamerica.com)** | **[Business Systems Analyst - Reinsurance Operations](https://jobright.ai/jobs/info/6740a451ade6457a827600c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Work From Home, USA | On Site | Nov 22 |
 | ↳ | **[Business Systems Analyst - Reinsurance Operations](https://jobright.ai/jobs/info/6740a451ade6457a8276014c?utm_campaign=Business%20Analyst&utm_source=1103)** | Cedar Rapids, Iowa | On Site | Nov 22 |
 | **[Noblis](http://www.noblis.org)** | **[Business Analyst – Multiple Levels](https://jobright.ai/jobs/info/673102a00ce258317f222384?utm_campaign=Business%20Analyst&utm_source=1103)** | Mercer County, NJ | On Site | Nov 21 |
@@ -76,10 +75,10 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Facilities Business Analyst - Associate /Intermediate](https://jobright.ai/jobs/info/673e66e961b2c2d395555d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Nov 20 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/673e6bc04ee02568757017c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Gaithersburg, MD | On Site | Nov 20 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Facilities Business Analyst - Associate /Intermediate](https://jobright.ai/jobs/info/673e45f1e5ad99a7361cc23d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Nov 20 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e592a?utm_campaign=Business%20Analyst&utm_source=1103)** | US ME Remote | On Site | Nov 20 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e58e1?utm_campaign=Business%20Analyst&utm_source=1103)** | US NH Remote | On Site | Nov 20 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5928?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Nov 20 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e58e1?utm_campaign=Business%20Analyst&utm_source=1103)** | US NH Remote | On Site | Nov 20 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e592a?utm_campaign=Business%20Analyst&utm_source=1103)** | US ME Remote | On Site | Nov 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5929?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 20 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5928?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Nov 20 |
 | **[AssetMark](http://www.assetmark.com)** | **[Senior Business Systems Analyst](https://jobright.ai/jobs/info/6721b452e66f7aa3c325fae5?utm_campaign=Business%20Analyst&utm_source=1103)** | Concord, CA | Hybrid | Nov 20 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/673dc581e052fcddee8f5556?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax County, VA | On Site | Nov 20 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Business Specialist, IT](https://jobright.ai/jobs/info/673daff024b6539538b73512?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | Hybrid | Nov 20 |
@@ -101,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Insurity](http://www.insurity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/673bab0d7926fa7e2bf113f5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst - Global Monetization Product & Tech](https://jobright.ai/jobs/info/673d514f408ee199564eec22?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Nov 17 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Analyst](https://jobright.ai/jobs/info/673cccad8c1ae1833b653dfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | On Site | Nov 17 |
-| **[Cummins Inc.](https://www.cummins.com/)** | **[Service Business Analyst Entry Level Full-Time Position](https://jobright.ai/jobs/info/671c3d52e4761584c87b1529?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, IN | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
