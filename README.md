@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6744f7b8f9e4cc0a0d79cf95?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Nov 25 |
+| **[Crew](http://theboomlab.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6744e7b3b97b51bad1511170?utm_campaign=Business%20Analyst&utm_source=1103)** | Golden Valley, MN | Hybrid | Nov 25 |
 | **[Worldpay](https://worldpay.com)** | **[Business Analyst, Legal Technology & Operations](https://jobright.ai/jobs/info/67448988b69bbd6813536936?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 25 |
 | **[Steward Health Care](https://www.stewardmedicalgroup.org)** | **[Business Associate](https://jobright.ai/jobs/info/67443881c81358bcfa11761a?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, OH | On Site | Nov 24 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/66d20a6b5d7020cef9e2d426?utm_campaign=Business%20Analyst&utm_source=1103)** | Ridgeland, MS | On Site | Nov 24 |
@@ -83,14 +85,13 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Facilities Business Analyst - Associate /Intermediate](https://jobright.ai/jobs/info/673e66e961b2c2d395555d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Nov 20 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/673e6bc04ee02568757017c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Gaithersburg, MD | On Site | Nov 20 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Facilities Business Analyst - Associate /Intermediate](https://jobright.ai/jobs/info/673e45f1e5ad99a7361cc23d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Nov 20 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5928?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Nov 20 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e592a?utm_campaign=Business%20Analyst&utm_source=1103)** | US ME Remote | On Site | Nov 20 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e592a?utm_campaign=Business%20Analyst&utm_source=1103)** | US ME Remote | On Site | Nov 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e58e1?utm_campaign=Business%20Analyst&utm_source=1103)** | US NH Remote | On Site | Nov 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5929?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 20 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/673e226266e8b4beae7e5928?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Nov 20 |
 | **[AssetMark](http://www.assetmark.com)** | **[Senior Business Systems Analyst](https://jobright.ai/jobs/info/6721b452e66f7aa3c325fae5?utm_campaign=Business%20Analyst&utm_source=1103)** | Concord, CA | Hybrid | Nov 20 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Business Specialist, IT](https://jobright.ai/jobs/info/673daff024b6539538b73512?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | Hybrid | Nov 20 |
 | ↳ | **[Business Specialist, IT](https://jobright.ai/jobs/info/673daf16b23568528ff63648?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | Hybrid | Nov 20 |
-| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst for Lonely Planet](https://jobright.ai/jobs/info/6740112c69699fd38edb9e8d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 19 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/673d74b08c4cdf701c802b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 19 |
 | **[Blue Owl Capital](https://www.blueowl.com)** | **[Business Services Platform Analyst](https://jobright.ai/jobs/info/672a066e5eb3541bb7eeae48?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 19 |
 | **[ICF](https://www.icf.com)** | **[Business Analyst](https://jobright.ai/jobs/info/673ffd8005bff1496db7174e?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Nov 19 |
@@ -98,6 +99,4 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[Business Analyst](https://jobright.ai/jobs/info/673ff9e7a4aa8394d2cc25b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | On Site | Nov 19 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/673cccad8c1ae1833b6539ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Nov 19 |
 | ↳ | **[Business Analyst 1-(Constituent Services Manager)-00059584](https://jobright.ai/jobs/info/673cccad8c1ae1833b653b99?utm_campaign=Business%20Analyst&utm_source=1103)** | GA 30334, GA | Hybrid | Nov 19 |
-| **[Conduent](https://www.conduent.com/)** | **[IVR Technical Business Analyst](https://jobright.ai/jobs/info/673f2b2e115978675bed1a42?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, KY | On Site | Nov 19 |
-| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright.ai/jobs/info/6744293549772dde65e18292?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
