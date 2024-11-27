@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst, MDI Lab,Technology & Digital, FT, 8A-4:30P](https://jobright.ai/jobs/info/672a7f58e746d4b496ec831e?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Nov 27 |
 | **[UC San Diego](https://extension.ucsd.edu/)** | **[Fleet Business Analyst - 133422](https://jobright.ai/jobs/info/67468ef9e314b3ee49f4c163?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Nov 26 |
 | **[adidas](https://www.adidas-group.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67465c58918327a4b64d1ad4?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA | Hybrid | Nov 26 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/674645a45be0a0a096c4e6b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Arkansas, United States | Remote | Nov 26 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Ohio Department of Health](https://www.odh.ohio.gov/)** | **[Business Process Analyst 1 (20014427) - HYBRID](https://jobright.ai/jobs/info/674619d3089791e6908fceec?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Nov 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright.ai/jobs/info/6745e72383feb7801227d1eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Nov 26 |
 | **[QVC](https://www.qurateretailgroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6745c5a74d90b7535aeeb5b3?utm_campaign=Business%20Analyst&utm_source=1103)** | West Chester, PA | On Site | Nov 26 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6746a7585efbcaba785eea4a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Nov 25 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/67455414b5936e7fce685857?utm_campaign=Business%20Analyst&utm_source=1103)** | Chino CA  91708, CA | Hybrid | Nov 25 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/674554a043927097b0c35590?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 25 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745513f5dbb82c687922e47?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | On Site | Nov 25 |
@@ -83,15 +83,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a54?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado, United States | Remote | Nov 25 |
 | ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc1?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Oregon Remote | On Site | Nov 25 |
 | ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc5?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Colorado Remote | On Site | Nov 25 |
-| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc3?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Minnesota Remote | On Site | Nov 25 |
-| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc7?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Arizona Remote | On Site | Nov 25 |
-| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc9?utm_campaign=Business%20Analyst&utm_source=1103)** | US - New York Remote | On Site | Nov 25 |
-| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc2?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Utah Remote | On Site | Nov 25 |
-| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbb95?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Texas Remote | On Site | Nov 25 |
 | ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc6?utm_campaign=Business%20Analyst&utm_source=1103)** | US - California Remote | On Site | Nov 25 |
-| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbca?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Massachusetts Remote | On Site | Nov 25 |
+| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc7?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Arizona Remote | On Site | Nov 25 |
 | ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc4?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Pennsylvania Remote | On Site | Nov 25 |
 | ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc8?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Indiana Remote | On Site | Nov 25 |
+| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbca?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Massachusetts Remote | On Site | Nov 25 |
+| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc9?utm_campaign=Business%20Analyst&utm_source=1103)** | US - New York Remote | On Site | Nov 25 |
+| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc3?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Minnesota Remote | On Site | Nov 25 |
+| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc2?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Utah Remote | On Site | Nov 25 |
+| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbb95?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Texas Remote | On Site | Nov 25 |
 | ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/6745326c7400ce33346bbbc0?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Washington Remote | On Site | Nov 25 |
 | **[PENNYMAC](https://www.pennymac.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/67452d6e84ac329a7948e5c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Worth, TX | On Site | Nov 25 |
 | **[Easy Dynamics Corp](https://www.easydynamics.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/674601abba24660f2c808105?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Nov 25 |
@@ -118,7 +118,4 @@ For a complete list, click the following sortable link below:
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/673ed5defdf016f8d8c2c109?utm_campaign=Business%20Analyst&utm_source=1103)** | Gaithersburg, MD | On Site | Nov 20 |
 | **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/673e7c228e8e398e9b9c0145?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Barbara, CA | Hybrid | Nov 20 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/673e6bc04ee025687570153f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
-| **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Facilities Business Analyst - Associate /Intermediate](https://jobright.ai/jobs/info/673e66e961b2c2d395555d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Nov 20 |
-| **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/673e6bc04ee02568757017c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Gaithersburg, MD | On Site | Nov 20 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Facilities Business Analyst - Associate /Intermediate](https://jobright.ai/jobs/info/673e45f1e5ad99a7361cc23d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
