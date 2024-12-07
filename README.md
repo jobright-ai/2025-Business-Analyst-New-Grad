@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Edwards Lifesciences](http://www.edwards.com)** | **[Associate Analyst, Business Systems](https://jobright.ai/jobs/info/67534a91be6f8037d2135981?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - California – Irvine | On Site | Dec 06 |
+| **[Endeavor](http://www.endeavorco.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/67537fd0ef7ce2280cf2e382?utm_campaign=Business%20Analyst&utm_source=1103)** | Beverly Hills, CA | On Site | Dec 06 |
+| **[Edwards Lifesciences](http://www.edwards.com)** | **[Associate Analyst, Business Systems](https://jobright.ai/jobs/info/67536d6fe3038567309b0e3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Dec 06 |
+| ↳ | **[Associate Analyst, Business Systems](https://jobright.ai/jobs/info/67534a91be6f8037d2135981?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - California – Irvine | On Site | Dec 06 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/675340b2e793b25278c1ce60?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Dec 06 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Technology Analyst 1,2,3](https://jobright.ai/jobs/info/675334fa452d3fd449f1595a?utm_campaign=Business%20Analyst&utm_source=1103)** | Baton Rouge, LA | On Site | Dec 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6752bea7412617fc01e58da2?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Dec 06 |
@@ -78,18 +80,18 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/675015352807ae58354804e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Dec 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674fe6847cae2d8f71961cac?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 03 |
 | ↳ | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674fe6847cae2d8f71961e83?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 03 |
-| ↳ | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674fe6847cae2d8f71961e85?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 03 |
 | ↳ | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674fe6847cae2d8f71961e86?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Dec 03 |
+| ↳ | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674fe6847cae2d8f71961e85?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 03 |
 | ↳ | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674fe6847cae2d8f71961e8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 03 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/674fcb715b191b7ab42ca162?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 03 |
 | **[Easy Dynamics Corp](https://www.easydynamics.com/)** | **[Business Analyst (Secret Clearance)](https://jobright.ai/jobs/info/67506cbf8aa699c1992f74e4?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Dec 03 |
 | **[Intralox](http://www.intralox.com)** | **[Business Administrator](https://jobright.ai/jobs/info/67326d725d29c3e6251931d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | Dec 03 |
 | **[Chevo Consulting, LLC](https://www.chevoconsulting.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6750efde5be68f2a3fe52196?utm_campaign=Business%20Analyst&utm_source=1103)** | New Carrollton, Maryland, United States | On Site | Dec 03 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674f4bc9dfef7ab54723010c?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Dec 03 |
-| ↳ | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722ffba?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Dec 03 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674f4bc9dfef7ab54723010e?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, District of Columbia, USA | On Site | Dec 03 |
 | ↳ | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674f4bc9dfef7ab54723010d?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Dec 03 |
+| ↳ | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674f4bc9dfef7ab54722ffba?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Dec 03 |
+| ↳ | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674f4bc9dfef7ab54723010c?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Dec 03 |
 | ↳ | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674f4bc9dfef7ab54723010f?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, Arizona, USA | On Site | Dec 03 |
-| ↳ | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674f4bc9dfef7ab54723010e?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, District of Columbia, USA | On Site | Dec 03 |
 | **[Mindex](http://www.mindex.com)** | **[Business Analyst](https://jobright.ai/jobs/info/674f2c2b584fb1ffff254fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, New York Metropolitan Area | Remote | Dec 03 |
 | **[Publicis Health](http://publicishealth.com)** | **[Senior Associate, Business Management](https://jobright.ai/jobs/info/674f381cd379000083e1f053?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Dec 03 |
 | ↳ | **[Senior Associate, Business Management](https://jobright.ai/jobs/info/674f2f4d3a135f09c4775f0e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 03 |
