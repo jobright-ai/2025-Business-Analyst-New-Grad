@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/67581efcca5299883525e1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Dec 10 |
+| **[AltaGas Ltd.](http://www.altagas.ca)** | **[WGL- Business Analyst](https://jobright.ai/jobs/info/67588c326c901154454dc720?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | On Site | Dec 10 |
+| **[Montefiore Health System](https://www.montefiorehealthsystem.org)** | **[BUSINESS ASSOCIATE](https://jobright.ai/jobs/info/67588897105d63354fb2015a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bronx, NY | On Site | Dec 10 |
+| **[Intel Corporation](http://www.intel.com)** | **[Customer Business Analyst](https://jobright.ai/jobs/info/675855ee9ab1a4c82791995d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hillsboro, OR | Hybrid | Dec 10 |
+| ↳ | **[Customer Business Analyst](https://jobright.ai/jobs/info/675855ee9ab1a4c827919a22?utm_campaign=Business%20Analyst&utm_source=1103)** | Folsom, CA | Hybrid | Dec 10 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/67588acded57ea202d927c3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 10 |
+| ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/675850f56a8bdbe0cf7f59d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 10 |
+| ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/6758655c6a81dc4e3ad1e942?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 10 |
+| ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/67581efcca5299883525e1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Dec 10 |
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/67581efcca5299883525e260?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Dec 10 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-MA-Boston/Business-Analyst--CoStar-Risk-Analytics_R34869?source=LinkedIn](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a730f?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 10 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I - Remote](https://jobright.ai/jobs/info/6757d24a911c87e33402184c?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Dec 09 |
@@ -66,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/67575a7b90cf7fe1e5d6f172?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Dec 09 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/675761011acd18cb3c7650d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Dec 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/67573c0d93178fb4979774ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Dec 09 |
-| **[Equitable](https://equitable.com/)** | **[Business Analyst- Metrics Reporting](https://jobright.ai/jobs/info/6757326a458658f178d96fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 09 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Business Analyst - DATA - WA](https://jobright.ai/jobs/info/67572fef22928e522f4786d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
 | ↳ | **[Associate Business Analyst - DATA - WA](https://jobright.ai/jobs/info/67572fef22928e522f478717?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
 | ↳ | **[Business Analyst - DATA](https://jobright.ai/jobs/info/6757148db2552bfe5c86c976?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Seattle Area | Hybrid | Dec 09 |
@@ -96,9 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst - DMO](https://jobright.ai/jobs/info/6752bacaf6c32ed3a424452e?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Dec 04 |
 | **[Inovalon](http://www.inovalon.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/67502963124787bbcf3e0e90?utm_campaign=Business%20Analyst&utm_source=1103)** | Canonsburg, PA | Hybrid | Dec 03 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/675015352807ae58354804e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Dec 03 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I, Production Planning, PLEX](https://jobright.ai/jobs/info/674fe6847cae2d8f71961e83?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 03 |
-| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/674fcb715b191b7ab42ca162?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 03 |
-| **[Easy Dynamics Corp](https://www.easydynamics.com/)** | **[Business Analyst (Secret Clearance)](https://jobright.ai/jobs/info/67506cbf8aa699c1992f74e4?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Dec 03 |
-| **[Intralox](http://www.intralox.com)** | **[Business Administrator](https://jobright.ai/jobs/info/67326d725d29c3e6251931d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | Dec 03 |
-| **[Chevo Consulting, LLC](https://www.chevoconsulting.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6750efde5be68f2a3fe52196?utm_campaign=Business%20Analyst&utm_source=1103)** | New Carrollton, Maryland, United States | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
