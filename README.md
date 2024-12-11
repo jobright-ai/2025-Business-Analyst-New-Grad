@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - DATA](https://jobright.ai/jobs/info/6757148db2552bfe5c86c976?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Seattle Area | Hybrid | Dec 09 |
 | ↳ | **[Associate Business Analyst - DATA](https://jobright.ai/jobs/info/6757148db2552bfe5c86c9eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Seattle Area | Hybrid | Dec 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6756bac044f6744b54ed303a?utm_campaign=Business%20Analyst&utm_source=1103)** | Barrow, AK | On Site | Dec 09 |
+| **[Gesa Credit Union](https://www.gesa.com)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/67383d8566232bde2cb192f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Richland, WA | On Site | Dec 08 |
 | **[Muckleshoot Casino Resort](http://muckleshootcasino.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675768682ce5e5ffa76735bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Dec 08 |
 | **[GlobalFoundries](https://gf.com/)** | **[IT Change Management Business Analyst (January 2025 New College Graduate)](https://jobright.ai/jobs/info/6754b1abca184e17940d866d?utm_campaign=Business%20Analyst&utm_source=1103)** | Malta, NY | On Site | Dec 07 |
 | **[Hitachi Digital Services](https://hitachids.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67199387dd6c266bc72597fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Dec 06 |
@@ -99,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67509d20976888504663e329?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 04 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67509e470391b24678f10149?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Dec 04 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67508e77e4fb7a71a54248bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 04 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6732bf0578d421b512a4816a?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
