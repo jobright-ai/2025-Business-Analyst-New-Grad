@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington Gas](https://www.washingtongas.com/)** | **[WGL- Business Analyst](https://jobright.ai/jobs/info/6758cfe33b67e8435ae08735?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | On Site | Dec 10 |
+| **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6758c5e223765ead0a603115?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Dec 10 |
+| **[boston](https://www.bostonwear.com)** | **[Analytical Business Analyst](https://jobright.ai/jobs/info/6758b4708bb22f008c5e9937?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 10 |
 | **[AltaGas Ltd.](http://www.altagas.ca)** | **[WGL- Business Analyst](https://jobright.ai/jobs/info/67588c326c901154454dc720?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | On Site | Dec 10 |
 | **[Montefiore Health System](https://www.montefiorehealthsystem.org)** | **[BUSINESS ASSOCIATE](https://jobright.ai/jobs/info/67588897105d63354fb2015a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bronx, NY | On Site | Dec 10 |
 | **[Intel Corporation](http://www.intel.com)** | **[Customer Business Analyst](https://jobright.ai/jobs/info/675855ee9ab1a4c82791995d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hillsboro, OR | Hybrid | Dec 10 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/6758655c6a81dc4e3ad1e942?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 10 |
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/67581efcca5299883525e1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Dec 10 |
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/67581efcca5299883525e260?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Dec 10 |
-| **[CoStar Group](http://www.costargroup.com/)** | **[https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-MA-Boston/Business-Analyst--CoStar-Risk-Analytics_R34869?source=LinkedIn](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a730f?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 10 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I - Remote](https://jobright.ai/jobs/info/6757d24a911c87e33402184c?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Dec 09 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67577966070e32baa167f9fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 09 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst (IT)](https://jobright.ai/jobs/info/675778b0dfedb535a9d556fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Dec 09 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Analyst - DATA - WA](https://jobright.ai/jobs/info/67572fef22928e522f478717?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
 | ↳ | **[Business Analyst - DATA](https://jobright.ai/jobs/info/6757148db2552bfe5c86c976?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Seattle Area | Hybrid | Dec 09 |
 | ↳ | **[Associate Business Analyst - DATA](https://jobright.ai/jobs/info/6757148db2552bfe5c86c9eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Seattle Area | Hybrid | Dec 09 |
-| **[Tokio Marine America](https://tmamerica.com/)** | **[Business Analyst, GBU](https://jobright.ai/jobs/info/67571202335821b21633eb23?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | Hybrid | Dec 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6756bac044f6744b54ed303a?utm_campaign=Business%20Analyst&utm_source=1103)** | Barrow, AK | On Site | Dec 09 |
 | **[Muckleshoot Casino Resort](http://muckleshootcasino.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675768682ce5e5ffa76735bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Dec 08 |
 | **[GlobalFoundries](https://gf.com/)** | **[IT Change Management Business Analyst (January 2025 New College Graduate)](https://jobright.ai/jobs/info/6754b1abca184e17940d866d?utm_campaign=Business%20Analyst&utm_source=1103)** | Malta, NY | On Site | Dec 07 |
@@ -99,7 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67509e470391b24678f10149?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Dec 04 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67508e77e4fb7a71a54248bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 04 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6732bf0578d421b512a4816a?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 04 |
-| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst - DMO](https://jobright.ai/jobs/info/6752bacaf6c32ed3a424452e?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Dec 04 |
-| **[Inovalon](http://www.inovalon.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/67502963124787bbcf3e0e90?utm_campaign=Business%20Analyst&utm_source=1103)** | Canonsburg, PA | Hybrid | Dec 03 |
-| **[Citi](https://www.citi.com)** | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/675015352807ae58354804e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
