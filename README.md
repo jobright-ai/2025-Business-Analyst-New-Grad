@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nippon Express USA](http://www.nipponexpress.com/)** | **[General Business Assistant](https://jobright.ai/jobs/info/675b226b27d75763545f9d51?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, CA | On Site | Dec 12 |
+| **[University of Virginia](https://lvg.virginia.edu)** | **[Business System Analyst](https://jobright.ai/jobs/info/675b1e1cd66a627394c60162?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlottesville, VA | Hybrid | Dec 12 |
 | **[Red Ventures](http://www.redventures.com)** | **[Business Operations Analyst / Bankrate](https://jobright.ai/jobs/info/675acff576f34b66e2021d0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 12 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/675ac99073730d9d7e75c9cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Dec 12 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/675a976bb783c7f0ac6151c7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 11 |
 | **[Kepler](https://www.keplergrp.com)** | **[Senior Analyst, Data Strategy & Analytics (Pharma Account)](https://jobright.ai/jobs/info/675a79068c83cfcf436860d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 11 |
 | **[AppLovin](https://www.applovin.com)** | **[Business Operations Analyst, eCommerce](https://jobright.ai/jobs/info/675a5e9d3ef088698498fb49?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Dec 11 |
+| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/675ae786948dc6037a442518?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 11 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL - R10176461](https://jobright.ai/jobs/info/675a44680084a09044dc5228?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Dec 11 |
 | **[AppLovin](https://www.applovin.com)** | **[Business Operations Analyst, eCommerce](https://jobright.ai/jobs/info/675a1335ae7761136a518bd3?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Dec 11 |
 | ↳ | **[Business Operations Analyst, eCommerce](https://jobright.ai/jobs/info/675a1c5903dffb0d1137eea4?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Dec 11 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Business Analyst for Workday Governance](https://jobright.ai/jobs/info/6759fd01a41d9ccf7136ccaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Jackson, MI Area | Remote | Dec 11 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6759d71b8467eb340b7af154?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Dec 11 |
 | **[Crew Carwash](http://crewcarwash.com)** | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759acc688a66cd25563e346?utm_campaign=Business%20Analyst&utm_source=1103)** | Noblesville, IN | On Site | Dec 11 |
 | ↳ | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759ad6f88a66cd25563ee67?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Indianapolis | On Site | Dec 11 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Montefiore Health System](https://www.montefiorehealthsystem.org)** | **[BUSINESS ASSOCIATE](https://jobright.ai/jobs/info/67588897105d63354fb2015a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bronx, NY | On Site | Dec 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright.ai/jobs/info/6746c4c393d4d79e7e3540c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 10 |
 | **[Intel Corporation](http://www.intel.com)** | **[Customer Business Analyst](https://jobright.ai/jobs/info/675855ee9ab1a4c82791995d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hillsboro, OR | Hybrid | Dec 10 |
-| ↳ | **[Customer Business Analyst](https://jobright.ai/jobs/info/675855ee9ab1a4c827919a22?utm_campaign=Business%20Analyst&utm_source=1103)** | Folsom, CA | Hybrid | Dec 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/67588acded57ea202d927c3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 10 |
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/675850f56a8bdbe0cf7f59d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 10 |
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/6758655c6a81dc4e3ad1e942?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 10 |
@@ -89,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Lead Analyst - Remote](https://jobright.ai/jobs/info/675aba28d73ef79fbcef2893?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 10 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I - Remote](https://jobright.ai/jobs/info/6757d24a911c87e33402184c?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Dec 09 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67577966070e32baa167f9fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 09 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst (IT)](https://jobright.ai/jobs/info/675778b0dfedb535a9d556fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Dec 09 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Associate Business Analyst - DATA - WA](https://jobright.ai/jobs/info/6759b446566154ea27f9604b?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
 | ↳ | **[Business Analyst - DATA - WA](https://jobright.ai/jobs/info/67591d91a80d557b60c98d3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/67575a7b90cf7fe1e5d6f172?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Dec 09 |
@@ -106,7 +105,4 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Business Technology Analyst 1,2,3](https://jobright.ai/jobs/info/675334fa452d3fd449f1595a?utm_campaign=Business%20Analyst&utm_source=1103)** | Baton Rouge, LA | On Site | Dec 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6752bea7412617fc01e58da2?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Dec 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright.ai/jobs/info/6752ac2221dd39d236319f07?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Dec 05 |
-| **[NEOGOV](http://www.neogov.com)** | **[Junior Business Analyst - Data Visualization & Automation](https://jobright.ai/jobs/info/6752b659d0fa91d738152f1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake County, UT | On Site | Dec 05 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst - Real Estate and Facilities](https://jobright.ai/jobs/info/6752451a9f8a186df1064e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | DC-Baltimore Area | On Site | Dec 05 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/673522ce217cdf682027a79c?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
