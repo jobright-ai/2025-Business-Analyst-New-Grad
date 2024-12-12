@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL - R10176461](https://jobright.ai/jobs/info/675a44680084a09044dc5228?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Dec 11 |
 | **[AppLovin](https://www.applovin.com)** | **[Business Operations Analyst, eCommerce](https://jobright.ai/jobs/info/675a1335ae7761136a518bd3?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Dec 11 |
 | ↳ | **[Business Operations Analyst, eCommerce](https://jobright.ai/jobs/info/675a1c5903dffb0d1137eea4?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Dec 11 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Business Analyst for Workday Governance](https://jobright.ai/jobs/info/6759fd01a41d9ccf7136ccaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Jackson, MI Area | Remote | Dec 11 |
@@ -103,8 +104,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Associate, Business Analytics - Scottsdale, AZ (Hybrid)](https://jobright.ai/jobs/info/6752ac2221dd39d236319f07?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Dec 05 |
 | **[NEOGOV](http://www.neogov.com)** | **[Junior Business Analyst - Data Visualization & Automation](https://jobright.ai/jobs/info/6752b659d0fa91d738152f1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake County, UT | On Site | Dec 05 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst - Real Estate and Facilities](https://jobright.ai/jobs/info/6752451a9f8a186df1064e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | DC-Baltimore Area | On Site | Dec 05 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/673522ce217cdf682027a79c?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 05 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675222474b07b47340e51e91?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Dec 05 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67353b5a1df87486a6758398?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 05 |
 | **[McDonald's](http://www.mcdonalds.com)** | **[Business Technical Analyst](https://jobright.ai/jobs/info/6751e9af9c450f87336db003?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Dec 05 |
-| **[Conduent](https://www.conduent.com/)** | **[Technology Business Analyst I](https://jobright.ai/jobs/info/673582854f81f0a16e7fc775?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
