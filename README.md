@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/675bfb9abf94f0ad7e45653d?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Dec 13 |
 | **[NexGen Technologies, Inc.](http://nexgeninc.com)** | **[Jr Business Analyst](https://jobright.ai/jobs/info/675bdc3b8de3b4b1837a85ea?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/675bce0eeafeb498027a60e3?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | On Site | Dec 12 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/675bad83b8d585b1cb1a277b?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Dec 12 |
