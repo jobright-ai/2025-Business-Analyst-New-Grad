@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NexGen Technologies, Inc.](http://nexgeninc.com)** | **[Jr Business Analyst](https://jobright.ai/jobs/info/675bdc3b8de3b4b1837a85ea?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/675bce0eeafeb498027a60e3?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | On Site | Dec 12 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/675bad83b8d585b1cb1a277b?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Dec 12 |
+| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675bae1760145fc4a572f137?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 12 |
 | **[NexGen Technologies, Inc.](http://nexgeninc.com)** | **[Business Analyst (Jr.)](https://jobright.ai/jobs/info/675b8818e24340b84b6867f0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Freight](https://jobright.ai/jobs/info/675b6ab664d0fc509240dbd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 12 |
 | **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675b59b0fdf382fb300d3c82?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, NY – U.S. | On Site | Dec 12 |
@@ -65,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Red Ventures](http://www.redventures.com)** | **[Business Operations Analyst / Bankrate](https://jobright.ai/jobs/info/675acff576f34b66e2021d0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 12 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/675a976bb783c7f0ac6151c7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 11 |
 | **[Kepler](https://www.keplergrp.com)** | **[Senior Analyst, Data Strategy & Analytics (Pharma Account)](https://jobright.ai/jobs/info/675a79068c83cfcf436860d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 11 |
-| **[Nippon Express USA](http://www.nipponexpress.com/)** | **[General Business Assistant](https://jobright.ai/jobs/info/675b5428b5592661fb236f31?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, CA, US | On Site | Dec 11 |
 | **[AppLovin](https://www.applovin.com)** | **[Business Operations Analyst, eCommerce](https://jobright.ai/jobs/info/675a5e9d3ef088698498fb49?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Dec 11 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/675ae786948dc6037a442518?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 11 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL - R10176461](https://jobright.ai/jobs/info/675a44680084a09044dc5228?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Dec 11 |
@@ -90,7 +93,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/6758655c6a81dc4e3ad1e942?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 10 |
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/67581efcca5299883525e1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Dec 10 |
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/67581efcca5299883525e260?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Dec 10 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Lead Analyst - Remote](https://jobright.ai/jobs/info/675aba28d73ef79fbcef2893?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 10 |
+| **[CoStar Group](http://www.costargroup.com/)** | **[https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-MA-Boston/Business-Analyst--CoStar-Risk-Analytics_R34869?source=LinkedIn](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a730f?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 10 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67577966070e32baa167f9fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 09 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Business Analyst - DATA - WA](https://jobright.ai/jobs/info/67591d91a80d557b60c98d3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
 | ↳ | **[Associate Business Analyst - DATA - WA](https://jobright.ai/jobs/info/6759b446566154ea27f9604b?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
@@ -105,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[GlobalFoundries](https://gf.com/)** | **[IT Change Management Business Analyst (January 2025 New College Graduate)](https://jobright.ai/jobs/info/6754b1abca184e17940d866d?utm_campaign=Business%20Analyst&utm_source=1103)** | Malta, NY | On Site | Dec 07 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/6753bb9e6c9342aef197bb39?utm_campaign=Business%20Analyst&utm_source=1103)** | Beverly Hills, CA | On Site | Dec 06 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/67537fd0ef7ce2280cf2e382?utm_campaign=Business%20Analyst&utm_source=1103)** | Beverly Hills, CA | On Site | Dec 06 |
-| **[NEOGOV](http://www.neogov.com)** | **[Business Technology Analyst 1,2,3](https://jobright.ai/jobs/info/675334fa452d3fd449f1595a?utm_campaign=Business%20Analyst&utm_source=1103)** | Baton Rouge, LA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
