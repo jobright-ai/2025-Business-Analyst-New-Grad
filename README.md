@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NexGen Technologies, Inc.](http://nexgeninc.com)** | **[Business Analyst (Jr.)](https://jobright.ai/jobs/info/675b8818e24340b84b6867f0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Freight](https://jobright.ai/jobs/info/675b6ab664d0fc509240dbd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 12 |
 | **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675b59b0fdf382fb300d3c82?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, NY – U.S. | On Site | Dec 12 |
 | **[The MIL Corporation](https://www.milcorp.com/)** | **[Interface Analyst (Business Analysis, Junior Analyst)](https://jobright.ai/jobs/info/675b3cbd5070a04ec44c4bde?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Dec 12 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/67581efcca5299883525e260?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Dec 10 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Lead Analyst - Remote](https://jobright.ai/jobs/info/675aba28d73ef79fbcef2893?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 10 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67577966070e32baa167f9fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 09 |
-| **[Grange Insurance Association](https://www.grange.com/)** | **[Associate Business Analyst - DATA - WA](https://jobright.ai/jobs/info/6759b446566154ea27f9604b?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
-| ↳ | **[Business Analyst - DATA - WA](https://jobright.ai/jobs/info/67591d91a80d557b60c98d3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
+| **[Grange Insurance Association](https://www.grange.com/)** | **[Business Analyst - DATA - WA](https://jobright.ai/jobs/info/67591d91a80d557b60c98d3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
+| ↳ | **[Associate Business Analyst - DATA - WA](https://jobright.ai/jobs/info/6759b446566154ea27f9604b?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/67575a7b90cf7fe1e5d6f172?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Dec 09 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/675761011acd18cb3c7650d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Dec 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/67573c0d93178fb4979774ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Dec 09 |
