@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maricopa County](http://www.maricopa.gov)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/675cc31a309ba3181dbdb8d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Dec 13 |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/675cbd494949883b7be75748?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 13 |
+| **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675cacca57a9aab2d1bba6b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 13 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/675c7aac79947bda0f7d7052?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 13 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675c611bdac68791c9e2bf1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, Wisconsin, United States of America | On Site | Dec 13 |
-| **[Abbott](https://www.abbott.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/673f8edd3970bc3321a31bbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Dec 13 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/675bfb9abf94f0ad7e45653d?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Dec 13 |
 | **[NexGen Technologies, Inc.](http://nexgeninc.com)** | **[Jr Business Analyst](https://jobright.ai/jobs/info/675bdc3b8de3b4b1837a85ea?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/675bce0eeafeb498027a60e3?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | On Site | Dec 12 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6759b0a113090e4ab7fc4759?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Dec 11 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67596ecb61407463a06543b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Dec 10 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Performance Analyst I - Citywide Examination (1803) (X00082)](https://jobright.ai/jobs/info/675909e4548886fb3033c528?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 10 |
-| **[Intel Corporation](http://www.intel.com)** | **[Customer Business Analyst](https://jobright.ai/jobs/info/675b40ba522e304241496436?utm_campaign=Business%20Analyst&utm_source=1103)** | Folsom, CA | Hybrid | Dec 10 |
 | **[Montefiore Health System](https://www.montefiorehealthsystem.org)** | **[BUSINESS ASSOCIATE](https://jobright.ai/jobs/info/67588897105d63354fb2015a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bronx, NY | On Site | Dec 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright.ai/jobs/info/6746c4c393d4d79e7e3540c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/6758655c6a81dc4e3ad1e942?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 10 |
