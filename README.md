@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GroupM](http://www.groupm.com/)** | **[Senior Associate, Business Analytics & Measurement](https://jobright.ai/jobs/info/675cf43b0bfb47f8de8ed8bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Dec 13 |
+| **[The Squires Group, Inc.](https://squiresgroup.com)** | **[Business Analyst - CLEARANCE REQUIRED](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae476e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Dec 13 |
+| **[FIS](http://www.fisglobal.com)** | **[Business Process Analyst/Jr Engineer - On Site](https://jobright.ai/jobs/info/675cec0a96a078b55ee2f64b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Dec 13 |
+| **[Steve Madden](http://www.stevemadden.com/)** | **[Business Analyst, China](https://jobright.ai/jobs/info/675cd22790ec13a0acc8079f?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Island City, NY | On Site | Dec 13 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/675cc31a309ba3181dbdb8d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Dec 13 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/675cbd494949883b7be75748?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 13 |
 | **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675cacca57a9aab2d1bba6b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 13 |
@@ -64,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675c611bdac68791c9e2bf1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, Wisconsin, United States of America | On Site | Dec 13 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/675bfb9abf94f0ad7e45653d?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Dec 13 |
 | **[NexGen Technologies, Inc.](http://nexgeninc.com)** | **[Jr Business Analyst](https://jobright.ai/jobs/info/675bdc3b8de3b4b1837a85ea?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/675bce0eeafeb498027a60e3?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | On Site | Dec 12 |
+| **[The Squires Group, Inc.](https://squiresgroup.com)** | **[Business Analyst - CLEARANCE REQUIRED](https://jobright.ai/jobs/info/675cdacccc6ca78f0c919d12?utm_campaign=Business%20Analyst&utm_source=1103)** | 1525 Wilson Blvd, Arlington, VA, US | Hybrid | Dec 12 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/675bad83b8d585b1cb1a277b?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Dec 12 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675bae1760145fc4a572f137?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 12 |
 | **[NexGen Technologies, Inc.](http://nexgeninc.com)** | **[Business Analyst (Jr.)](https://jobright.ai/jobs/info/675b8818e24340b84b6867f0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
