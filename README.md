@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 13 |
 | **[GroupM](http://www.groupm.com/)** | **[Senior Associate, Business Analytics & Measurement](https://jobright.ai/jobs/info/675d0d2290aebb94fc66689b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 13 |
 | **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675cfa05035823761dfef8f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 13 |
 | **[GroupM](http://www.groupm.com/)** | **[Senior Associate, Business Analytics & Measurement](https://jobright.ai/jobs/info/675cf43b0bfb47f8de8ed8bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Dec 13 |
@@ -91,16 +92,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759ad6f88a66cd25563ee67?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Indianapolis | On Site | Dec 11 |
 | ↳ | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759ad6f88a66cd25563ee68?utm_campaign=Business%20Analyst&utm_source=1103)** | Terre Haute, IN | On Site | Dec 11 |
 | ↳ | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759ad6f88a66cd25563ee69?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomington, IN | On Site | Dec 11 |
-| **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6759b0a113090e4ab7fc4759?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Dec 11 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67596ecb61407463a06543b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Dec 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/675cfbdda877f78440ccac2e?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 10 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Performance Analyst I - Citywide Examination (1803) (X00082)](https://jobright.ai/jobs/info/675909e4548886fb3033c528?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 10 |
+| **[Washington Gas](https://www.washingtongas.com/)** | **[WGL- Business Analyst](https://jobright.ai/jobs/info/6758cfe33b67e8435ae08735?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | On Site | Dec 10 |
+| **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6759b0a113090e4ab7fc4759?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Dec 10 |
 | **[Montefiore Health System](https://www.montefiorehealthsystem.org)** | **[BUSINESS ASSOCIATE](https://jobright.ai/jobs/info/67588897105d63354fb2015a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bronx, NY | On Site | Dec 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/675da73af6a01aa5e3d73a67?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Dec 10 |
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/675d9e45c753e24c653d3aaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright.ai/jobs/info/6746c4c393d4d79e7e3540c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/675d778c175e06b61b2fd933?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Dec 10 |
 | ↳ | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/6758655c6a81dc4e3ad1e942?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 10 |
+| **[CoStar Group](http://www.costargroup.com/)** | **[https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-MA-Boston/Business-Analyst--CoStar-Risk-Analytics_R34869?source=LinkedIn](https://jobright.ai/jobs/info/67580f27cc640cdc9f0a730f?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 10 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67577966070e32baa167f9fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 09 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Associate Business Analyst - DATA - WA](https://jobright.ai/jobs/info/6759b446566154ea27f9604b?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
 | ↳ | **[Business Analyst - DATA - WA](https://jobright.ai/jobs/info/67591d91a80d557b60c98d3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Dec 09 |
