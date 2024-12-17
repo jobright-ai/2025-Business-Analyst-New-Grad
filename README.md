@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/6761aa1e63ac43e853f1fa0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Americas-United States of America-California-San Francisco | On Site | Dec 17 |
+| ↳ | **[Regional Analyst](https://jobright.ai/jobs/info/6761aa1e63ac43e853f1fab4?utm_campaign=Business%20Analyst&utm_source=1103)** | Americas-United States of America-California-Los Angeles | On Site | Dec 17 |
+| **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright.ai/jobs/info/67619b0fd9017b74c2dda397?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Dec 17 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I - Remote](https://jobright.ai/jobs/info/676113fa4519d69b40f50395?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Dec 16 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Business Operations / Analyst / New York](https://jobright.ai/jobs/info/6760f7058edadebff1090835?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/675761011acd18cb3c7650d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Dec 16 |
@@ -65,8 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Boise State University](https://boisestate.edu)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/6760da4a7bcf122935006d33?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Remote | Dec 16 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Business Operations / Analyst / New York](https://jobright.ai/jobs/info/6760cd14c0050523e6aecc48?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Sheriff's Business Analyst - CalAIM (County Classification: Business Systems Analyst I/II/III)](https://jobright.ai/jobs/info/6760c0f574b06de369ab557e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA | Hybrid | Dec 16 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6760c60197c850b539ff2c53?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67608f3d25fffa55ef092cf2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York | On Site | Dec 16 |
 | **[Boise State University](https://boisestate.edu)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/67607b14c7f3f01598e88bd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Hybrid | Dec 16 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/6760ce875eb04d11d85f162a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | On Site | Dec 16 |
 | **[GroupM](http://www.groupm.com/)** | **[Senior Associate, Business Analytics & Measurement](https://jobright.ai/jobs/info/675cf43b0bfb47f8de8ed8bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Dec 16 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675cfa05035823761dfef8f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 13 |
 | **[The Squires Group, Inc.](https://squiresgroup.com)** | **[Business Analyst - CLEARANCE REQUIRED](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae476e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Dec 13 |
 | **[FIS](http://www.fisglobal.com)** | **[Business Process Analyst/Jr Engineer - On Site](https://jobright.ai/jobs/info/675cec0a96a078b55ee2f64b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Dec 13 |
-| **[Steve Madden](http://www.stevemadden.com/)** | **[Business Analyst, China](https://jobright.ai/jobs/info/675cd22790ec13a0acc8079f?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Island City, NY | On Site | Dec 13 |
 | **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675cacca57a9aab2d1bba6b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 13 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/675c7aac79947bda0f7d7052?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 13 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675c611bdac68791c9e2bf1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, Wisconsin, United States of America | On Site | Dec 13 |
@@ -101,7 +101,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759ad6f88a66cd25563ee67?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Indianapolis | On Site | Dec 11 |
 | ↳ | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759ad6f88a66cd25563ee68?utm_campaign=Business%20Analyst&utm_source=1103)** | Terre Haute, IN | On Site | Dec 11 |
 | ↳ | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759ad6f88a66cd25563ee69?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomington, IN | On Site | Dec 11 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Box Truck Network (ABTN)](https://jobright.ai/jobs/info/675cfbdda877f78440ccac2e?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 10 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[Performance Analyst I - Citywide Examination (1803) (X00082)](https://jobright.ai/jobs/info/675909e4548886fb3033c528?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 10 |
-| **[Washington Gas](https://www.washingtongas.com/)** | **[WGL- Business Analyst](https://jobright.ai/jobs/info/6758cfe33b67e8435ae08735?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
