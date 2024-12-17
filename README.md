@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67608f3d25fffa55ef092cf2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York | On Site | Dec 16 |
+| **[Boise State University](https://boisestate.edu)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/67607b14c7f3f01598e88bd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Hybrid | Dec 16 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Business Analyst, Business Analysis](https://jobright.ai/jobs/info/675ff6af1f9eeff75585b74e?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | Hybrid | Dec 16 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/675f52d01faf5d639f92d9b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Dec 15 |
 | ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/675f4515846f0f63345815b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | Remote | Dec 15 |
 | **[BioSpace](http://www.biospace.com/)** | **[Entry Level IS Business Systems Analyst](https://jobright.ai/jobs/info/675efdd9d854573a560098d7?utm_campaign=Business%20Analyst&utm_source=1103)** | New Albany, OH | Hybrid | Dec 15 |
 | **[DLL](http://dllgroup.com)** | **[Operations Reporting Analyst](https://jobright.ai/jobs/info/6741463721548116392c962a?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Dec 14 |
-| ↳ | **[Operations Reporting Analyst](https://jobright.ai/jobs/info/674164562bdd7df83c4877a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA | On Site | Dec 14 |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/67609ebd7af4d7f178be51a3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 14 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 13 |
 | **[GroupM](http://www.groupm.com/)** | **[Senior Associate, Business Analytics & Measurement](https://jobright.ai/jobs/info/675d0d2290aebb94fc66689b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 13 |
 | **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675cfa05035823761dfef8f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 13 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[The Squires Group, Inc.](https://squiresgroup.com)** | **[Business Analyst - CLEARANCE REQUIRED](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae476e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Dec 13 |
 | **[FIS](http://www.fisglobal.com)** | **[Business Process Analyst/Jr Engineer - On Site](https://jobright.ai/jobs/info/675cec0a96a078b55ee2f64b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Dec 13 |
 | **[Steve Madden](http://www.stevemadden.com/)** | **[Business Analyst, China](https://jobright.ai/jobs/info/675cd22790ec13a0acc8079f?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Island City, NY | On Site | Dec 13 |
-| **[Cotiviti](http://www.cotiviti.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/675cbd494949883b7be75748?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 13 |
 | **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675cacca57a9aab2d1bba6b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 13 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/675c7aac79947bda0f7d7052?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 13 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675c611bdac68791c9e2bf1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, Wisconsin, United States of America | On Site | Dec 13 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[The Squires Group, Inc.](https://squiresgroup.com)** | **[Business Analyst - CLEARANCE REQUIRED](https://jobright.ai/jobs/info/675cdacccc6ca78f0c919d12?utm_campaign=Business%20Analyst&utm_source=1103)** | 1525 Wilson Blvd, Arlington, VA, US | Hybrid | Dec 12 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/675bad83b8d585b1cb1a277b?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Dec 12 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675bae1760145fc4a572f137?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 12 |
-| **[NexGen Technologies, Inc.](http://nexgeninc.com)** | **[Business Analyst (Jr.)](https://jobright.ai/jobs/info/675b8818e24340b84b6867f0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
 | **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675b59b0fdf382fb300d3c82?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, NY – U.S. | On Site | Dec 12 |
 | **[The MIL Corporation](https://www.milcorp.com/)** | **[Interface Analyst (Business Analysis, Junior Analyst)](https://jobright.ai/jobs/info/675b3cbd5070a04ec44c4bde?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Dec 12 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Business System Analyst](https://jobright.ai/jobs/info/675b1e1cd66a627394c60162?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlottesville, VA | Hybrid | Dec 12 |
