@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/6761aa1e63ac43e853f1fa0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Americas-United States of America-California-San Francisco | On Site | Dec 17 |
+| **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67620b89d03d46f04888f84f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Remote | Dec 17 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/6761d00c3fa10dad0a85ccef?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 17 |
 | ↳ | **[Regional Analyst](https://jobright.ai/jobs/info/6761aa1e63ac43e853f1fab4?utm_campaign=Business%20Analyst&utm_source=1103)** | Americas-United States of America-California-Los Angeles | On Site | Dec 17 |
+| ↳ | **[Regional Analyst](https://jobright.ai/jobs/info/6761aa1e63ac43e853f1fa0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Americas-United States of America-California-San Francisco | On Site | Dec 17 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright.ai/jobs/info/67619b0fd9017b74c2dda397?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Dec 17 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I - Remote](https://jobright.ai/jobs/info/676113fa4519d69b40f50395?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Dec 16 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Business Operations / Analyst / New York](https://jobright.ai/jobs/info/6760f7058edadebff1090835?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
@@ -77,9 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/675f4515846f0f63345815b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | Remote | Dec 15 |
 | **[BioSpace](http://www.biospace.com/)** | **[Entry Level IS Business Systems Analyst](https://jobright.ai/jobs/info/675efdd9d854573a560098d7?utm_campaign=Business%20Analyst&utm_source=1103)** | New Albany, OH | Hybrid | Dec 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 13 |
-| **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675cfa05035823761dfef8f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 13 |
 | **[The Squires Group, Inc.](https://squiresgroup.com)** | **[Business Analyst - CLEARANCE REQUIRED](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae476e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Dec 13 |
-| **[FIS](http://www.fisglobal.com)** | **[Business Process Analyst/Jr Engineer - On Site](https://jobright.ai/jobs/info/675cec0a96a078b55ee2f64b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Dec 13 |
 | **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675cacca57a9aab2d1bba6b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 13 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/675c7aac79947bda0f7d7052?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 13 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675c611bdac68791c9e2bf1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, Wisconsin, United States of America | On Site | Dec 13 |
@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675bae1760145fc4a572f137?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 12 |
 | **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675b59b0fdf382fb300d3c82?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, NY – U.S. | On Site | Dec 12 |
 | **[The MIL Corporation](https://www.milcorp.com/)** | **[Interface Analyst (Business Analysis, Junior Analyst)](https://jobright.ai/jobs/info/675b3cbd5070a04ec44c4bde?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Dec 12 |
-| **[Red Ventures](http://www.redventures.com)** | **[Business Operations Analyst / Bankrate](https://jobright.ai/jobs/info/675acff576f34b66e2021d0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 12 |
 | **[Kepler](https://www.keplergrp.com)** | **[Senior Analyst, Data Strategy & Analytics (Pharma Account)](https://jobright.ai/jobs/info/675a79068c83cfcf436860d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 11 |
 | **[AppLovin](https://www.applovin.com)** | **[Business Operations Analyst, eCommerce](https://jobright.ai/jobs/info/675a5e9d3ef088698498fb49?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Dec 11 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/675ae786948dc6037a442518?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 11 |
