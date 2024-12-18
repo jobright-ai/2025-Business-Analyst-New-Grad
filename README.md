@@ -57,14 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/676239ee498f791b882959ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Dec 17 |
+| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/67624517d6d0fe99b57873ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Dec 17 |
+| ↳ | **[Jr. Business Analyst](https://jobright.ai/jobs/info/676239ee498f791b882959ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Dec 17 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/6762285970a9ac6828704946?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 17 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67620b89d03d46f04888f84f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Remote | Dec 17 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/6761d00c3fa10dad0a85ccef?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 17 |
-| ↳ | **[Regional Analyst](https://jobright.ai/jobs/info/6761aa1e63ac43e853f1fab4?utm_campaign=Business%20Analyst&utm_source=1103)** | Americas-United States of America-California-Los Angeles | On Site | Dec 17 |
-| ↳ | **[Regional Analyst](https://jobright.ai/jobs/info/6761aa1e63ac43e853f1fa0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Americas-United States of America-California-San Francisco | On Site | Dec 17 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright.ai/jobs/info/67619b0fd9017b74c2dda397?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Dec 17 |
-| **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I - Remote](https://jobright.ai/jobs/info/676113fa4519d69b40f50395?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Dec 16 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[Business Operations / Analyst / New York](https://jobright.ai/jobs/info/6760f7058edadebff1090835?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/675761011acd18cb3c7650d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Dec 16 |
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6760e66e3eeff31d8c9c1c4e?utm_campaign=Business%20Analyst&utm_source=1103)** | Waukesha, WI | Hybrid | Dec 16 |
@@ -79,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[National Grid](https://www.nationalgrid.com)** | **[Business Analyst, Business Analysis](https://jobright.ai/jobs/info/675ff6af1f9eeff75585b74e?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | Hybrid | Dec 16 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/675f52d01faf5d639f92d9b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Dec 15 |
 | ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/675f4515846f0f63345815b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | Remote | Dec 15 |
-| **[BioSpace](http://www.biospace.com/)** | **[Entry Level IS Business Systems Analyst](https://jobright.ai/jobs/info/675efdd9d854573a560098d7?utm_campaign=Business%20Analyst&utm_source=1103)** | New Albany, OH | Hybrid | Dec 15 |
 | **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/676237656559dce59cb75c8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 14 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 13 |
 | **[The Squires Group, Inc.](https://squiresgroup.com)** | **[Business Analyst - CLEARANCE REQUIRED](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae476e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Dec 13 |
@@ -98,9 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/675ae786948dc6037a442518?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 11 |
 | **[AppLovin](https://www.applovin.com)** | **[Business Operations Analyst, eCommerce](https://jobright.ai/jobs/info/675a1335ae7761136a518bd3?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Dec 11 |
 | ↳ | **[Business Operations Analyst, eCommerce](https://jobright.ai/jobs/info/675a1c5903dffb0d1137eea4?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Dec 11 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6759d71b8467eb340b7af154?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Dec 11 |
-| **[Crew Carwash](http://crewcarwash.com)** | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759acc688a66cd25563e346?utm_campaign=Business%20Analyst&utm_source=1103)** | Noblesville, IN | On Site | Dec 11 |
-| ↳ | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759ad6f88a66cd25563ee67?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Indianapolis | On Site | Dec 11 |
-| ↳ | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759ad6f88a66cd25563ee68?utm_campaign=Business%20Analyst&utm_source=1103)** | Terre Haute, IN | On Site | Dec 11 |
-| ↳ | **[Fast Track Manager - Start up to $60,000](https://jobright.ai/jobs/info/6759ad6f88a66cd25563ee69?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomington, IN | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
