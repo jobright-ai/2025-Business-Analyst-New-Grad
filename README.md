@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/676239ee498f791b882959ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Dec 17 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/6762285970a9ac6828704946?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 17 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67620b89d03d46f04888f84f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Remote | Dec 17 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/6761d00c3fa10dad0a85ccef?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 17 |
 | ↳ | **[Regional Analyst](https://jobright.ai/jobs/info/6761aa1e63ac43e853f1fab4?utm_campaign=Business%20Analyst&utm_source=1103)** | Americas-United States of America-California-Los Angeles | On Site | Dec 17 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/675f52d01faf5d639f92d9b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Dec 15 |
 | ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/675f4515846f0f63345815b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | Remote | Dec 15 |
 | **[BioSpace](http://www.biospace.com/)** | **[Entry Level IS Business Systems Analyst](https://jobright.ai/jobs/info/675efdd9d854573a560098d7?utm_campaign=Business%20Analyst&utm_source=1103)** | New Albany, OH | Hybrid | Dec 15 |
+| **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/676237656559dce59cb75c8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 14 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 13 |
 | **[The Squires Group, Inc.](https://squiresgroup.com)** | **[Business Analyst - CLEARANCE REQUIRED](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae476e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Dec 13 |
 | **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675cacca57a9aab2d1bba6b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 13 |
