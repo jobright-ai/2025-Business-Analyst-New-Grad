@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Squires Group, Inc.](https://squiresgroup.com)** | **[Business Analyst - CLEARANCE REQUIRED](https://jobright.ai/jobs/info/6763887c516d5bfac2700b70?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Dec 18 |
+| **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst, MDI Lab,Technology & Digital, FT, 8A-4:30P](https://jobright.ai/jobs/info/672a7f58e746d4b496ec831e?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Dec 18 |
 | **[Crew](http://theboomlab.com)** | **[IT Business Analyst – Dynamics Implementation](https://jobright.ai/jobs/info/67633e4a18b6b51ee13c7ebf?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | Hybrid | Dec 18 |
 | **[Rich Products Corporation](https://rich.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67633e4a18b6b51ee13c7fe8?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Dec 18 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/676308da74350ea5aedc2753?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo-Niagara Area | Hybrid | Dec 18 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6760e66e3eeff31d8c9c1c4e?utm_campaign=Business%20Analyst&utm_source=1103)** | Waukesha, WI | Hybrid | Dec 16 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6760da4a7bcf122935006eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 16 |
 | **[Boise State University](https://boisestate.edu)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/6760da4a7bcf122935006d33?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Remote | Dec 16 |
-| **[Goldman Sachs](https://www.goldmansachs.com)** | **[Business Operations / Analyst / New York](https://jobright.ai/jobs/info/6760cd14c0050523e6aecc48?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Sheriff's Business Analyst - CalAIM (County Classification: Business Systems Analyst I/II/III)](https://jobright.ai/jobs/info/6760c0f574b06de369ab557e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA | Hybrid | Dec 16 |
 | **[Boise State University](https://boisestate.edu)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/67607b14c7f3f01598e88bd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Hybrid | Dec 16 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/6760ce875eb04d11d85f162a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | On Site | Dec 16 |
