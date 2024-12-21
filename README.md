@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67664b46f1e273c4a5332276?utm_campaign=Business%20Analyst&utm_source=1103)** | Ashburn, VA | Hybrid | Dec 20 |
+| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6766327ea565e8314b20d97d?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 20 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/676616b0513078fb7535e466?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | Dec 20 |
 | ↳ | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/676616b0513078fb7535e45b?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | Dec 20 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Entry Level Business Analyst - Health Practice Area - Financial and Strategic Solutions (FSS) Center of Excellence](https://jobright.ai/jobs/info/676608005d30b24828551d1a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 20 |
