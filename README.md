@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEOGOV](http://www.neogov.com)** | **[IT Business Analyst I / 61047867](https://jobright.ai/jobs/info/6768f8fd0e85e5dacfcf62b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Richland County, SC | Hybrid | Dec 22 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67453ed31ce905c61084442c?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Dec 20 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67664b46f1e273c4a5332276?utm_campaign=Business%20Analyst&utm_source=1103)** | Ashburn, VA | Hybrid | Dec 20 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6766327ea565e8314b20d97d?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 20 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst, MDI Lab,Technology & Digital, FT, 8A-4:30P](https://jobright.ai/jobs/info/672a7f58e746d4b496ec831e?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Dec 18 |
 | **[Rich Products Corporation](https://rich.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67633e4a18b6b51ee13c7fe8?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Dec 18 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Pennsylvania, United States | Remote | Dec 18 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/67690228177d252364299997?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 17 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/67624517d6d0fe99b57873ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Dec 17 |
 | ↳ | **[Jr. Business Analyst](https://jobright.ai/jobs/info/676239ee498f791b882959ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Dec 17 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/6762285970a9ac6828704946?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 17 |
@@ -88,6 +90,4 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/675761011acd18cb3c7650d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Dec 16 |
 | **[Boise State University](https://boisestate.edu)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/6760da4a7bcf122935006d33?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Remote | Dec 16 |
 | **[NEOGOV](http://www.neogov.com)** | **[Sheriff's Business Analyst - CalAIM (County Classification: Business Systems Analyst I/II/III)](https://jobright.ai/jobs/info/6760c0f574b06de369ab557e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA | Hybrid | Dec 16 |
-| **[Boise State University](https://boisestate.edu)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/67607b14c7f3f01598e88bd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Hybrid | Dec 16 |
-| **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/6760ce875eb04d11d85f162a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
