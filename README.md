@@ -57,16 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd305?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Insights & Planning](https://jobright.ai/jobs/info/6769aa8ec04dc30465a6e793?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Dec 23 |
 | **[Amwell](https://business.amwell.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/67697d9aef7e41c779d9c28c?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Remote | Dec 23 |
+| **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67620b89d03d46f04888f84f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Remote | Dec 23 |
 | **[NEOGOV](http://www.neogov.com)** | **[IT Business Analyst I / 61047867](https://jobright.ai/jobs/info/6768f8fd0e85e5dacfcf62b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Richland County, SC | Hybrid | Dec 22 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67453ed31ce905c61084442c?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Dec 20 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6766327ea565e8314b20d97d?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 20 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/676616b0513078fb7535e466?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | Dec 20 |
 | ↳ | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/676616b0513078fb7535e45b?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | Dec 20 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Entry Level Business Analyst - Health Practice Area - Financial and Strategic Solutions (FSS) Center of Excellence](https://jobright.ai/jobs/info/676608005d30b24828551d1a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 20 |
-| ↳ | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Dec 20 |
-| **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67620b89d03d46f04888f84f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Remote | Dec 19 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Dec 20 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 19 |
 | ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc3ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 19 |
 | **[Rich Products Corporation](https://rich.com)** | **[Business Analyst](https://jobright.ai/jobs/info/676498acbd1190fe23ea6a80?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo-Niagara Area | Hybrid | Dec 19 |
@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Rich Products Corporation](https://rich.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67633e4a18b6b51ee13c7fe8?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Dec 18 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Pennsylvania, United States | Remote | Dec 18 |
 | **[County of San Luis Obispo](https://www.slocounty.ca.gov/)** | **[Sheriff's Business Analyst - CalAIM (County Classification: Business Systems Analyst I/II/III)](https://jobright.ai/jobs/info/67698b60328d0ff6810032af?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA | Hybrid | Dec 17 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/67690228177d252364299997?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 17 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/67624517d6d0fe99b57873ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Dec 17 |
 | ↳ | **[Jr. Business Analyst](https://jobright.ai/jobs/info/676239ee498f791b882959ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Dec 17 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/6762285970a9ac6828704946?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 17 |
