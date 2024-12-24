@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City and County of San Francisco](https://sf.gov/)** | **[PMO Business Analyst (1052) - Department of Technology](https://jobright.ai/jobs/info/676a052b332e85b6856f89c8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 23 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd305?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Insights & Planning](https://jobright.ai/jobs/info/6769aa8ec04dc30465a6e793?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Dec 23 |
-| **[Amwell](https://business.amwell.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/67697d9aef7e41c779d9c28c?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Remote | Dec 23 |
+| **[Amwell](https://business.amwell.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/676983993114fe6a37168b64?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Remote | Dec 23 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67620b89d03d46f04888f84f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Remote | Dec 23 |
 | **[NEOGOV](http://www.neogov.com)** | **[IT Business Analyst I / 61047867](https://jobright.ai/jobs/info/6768f8fd0e85e5dacfcf62b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Richland County, SC | Hybrid | Dec 22 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67453ed31ce905c61084442c?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Dec 20 |
