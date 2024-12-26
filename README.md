@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Alabama at Birmingham](http://www.uab.edu/)** | **[Healthcare Business Analyst I-ENT](https://jobright.ai/jobs/info/676d87db61a111ec66c4e3fc?utm_campaign=Business%20Analyst&utm_source=1103)** | UAB Health System | On Site | Dec 26 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/66eba1a78df0f93bb2b58f02?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Dec 25 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, NASC ACES, ACES Analytics and Strategy](https://jobright.ai/jobs/info/676a535bf1cc38aa6fe6f206?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 23 |
 | ↳ | **[Business Analyst I, Insights & Planning](https://jobright.ai/jobs/info/676a43e83b5a6f5123bbb754?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Dec 23 |
-| ↳ | **[Business Analyst, Seller Growth Programs](https://jobright.ai/jobs/info/676a296a345230a60fae277a?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Dec 23 |
 | ↳ | **[Business Analyst, NASC ACES, ACES Analytics and Strategy](https://jobright.ai/jobs/info/676a296a345230a60fae275d?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 23 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[PMO Business Analyst (1052) - Department of Technology](https://jobright.ai/jobs/info/676a433131119bbc5c867e55?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 23 |
 | ↳ | **[PMO Business Analyst (1052) - Department of Technology](https://jobright.ai/jobs/info/676a052b332e85b6856f89c8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 23 |
@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Dec 20 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 19 |
 | ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc3ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 19 |
-| ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/67648309b81a250d2249b295?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Dec 19 |
 | ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/67648309b81a250d2249b1e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Dec 19 |
+| ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/67648309b81a250d2249b295?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Dec 19 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Business Resilience Analyst](https://jobright.ai/jobs/info/67648b088dcfb675e0b80361?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Dec 19 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6764ce448b8d80dc63501909?utm_campaign=Business%20Analyst&utm_source=1103)** | Blue Bell, PA | On Site | Dec 19 |
 | **[Esri](https://www.esri.com)** | **[Business Analyst I - HRIS](https://jobright.ai/jobs/info/672b01f931235e93a49d3051?utm_campaign=Business%20Analyst&utm_source=1103)** | Redlands, CA | On Site | Dec 19 |
@@ -108,6 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Muckleshoot Casino Resort](http://muckleshootcasino.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/676534a81db485100758f9c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Dec 13 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Freight](https://jobright.ai/jobs/info/675d1df68a01e909beafdf3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 12 |
 | **[The Squires Group, Inc.](https://squiresgroup.com)** | **[Business Analyst - CLEARANCE REQUIRED](https://jobright.ai/jobs/info/675cdacccc6ca78f0c919d12?utm_campaign=Business%20Analyst&utm_source=1103)** | 1525 Wilson Blvd, Arlington, VA, US | Hybrid | Dec 12 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/675bad83b8d585b1cb1a277b?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Dec 12 |
-| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675bae1760145fc4a572f137?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
