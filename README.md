@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Systems Analyst- AR](https://jobright.ai/jobs/info/676f3cd87c8fd50930efc172?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD | On Site | Dec 27 |
+| **[BPG Group](https://www.bpggroup.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/676f13fc3793dc3118183b5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Berryville, VA | On Site | Dec 27 |
+| **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67663382fe419a0d6807b3dd?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 27 |
 | **[University of Alabama at Birmingham](http://www.uab.edu/)** | **[Healthcare Business Analyst I-ENT](https://jobright.ai/jobs/info/676d87db61a111ec66c4e3fc?utm_campaign=Business%20Analyst&utm_source=1103)** | UAB Health System | On Site | Dec 26 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/66eba1a78df0f93bb2b58f02?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Dec 25 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Associate Business Analyst- Roseville, CA](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd305?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | On Site | Dec 24 |
@@ -66,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[PMO Business Analyst (1052) - Department of Technology](https://jobright.ai/jobs/info/676a052b332e85b6856f89c8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 23 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/676dfd4d9c2d36e948fd3978?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Insights & Planning](https://jobright.ai/jobs/info/6769aa8ec04dc30465a6e793?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Dec 23 |
-| **[Amwell](https://business.amwell.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/67697d9aef7e41c779d9c28c?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Remote | Dec 23 |
+| **[Amwell](https://business.amwell.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/676983993114fe6a37168b64?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Remote | Dec 23 |
 | **[NEOGOV](http://www.neogov.com)** | **[IT Business Analyst I / 61047867](https://jobright.ai/jobs/info/6768f8fd0e85e5dacfcf62b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Richland County, SC | Hybrid | Dec 22 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67453ed31ce905c61084442c?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Dec 20 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6766327ea565e8314b20d97d?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 20 |
@@ -100,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/6760ce875eb04d11d85f162a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | On Site | Dec 16 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright.ai/jobs/info/6769263140484fa2605d7528?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 16 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675f4515846f0f63345815b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | Remote | Dec 15 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
