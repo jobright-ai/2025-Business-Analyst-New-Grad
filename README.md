@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[NEOGOV](http://www.neogov.com)** | **[Sheriff's Business Analyst - CalAIM (County Classification: Business Systems Analyst I/II/III)](https://jobright.ai/jobs/info/6760c0f574b06de369ab557e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA | Hybrid | Dec 16 |
 | **[Boise State University](https://boisestate.edu)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/67607b14c7f3f01598e88bd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Hybrid | Dec 16 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/6760ce875eb04d11d85f162a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | On Site | Dec 16 |
-| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright.ai/jobs/info/6769263140484fa2605d7528?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
