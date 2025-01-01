@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gusto](https://www.gusto.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67748390066c140d0be0512e?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Orlando | Remote | Dec 31 |
+| **[Gusto](https://www.gusto.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/677489702fa7e65096f3afa1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 31 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/67748390066c140d0be0512e?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Orlando | Remote | Dec 31 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/6774706006cabdff71c80181?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Dec 31 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/677452fb77e280b0d340a488?utm_campaign=Business%20Analyst&utm_source=1103)** | LV Metro Area | Remote | Dec 31 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/677452fb77e280b0d340a4d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Dec 31 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[City and County of San Francisco](https://sf.gov/)** | **[PMO Business Analyst (1052) - Department of Technology](https://jobright.ai/jobs/info/676a052b332e85b6856f89c8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 23 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/676dfd4d9c2d36e948fd3978?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Insights & Planning](https://jobright.ai/jobs/info/6769aa8ec04dc30465a6e793?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Dec 23 |
-| **[Amwell](https://business.amwell.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/676983993114fe6a37168b64?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Remote | Dec 23 |
+| **[Amwell](https://business.amwell.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/67697d9aef7e41c779d9c28c?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Remote | Dec 23 |
 | **[NEOGOV](http://www.neogov.com)** | **[IT Business Analyst I / 61047867](https://jobright.ai/jobs/info/6768f8fd0e85e5dacfcf62b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Richland County, SC | Hybrid | Dec 22 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67453ed31ce905c61084442c?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Dec 20 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6766327ea565e8314b20d97d?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 20 |
