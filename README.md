@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Minnesota](https://mn.gov)** | **[IT Business Analyst - ITS1](https://jobright.ai/jobs/info/677655d519fcf9a89f5511c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Paul, MN | Hybrid | Jan 02 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Business Operations Analyst 1](https://jobright.ai/jobs/info/67753daa51d8725f2c719ef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Jan 01 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Business Operations Analyst 1](https://jobright.ai/jobs/info/6775324f9f940c4f216ac102?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus Campus | On Site | Jan 01 |
 | **[GlobalFoundries](https://gf.com/)** | **[IT Change Management Business Analyst (January 2025 New College Graduate)](https://jobright.ai/jobs/info/677528ba73b7c3283b469748?utm_campaign=Business%20Analyst&utm_source=1103)** | Malta, NY | On Site | Jan 01 |
@@ -71,12 +72,12 @@ For a complete list, click the following sortable link below:
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/676f774804824a34d1bd8472?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 27 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Systems Analyst- AR](https://jobright.ai/jobs/info/676f3cd87c8fd50930efc172?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD | On Site | Dec 27 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/66eba1a78df0f93bb2b58f02?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Dec 25 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Associate Business Analyst- Roseville, CA](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd305?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | On Site | Dec 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, NASC ACES, ACES Analytics and Strategy](https://jobright.ai/jobs/info/676a535bf1cc38aa6fe6f206?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 23 |
 | ↳ | **[Business Analyst I, Insights & Planning](https://jobright.ai/jobs/info/676a43e83b5a6f5123bbb754?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Dec 23 |
 | ↳ | **[Business Analyst, NASC ACES, ACES Analytics and Strategy](https://jobright.ai/jobs/info/676a296a345230a60fae275d?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 23 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[PMO Business Analyst (1052) - Department of Technology](https://jobright.ai/jobs/info/676a052b332e85b6856f89c8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 23 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/676dfd4d9c2d36e948fd3978?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | On Site | Dec 23 |
+| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/6769e3a3234147b1fbfdd305?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Insights & Planning](https://jobright.ai/jobs/info/6769aa8ec04dc30465a6e793?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Dec 23 |
 | **[Amwell](https://business.amwell.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/676983993114fe6a37168b64?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Remote | Dec 23 |
 | **[NEOGOV](http://www.neogov.com)** | **[IT Business Analyst I / 61047867](https://jobright.ai/jobs/info/6768f8fd0e85e5dacfcf62b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Richland County, SC | Hybrid | Dec 22 |
@@ -85,9 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Dec 20 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 19 |
 | ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc3ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 19 |
-| ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/67648309b81a250d2249b1e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Dec 19 |
 | ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/67648309b81a250d2249b295?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Dec 19 |
+| ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/67648309b81a250d2249b1e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Dec 19 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Business Resilience Analyst](https://jobright.ai/jobs/info/67648b088dcfb675e0b80361?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Dec 19 |
-| **[Esri](https://www.esri.com)** | **[Business Analyst I - HRIS](https://jobright.ai/jobs/info/672b01f931235e93a49d3051?utm_campaign=Business%20Analyst&utm_source=1103)** | Redlands, CA | On Site | Dec 19 |
-| **[Career Movement](https://careermovement.com)** | **[Senior Business Analyst](https://jobright.ai/jobs/info/6764579072913816b18b6235?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
