@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Humana](http://www.humana.com)** | **[Encounter Data Management Professional 2](https://jobright.ai/jobs/info/6777107495553ca6cb79c70c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote Wisconsin | Remote | Jan 02 |
+| **[Citi](https://www.citi.com)** | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/675015352807ae58354804e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Jan 02 |
 | **[Minnesota IT Services](https://mn.gov/mnit)** | **[IT Business Analyst - ITS1](https://jobright.ai/jobs/info/67768496a86a6dfee380ea3e?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | Hybrid | Jan 02 |
 | **[State of Minnesota](https://mn.gov)** | **[IT Business Analyst - ITS1](https://jobright.ai/jobs/info/677655d519fcf9a89f5511c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Paul, MN | Hybrid | Jan 02 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Business Operations Analyst 1](https://jobright.ai/jobs/info/67753daa51d8725f2c719ef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Jan 01 |
@@ -81,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Dec 20 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 19 |
 | ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc3ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 19 |
-| ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/67648309b81a250d2249b1e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Dec 19 |
 | ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/67648309b81a250d2249b295?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Dec 19 |
+| ↳ | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/67648309b81a250d2249b1e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Dec 19 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Business Resilience Analyst](https://jobright.ai/jobs/info/67648b088dcfb675e0b80361?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Dec 19 |
 | **[Esri](https://www.esri.com)** | **[Business Analyst I - HRIS](https://jobright.ai/jobs/info/672b01f931235e93a49d3051?utm_campaign=Business%20Analyst&utm_source=1103)** | Redlands, CA | On Site | Dec 19 |
 | **[Career Movement](https://careermovement.com)** | **[Senior Business Analyst](https://jobright.ai/jobs/info/6764579072913816b18b6235?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 19 |
@@ -98,12 +100,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Jr. Business Analyst](https://jobright.ai/jobs/info/676239ee498f791b882959ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Dec 17 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/6762285970a9ac6828704946?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 17 |
 | **[Boise State University](https://boisestate.edu)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/6760da4a7bcf122935006d33?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Remote | Dec 16 |
-| **[NEOGOV](http://www.neogov.com)** | **[Sheriff's Business Analyst - CalAIM (County Classification: Business Systems Analyst I/II/III)](https://jobright.ai/jobs/info/6760c0f574b06de369ab557e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA | Hybrid | Dec 16 |
-| **[Boise State University](https://boisestate.edu)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/67607b14c7f3f01598e88bd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Hybrid | Dec 16 |
+| ↳ | **[Business Analyst, Associate](https://jobright.ai/jobs/info/67607b14c7f3f01598e88bd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Hybrid | Dec 16 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/6760ce875eb04d11d85f162a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | On Site | Dec 16 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675f4515846f0f63345815b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | Remote | Dec 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/672369b013fde4d9f1dc5cab?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Dec 13 |
-| **[The Squires Group, Inc.](https://squiresgroup.com)** | **[Business Analyst - CLEARANCE REQUIRED](https://jobright.ai/jobs/info/675cf0d4e1691dc423ae476e?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Dec 13 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675c611bdac68791c9e2bf1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, Wisconsin, United States of America | On Site | Dec 13 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/675bfb9abf94f0ad7e45653d?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Dec 13 |
 | **[Muckleshoot Casino Resort](http://muckleshootcasino.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/676534a81db485100758f9c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Dec 13 |
@@ -132,11 +132,9 @@ For a complete list, click the following sortable link below:
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/6753bb9e6c9342aef197bb39?utm_campaign=Business%20Analyst&utm_source=1103)** | Beverly Hills, CA | On Site | Dec 06 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/67537fd0ef7ce2280cf2e382?utm_campaign=Business%20Analyst&utm_source=1103)** | Beverly Hills, CA | On Site | Dec 06 |
 | **[NEOGOV](http://www.neogov.com)** | **[Junior Business Analyst - Data Visualization & Automation](https://jobright.ai/jobs/info/6752b659d0fa91d738152f1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake County, UT | On Site | Dec 05 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/673522ce217cdf682027a79c?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 05 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675222474b07b47340e51e91?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Dec 05 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67353b5a1df87486a6758398?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 05 |
 | **[Conduent](https://www.conduent.com/)** | **[Technology Business Analyst I](https://jobright.ai/jobs/info/673582854f81f0a16e7fc775?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Dec 05 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67509d20976888504663e329?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 04 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67509e470391b24678f10149?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Dec 04 |
-| **[iWorks Corporation](https://iworkscorp.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67628c9d8d214ac7379e8442?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | On Site | Dec 03 |
-| **[Citi](https://www.citi.com)** | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/675015352807ae58354804e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
