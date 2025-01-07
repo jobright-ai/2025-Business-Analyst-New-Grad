@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,15 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Therapeutics](https://www.primetherapeutics.com/)** | **[Business Analyst Associate - Remote](https://jobright.ai/jobs/info/677c6121d7ab569f755e7331?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Jan 06 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/677c5fd914eaa19b2dc2181b?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Jan 06 |
+| **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/677c49ccff023826e2c66501?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Jan 06 |
+| **[TD](https://www.td.com)** | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677c4716c5c50c483be555bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewiston, ME | On Site | Jan 06 |
+| **[Procter & Gamble](https://us.pg.com/)** | **[Digital Innovation - Business Analyst](https://jobright.ai/jobs/info/677c2e5663bd6280d8188570?utm_campaign=Business%20Analyst&utm_source=1103)** | Mason, OH | On Site | Jan 06 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Solutions Analyst I - Business Analysis](https://jobright.ai/jobs/info/677c0c9c2f2d90665e80acba?utm_campaign=Business%20Analyst&utm_source=1103)** | 10 S Dearborn St, Chicago, IL, 60603, US | On Site | Jan 06 |
 | **[Quantam](http://www.iquantam.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/677c1af82a83b28d802388ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Jan 06 |
-| **[TD](https://www.td.com)** | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4713?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewiston, Maine | On Site | Jan 06 |
-| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4714?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida | On Site | Jan 06 |
-| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4710?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts | On Site | Jan 06 |
+| **[TD](https://www.td.com)** | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a46e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, South Carolina | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4711?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, Delaware | On Site | Jan 06 |
+| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4714?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4712?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, South Carolina | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4715?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | On Site | Jan 06 |
-| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a46e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, South Carolina | On Site | Jan 06 |
+| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4710?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts | On Site | Jan 06 |
+| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4713?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewiston, Maine | On Site | Jan 06 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright.ai/jobs/info/677af509ba1979a408ed2c35?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 05 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/675bfb9abf94f0ad7e45653d?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Jan 04 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Jan 04 |
@@ -84,7 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Minnesota IT Services](https://mn.gov/mnit)** | **[IT Business Analyst - ITS1](https://jobright.ai/jobs/info/67768496a86a6dfee380ea3e?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | Hybrid | Jan 02 |
 | **[State of Minnesota](https://mn.gov)** | **[IT Business Analyst - ITS1](https://jobright.ai/jobs/info/677655d519fcf9a89f5511c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Paul, MN | Hybrid | Jan 02 |
 | **[Mindex](http://www.mindex.com)** | **[Business Analyst - Remote (Req. #673)](https://jobright.ai/jobs/info/67742a29f61adc1e5e124504?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Remote | Dec 31 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/677382e278bd498a9002c53f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax County, VA | On Site | Dec 30 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/676f774804824a34d1bd8472?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 27 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/66eba1a78df0f93bb2b58f02?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
