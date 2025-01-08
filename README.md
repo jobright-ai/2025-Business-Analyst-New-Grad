@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grange Insurance Association](https://www.grange.com/)** | **[Business Analyst - DATA](https://jobright.ai/jobs/info/677ea96306168383b1636c75?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Seattle Area | Hybrid | Jan 08 |
+| **[Procter & Gamble](https://us.pg.com/)** | **[Digital Innovation - Business Analyst](https://jobright.ai/jobs/info/677e9d5fc93154ff956a5873?utm_campaign=Business%20Analyst&utm_source=1103)** | Mason, OH | On Site | Jan 08 |
+| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/676239ee498f791b882959ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Jan 08 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/677dcd3977fa9b8017b27908?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jan 07 |
 | **[Viasat](http://www.viasat.com)** | **[Business Operations Analyst, Early Career](https://jobright.ai/jobs/info/677dccd2420d4cf3a756c36c?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA | On Site | Jan 07 |
 | **[CGI](https://www.cgi.com)** | **[Junior Momentum Business Analyst](https://jobright.ai/jobs/info/677daef5be8bc1976746b44e?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Jan 07 |
@@ -65,17 +68,17 @@ For a complete list, click the following sortable link below:
 | **[Schonfeld](http://www.schonfeld.com/)** | **[Business Analyst - Systematic Strategy Office of the COO](https://jobright.ai/jobs/info/677d8e84a4e5161ccb577a16?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | On Site | Jan 07 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/677cc98dbbe310e30fe6d52b?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Jan 06 |
 | **[Prime Therapeutics](https://www.primetherapeutics.com/)** | **[Business Analyst Associate - Remote](https://jobright.ai/jobs/info/677e2306e8d9d0be96e82583?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Jan 06 |
+| **[Procter & Gamble](https://us.pg.com/)** | **[Digital Innovation - Business Analyst](https://jobright.ai/jobs/info/677e9a6947dea2363003e2de?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Jan 06 |
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/677c49ccff023826e2c66501?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Jan 06 |
 | **[TD](https://www.td.com)** | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677c4716c5c50c483be555bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewiston, ME | On Site | Jan 06 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Digital Innovation - Business Analyst](https://jobright.ai/jobs/info/677c2e5663bd6280d8188570?utm_campaign=Business%20Analyst&utm_source=1103)** | Mason, OH | On Site | Jan 06 |
 | **[Quantam](http://www.iquantam.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/677c1af82a83b28d802388ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Jan 06 |
 | **[TD](https://www.td.com)** | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4711?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, Delaware | On Site | Jan 06 |
+| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4710?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts | On Site | Jan 06 |
+| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4714?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4715?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | On Site | Jan 06 |
-| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4712?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, South Carolina | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a46e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, South Carolina | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4713?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewiston, Maine | On Site | Jan 06 |
-| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4714?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida | On Site | Jan 06 |
-| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4710?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts | On Site | Jan 06 |
+| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4712?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, South Carolina | On Site | Jan 06 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright.ai/jobs/info/677af509ba1979a408ed2c35?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 05 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Jan 04 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/675bfb9abf94f0ad7e45653d?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Jan 04 |
@@ -87,9 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Crew](http://theboomlab.com)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fc46?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Jan 03 |
 | **[Kepler](https://www.keplergrp.com)** | **[Senior Analyst, Data Strategy & Analytics (Pharma Account)](https://jobright.ai/jobs/info/675a79068c83cfcf436860d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Jan 03 |
 | **[Total Safety](http://www.totalsafety.com)** | **[Business Administrator](https://jobright.ai/jobs/info/66f3617cb3d7a421ed48fd82?utm_campaign=Business%20Analyst&utm_source=1103)** | Martinez, CA | On Site | Jan 03 |
-| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/67575a7b90cf7fe1e5d6f172?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Jan 03 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675bae1760145fc4a572f137?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 03 |
-| **[Humana](http://www.humana.com)** | **[Encounter Data Management Professional 2](https://jobright.ai/jobs/info/6777107495553ca6cb79c70c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote Wisconsin | Remote | Jan 02 |
 | **[Minnesota IT Services](https://mn.gov/mnit)** | **[IT Business Analyst - ITS1](https://jobright.ai/jobs/info/67768496a86a6dfee380ea3e?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | Hybrid | Jan 02 |
 | **[State of Minnesota](https://mn.gov)** | **[IT Business Analyst - ITS1](https://jobright.ai/jobs/info/677655d519fcf9a89f5511c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Paul, MN | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
