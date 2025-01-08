@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/677dcd3977fa9b8017b27908?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jan 07 |
+| **[Viasat](http://www.viasat.com)** | **[Business Operations Analyst, Early Career](https://jobright.ai/jobs/info/677dccd2420d4cf3a756c36c?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA | On Site | Jan 07 |
 | **[CGI](https://www.cgi.com)** | **[Junior Momentum Business Analyst](https://jobright.ai/jobs/info/677daef5be8bc1976746b44e?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Jan 07 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[Business Analyst - Systematic Strategy Office of the COO](https://jobright.ai/jobs/info/677d949893f4b411493fbcc3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 07 |
 | **[TCG](https://www.tcg.com/)** | **[Junior Business Analyst (Fully Remote, DC Region)](https://jobright.ai/jobs/info/677da0bcb2ffbf6972671014?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Jan 07 |
@@ -67,13 +69,13 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677c4716c5c50c483be555bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewiston, ME | On Site | Jan 06 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Digital Innovation - Business Analyst](https://jobright.ai/jobs/info/677c2e5663bd6280d8188570?utm_campaign=Business%20Analyst&utm_source=1103)** | Mason, OH | On Site | Jan 06 |
 | **[Quantam](http://www.iquantam.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/677c1af82a83b28d802388ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Jan 06 |
-| **[TD](https://www.td.com)** | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4710?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts | On Site | Jan 06 |
-| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a46e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, South Carolina | On Site | Jan 06 |
+| **[TD](https://www.td.com)** | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4712?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, South Carolina | On Site | Jan 06 |
+| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4710?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts | On Site | Jan 06 |
+| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4713?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewiston, Maine | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4715?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | On Site | Jan 06 |
+| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a46e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, South Carolina | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4711?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, Delaware | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4714?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida | On Site | Jan 06 |
-| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4713?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewiston, Maine | On Site | Jan 06 |
-| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4712?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, South Carolina | On Site | Jan 06 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright.ai/jobs/info/677af509ba1979a408ed2c35?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 05 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Jan 04 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/675bfb9abf94f0ad7e45653d?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Jan 04 |
