@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEOGOV](http://www.neogov.com)** | **[Business Analyst 1](https://jobright.ai/jobs/info/677f60d28b1ccef0188a502e?utm_campaign=Business%20Analyst&utm_source=1103)** | Dauphin County, PA | Hybrid | Jan 08 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jan 08 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/677f237dead3099ad5b9d89a?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Jan 08 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675f4515846f0f63345815b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | Remote | Jan 08 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Business Analyst - DATA](https://jobright.ai/jobs/info/677ea96306168383b1636c75?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Seattle Area | Hybrid | Jan 08 |
@@ -74,10 +76,10 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/677c49ccff023826e2c66501?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Jan 06 |
 | **[TD](https://www.td.com)** | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677c4716c5c50c483be555bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewiston, ME | On Site | Jan 06 |
 | **[Quantam](http://www.iquantam.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/677c1af82a83b28d802388ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Jan 06 |
-| **[TD](https://www.td.com)** | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4715?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | On Site | Jan 06 |
-| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4710?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts | On Site | Jan 06 |
+| **[TD](https://www.td.com)** | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4713?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewiston, Maine | On Site | Jan 06 |
+| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4715?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4714?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida | On Site | Jan 06 |
-| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4713?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewiston, Maine | On Site | Jan 06 |
+| ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4710?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a46e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, South Carolina | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4711?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, Delaware | On Site | Jan 06 |
 | ↳ | **[Business Management Analyst I - Customer Experience](https://jobright.ai/jobs/info/677bed9eceaebc03fd0a4712?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, South Carolina | On Site | Jan 06 |
@@ -93,4 +95,5 @@ For a complete list, click the following sortable link below:
 | **[Kepler](https://www.keplergrp.com)** | **[Senior Analyst, Data Strategy & Analytics (Pharma Account)](https://jobright.ai/jobs/info/675a79068c83cfcf436860d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Jan 03 |
 | **[Total Safety](http://www.totalsafety.com)** | **[Business Administrator](https://jobright.ai/jobs/info/66f3617cb3d7a421ed48fd82?utm_campaign=Business%20Analyst&utm_source=1103)** | Martinez, CA | On Site | Jan 03 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675bae1760145fc4a572f137?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 03 |
+| **[Citi](https://www.citi.com)** | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/677f41f896c07c9b4d6d4a8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
