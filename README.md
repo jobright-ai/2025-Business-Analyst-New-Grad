@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67823331984f2c22f5d24d5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | On Site | Jan 11 |
 | **[Wesco](http://www.wesco.com/)** | **[Analyst - Business Systems](https://jobright.ai/jobs/info/6781f6c78f25f9036acdbcec?utm_campaign=Business%20Analyst&utm_source=1103)** | Glenview, IL | Hybrid | Jan 10 |
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad](https://jobright.ai/jobs/info/6781e25468d539ac81f8f40d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Jan 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Planning Solutions Business Analyst](https://jobright.ai/jobs/info/6781d3351bfdfdbb2ae16366?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 10 |
@@ -95,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/677c49ccff023826e2c66501?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Jan 06 |
 | **[Quantam](http://www.iquantam.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/677c1af82a83b28d802388ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Jan 06 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright.ai/jobs/info/677af509ba1979a408ed2c35?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 05 |
-| **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Jan 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
