@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wesco](http://www.wesco.com/)** | **[Analyst - Business Systems](https://jobright.ai/jobs/info/6781f6c78f25f9036acdbcec?utm_campaign=Business%20Analyst&utm_source=1103)** | Glenview, IL | Hybrid | Jan 10 |
+| **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad](https://jobright.ai/jobs/info/6781e25468d539ac81f8f40d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Jan 10 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Planning Solutions Business Analyst](https://jobright.ai/jobs/info/6781d3351bfdfdbb2ae16366?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 10 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6781b3b1e14b914d46119959?utm_campaign=Business%20Analyst&utm_source=1103)** | Peoria, IL | Hybrid | Jan 10 |
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad](https://jobright.ai/jobs/info/6781aed95362ed8f29e70d1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Jan 10 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67815318fee579508c1036c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | On Site | Jan 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67353b5a1df87486a6758398?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jan 10 |
 | ↳ | **[Business Analyst, Amazon Freight](https://jobright.ai/jobs/info/675d1df68a01e909beafdf3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jan 10 |
+| **[Ericsson](https://www.ericsson.com)** | **[Business Performance Analyst (Entry Level)](https://jobright.ai/jobs/info/678223e027392a8fcd1e186a?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | On Site | Jan 09 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6780abc84c7f6d127f3706dc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 09 |
 | **[Lionsgate](https://www.lionsgate.com)** | **[Coordinator, Research & Digital Insights](https://jobright.ai/jobs/info/6780a6b6db23b9c2bc14f871?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Jan 09 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/67807f1551f0659218a559f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | Hybrid | Jan 09 |
@@ -92,6 +95,5 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/677c49ccff023826e2c66501?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Jan 06 |
 | **[Quantam](http://www.iquantam.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/677c1af82a83b28d802388ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Jan 06 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright.ai/jobs/info/677af509ba1979a408ed2c35?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 05 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675bfb9abf94f0ad7e45653d?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Jan 04 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Jan 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
