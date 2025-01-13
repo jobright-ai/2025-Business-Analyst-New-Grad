@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright.ai/jobs/info/678221d4fbfb9886b60109e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 13 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/6762285970a9ac6828704946?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67823331984f2c22f5d24d5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | On Site | Jan 11 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Utah, United States | Remote | Jan 10 |
 | **[Wesco](http://www.wesco.com/)** | **[Analyst - Business Systems](https://jobright.ai/jobs/info/6781f6c78f25f9036acdbcec?utm_campaign=Business%20Analyst&utm_source=1103)** | Glenview, IL | Hybrid | Jan 10 |
@@ -95,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/677cc98dbbe310e30fe6d52b?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Jan 06 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Digital Innovation - Business Analyst](https://jobright.ai/jobs/info/677e9a6947dea2363003e2de?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Jan 06 |
 | **[United IT](http://uniteditinc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67819413718f32bf6e7cc3ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | On Site | Jan 06 |
-| **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/677c49ccff023826e2c66501?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
