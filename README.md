@@ -57,14 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axon](https://www.axon.com)** | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/6785800cf34e5c315878ae6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Jan 13 |
+| ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/6785800cf34e5c315878aeee?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 13 |
+| ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67858fc59e43c77bec85615c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jan 13 |
+| **[iWorks Corporation](https://iworkscorp.com/)** | **[Business Analyst I (Remote)](https://jobright.ai/jobs/info/67858d3e40e66e889d44dcef?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 13 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright.ai/jobs/info/67856c82cc602433ec39bcb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Jan 13 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/67855d94a6711ab504587f86?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
 | ↳ | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/678549ab1cf42e137478a6cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/678549ab1cf42e137478a6ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/678549ab1cf42e137478a6ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 13 |
-| ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67853fbeda4f04c87a360853?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67853fbeda4f04c87a360866?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, United States | Hybrid | Jan 13 |
+| ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67853fbeda4f04c87a360853?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67853fbeda4f04c87a360867?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Jan 13 |
+| **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a50?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Remote | Jan 13 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/6762285970a9ac6828704946?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Jan 11 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67823331984f2c22f5d24d5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | On Site | Jan 11 |
@@ -88,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst, MDI Lab,Technology & Digital, FT, 8A-4:30P](https://jobright.ai/jobs/info/672a7f58e746d4b496ec831e?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Jan 09 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Analyst 1](https://jobright.ai/jobs/info/677f60d28b1ccef0188a502e?utm_campaign=Business%20Analyst&utm_source=1103)** | Dauphin County, PA | Hybrid | Jan 08 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jan 08 |
-| **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/677f237dead3099ad5b9d89a?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Jan 08 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454442281a36e1e1510ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Massachusetts, United States | Hybrid | Jan 08 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/675f4515846f0f63345815b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | Remote | Jan 08 |
 | **[Grange Insurance Association](https://www.grange.com/)** | **[Business Analyst - DATA](https://jobright.ai/jobs/info/677ea96306168383b1636c75?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Seattle Area | Hybrid | Jan 08 |
@@ -99,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Junior Momentum Business Analyst](https://jobright.ai/jobs/info/677daef5be8bc1976746b44e?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Jan 07 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[Business Analyst - Systematic Strategy Office of the COO](https://jobright.ai/jobs/info/677d949893f4b411493fbcc3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 07 |
 | ↳ | **[Business Analyst - Systematic Strategy Office of the COO](https://jobright.ai/jobs/info/677d8e84a4e5161ccb577a16?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | On Site | Jan 07 |
-| **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/677cc98dbbe310e30fe6d52b?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
