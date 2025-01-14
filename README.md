@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a272520769b?utm_campaign=Business%20Analyst&utm_source=1103)** | RTP, North Carolina | On Site | Jan 13 |
+| **[Veolia North America](http://www.veolianorthamerica.com/)** | **[Performance Analyst - VNA Performance Team](https://jobright.ai/jobs/info/6785e10ead3793e32eefdaac?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 13 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a272520769a?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas | On Site | Jan 13 |
+| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a272520769b?utm_campaign=Business%20Analyst&utm_source=1103)** | RTP, North Carolina | On Site | Jan 13 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a27252075c7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | On Site | Jan 13 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a272520769c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California | On Site | Jan 13 |
-| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a272520769a?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas | On Site | Jan 13 |
+| **[GroupM](http://www.groupm.com/)** | **[Senior Associate, Business Analytics & Measurement](https://jobright.ai/jobs/info/6785db6ccd26c67dafb81974?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 13 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/6785800cf34e5c315878ae6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/6785800cf34e5c315878aeee?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67858fc59e43c77bec85615c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jan 13 |
 | **[iWorks Corporation](https://iworkscorp.com/)** | **[Business Analyst I (Remote)](https://jobright.ai/jobs/info/67858d3e40e66e889d44dcef?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 13 |
+| **[GroupM](http://www.groupm.com/)** | **[Senior Associate, Business Analytics & Measurement](https://jobright.ai/jobs/info/6785e67304c3ba50f082f09b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 13 |
+| ↳ | **[Senior Associate, Business Analytics & Measurement](https://jobright.ai/jobs/info/6786015b998d6bc8f92f7bc1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 13 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright.ai/jobs/info/67856c82cc602433ec39bcb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Jan 13 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/67855d94a6711ab504587f86?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
 | ↳ | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
