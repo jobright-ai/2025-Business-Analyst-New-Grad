@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - 2025](https://jobright.ai/jobs/info/67887241d67fb975ffc036d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jan 15 |
 | **[Veolia North America](http://growingblue.com/)** | **[Performance Analyst - VNA Performance Team](https://jobright.ai/jobs/info/678844278d81da83dd29b553?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 15 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67883687c0994fd9ed72448e?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Jan 15 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist I](https://jobright.ai/jobs/info/67880089acdf7a8f8e102b28?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | Jan 15 |
@@ -75,10 +76,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Associate - 2025](https://jobright.ai/jobs/info/678680e05cf07eacb351171c?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jan 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright.ai/jobs/info/67865ccc27b8aef311752790?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 14 |
 | **[Esri](https://www.esri.com)** | **[Business Analyst I - HRIS](https://jobright.ai/jobs/info/672b01f931235e93a49d3051?utm_campaign=Business%20Analyst&utm_source=1103)** | Redlands, CA | On Site | Jan 14 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a27252075c7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | On Site | Jan 13 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a272520769c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California | On Site | Jan 13 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a272520769b?utm_campaign=Business%20Analyst&utm_source=1103)** | RTP, North Carolina | On Site | Jan 13 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a272520769a?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas | On Site | Jan 13 |
-| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a272520769c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California | On Site | Jan 13 |
+| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a27252075c7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | On Site | Jan 13 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/6785800cf34e5c315878ae6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/6785800cf34e5c315878aeee?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67858fc59e43c77bec85615c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jan 13 |
@@ -87,10 +88,10 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/67855d94a6711ab504587f86?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
 | ↳ | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/678549ab1cf42e137478a6cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jan 13 |
-| ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/678549ab1cf42e137478a6ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/678549ab1cf42e137478a6ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Jan 13 |
-| ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67853fbeda4f04c87a360866?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, United States | Hybrid | Jan 13 |
+| ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/678549ab1cf42e137478a6ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67853fbeda4f04c87a360853?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Jan 13 |
+| ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67853fbeda4f04c87a360866?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, United States | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67853fbeda4f04c87a360867?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Jan 13 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a50?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Remote | Jan 13 |
 | ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67453ed31ce905c61084442c?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Jan 13 |
