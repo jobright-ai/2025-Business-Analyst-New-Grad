@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TE Connectivity](http://www.te.com)** | **[BUSINESS ANALYST I - REMOTE](https://jobright.ai/jobs/info/6789e6722db570c0d91bef14?utm_campaign=Business%20Analyst&utm_source=1103)** | Middletown, PA | Remote | Jan 16 |
+| **[Red Ventures](http://www.redventures.com)** | **[Associate Business Analyst, Sage Home Loans ](https://jobright.ai/jobs/info/678aa74ff109453f7212efea?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Jan 17 |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/678aa01c17cc4d6a71cbb471?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Jan 17 |
 | **[Hightower Advisors](http://www.hightoweradvisors.com)** | **[Business and Data Operations Associate](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0ca83?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 16 |
 | **[Hightower](https://hightoweraccess.com)** | **[Business and Data Operations Associate](https://jobright.ai/jobs/info/6789aa6609c526cd28c33119?utm_campaign=Business%20Analyst&utm_source=1103)** | 200 W Madison St, Chicago, IL 60606, USA | Hybrid | Jan 16 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst, Business Insurance](https://jobright.ai/jobs/info/6789a552fc34e3bc4a6de65f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jan 16 |
 | ↳ | **[Business Systems Analyst (BI Business Quality Assurance)](https://jobright.ai/jobs/info/6789a552fc34e3bc4a6de66f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jan 16 |
 | **[The Oakleaf Group](http://theoakleafgroup.com)** | **[Junior Business Analyst- UAT](https://jobright.ai/jobs/info/6789ac6a2222181844fa0e78?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote / Washington, DC Metro Area | Remote | Jan 16 |
-| **[Red Ventures](http://www.redventures.com)** | **[Business Analyst, Associate / Sage Home Loans / Brian Doran / 1/15/25](https://jobright.ai/jobs/info/67898cffe0fe186b70e2c61b?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Jan 16 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/678995a0a41dc2ac4aefd48b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 16 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67897ddd8cef63184bfede94?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jan 16 |
 | **[QuinStreet](http://www.quinstreet.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67895686d34cb7f7be199c28?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 16 |
@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6786d2edeea878d4f30161a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Jan 14 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6786ccd6054f304ba57c02bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 14 |
 | **[University of Alabama at Birmingham](http://www.uab.edu/)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/6786ae8bd76554165e585188?utm_campaign=Business%20Analyst&utm_source=1103)** | UAB Health System | On Site | Jan 14 |
-| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - 2025](https://jobright.ai/jobs/info/678680e05cf07eacb351171c?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jan 14 |
-| ↳ | **[Business Analyst Associate - 2025](https://jobright.ai/jobs/info/678680e05cf07eacb35116f7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jan 14 |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - 2025](https://jobright.ai/jobs/info/678680e05cf07eacb35116f7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jan 14 |
+| ↳ | **[Business Analyst Associate - 2025](https://jobright.ai/jobs/info/678680e05cf07eacb351171c?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jan 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Business Analyst](https://jobright.ai/jobs/info/67865ccc27b8aef311752790?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 14 |
 | **[Esri](https://www.esri.com)** | **[Business Analyst I - HRIS](https://jobright.ai/jobs/info/672b01f931235e93a49d3051?utm_campaign=Business%20Analyst&utm_source=1103)** | Redlands, CA | On Site | Jan 14 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6785adb4a34a3a27252075c7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | On Site | Jan 13 |
@@ -105,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Axon](https://www.axon.com)** | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/6785800cf34e5c315878ae6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/6785800cf34e5c315878aeee?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67858fc59e43c77bec85615c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jan 13 |
-| **[iWorks Corporation](https://iworkscorp.com/)** | **[Business Analyst I (Remote)](https://jobright.ai/jobs/info/67858d3e40e66e889d44dcef?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 13 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright.ai/jobs/info/67856c82cc602433ec39bcb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Jan 13 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/67855d94a6711ab504587f86?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
 | ↳ | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
@@ -113,16 +112,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/678549ab1cf42e137478a6ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/678549ab1cf42e137478a6ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67853fbeda4f04c87a360866?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, United States | Hybrid | Jan 13 |
-| ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67853fbeda4f04c87a360853?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Jan 13 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67853fbeda4f04c87a360867?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Jan 13 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a50?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Remote | Jan 13 |
-| ↳ | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67453ed31ce905c61084442c?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Jan 13 |
+| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Business Resilience Analyst](https://jobright.ai/jobs/info/67648b088dcfb675e0b80361?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jan 13 |
+| **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67453ed31ce905c61084442c?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Jan 13 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/6762285970a9ac6828704946?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
+| **[iWorks Corporation](https://iworkscorp.com/)** | **[Business Analyst I (Remote)](https://jobright.ai/jobs/info/6787284195bd24dd45bc9ec1?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 12 |
+| **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a54?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado, United States | Remote | Jan 12 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Jan 11 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67823331984f2c22f5d24d5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | On Site | Jan 11 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Utah, United States | Remote | Jan 10 |
-| **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad](https://jobright.ai/jobs/info/6781e25468d539ac81f8f40d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Jan 10 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Planning Solutions Business Analyst](https://jobright.ai/jobs/info/6781d3351bfdfdbb2ae16366?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 10 |
-| **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6781b3b1e14b914d46119959?utm_campaign=Business%20Analyst&utm_source=1103)** | Peoria, IL | Hybrid | Jan 10 |
-| **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad](https://jobright.ai/jobs/info/6781aed95362ed8f29e70d1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
