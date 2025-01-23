@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679264688b0a1f205a8b5085?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 23 |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Associate Business Management Analyst/Business Management Analyst Woodland Hills CA](https://jobright.ai/jobs/info/679259b42507cf04fc66a6da?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodland Hills, CA | On Site | Jan 23 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679227acd2e555e2fcaf1398?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 23 |
 | **[FJA-US, Inc.](http://fja.com)** | **[Business Analyst, Commercial Healthcare Insurance](https://jobright.ai/jobs/info/6791e4347f3f253557b0451c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jan 22 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6791c844da14e71efe852965?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 22 |
@@ -65,18 +67,13 @@ For a complete list, click the following sortable link below:
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/678b11a03b74b99207deeef4?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Jan 22 |
 | **[One80 Intermediaries](https://www.one80intermediaries.com/)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/6791939a5e429bfa2602fe7b?utm_campaign=Business%20Analyst&utm_source=1103)** | IL | On Site | Jan 22 |
 | **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Business Coordinator](https://jobright.ai/jobs/info/679181d5258c983a2046c18d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | Hybrid | Jan 22 |
-| **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/679172844d253401da5f8399?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Missouri | Remote | Jan 22 |
-| ↳ | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/679172844d253401da5f8201?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Illinois | Remote | Jan 22 |
+| **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/679172844d253401da5f8201?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Illinois | Remote | Jan 22 |
+| ↳ | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/679172844d253401da5f8399?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Missouri | Remote | Jan 22 |
 | **[Nomura](http://www.nomura.com/)** | **[Business Resilience Associate](https://jobright.ai/jobs/info/6791684d22883e51130f2f8d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 22 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67916161f423193ea2838077?utm_campaign=Business%20Analyst&utm_source=1103)** | Eatontown, NJ | Remote | Jan 22 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6791674145f66bc9d8f4eeaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jan 22 |
-| **[Lithia & Driveway](http://www.lithia.com/)** | **[DFC IT Business Analyst](https://jobright.ai/jobs/info/679155d0eb424eb28b2ae873?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - AZ | On Site | Jan 22 |
-| ↳ | **[DFC IT Business Analyst](https://jobright.ai/jobs/info/679155d0eb424eb28b2ae875?utm_campaign=Business%20Analyst&utm_source=1103)** | REMOTE - USA | On Site | Jan 22 |
-| ↳ | **[DFC IT Business Analyst](https://jobright.ai/jobs/info/679155d0eb424eb28b2ae874?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - USA | On Site | Jan 22 |
-| ↳ | **[DFC IT Business Analyst](https://jobright.ai/jobs/info/679155d0eb424eb28b2ae7fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Driveway Finance, Medford, OR 97501 | On Site | Jan 22 |
-| ↳ | **[DFC IT Business Analyst](https://jobright.ai/jobs/info/679155d0eb424eb28b2ae876?utm_campaign=Business%20Analyst&utm_source=1103)** | Driveway Finance Corporation, Tigard, OR 97223 | On Site | Jan 22 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst, Business Insurance](https://jobright.ai/jobs/info/6789a552fc34e3bc4a6de65f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jan 22 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6791450263f05e96632b3f59?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Jan 22 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6791450263f05e96632b3ebe?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Jan 22 |
 | **[Endeavor](http://www.endeavorco.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/67537fd0ef7ce2280cf2e382?utm_campaign=Business%20Analyst&utm_source=1103)** | Beverly Hills, CA | On Site | Jan 22 |
 | **[Conversio Health](http://conversiohealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67903c77ec88e9953798ac50?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA, USA | Remote | Jan 21 |
 | **[On Location](https://onlocationexp.com/)** | **[Analyst, Business Strategy & Analytics - FIFA World Cup 26™](https://jobright.ai/jobs/info/67905116c0aba38539e052a8?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Jan 21 |
@@ -96,7 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/678aa01c17cc4d6a71cbb471?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Jan 17 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/673522ce217cdf682027a79c?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jan 17 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/677df54e1179565f54d49b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jan 17 |
-| **[TE Connectivity](http://www.te.com)** | **[BUSINESS ANALYST I - REMOTE](https://jobright.ai/jobs/info/678c6ea13a9dbec18b8009b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Middletown, PA | Remote | Jan 16 |
-| **[Hightower Advisors](http://www.hightoweradvisors.com)** | **[Business and Data Operations Associate](https://jobright.ai/jobs/info/6789d134a9e2b25e9ff0ca83?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 16 |
-| **[The Oakleaf Group](http://theoakleafgroup.com)** | **[Junior Business Analyst- UAT](https://jobright.ai/jobs/info/6789ac6a2222181844fa0e78?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote / Washington, DC Metro Area | Remote | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
