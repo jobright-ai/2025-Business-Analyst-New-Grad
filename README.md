@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Associate Business Management Analyst/Business Management Analyst Woodland Hills CA - R10183454](https://jobright.ai/jobs/info/6792a5308c1db243e0cc0f89?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jan 23 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/6762285970a9ac6828704946?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 23 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679264688b0a1f205a8b5085?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 23 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Associate Business Management Analyst/Business Management Analyst Woodland Hills CA](https://jobright.ai/jobs/info/679259b42507cf04fc66a6da?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodland Hills, CA | On Site | Jan 23 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679227acd2e555e2fcaf1398?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 23 |
