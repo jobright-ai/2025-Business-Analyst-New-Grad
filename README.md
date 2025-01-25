@@ -57,38 +57,40 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IGT](http://igt.com)** | **[Business Pro Analyst I](https://jobright.ai/jobs/info/6794a418bc0954b91be9f53c?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | On Site | Jan 24 |
+| ↳ | **[Business Pro Analyst I](https://jobright.ai/jobs/info/6794839c2a8ae4078812791d?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | On Site | Jan 24 |
+| **[New York State Department of Financial Services](https://www.dfs.ny.gov)** | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/67945b243369a334e3f6c33d?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Jan 24 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Business Systems Associate](https://jobright.ai/jobs/info/67943939f99a8ccaab4ebc36?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f52d?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Iowa | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f530?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Alabama | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f52b?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Mississippi | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f525?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Louisiana | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f537?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Pennsylvania | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f52e?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Texas | Remote | Jan 24 |
 | ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f527?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Michigan | Remote | Jan 24 |
 | ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f533?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Arizona | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f524?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Virginia | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f539?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Wisconsin | Remote | Jan 24 |
 | ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f526?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Florida | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f532?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - North Carolina | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f531?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Idaho | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f534?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - South Carolina | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f53b?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Missouri | Remote | Jan 24 |
 | ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f535?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Tennessee | Remote | Jan 24 |
 | ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f52a?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Kentucky | Remote | Jan 24 |
 | ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f53a?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Colorado | Remote | Jan 24 |
 | ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f523?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Maryland | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f539?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Wisconsin | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f524?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Virginia | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f453?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Ohio | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f528?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Oklahoma | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f52f?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Arkansas | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f536?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Kansas | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f52c?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Utah | Remote | Jan 24 |
-| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f538?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Wyoming | Remote | Jan 24 |
 | ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f522?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - South Dakota | Remote | Jan 24 |
 | ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f529?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Indiana | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f531?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Idaho | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f525?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Louisiana | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f537?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Pennsylvania | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f52e?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Texas | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f53b?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Missouri | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f52b?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Mississippi | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f530?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Alabama | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f52c?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Utah | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f538?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Wyoming | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f453?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Ohio | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f532?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - North Carolina | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f534?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - South Carolina | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f528?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Oklahoma | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f52d?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Iowa | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f52f?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Arkansas | Remote | Jan 24 |
+| ↳ | **[Business Systems Associate](https://jobright.ai/jobs/info/679413612d63314c2459f536?utm_campaign=Business%20Analyst&utm_source=1103)** | Full Time Remote - Kansas | Remote | Jan 24 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67938c1328fa474d93af5f84?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 24 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Business Analyst, Asset Management Group](https://jobright.ai/jobs/info/6792ed0809f584cb9dd839c0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Jan 23 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6792df1b898288c416f64bfd?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Jan 23 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Business Analyst, Asset Management Group](https://jobright.ai/jobs/info/6792de38ae2ab0ae32b20386?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Jan 23 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Associate Business Management Analyst/Business Management Analyst Woodland Hills CA - R10183454](https://jobright.ai/jobs/info/6792a5308c1db243e0cc0f89?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jan 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/6762285970a9ac6828704946?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 23 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679264688b0a1f205a8b5085?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 23 |
@@ -98,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6791c844da14e71efe852965?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 22 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6791b25b8a71c709adb0be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Jan 22 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6791b25b8a71c709adb0be6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Jan 22 |
-| **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/678b11a03b74b99207deeef4?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Jan 22 |
 | **[One80 Intermediaries](https://www.one80intermediaries.com/)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/6791939a5e429bfa2602fe7b?utm_campaign=Business%20Analyst&utm_source=1103)** | IL | On Site | Jan 22 |
 | **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Business Coordinator](https://jobright.ai/jobs/info/679181d5258c983a2046c18d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | Hybrid | Jan 22 |
 | **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/679172844d253401da5f8399?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Missouri | Remote | Jan 22 |
