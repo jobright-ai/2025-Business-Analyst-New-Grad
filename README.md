@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LendingTree](http://www.lendingtree.com)** | **[Business Analyst - IAA Students Only](https://jobright.ai/jobs/info/679d85f481a0304a61eef180?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 31 |
 | **[DAWSON](https://www.dawsonohana.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/679d3c79b94eb02350243149?utm_campaign=Business%20Analyst&utm_source=1103)** | Moore, GA | Hybrid | Jan 31 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/679d3424e65c3946b3264b70?utm_campaign=Business%20Analyst&utm_source=1103)** | Strong, ME | On Site | Jan 31 |
 | **[Computershare](https://www.computershare.com/)** | **[Business Control Analyst - Testing](https://jobright.ai/jobs/info/679d14b5ff34ac99fb137103?utm_campaign=Business%20Analyst&utm_source=1103)** | 1505 Energy Park Drive, St Paul, MN, 55108, US | Hybrid | Jan 31 |
 | **[Computershare U.S.](https://www.computershare.com/us)** | **[Business Control Analyst - Testing](https://jobright.ai/jobs/info/679d117a81d6b2a3b26ee92c?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | Hybrid | Jan 31 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679d8b581415e5dee9104e7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jan 31 |
+| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679d8b581415e5dee9104e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jan 31 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/679c3bcbe154f1d298a8c711?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Jan 30 |
 | **[Easy Dynamics Corp](https://www.easydynamics.com/)** | **[Business Analyst (Secret Clearance)](https://jobright.ai/jobs/info/679c3911c4fea47eabb8c7de?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jan 30 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/679c2b3792dde1c9f75904fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 30 |
@@ -92,6 +95,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/67624517d6d0fe99b57873ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Jan 27 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I, II, or Sr. - Remote](https://jobright.ai/jobs/info/6797ccffb555391915bd8bbc?utm_campaign=Business%20Analyst&utm_source=1103)** | AR | Remote | Jan 27 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675bae1760145fc4a572f137?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 26 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Analyst, Business Operations and Strategy](https://jobright.ai/jobs/info/6794901a2ef75974dd17057e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 25 |
-| **[Great Minds](https://greatminds.org)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6793cb73f1b7df53b5d6dd10?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
