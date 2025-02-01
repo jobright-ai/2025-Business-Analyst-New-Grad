@@ -57,23 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DAWSON](https://www.dawsonohana.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/679d3c79b94eb02350243149?utm_campaign=Business%20Analyst&utm_source=1103)** | Moore, GA | Hybrid | Jan 31 |
+| **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/679d3424e65c3946b3264b70?utm_campaign=Business%20Analyst&utm_source=1103)** | Strong, ME | On Site | Jan 31 |
 | **[Computershare](https://www.computershare.com/)** | **[Business Control Analyst - Testing](https://jobright.ai/jobs/info/679d14b5ff34ac99fb137103?utm_campaign=Business%20Analyst&utm_source=1103)** | 1505 Energy Park Drive, St Paul, MN, 55108, US | Hybrid | Jan 31 |
 | **[Computershare U.S.](https://www.computershare.com/us)** | **[Business Control Analyst - Testing](https://jobright.ai/jobs/info/679d117a81d6b2a3b26ee92c?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | Hybrid | Jan 31 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679cfaf09d1a1e8946d47f00?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jan 31 |
-| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679cfaf09d1a1e8946d47f08?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Jan 31 |
-| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679cfaf09d1a1e8946d47f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jan 31 |
-| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679d180090f0941571bf8ec0?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jan 31 |
-| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679c9a81db4b85558bd5443f?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jan 31 |
-| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679c9a81db4b85558bd54436?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 31 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/679c3bcbe154f1d298a8c711?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Jan 30 |
 | **[Easy Dynamics Corp](https://www.easydynamics.com/)** | **[Business Analyst (Secret Clearance)](https://jobright.ai/jobs/info/679c3911c4fea47eabb8c7de?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jan 30 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/679c2b3792dde1c9f75904fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 30 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/679c1171bf719a4076943c26?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | Hybrid | Jan 30 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679bf9f098ce05b613b0dd51?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, Arizona, USA | On Site | Jan 30 |
-| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679bf9f098ce05b613b0dd56?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Jan 30 |
-| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679bf9f098ce05b613b0dc8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, Virginia, USA | On Site | Jan 30 |
-| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679bf9f098ce05b613b0dc58?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Jan 30 |
-| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/679bf9f098ce05b613b0dd52?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Jan 30 |
 | **[City National Bank](http://www.cnb.com)** | **[Small Business Consumer Processor I](https://jobright.ai/jobs/info/679bf6d86db9917cc4632926?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 30 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/679bf2ff5ff863aafa9f4557?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 30 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/679bdfb385dfa1e1ce33313b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Jan 30 |
@@ -98,12 +89,9 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675222474b07b47340e51e91?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Jan 28 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst - Amazon Grocery Logistics - CXO Strategy & Planning, Customer Experience Operations](https://jobright.ai/jobs/info/6798a66086a26e1eadfcfe24?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 28 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst - Amazon Grocery Logistics - CXO Strategy & Planning, Customer Experience Operations](https://jobright.ai/jobs/info/67980ac775b6b8b00867443d?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Jan 27 |
-| **[AlixPartners](http://www.alixpartners.com)** | **[Business Research Analyst](https://jobright.ai/jobs/info/6797ec66e6164f72b1bf79e8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Jan 27 |
+| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/67624517d6d0fe99b57873ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Jan 27 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I, II, or Sr. - Remote](https://jobright.ai/jobs/info/6797ccffb555391915bd8bbc?utm_campaign=Business%20Analyst&utm_source=1103)** | AR | Remote | Jan 27 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/675bae1760145fc4a572f137?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 26 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Analyst, Business Operations and Strategy](https://jobright.ai/jobs/info/6794901a2ef75974dd17057e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 25 |
 | **[Great Minds](https://greatminds.org)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6793cb73f1b7df53b5d6dd10?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Jan 25 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Analyst, Business Operations and Strategy](https://jobright.ai/jobs/info/67948e682ef75974dd16faa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Glendale, CA | On Site | Jan 25 |
-| **[IGT](http://igt.com)** | **[Business Pro Analyst I](https://jobright.ai/jobs/info/6794a418bc0954b91be9f53c?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | On Site | Jan 24 |
-| ↳ | **[Business Pro Analyst I](https://jobright.ai/jobs/info/6794839c2a8ae4078812791d?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
