@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I - Remote](https://jobright.ai/jobs/info/679ed9516851cd8ae449cf94?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Feb 01 |
 | **[Vervent](https://www.vervent.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679da41480585d3cb2318ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jan 31 |
 | **[USAble Life](https://www.usablelife.com)** | **[Dental Business Analyst I or II - Remote](https://jobright.ai/jobs/info/679d997dc022ee484c62d41b?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Jan 31 |
 | **[LendingTree](http://www.lendingtree.com)** | **[Business Analyst - IAA Students Only](https://jobright.ai/jobs/info/679d85f481a0304a61eef180?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 31 |
@@ -69,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/679c1171bf719a4076943c26?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | Hybrid | Jan 30 |
 | **[City National Bank](http://www.cnb.com)** | **[Small Business Consumer Processor I](https://jobright.ai/jobs/info/679bf6d86db9917cc4632926?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 30 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/679bf2ff5ff863aafa9f4557?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 30 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/679bdfb385dfa1e1ce333003?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Jan 30 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/679bdfb385dfa1e1ce33313b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Jan 30 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Associate Business Management Analyst/Business Management Analyst Pathways Linthicum MD](https://jobright.ai/jobs/info/679c26986587864b140894d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Linthicum, MD | On Site | Jan 30 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 30 |
 | **[Viasat](http://www.viasat.com)** | **[Business Operations Analyst, Early Career](https://jobright.ai/jobs/info/677dccd2420d4cf3a756c36c?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA | On Site | Jan 30 |
