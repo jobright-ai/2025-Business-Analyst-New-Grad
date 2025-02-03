@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 03 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I - Remote](https://jobright.ai/jobs/info/679ed9516851cd8ae449cf94?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Feb 01 |
 | **[Vervent](https://www.vervent.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679da41480585d3cb2318ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jan 31 |
 | **[USAble Life](https://www.usablelife.com)** | **[Dental Business Analyst I or II - Remote](https://jobright.ai/jobs/info/679d997dc022ee484c62d41b?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Jan 31 |
@@ -92,6 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675cf861b8a3f9f66d7892a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Jan 28 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/675222474b07b47340e51e91?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Jan 28 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst - Amazon Grocery Logistics - CXO Strategy & Planning, Customer Experience Operations](https://jobright.ai/jobs/info/6798a66086a26e1eadfcfe24?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 28 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst - Amazon Grocery Logistics - CXO Strategy & Planning, Customer Experience Operations](https://jobright.ai/jobs/info/67980ac775b6b8b00867443d?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Jan 27 |
-| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/67624517d6d0fe99b57873ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
