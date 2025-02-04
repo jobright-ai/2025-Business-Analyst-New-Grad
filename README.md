@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efceb?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Feb 03 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | Remote | Feb 03 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | Remote | Feb 03 |
+| **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst - Rotational Development](https://jobright.ai/jobs/info/67a14684e88b34073ad9f8ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | Hybrid | Feb 03 |
+| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/67a13558f6cdd99d3286b814?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Associate Business Analyst , Technology](https://jobright.ai/jobs/info/67a1251bb97642ef9c72366e?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL, USA | On Site | Feb 03 |
+| ↳ | **[Associate Business Analyst , Technology](https://jobright.ai/jobs/info/67a1251bb97642ef9c72354c?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, USA | On Site | Feb 03 |
+| ↳ | **[Associate Business Analyst , Technology](https://jobright.ai/jobs/info/67a1251bb97642ef9c72366d?utm_campaign=Business%20Analyst&utm_source=1103)** | Burbank, CA, USA | On Site | Feb 03 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Business Systems Analyst I - ONSITE IN MINNEAPOLIS OFFICE](https://jobright.ai/jobs/info/67a11046ec1f282634d22140?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minneapolis, Minnesota, United States of America | On Site | Feb 03 |
-| **[LifeStance Health](https://lifestance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67a10ac6aa9d34b2e0595b63?utm_campaign=Business%20Analyst&utm_source=1103)** | USA-Remote | Remote | Feb 03 |
 | **[Lionsgate](https://www.lionsgate.com)** | **[Coordinator, Research & Digital Insights](https://jobright.ai/jobs/info/67a108af7c9c474b3f41b085?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Feb 03 |
-| **[Moog Inc.](http://www.moog.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67a1141619cc620b71c32335?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 03 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I - Remote](https://jobright.ai/jobs/info/679ed9516851cd8ae449cf94?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Feb 01 |
 | **[Vervent](https://www.vervent.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679da41480585d3cb2318ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jan 31 |
@@ -71,9 +77,7 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/679c3bcbe154f1d298a8c711?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Jan 30 |
 | **[Easy Dynamics Corp](https://www.easydynamics.com/)** | **[Business Analyst (Secret Clearance)](https://jobright.ai/jobs/info/679c3911c4fea47eabb8c7de?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jan 30 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/679c1171bf719a4076943c26?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | Hybrid | Jan 30 |
-| **[City National Bank](http://www.cnb.com)** | **[Small Business Consumer Processor I](https://jobright.ai/jobs/info/679bf6d86db9917cc4632926?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 30 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/679bf2ff5ff863aafa9f4557?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 30 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/679bdfb385dfa1e1ce33313b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Jan 30 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Associate Business Management Analyst/Business Management Analyst Pathways Linthicum MD](https://jobright.ai/jobs/info/679c26986587864b140894d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Linthicum, MD | On Site | Jan 30 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 30 |
 | **[Viasat](http://www.viasat.com)** | **[Business Operations Analyst, Early Career](https://jobright.ai/jobs/info/677dccd2420d4cf3a756c36c?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA | On Site | Jan 30 |
