@@ -94,6 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Cognizant](https://www.cognizant.com)** | **[Business Analyst (MES)-Semiconductor Domain-Onsite](https://jobright.ai/jobs/info/678825d2bfa489d95eec69fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | Hybrid | Jan 29 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Associate Business Analyst - Single-Family Mortgage Ops (Flexible Hybrid)](https://jobright.ai/jobs/info/679a77256d7fe187db9d5cff?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA, USA | Hybrid | Jan 29 |
 | **[eClerx](http://www.eclerx.com/)** | **[Business Analyst- Derivatives](https://jobright.ai/jobs/info/679a6e71679648e56d35399c?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Jan 29 |
-| **[Luminate](https://luminatedata.com/)** | **[Business Research Coordinator](https://jobright.ai/jobs/info/67998b19cb678960236303ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 29 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6799fa7a614237b985b75cd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
