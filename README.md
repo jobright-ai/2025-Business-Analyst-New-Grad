@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optum](https://www.optum.com/)** | **[Associate Business Analyst - National Remote](https://jobright.ai/jobs/info/67a4af96179ed31e8c670a26?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Hybrid | Feb 06 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business and Marketing Administrator](https://jobright.ai/jobs/info/67a43fb902d1af90862512e2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 05 |
 | **[Accenture](https://www.accenture.com)** | **[Change Control Management Business Analyst](https://jobright.ai/jobs/info/67a41caa414b9be884ff01af?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Feb 05 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business and Marketing Administrator](https://jobright.ai/jobs/info/67a3e5ff7cd3ae827b459220?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York | On Site | Feb 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday (FIN)](https://jobright.ai/jobs/info/67a37e954223977425459f70?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 05 |
 | **[Accenture](https://www.accenture.com)** | **[Change Control Management Business Analyst](https://jobright.ai/jobs/info/67a374b36d5d470c1e364645?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 12365 Riata Trace Pkwy, ACN OPS | Hybrid | Feb 05 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6781b3b1e14b914d46119959?utm_campaign=Business%20Analyst&utm_source=1103)** | Peoria, IL | Hybrid | Feb 05 |
+| **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Utah, United States | Remote | Feb 05 |
 | **[Bitwise Asset Management](https://www.bitwiseinvestments.com)** | **[Junior Salesforce Business Analyst](https://jobright.ai/jobs/info/67a3027a74c995ceacb271b8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Remote | Feb 04 |
 | ↳ | **[Junior Salesforce Business Analyst](https://jobright.ai/jobs/info/67a27f48323cadc0c08ed783?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Remote | Feb 04 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a25df1bbc50f64f7acbe96?utm_campaign=Business%20Analyst&utm_source=1103)** | Scott AFB, IL | On Site | Feb 04 |
@@ -89,6 +91,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/679c3bcbe154f1d298a8c711?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Jan 30 |
 | **[Easy Dynamics Corp](https://www.easydynamics.com/)** | **[Business Analyst (Secret Clearance)](https://jobright.ai/jobs/info/679c3911c4fea47eabb8c7de?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jan 30 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/679c1171bf719a4076943c26?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | Hybrid | Jan 30 |
-| **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 30 |
-| **[Viasat](http://www.viasat.com)** | **[Business Operations Analyst, Early Career](https://jobright.ai/jobs/info/677dccd2420d4cf3a756c36c?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
