@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business and Marketing Administrator](https://jobright.ai/jobs/info/67a43fb902d1af90862512e2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 05 |
 | **[Accenture](https://www.accenture.com)** | **[Change Control Management Business Analyst](https://jobright.ai/jobs/info/67a41caa414b9be884ff01af?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Feb 05 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business and Marketing Administrator](https://jobright.ai/jobs/info/67a3e5ff7cd3ae827b459220?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York | On Site | Feb 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday (FIN)](https://jobright.ai/jobs/info/67a37e954223977425459f70?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 05 |
@@ -70,8 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a23fbcb94f6be6988144b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Scott AFB, IL | On Site | Feb 04 |
 | **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Entry Level Business Analyst](https://jobright.ai/jobs/info/67a235ee78a85db0e22f35ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Ocoee, FL | On Site | Feb 04 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67a17b92d01896d724f923c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 03 |
-| **[General Atomics](http://www.ga.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67a15d1480180e1071d39449?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway California | On Site | Feb 03 |
-| **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/67a15d1480180e1071d394b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway California | On Site | Feb 03 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[JHU Organizational Change Management Business Systems Analyst (3 Levels) - 117204](https://jobright.ai/jobs/info/67a15a78b7a9f8f098b11e63?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Feb 03 |
 | **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efceb?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Feb 03 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | Remote | Feb 03 |
@@ -86,10 +85,10 @@ For a complete list, click the following sortable link below:
 | **[LendingTree](http://www.lendingtree.com)** | **[Business Analyst - IAA Students Only](https://jobright.ai/jobs/info/679d85f481a0304a61eef180?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 31 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/679d3424e65c3946b3264b70?utm_campaign=Business%20Analyst&utm_source=1103)** | Strong, ME | On Site | Jan 31 |
 | **[Computershare](https://www.computershare.com/)** | **[Business Control Analyst - Testing](https://jobright.ai/jobs/info/679d14b5ff34ac99fb137103?utm_campaign=Business%20Analyst&utm_source=1103)** | 1505 Energy Park Drive, St Paul, MN, 55108, US | Hybrid | Jan 31 |
+| **[Computershare U.S.](https://www.computershare.com/us)** | **[Business Control Analyst - Testing](https://jobright.ai/jobs/info/679d117a81d6b2a3b26ee92c?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | Hybrid | Jan 31 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/679c3bcbe154f1d298a8c711?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Jan 30 |
 | **[Easy Dynamics Corp](https://www.easydynamics.com/)** | **[Business Analyst (Secret Clearance)](https://jobright.ai/jobs/info/679c3911c4fea47eabb8c7de?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jan 30 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/679c1171bf719a4076943c26?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | Hybrid | Jan 30 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 30 |
 | **[Viasat](http://www.viasat.com)** | **[Business Operations Analyst, Early Career](https://jobright.ai/jobs/info/677dccd2420d4cf3a756c36c?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA | On Site | Jan 30 |
-| **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454442281a36e1e1510ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Massachusetts, United States | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
