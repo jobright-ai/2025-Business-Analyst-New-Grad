@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accenture](https://www.accenture.com)** | **[Change Control Management Business Analyst](https://jobright.ai/jobs/info/67a41caa414b9be884ff01af?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Feb 05 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business and Marketing Administrator](https://jobright.ai/jobs/info/67a3e5ff7cd3ae827b459220?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York | On Site | Feb 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday (FIN)](https://jobright.ai/jobs/info/67a37e954223977425459f70?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 05 |
 | **[Accenture](https://www.accenture.com)** | **[Change Control Management Business Analyst](https://jobright.ai/jobs/info/67a374b36d5d470c1e364645?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 12365 Riata Trace Pkwy, ACN OPS | Hybrid | Feb 05 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/67a13558f6cdd99d3286b814?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 03 |
 | **[Lionsgate](https://www.lionsgate.com)** | **[Coordinator, Research & Digital Insights](https://jobright.ai/jobs/info/67a108af7c9c474b3f41b085?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 03 |
+| **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Feb 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Feb 01 |
 | **[Vervent](https://www.vervent.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679da41480585d3cb2318ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jan 31 |
 | **[LendingTree](http://www.lendingtree.com)** | **[Business Analyst - IAA Students Only](https://jobright.ai/jobs/info/679d85f481a0304a61eef180?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 31 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/679c3bcbe154f1d298a8c711?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Jan 30 |
 | **[Easy Dynamics Corp](https://www.easydynamics.com/)** | **[Business Analyst (Secret Clearance)](https://jobright.ai/jobs/info/679c3911c4fea47eabb8c7de?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jan 30 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/679c1171bf719a4076943c26?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | Hybrid | Jan 30 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/679bf2ff5ff863aafa9f4557?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 30 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 30 |
 | **[Viasat](http://www.viasat.com)** | **[Business Operations Analyst, Early Career](https://jobright.ai/jobs/info/677dccd2420d4cf3a756c36c?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA | On Site | Jan 30 |
 | **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454442281a36e1e1510ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Massachusetts, United States | Hybrid | Jan 30 |
