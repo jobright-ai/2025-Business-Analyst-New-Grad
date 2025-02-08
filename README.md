@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Analyst – Advisory Americas – IBG Energy, Renewables & Infrastructure LatAm](https://jobright.ai/jobs/info/67a6bfbdfeb3229fb019e522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 07 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67a647e987263cf6cac2957f?utm_campaign=Business%20Analyst&utm_source=1103)** | Braintree, MA | On Site | Feb 07 |
 | **[QuinStreet](http://www.quinstreet.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67895686d34cb7f7be199c28?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 07 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Feb 07 |
