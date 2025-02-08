@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67a643afbee0c27a9ab436b3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 07 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67a647e987263cf6cac2957f?utm_campaign=Business%20Analyst&utm_source=1103)** | Braintree, MA | On Site | Feb 07 |
 | **[QuinStreet](http://www.quinstreet.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67895686d34cb7f7be199c28?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 07 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Feb 07 |
@@ -88,6 +87,5 @@ For a complete list, click the following sortable link below:
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/67a13558f6cdd99d3286b814?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 03 |
 | **[Lionsgate](https://www.lionsgate.com)** | **[Coordinator, Research & Digital Insights](https://jobright.ai/jobs/info/67a108af7c9c474b3f41b085?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 03 |
-| **[Deckers Brands](http://deckers.com)** | **[Direct Ship Planning Analyst](https://jobright.ai/jobs/info/67454a612c88f161dbce1a4e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Feb 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
