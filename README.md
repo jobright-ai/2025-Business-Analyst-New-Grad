@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 08 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a6f0683e929b51a30ec0de?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Feb 07 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Analyst – Advisory Americas – IBG Energy, Renewables & Infrastructure LatAm](https://jobright.ai/jobs/info/67a6ca092aa0527d04d61543?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 07 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67a647e987263cf6cac2957f?utm_campaign=Business%20Analyst&utm_source=1103)** | Braintree, MA | On Site | Feb 07 |
