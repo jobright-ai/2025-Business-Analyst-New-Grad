@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kepler](https://www.keplergrp.com)** | **[Senior Analyst, Data Strategy & Analytics (Pharma Account)](https://jobright.ai/jobs/info/675a79068c83cfcf436860d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Feb 08 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 08 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a6f0683e929b51a30ec0de?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Feb 07 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Analyst – Advisory Americas – IBG Energy, Renewables & Infrastructure LatAm](https://jobright.ai/jobs/info/67a6ca092aa0527d04d61543?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 07 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67a50a71c8f8c713e4093528?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 06 |
 | **[The Alexander Group](https://www.alexandergroup.com)** | **[Business Analyst, Analytics & Research](https://jobright.ai/jobs/info/67a4dcd2e33431bcb54bca41?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
-| **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business and Marketing Administrator](https://jobright.ai/jobs/info/67a43fb902d1af90862512e2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 05 |
 | **[Accenture](https://www.accenture.com)** | **[Change Control Management Business Analyst](https://jobright.ai/jobs/info/67a41caa414b9be884ff01af?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Feb 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday (FIN)](https://jobright.ai/jobs/info/67a37e954223977425459f70?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 05 |
 | **[Accenture](https://www.accenture.com)** | **[Change Control Management Business Analyst](https://jobright.ai/jobs/info/67a374b36d5d470c1e364645?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 12365 Riata Trace Pkwy, ACN OPS | Hybrid | Feb 05 |
