@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Analyst – Advisory Americas – IBG Energy, Renewables & Infrastructure LatAm](https://jobright.ai/jobs/info/67a6bfbdfeb3229fb019e522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 07 |
+| **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a6f0683e929b51a30ec0de?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Feb 07 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Analyst – Advisory Americas – IBG Energy, Renewables & Infrastructure LatAm](https://jobright.ai/jobs/info/67a6ca092aa0527d04d61543?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 07 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67a647e987263cf6cac2957f?utm_campaign=Business%20Analyst&utm_source=1103)** | Braintree, MA | On Site | Feb 07 |
 | **[QuinStreet](http://www.quinstreet.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67895686d34cb7f7be199c28?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 07 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Feb 07 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67a50a71c8f8c713e4093528?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 06 |
 | **[The Alexander Group](https://www.alexandergroup.com)** | **[Business Analyst, Analytics & Research](https://jobright.ai/jobs/info/67a4dcd2e33431bcb54bca41?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
+| **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business and Marketing Administrator](https://jobright.ai/jobs/info/67a43fb902d1af90862512e2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 05 |
 | **[Accenture](https://www.accenture.com)** | **[Change Control Management Business Analyst](https://jobright.ai/jobs/info/67a41caa414b9be884ff01af?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Feb 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday (FIN)](https://jobright.ai/jobs/info/67a37e954223977425459f70?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 05 |
 | **[Accenture](https://www.accenture.com)** | **[Change Control Management Business Analyst](https://jobright.ai/jobs/info/67a374b36d5d470c1e364645?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 12365 Riata Trace Pkwy, ACN OPS | Hybrid | Feb 05 |
@@ -88,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/67a13558f6cdd99d3286b814?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 03 |
 | **[Lionsgate](https://www.lionsgate.com)** | **[Coordinator, Research & Digital Insights](https://jobright.ai/jobs/info/67a108af7c9c474b3f41b085?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 03 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
