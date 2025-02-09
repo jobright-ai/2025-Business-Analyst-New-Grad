@@ -89,6 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | Remote | Feb 03 |
 | **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst - Rotational Development](https://jobright.ai/jobs/info/67a14684e88b34073ad9f8ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | Hybrid | Feb 03 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/67a13558f6cdd99d3286b814?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 03 |
+| **[CGI](https://www.cgi.com)** | **[Junior Momentum Business Analyst](https://jobright.ai/jobs/info/677daef5be8bc1976746b44e?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Feb 03 |
 | **[Lionsgate](https://www.lionsgate.com)** | **[Coordinator, Research & Digital Insights](https://jobright.ai/jobs/info/67a108af7c9c474b3f41b085?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Feb 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
