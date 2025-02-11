@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/67aa9b3200752282fec9d254?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 10 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67aa79026125c73971f48283?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee, United States | Remote | Feb 10 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/67aa75189b392b687fbea098?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Feb 10 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[Business Analyst - Systematic Strategy Office of the COO (NYC)](https://jobright.ai/jobs/info/67aa69f360eadad76d533286?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 10 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[SavvyMoney](http://www.savvymoney.com)** | **[Business Analyst (Dublin, CA)](https://jobright.ai/jobs/info/67a51bd861e4f7e7f746fb45?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, CA | Hybrid | Feb 06 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67a50a71c8f8c713e4093528?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 06 |
 | **[The Alexander Group](https://www.alexandergroup.com)** | **[Business Analyst, Analytics & Research](https://jobright.ai/jobs/info/67a4dcd2e33431bcb54bca41?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
-| **[Accenture](https://www.accenture.com)** | **[Change Control Management Business Analyst](https://jobright.ai/jobs/info/67a41caa414b9be884ff01af?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Feb 05 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright.ai/jobs/info/67856c82cc602433ec39bcb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Feb 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday (FIN)](https://jobright.ai/jobs/info/67a37e954223977425459f70?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 05 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6781b3b1e14b914d46119959?utm_campaign=Business%20Analyst&utm_source=1103)** | Peoria, IL | Hybrid | Feb 05 |
