@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Caplugs](http://www.caplugs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67ab7e2720c927a17e25565f?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 11 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67883687c0994fd9ed72448e?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Feb 11 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/67aa9b3200752282fec9d254?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 10 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67aa79026125c73971f48283?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee, United States | Remote | Feb 10 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/67aa75189b392b687fbea098?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Feb 10 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[Business Analyst - Systematic Strategy Office of the COO (NYC)](https://jobright.ai/jobs/info/67aa69f360eadad76d533286?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 10 |
 | ↳ | **[Business Analyst - Systematic Strategy Office of the COO (NYC)](https://jobright.ai/jobs/info/67aa489224599cdfddd4a4d9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | On Site | Feb 10 |
