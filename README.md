@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LifeStance Health](https://lifestance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67ac6d4ad08c323e3e79faec?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 12 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67ac3e25583012f1a5a54d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 11 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67ac07a5d0d6c0e031f248b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Feb 11 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/67ac1c31824419193ade0eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | Hybrid | Feb 11 |
@@ -99,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67a50a71c8f8c713e4093528?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 06 |
 | **[The Alexander Group](https://www.alexandergroup.com)** | **[Business Analyst, Analytics & Research](https://jobright.ai/jobs/info/67a4dcd2e33431bcb54bca41?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
 | **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business and Marketing Administrator](https://jobright.ai/jobs/info/67a43fb902d1af90862512e2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 05 |
-| **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright.ai/jobs/info/67856c82cc602433ec39bcb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
