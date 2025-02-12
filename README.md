@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Empyrean](http://www.goempyrean.com)** | **[Business Systems Analyst I - ONSITE IN MINNEAPOLIS OFFICE](https://jobright.ai/jobs/info/67acf2f0c2dfea0eaa81d36d?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Feb 12 |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist I-Hybrid](https://jobright.ai/jobs/info/67acd49f73788a65266cdfec?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | Feb 12 |
+| **[EquiLend](http://www.equilend.com/)** | **[Graduate Business Rotational Analyst](https://jobright.ai/jobs/info/67acd49f73788a65266cdfd9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 12 |
+| **[Northwestern University](https://www.northwestern.edu)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/67acccdda0e44d42bb7aff59?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | Hybrid | Feb 12 |
+| **[The Ohio State University](http://www.osu.edu/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67aca097c6035251536c7f86?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Feb 12 |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67a8382eac67ff7fc09915c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 12 |
 | **[LifeStance Health](https://lifestance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67ac6d4ad08c323e3e79faec?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 12 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67ac3e25583012f1a5a54d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 11 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67ac07a5d0d6c0e031f248b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Feb 11 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/67ac1c31824419193ade0eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | Hybrid | Feb 11 |
 | **[Rochester Gas & Electric](https://www.rge.com)** | **[Associate Analyst - Business Operations](https://jobright.ai/jobs/info/67ac018f9670e768079f4e95?utm_campaign=Business%20Analyst&utm_source=1103)** | Portland, OR | On Site | Feb 11 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst Support](https://jobright.ai/jobs/info/67abdce002474609d6ec7d79?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 11 |
 | **[Slalom](http://www.slalom.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67abd628f789d3e2201904a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | On Site | Feb 11 |
@@ -76,8 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/67aa61f9acaf639835e11d0c?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | On Site | Feb 10 |
 | **[Acosta](https://www.acosta.com)** | **[Business Manager Assistant - Hybrid](https://jobright.ai/jobs/info/67aa45f5cb993ddd3cc3e7a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, United States | Hybrid | Feb 10 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67aa489224599cdfddd4a69c?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 10 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/67aa41a465433450f38f6f72?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | Feb 10 |
-| **[Gripple UK & Ireland](http://www.gripple.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67aa335693a517ad957534a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Aurora, IL | On Site | Feb 10 |
 | **[ACUITY A MUTUAL INSURANCE COMPANY](http://www.acuity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67aa335693a517ad957534f3?utm_campaign=Business%20Analyst&utm_source=1103)** | Sheboygan, WI | On Site | Feb 10 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67aa234be064c03fb00582f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Sheboygan, WI | Remote | Feb 10 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67aa21c2eb7b1fbf1e713db0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 10 |
@@ -99,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[SavvyMoney](http://www.savvymoney.com)** | **[Business Analyst (Dublin, CA)](https://jobright.ai/jobs/info/67a51bd861e4f7e7f746fb45?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, CA | Hybrid | Feb 06 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67a50a71c8f8c713e4093528?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 06 |
 | **[The Alexander Group](https://www.alexandergroup.com)** | **[Business Analyst, Analytics & Research](https://jobright.ai/jobs/info/67a4dcd2e33431bcb54bca41?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
-| **[Interpublic Group (IPG)](http://www.interpublic.com)** | **[Business and Marketing Administrator](https://jobright.ai/jobs/info/67a43fb902d1af90862512e2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
