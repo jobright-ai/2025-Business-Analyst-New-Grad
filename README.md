@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst Support](https://jobright.ai/jobs/info/67abdce002474609d6ec7d79?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 11 |
+| **[Slalom](http://www.slalom.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67abd628f789d3e2201904a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | On Site | Feb 11 |
+| **[NEOGOV](http://www.neogov.com)** | **[IT Business Systems Analyst I](https://jobright.ai/jobs/info/67abba406d33f39371da2245?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | On Site | Feb 11 |
+| **[Slalom](http://www.slalom.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67abbe2ffad1378d8dcda7b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Tampa Bay Area | On Site | Feb 11 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67abb5427985553989875757?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus Campus | On Site | Feb 11 |
 | **[Caplugs](http://www.caplugs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67ab7e2720c927a17e25565f?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 11 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67883687c0994fd9ed72448e?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Feb 11 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/67aa9b3200752282fec9d254?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 10 |
@@ -74,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Baptist Health](http://baptisthealth.net/)** | **[Associate Business Systems Analyst, MDI Lab,Technology & Digital, FT, 8A-4:30P](https://jobright.ai/jobs/info/672a7f58e746d4b496ec831e?utm_campaign=Business%20Analyst&utm_source=1103)** | Coral Gables, FL | On Site | Feb 09 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Purchasing Business Analyst – West Coast Region](https://jobright.ai/jobs/info/67a866bf54ab799e6f509f9d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pleasanton, CA | On Site | Feb 09 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Digital Innovation - Business Analyst](https://jobright.ai/jobs/info/677e9d5fc93154ff956a5873?utm_campaign=Business%20Analyst&utm_source=1103)** | Mason, OH | On Site | Feb 09 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Feb 08 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 08 |
 | **[Kepler](https://www.keplergrp.com)** | **[Senior Analyst, Data Strategy & Analytics (Pharma Account)](https://jobright.ai/jobs/info/675a79068c83cfcf436860d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Feb 08 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Purchasing Business Analyst – West Coast Region](https://jobright.ai/jobs/info/67a86ee4c3a4364ad8eb8480?utm_campaign=Business%20Analyst&utm_source=1103)** | Kirkland, WA | On Site | Feb 08 |
@@ -90,6 +96,4 @@ For a complete list, click the following sortable link below:
 | **[WTW](https://www.willistowerswatson.com)** | **[Health Outsourcing Business Analyst 2](https://jobright.ai/jobs/info/67856c82cc602433ec39bcb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Feb 05 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday (FIN)](https://jobright.ai/jobs/info/67a37e954223977425459f70?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 05 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6781b3b1e14b914d46119959?utm_campaign=Business%20Analyst&utm_source=1103)** | Peoria, IL | Hybrid | Feb 05 |
-| **[Citi](https://www.citi.com)** | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/677f41f896c07c9b4d6d4a8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Feb 04 |
-| **[Bitwise Asset Management](https://www.bitwiseinvestments.com)** | **[Junior Salesforce Business Analyst](https://jobright.ai/jobs/info/67a3027a74c995ceacb271b8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Remote | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
