@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Activate Consulting](http://www.activate.com)** | **[2025 Business Analyst](https://jobright.ai/jobs/info/67aeec3837c576753753608a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 13 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6791b25b8a71c709adb0be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Feb 13 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67ada16fc8b18d4332e08f86?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Feb 12 |
-| ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67ada16fc8b18d4332e08f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 12 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67ada16fc8b18d4332e08f88?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Feb 12 |
+| ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67ada16fc8b18d4332e08f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 12 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67ad72c06685a9a23e80f112?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, United States | Hybrid | Feb 12 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67ad72c06685a9a23e80f113?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Feb 12 |
 | ↳ | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67ad72c06685a9a23e80f114?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Feb 12 |
@@ -107,7 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com/)** | **[Digital Innovation - Business Analyst](https://jobright.ai/jobs/info/677e9d5fc93154ff956a5873?utm_campaign=Business%20Analyst&utm_source=1103)** | Mason, OH | On Site | Feb 09 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Feb 08 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 08 |
-| **[Kepler](https://www.keplergrp.com)** | **[Senior Analyst, Data Strategy & Analytics (Pharma Account)](https://jobright.ai/jobs/info/675a79068c83cfcf436860d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Feb 08 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[Purchasing Business Analyst – West Coast Region](https://jobright.ai/jobs/info/67a86ee4c3a4364ad8eb8480?utm_campaign=Business%20Analyst&utm_source=1103)** | Kirkland, WA | On Site | Feb 08 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
