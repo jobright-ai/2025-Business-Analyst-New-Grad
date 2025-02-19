@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conversio Health](http://conversiohealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b5b8ea56edd290be7cfdc2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA | Remote | Feb 18 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Business Associate Analyst (Remote)](https://jobright.ai/jobs/info/67b537861650143494af9e4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Feb 18 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/67b5071aaf33373c4640dc6a?utm_campaign=Business%20Analyst&utm_source=1103)** | 2000 Marcus Avenue, New Hyde Park, NY, 11042, US | On Site | Feb 18 |
+| **[Quantam](http://www.iquantam.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b5a7f2e5e231d6719615e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Feb 18 |
 | **[Conversio Health](http://conversiohealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b4d756ce7967563039bd0c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo | Remote | Feb 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b3737a4fa5a3c70be1ad90?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 17 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67b3737a4fa5a3c70be1ada5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Feb 17 |
@@ -89,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Interstate Waste Services, Inc.](http://interstatewaste.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67aeb002a0019c38a28d5be1?utm_campaign=Business%20Analyst&utm_source=1103)** | Teaneck, NJ | On Site | Feb 13 |
 | **[ICE](https://www.ice.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/67ae92eead66fa822eccd8dd?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 13 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[Analyst, Technology Business Analyst (Campus)](https://jobright.ai/jobs/info/67ab9882896d58016d2f1946?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | On Site | Feb 12 |
-| **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/67ad12e3b42fb8c2743f43c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Medicine, NE | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
