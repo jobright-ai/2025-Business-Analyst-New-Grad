@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/67b5071aaf33373c4640dc6a?utm_campaign=Business%20Analyst&utm_source=1103)** | 2000 Marcus Avenue, New Hyde Park, NY, 11042, US | On Site | Feb 18 |
 | **[Conversio Health](http://conversiohealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b4d756ce7967563039bd0c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo | Remote | Feb 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b3737a4fa5a3c70be1ad90?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 17 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67b3737a4fa5a3c70be1ada5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Feb 17 |
@@ -64,10 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Ericsson](https://www.ericsson.com)** | **[Business Performance Analyst (Entry Level)](https://jobright.ai/jobs/info/6799cda6d28a565e76d488c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | On Site | Feb 16 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc3ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Feb 15 |
 | **[The Oakleaf Group](http://theoakleafgroup.com)** | **[Junior Business Analyst- UAT](https://jobright.ai/jobs/info/67b143aa4dbf0ed2d5c764b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Feb 15 |
-| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/6753bb9e6c9342aef197bb39?utm_campaign=Business%20Analyst&utm_source=1103)** | Beverly Hills, CA | On Site | Feb 15 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Purchasing Business Analyst – West Coast Region](https://jobright.ai/jobs/info/67aed4bb7693dd1ca6b00798?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Feb 15 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6791b25b8a71c709adb0be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Feb 15 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679227acd2e555e2fcaf1398?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 15 |
 | **[Washington Gas](https://www.washingtongas.com/)** | **[WGL - Recent Graduate: Business Analyst](https://jobright.ai/jobs/info/67b0c18da938e8cb564babb4?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | On Site | Feb 15 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67b0b150d85d7eb226d21ce7?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 15 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Business Resilience Analyst](https://jobright.ai/jobs/info/67648b088dcfb675e0b80361?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Feb 15 |
@@ -87,12 +86,10 @@ For a complete list, click the following sortable link below:
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67aeb002a0019c38a28d5b2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Feb 13 |
 | **[Interstate Waste Services, Inc.](http://interstatewaste.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67aeb002a0019c38a28d5be1?utm_campaign=Business%20Analyst&utm_source=1103)** | Teaneck, NJ | On Site | Feb 13 |
 | **[ICE](https://www.ice.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/67ae92eead66fa822eccd8dd?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 13 |
-| **[Axon](https://www.axon.com)** | **[Business Analyst I, Fusus](https://jobright.ai/jobs/info/67ada16fc8b18d4332e08f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 12 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[Analyst, Technology Business Analyst (Campus)](https://jobright.ai/jobs/info/67ab9882896d58016d2f1946?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | On Site | Feb 12 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/67ad12e3b42fb8c2743f43c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Medicine, NE | On Site | Feb 12 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Business Systems Analyst I - ONSITE IN MINNEAPOLIS OFFICE](https://jobright.ai/jobs/info/67acf2f0c2dfea0eaa81d36d?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Feb 12 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist I-Hybrid](https://jobright.ai/jobs/info/67acfe3dcc3a83000b362fb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | Feb 12 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/67acccdda0e44d42bb7aff59?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | Hybrid | Feb 12 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[Analyst, Technology Business Analyst (Campus)](https://jobright.ai/jobs/info/67abe4edfe93e40b6c1c23b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 12 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67a8382eac67ff7fc09915c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
