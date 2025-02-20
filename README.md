@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Business Associate Analyst](https://jobright.ai/jobs/info/679abd1a8f810c2303a69bdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Feb 20 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Analyst - Tampa, Florida](https://jobright.ai/jobs/info/67b678983e92d395cfdbc04f?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Feb 19 |
-| **[AI Digital](https://www.aidigital.io/)** | **[JUNIOR BUSINESS ANALYST](https://jobright.ai/jobs/info/67b67018a0bea90d22f6a2ab?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Remote | Feb 19 |
 | **[Mitsubishi Logisnext Americas Inc.](http://www.logisnextamericas.com)** | **[Supply Chain, Business Analyst](https://jobright.ai/jobs/info/67b63847942f7cbfc272256a?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | Hybrid | Feb 19 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67b63a13942f7cbfc2722cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 19 |
 | **[Luminate](https://luminatedata.com/)** | **[Business Research Coordinator](https://jobright.ai/jobs/info/67998b19cb678960236303ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 19 |
