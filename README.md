@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/67b8ca9560bbe30d2be18823?utm_campaign=Business%20Analyst&utm_source=1103)** | PHILADELPHIA, Pennsylvania | On Site | Feb 21 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/67b849ae0102cf8471cde4fe?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Feb 20 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst, Business Insurance](https://jobright.ai/jobs/info/67b81ffeb8f06b97855007c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 20 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Controls Group (“BCG”) - Analyst](https://jobright.ai/jobs/info/67b7f150952490b3f8130b13?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 20 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[Business Controls Group (“BCG”) - Analyst](https://jobright.ai/jobs/info/67b79f11dd1a744649bea906?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, NY – U.S. | On Site | Feb 20 |
 | **[LifeStance Health](https://lifestance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b7ab3fa2f4030461e12861?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 20 |
 | **[4D Molecular Therapeutics](http://www.4dmoleculartherapeutics.com)** | **[IR Coordinator](https://jobright.ai/jobs/info/67b793e3e710a29e45770c67?utm_campaign=Business%20Analyst&utm_source=1103)** | Emeryville, California | Hybrid | Feb 20 |
-| **[Virginia Department of Taxation](https://www.tax.virginia.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b78a06640e0d4bdab7fb0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Feb 20 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b7be2c807acbf8dd007b24?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Feb 20 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67b778fb88508d309e705647?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 20 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/67a23fbcb94f6be6988144b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Scott AFB, IL | On Site | Feb 20 |
@@ -74,9 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Logisnext Americas Inc.](http://www.logisnextamericas.com)** | **[Supply Chain, Business Analyst](https://jobright.ai/jobs/info/67b63847942f7cbfc272256a?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | Hybrid | Feb 19 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67b63a13942f7cbfc2722cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 19 |
 | **[Luminate](https://luminatedata.com/)** | **[Business Research Coordinator](https://jobright.ai/jobs/info/67998b19cb678960236303ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 19 |
+| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Business Associate Analyst (Remote)](https://jobright.ai/jobs/info/67b89b477189a67242764df8?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Feb 19 |
 | **[Conversio Health](http://conversiohealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b5b8ea56edd290be7cfdc2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA | Remote | Feb 18 |
-| **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Business Associate Analyst (Remote)](https://jobright.ai/jobs/info/67b537861650143494af9e4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Feb 18 |
-| **[Conversio Health](http://conversiohealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b4d756ce7967563039bd0c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo | Remote | Feb 18 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67b4d756ce7967563039bd0c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo | Remote | Feb 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b3737a4fa5a3c70be1ad90?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 17 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67b3737a4fa5a3c70be1ada5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Feb 17 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67b3709c8705a075bf7d93ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Feb 17 |
@@ -92,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[IGT](http://igt.com)** | **[Business Pro Analyst I](https://jobright.ai/jobs/info/6794a418bc0954b91be9f53c?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | On Site | Feb 15 |
 | **[InvoiceCloud, Inc.](http://www.invoicecloud.net)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/67b04c95eea311d5fb4f55f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston | Hybrid | Feb 14 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67b82960c237e57bda8b0770?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Feb 14 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b0def352274c64beb6efa0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
