@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Business Analyst, Business Insurance](https://jobright.ai/jobs/info/67b81ffeb8f06b97855007c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 20 |
+| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Controls Group (“BCG”) - Analyst](https://jobright.ai/jobs/info/67b7f150952490b3f8130b13?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 20 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b7b623cc80332611748f5f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 20 |
 | **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[Business Controls Group (“BCG”) - Analyst](https://jobright.ai/jobs/info/67b79f11dd1a744649bea906?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, NY – U.S. | On Site | Feb 20 |
 | **[LifeStance Health](https://lifestance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b7ab3fa2f4030461e12861?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 20 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67b3737a4fa5a3c70be1ada5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Feb 17 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67b3709c8705a075bf7d93ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Feb 17 |
 | **[Ericsson](https://www.ericsson.com)** | **[Business Performance Analyst (Entry Level)](https://jobright.ai/jobs/info/6799cda6d28a565e76d488c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | On Site | Feb 16 |
+| **[CGI](https://www.cgi.com)** | **[Junior Momentum Business Analyst](https://jobright.ai/jobs/info/67b810afa1c3e9374d0d2864?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Feb 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc3ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Feb 15 |
 | **[The Oakleaf Group](http://theoakleafgroup.com)** | **[Junior Business Analyst- UAT](https://jobright.ai/jobs/info/67b143aa4dbf0ed2d5c764b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Feb 15 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[Purchasing Business Analyst – West Coast Region](https://jobright.ai/jobs/info/67a846ec7fc498c167453cdf?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Feb 15 |
@@ -88,6 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Great Minds](https://greatminds.org)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6793cb73f1b7df53b5d6dd10?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Feb 15 |
 | **[IGT](http://igt.com)** | **[Business Pro Analyst I](https://jobright.ai/jobs/info/6794a418bc0954b91be9f53c?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | On Site | Feb 15 |
 | **[InvoiceCloud, Inc.](http://www.invoicecloud.net)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/67b04c95eea311d5fb4f55f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston | Hybrid | Feb 14 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67b82960c237e57bda8b076b?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Feb 14 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67b82960c237e57bda8b0770?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Feb 14 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b0def352274c64beb6efa0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Feb 14 |
 | **[NEOGOV](http://www.neogov.com)** | **[Departmental Analyst 9-11 (Business Services)](https://jobright.ai/jobs/info/67afa4250caf0a7b7bd6632b?utm_campaign=Business%20Analyst&utm_source=1103)** | Lansing, MI | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
