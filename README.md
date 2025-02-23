@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[AlixPartners](http://www.alixpartners.com)** | **[Business Research Analyst](https://jobright.ai/jobs/info/67ba3a828a90c2a251dc1993?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Feb 22 |
 | **[Vervent](https://www.vervent.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679da41480585d3cb2318ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Feb 22 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Feb 22 |
+| **[Informative Research](http://www.informativeresearch.com/)** | **[Informative Research Business Analyst](https://jobright.ai/jobs/info/67ba8c7ffc95f431854416cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Feb 21 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b959073ab0a0382b883fc8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 21 |
 | **[nutpods](http://www.nutpods.com/)** | **[Business Analytics Coordinator](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c518?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 21 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business / Systems Analyst I](https://jobright.ai/jobs/info/67b902ab007697d7f41dd67f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States-Massachusetts-Quincy - 25 Newport Ave Ext | On Site | Feb 21 |
@@ -86,6 +87,4 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b3737a4fa5a3c70be1ad90?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 17 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67b3737a4fa5a3c70be1ada5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Feb 17 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67b3709c8705a075bf7d93ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Feb 17 |
-| **[Ericsson](https://www.ericsson.com)** | **[Business Performance Analyst (Entry Level)](https://jobright.ai/jobs/info/6799cda6d28a565e76d488c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | On Site | Feb 16 |
-| **[ServiceTitan](http://www.servicetitan.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/6794901a2ef75974dd17057e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
