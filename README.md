@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AlixPartners](http://www.alixpartners.com)** | **[Business Research Analyst](https://jobright.ai/jobs/info/67ba3a828a90c2a251dc1993?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Feb 22 |
 | **[Vervent](https://www.vervent.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679da41480585d3cb2318ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Feb 22 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Feb 22 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b959073ab0a0382b883fc8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 21 |
