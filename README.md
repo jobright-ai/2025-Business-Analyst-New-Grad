@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67bd38c36ab12c2ba61e9ac8?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 24 |
 | **[Hermeus](http://www.hermeus.com)** | **[Business Applications Manager](https://jobright.ai/jobs/info/67bcc52ccf0e43a616c0f627?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 24 |
-| **[Optum](https://www.optum.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67bcc52ccf0e43a616c0f5e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 24 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67bcbf5773ae9880b98780a7?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Feb 24 |
+| **[Optum](https://www.optum.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67bcb95aa8984f578a5964f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 24 |
 | ↳ | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bc4ddaba3705f8d9493334?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bbf1036be2e22425319789?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Feb 23 |
@@ -86,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67b63a13942f7cbfc2722cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 19 |
 | **[Luminate](https://luminatedata.com/)** | **[Business Research Coordinator](https://jobright.ai/jobs/info/67998b19cb678960236303ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 19 |
 | **[Conversio Health](http://conversiohealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b5b8ea56edd290be7cfdc2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA | Remote | Feb 18 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/67b4d756ce7967563039bd0c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo | Remote | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
