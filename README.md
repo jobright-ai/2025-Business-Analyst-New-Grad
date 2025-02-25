@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/67be12073bf964e9813a9f6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Feb 25 |
+| **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efceb?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Feb 25 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | Remote | Feb 25 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67bd38c36ab12c2ba61e9ac8?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 24 |
 | **[Hermeus](http://www.hermeus.com)** | **[Business Applications Manager](https://jobright.ai/jobs/info/67bcc52ccf0e43a616c0f627?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 24 |
+| **[Optum](https://www.optum.com/)** | **[Business Analyst- Austin, TX](https://jobright.ai/jobs/info/67bcc52ccf0e43a616c0f5e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 24 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67bcbf5773ae9880b98780a7?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Feb 24 |
 | **[Optum](https://www.optum.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67bcb95aa8984f578a5964f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 24 |
