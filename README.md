@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walden University](http://www.waldenu.edu/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67bf502b1d33b35bbd686017?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 26 |
+| **[PacifiCorp](https://www.pacificorp.com/)** | **[Sr Business Analyst, Salt Lake City, UT #113237](https://jobright.ai/jobs/info/67bf502b1d33b35bbd6862f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 26 |
 | **[VinAudit.com Inc.](http://www.vinaudit.com)** | **[Business Administrator for a Tech Startup](https://jobright.ai/jobs/info/67bec13bf636a08ca1b0e2fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 25 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/67be6f66a26f73013ec7b000?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Feb 25 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67be5ccf991f3b689d9a47c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 25 |
@@ -89,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67b778fb88508d309e705647?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 20 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/67a23fbcb94f6be6988144b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Scott AFB, IL | On Site | Feb 20 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Associate Analyst](https://jobright.ai/jobs/info/679abd1a8f810c2303a69bdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Feb 20 |
-| **[Optum](https://www.optum.com/)** | **[Associate Business Analyst - Tampa, Florida](https://jobright.ai/jobs/info/67b678983e92d395cfdbc04f?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
