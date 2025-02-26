@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67be53fe020e15024df9ece0?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Feb 25 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/67be12073bf964e9813a9f6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Feb 25 |
+| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/67a13558f6cdd99d3286b814?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 25 |
 | **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efceb?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Feb 25 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | Remote | Feb 25 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67bd38c36ab12c2ba61e9ac8?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 24 |
 | **[Hermeus](http://www.hermeus.com)** | **[Business Applications Manager](https://jobright.ai/jobs/info/67bcc52ccf0e43a616c0f627?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 24 |
-| **[Optum](https://www.optum.com/)** | **[Business Analyst- Austin, TX](https://jobright.ai/jobs/info/67bcc52ccf0e43a616c0f5e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 24 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67bcbf5773ae9880b98780a7?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Feb 24 |
-| **[Optum](https://www.optum.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67bcb95aa8984f578a5964f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 24 |
 | ↳ | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bc4ddaba3705f8d9493334?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bbf1036be2e22425319789?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Feb 23 |
@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[nutpods](http://www.nutpods.com/)** | **[Business Analytics Coordinator](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c518?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 21 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business / Systems Analyst I](https://jobright.ai/jobs/info/67b902ab007697d7f41dd67f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States-Massachusetts-Quincy - 25 Newport Ave Ext | On Site | Feb 21 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b90bb6462845fc17bf8310?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Feb 21 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/67b8f4a12620cfb5c4453efa?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Feb 21 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/67b849ae0102cf8471cde4fe?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Feb 20 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst, Business Insurance](https://jobright.ai/jobs/info/67b81ffeb8f06b97855007c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 20 |
 | **[eClerx](http://www.eclerx.com/)** | **[Business Analyst- Derivatives](https://jobright.ai/jobs/info/67b9443207e6bf037eca9d29?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Feb 20 |
@@ -90,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Logisnext Americas Inc.](http://www.logisnextamericas.com)** | **[Supply Chain, Business Analyst](https://jobright.ai/jobs/info/67b63847942f7cbfc272256a?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | Hybrid | Feb 19 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67b63a13942f7cbfc2722cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 19 |
 | **[Luminate](https://luminatedata.com/)** | **[Business Research Coordinator](https://jobright.ai/jobs/info/67998b19cb678960236303ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 19 |
-| **[Conversio Health](http://conversiohealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b5b8ea56edd290be7cfdc2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA | Remote | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
