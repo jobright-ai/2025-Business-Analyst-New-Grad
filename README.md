@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/67a13558f6cdd99d3286b814?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 25 |
 | **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efceb?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Feb 25 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | Remote | Feb 25 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67bebc1caff548296c60305d?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | Hybrid | Feb 24 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67bd38c36ab12c2ba61e9ac8?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 24 |
 | **[Hermeus](http://www.hermeus.com)** | **[Business Applications Manager](https://jobright.ai/jobs/info/67bcc52ccf0e43a616c0f627?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 24 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67bcbf5773ae9880b98780a7?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Feb 24 |
@@ -91,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[Microsoft Business Analyst](https://jobright.ai/jobs/info/67a23fbcb94f6be6988144b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Scott AFB, IL | On Site | Feb 20 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Associate Analyst](https://jobright.ai/jobs/info/679abd1a8f810c2303a69bdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Feb 20 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Analyst - Tampa, Florida](https://jobright.ai/jobs/info/67b678983e92d395cfdbc04f?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Feb 19 |
-| **[Mitsubishi Logisnext Americas Inc.](http://www.logisnextamericas.com)** | **[Supply Chain, Business Analyst](https://jobright.ai/jobs/info/67b63847942f7cbfc272256a?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
