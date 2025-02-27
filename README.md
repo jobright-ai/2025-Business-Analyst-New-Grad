@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67bf659c09dd4a69c3e76c42?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, USA | Hybrid | Feb 26 |
 | **[Walden University](http://www.waldenu.edu/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67bf502b1d33b35bbd686017?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 26 |
 | **[PacifiCorp](https://www.pacificorp.com/)** | **[Sr Business Analyst, Salt Lake City, UT #113237](https://jobright.ai/jobs/info/67bf502b1d33b35bbd6862f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 26 |
+| **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6781b3b1e14b914d46119959?utm_campaign=Business%20Analyst&utm_source=1103)** | Peoria, IL | Hybrid | Feb 26 |
 | **[VinAudit.com Inc.](http://www.vinaudit.com)** | **[Business Administrator for a Tech Startup](https://jobright.ai/jobs/info/67bec13bf636a08ca1b0e2fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 25 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/67be6f66a26f73013ec7b000?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Feb 25 |
-| **[Maricopa County](http://www.maricopa.gov)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67be5ccf991f3b689d9a47c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 25 |
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67be53fe020e15024df9ece0?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Feb 25 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/67be12073bf964e9813a9f6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Feb 25 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/677f41f896c07c9b4d6d4a8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Feb 25 |
