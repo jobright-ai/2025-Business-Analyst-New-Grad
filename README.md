@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday (FIN)](https://jobright.ai/jobs/info/67c0621a0078e3823ead7728?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 27 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67bf659c09dd4a69c3e76c42?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, USA | Hybrid | Feb 26 |
 | **[Walden University](http://www.waldenu.edu/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67bf502b1d33b35bbd686017?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 26 |
 | **[PacifiCorp](https://www.pacificorp.com/)** | **[Sr Business Analyst, Salt Lake City, UT #113237](https://jobright.ai/jobs/info/67bf502b1d33b35bbd6862f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 26 |
@@ -87,6 +88,4 @@ For a complete list, click the following sortable link below:
 | **[eClerx](http://www.eclerx.com/)** | **[Business Analyst- Derivatives](https://jobright.ai/jobs/info/67b9443207e6bf037eca9d29?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Feb 20 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Controls Group (“BCG”) - Analyst](https://jobright.ai/jobs/info/67b7f150952490b3f8130b13?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 20 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b7b623cc80332611748f5f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 20 |
-| **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[Business Controls Group (“BCG”) - Analyst](https://jobright.ai/jobs/info/67b79f11dd1a744649bea906?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, NY – U.S. | On Site | Feb 20 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67b7be2c807acbf8dd007b24?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
