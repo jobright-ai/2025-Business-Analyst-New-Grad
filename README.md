@@ -57,47 +57,83 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c13e61fef8d8c082af0abb?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Feb 27 |
+| **[Crowe](https://www.crowe.com/)** | **[Business Analyst 2](https://jobright.ai/jobs/info/67c168154bcf57d2fc7c15dd?utm_campaign=Business%20Analyst&utm_source=1103)** | South Bend, IN | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c168154bcf57d2fc7c15de?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, KY | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c168154bcf57d2fc7c15e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c168154bcf57d2fc7c15df?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c168154bcf57d2fc7c15e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Elkhart, IN | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c168154bcf57d2fc7c15e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed77?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed78?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed7d?utm_campaign=Business%20Analyst&utm_source=1103)** | Grand Rapids, MI | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed79?utm_campaign=Business%20Analyst&utm_source=1103)** | Tallahassee, FL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Livingston, NJ | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed80?utm_campaign=Business%20Analyst&utm_source=1103)** | Manchester, NH | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed81?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed82?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed83?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed84?utm_campaign=Business%20Analyst&utm_source=1103)** | Sarasota, FL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed89?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed87?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed88?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed8c?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed85?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed86?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lauderdale, FL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed8d?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed90?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed93?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed92?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed94?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed91?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed95?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c151c0978bc6fed314ed96?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c1384f7fed5092647819e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 27 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/67c10aecb401f745d8be7e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Feb 27 |
 | **[Optum](https://www.optum.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67c1164975735852bc5d77b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 27 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Analyst 2](https://jobright.ai/jobs/info/67c101e0e927b700056cc457?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca60?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca64?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca61?utm_campaign=Business%20Analyst&utm_source=1103)** | South Bend, IN | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca62?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca64?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca63?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca65?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca61?utm_campaign=Business%20Analyst&utm_source=1103)** | South Bend, IN | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca67?utm_campaign=Business%20Analyst&utm_source=1103)** | Sarasota, FL | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca66?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca69?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca68?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca69?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca66?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Manchester, NH | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca6d?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Manchester, NH | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca80?utm_campaign=Business%20Analyst&utm_source=1103)** | Tallahassee, FL | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca74?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodland Hills, CA | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca82?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca78?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca7d?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lauderdale, FL | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca77?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca73?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca79?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca83?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca71?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca72?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca75?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca85?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca81?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca83?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca77?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca74?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodland Hills, CA | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca84?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca76?utm_campaign=Business%20Analyst&utm_source=1103)** | Elkhart, IN | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Grand Rapids, MI | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Livingston, NJ | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca72?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca73?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca81?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca82?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca7d?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lauderdale, FL | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca78?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 27 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca71?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, KY | Hybrid | Feb 27 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca70?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca76?utm_campaign=Business%20Analyst&utm_source=1103)** | Elkhart, IN | Hybrid | Feb 27 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/67c103eae927b700056cca84?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 27 |
 | **[Optum](https://www.optum.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67c1164975735852bc5d7826?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 27 |
 | **[Exeter Finance](http://www.exeterfinance.com)** | **[Business Strategy Analyst (Hybrid)](https://jobright.ai/jobs/info/67c0ef394443285898542ac8?utm_campaign=Business%20Analyst&utm_source=1103)** | DFW Metroplex | Hybrid | Feb 27 |
 | **[PayPal](https://www.paypal.com/home)** | **[Business Systems Analyst - Recent Grad](https://jobright.ai/jobs/info/67c0d7a96424da729d348838?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, United States of America | Hybrid | Feb 27 |
@@ -123,6 +159,7 @@ For a complete list, click the following sortable link below:
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/67a13558f6cdd99d3286b814?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 25 |
 | **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efceb?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Feb 25 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | Remote | Feb 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67c170a77d49d70bc94cf3b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | Hybrid | Feb 24 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67bd38c36ab12c2ba61e9ac8?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 24 |
 | **[Hermeus](http://www.hermeus.com)** | **[Business Applications Manager](https://jobright.ai/jobs/info/67bcc52ccf0e43a616c0f627?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 24 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67bcbf5773ae9880b98780a7?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Feb 24 |
