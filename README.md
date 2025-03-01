@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67c2511f8843b056d4f591ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Feb 28 |
+| **[VinAudit.com Inc.](http://www.vinaudit.com)** | **[Business Administrator](https://jobright.ai/jobs/info/67c2511f8843b056d4f591f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 28 |
 | **[Principal Financial Group](https://principaletfs.com/)** | **[New Business Analyst](https://jobright.ai/jobs/info/67c23c3c73c8e5515e3ae9e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA | Remote | Feb 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67c205a3f269898f16b66b09?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | On Site | Feb 28 |
 | **[PacifiCorp](https://www.pacificorp.com/)** | **[Sr Business Analyst, Salt Lake City, UT #113237](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad66b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 28 |
@@ -95,5 +97,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bc4ddaba3705f8d9493334?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bbf1036be2e22425319789?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Feb 23 |
 | **[Vervent](https://www.vervent.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679da41480585d3cb2318ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Feb 22 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
