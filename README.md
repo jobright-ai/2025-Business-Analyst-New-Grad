@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67c2b14622f4c4ddf5e53e82?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 28 |
+| **[PacifiCorp](https://www.pacificorp.com/)** | **[Sr Business Analyst, Salt Lake City, UT](https://jobright.ai/jobs/info/67c2bfb300d87fbe8a9e73d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67c2511f8843b056d4f591ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Feb 28 |
 | **[VinAudit.com Inc.](http://www.vinaudit.com)** | **[Business Administrator](https://jobright.ai/jobs/info/67c2511f8843b056d4f591f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 28 |
 | **[Principal Financial Group](https://principaletfs.com/)** | **[New Business Analyst](https://jobright.ai/jobs/info/67c23c3c73c8e5515e3ae9e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA | Remote | Feb 28 |
+| **[Wasserman](http://www.teamwass.com)** | **[New Business Manager (Parental Leave Coverage)](https://jobright.ai/jobs/info/67bd2ec7ddaa3aab85b1d8c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Feb 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67c205a3f269898f16b66b09?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | On Site | Feb 28 |
 | **[PacifiCorp](https://www.pacificorp.com/)** | **[Sr Business Analyst, Salt Lake City, UT #113237](https://jobright.ai/jobs/info/67c1fa9820bdfab5b0ad66b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 28 |
 | **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67c1e30538b0aadcac154e5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - US | Remote | Feb 28 |
@@ -82,12 +85,10 @@ For a complete list, click the following sortable link below:
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6781b3b1e14b914d46119959?utm_campaign=Business%20Analyst&utm_source=1103)** | Peoria, IL | Hybrid | Feb 26 |
 | **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | Remote | Feb 25 |
 | **[VinAudit.com Inc.](http://www.vinaudit.com)** | **[Business Administrator for a Tech Startup](https://jobright.ai/jobs/info/67bec13bf636a08ca1b0e2fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 25 |
-| **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/67be6f66a26f73013ec7b000?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Feb 25 |
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67be53fe020e15024df9ece0?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Feb 25 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/67be12073bf964e9813a9f6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Feb 25 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator-Central Valley/ Nevada](https://jobright.ai/jobs/info/677f41f896c07c9b4d6d4a8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fresno, CA | On Site | Feb 25 |
 | **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/67a13558f6cdd99d3286b814?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 25 |
-| **[Wasserman](http://www.teamwass.com)** | **[New Business Manager (Parental Leave Coverage)](https://jobright.ai/jobs/info/67bd2ec7ddaa3aab85b1d8c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Feb 25 |
 | **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efceb?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Feb 25 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | Remote | Feb 25 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67bd38c36ab12c2ba61e9ac8?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 24 |
@@ -96,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 24 |
 | ↳ | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bc4ddaba3705f8d9493334?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bbf1036be2e22425319789?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Feb 23 |
-| **[Vervent](https://www.vervent.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679da41480585d3cb2318ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
