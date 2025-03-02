@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Mar 01 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Analyst – Advisory Americas – IBG Energy, Renewables & Infrastructure LatAm](https://jobright.ai/jobs/info/67a6ca092aa0527d04d61543?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 01 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 01 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Mar 01 |
@@ -100,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67bcbf5773ae9880b98780a7?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Intelligence & Industrialization](https://jobright.ai/jobs/info/6764ddb36c03fb9cde9bc2db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 24 |
 | ↳ | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bc4ddaba3705f8d9493334?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bbf1036be2e22425319789?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
