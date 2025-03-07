@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6795b60a2ff9666e1d57aab9?utm_campaign=Business%20Analyst&utm_source=1103)** | Eatontown, NJ | Remote | Mar 07 |
+| **[City National Bank](http://www.cnb.com)** | **[Small Business Consumer Processor I](https://jobright.ai/jobs/info/67cac1dffca0293007c765aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 07 |
 | **[GLOVIS America, Inc.](https://www.glovisusa.com/)** | **[Analyst - Performance Management & Customer Service](https://jobright.ai/jobs/info/67ca51d6c92c5898cb45585c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Mar 06 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67ca51d6c92c5898cb455cfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Onalaska, WI | On Site | Mar 06 |
 | **[Sunflower Health Plan](https://www.sunflowerhealthplan.com)** | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/67ca356611846c08f54bdd9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Montana, United States | Hybrid | Mar 06 |
@@ -115,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Feb 22 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b959073ab0a0382b883fc8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 21 |
 | **[nutpods](http://www.nutpods.com/)** | **[Business Analytics Coordinator](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c518?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 21 |
-| **[Advarra](https://www.advarra.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67b90bb6462845fc17bf8310?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
