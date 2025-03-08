@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whitsons Culinary Group](https://www.whitsons.com/)** | **[Business Analyst- New York or Chicago Area](https://jobright.ai/jobs/info/67cb96335c3ea3f7729fe291?utm_campaign=Business%20Analyst&utm_source=1103)** | Islandia, NY | On Site | Mar 07 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67cb7400fede2c29cac3be34?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 07 |
 | **[Alter Domus](http://www.alterdomus.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67cb64bbbf7d0c8827653d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Carmel, IN | Hybrid | Mar 07 |
 | **[RADIAS Health](https://radiashealth.org/)** | **[Business Coordinator](https://jobright.ai/jobs/info/67cb5baf5d60346486c5e6fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Mar 07 |
@@ -112,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bc4ddaba3705f8d9493334?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bbf1036be2e22425319789?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Feb 23 |
 | **[Vervent](https://www.vervent.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679da41480585d3cb2318ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Feb 22 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/676608005d30b24828551cfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
