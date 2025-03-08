@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67ca7b7e906a3c5d2be854da?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Mar 08 |
 | **[Whitsons Culinary Group](https://www.whitsons.com/)** | **[Business Analyst- New York or Chicago Area](https://jobright.ai/jobs/info/67cb96335c3ea3f7729fe291?utm_campaign=Business%20Analyst&utm_source=1103)** | Islandia, NY | On Site | Mar 07 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67cb7400fede2c29cac3be34?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 07 |
 | **[Alter Domus](http://www.alterdomus.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67cb64bbbf7d0c8827653d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Carmel, IN | Hybrid | Mar 07 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67c1164975735852bc5d7826?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 27 |
 | **[Zones, LLC](http://zones.com)** | **[Business Systems Associate Analyst](https://jobright.ai/jobs/info/67c0ddaa2f88f81c7bb56b87?utm_campaign=Business%20Analyst&utm_source=1103)** | Carol Stream, IL | Remote | Feb 27 |
 | **[Kennesaw State University](http://www.kennesaw.edu)** | **[Business Operations Specialist -Business Operations Specialist - Radow College of Humanities & Social Sciences](https://jobright.ai/jobs/info/67c0c3e81e0d22a181e68b55?utm_campaign=Business%20Analyst&utm_source=1103)** | Kennesaw, GA | On Site | Feb 27 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Analyst, Platform Distribution Operations](https://jobright.ai/jobs/info/67c0b3346fc167951f731d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Burbank, CA, USA | On Site | Feb 27 |
-| ↳ | **[Business Analyst, Platform Distribution Operations](https://jobright.ai/jobs/info/67c0b4006fc167951f7324db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol, CT, USA | On Site | Feb 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Analyst, Platform Distribution Operations](https://jobright.ai/jobs/info/67c0b4006fc167951f7324db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol, CT, USA | On Site | Feb 27 |
+| ↳ | **[Business Analyst, Platform Distribution Operations](https://jobright.ai/jobs/info/67c0b3346fc167951f731d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Burbank, CA, USA | On Site | Feb 27 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday (FIN)](https://jobright.ai/jobs/info/67c121d61b9ab4b1288da1c0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 27 |
 | **[PacifiCorp](https://www.pacificorp.com/)** | **[Sr Business Analyst, Salt Lake City, UT #113237](https://jobright.ai/jobs/info/67bf502b1d33b35bbd6862f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 26 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6781b3b1e14b914d46119959?utm_campaign=Business%20Analyst&utm_source=1103)** | Peoria, IL | Hybrid | Feb 26 |
