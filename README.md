@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[InvoiceCloud, Inc.](http://www.invoicecloud.net)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/67b04c95eea311d5fb4f55f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston | On Site | Mar 06 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Analyst - I.T.](https://jobright.ai/jobs/info/67c9e0960a64c164b1d2e7a9?utm_campaign=Business%20Analyst&utm_source=1103)** | 1101 E. First Street Sanford, FL | On Site | Mar 06 |
 | **[University of Pittsburgh](possible.pitt.edu)** | **[ER/LR Business Analyst I](https://jobright.ai/jobs/info/67c9e39aa33dc7dffa17095d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Mar 06 |
+| **[CGI](https://www.cgi.com)** | **[Junior Momentum Business Analyst](https://jobright.ai/jobs/info/67cbe748f15b71cf135fb940?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Mar 05 |
 | **[Allstate](http://www.allstate.com)** | **[Business Analyst Apprentice Program](https://jobright.ai/jobs/info/67c8a3a60e99f6a3c7adbed7?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - IL (Remote) | Remote | Mar 05 |
 | **[Pzena Investment Management](http://www.pzena.com/)** | **[Junior Business Systems Analyst](https://jobright.ai/jobs/info/67c877d6fdd25fb4ea915b2b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 05 |
 | ↳ | **[Junior Business Systems Analyst](https://jobright.ai/jobs/info/67c878a04808d600d999a597?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Mar 05 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67a8382eac67ff7fc09915c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 05 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Analyst - Business Analysis](https://jobright.ai/jobs/info/67c78cf14583327c3c780a3d?utm_campaign=Business%20Analyst&utm_source=1103)** | CT Waterbury 145 Bank St | On Site | Mar 04 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67aa489224599cdfddd4a69c?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Mar 04 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67cbd160f974b69c9c6d8242?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | Hybrid | Mar 03 |
 | **[WhirlWind Technologies, LLC](https://www.wwindtech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c6817d5ff8874c398f82df?utm_campaign=Business%20Analyst&utm_source=1103)** | Oxon Hill, MD | On Site | Mar 03 |
-| **[Florida Virtual School](https://flvs.net/)** | **[Business Analyst](https://jobright.ai/jobs/info/67c66df5f4664b47df467d9f?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | On Site | Mar 03 |
 | **[Luxoft](http://www.luxoft.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c602d24104d7caae13ec30?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 03 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Digital Innovation - Business Analyst](https://jobright.ai/jobs/info/677e9d5fc93154ff956a5873?utm_campaign=Business%20Analyst&utm_source=1103)** | Mason, OH | On Site | Mar 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Mar 01 |
@@ -112,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67bcbf5773ae9880b98780a7?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bc4ddaba3705f8d9493334?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bbf1036be2e22425319789?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Feb 23 |
-| **[Vervent](https://www.vervent.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679da41480585d3cb2318ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
