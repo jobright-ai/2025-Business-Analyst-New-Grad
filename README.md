@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67ccc2825b20f4d657bbf65f?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Mar 08 |
 | **[Loft](https://www.loft.com.br)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/67cc4d8c498e50107408c3b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 08 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67ca7b7e906a3c5d2be854da?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Mar 08 |
+| **[IGT](http://igt.com)** | **[Business Pro Analyst I](https://jobright.ai/jobs/info/6794a418bc0954b91be9f53c?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | On Site | Mar 08 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67cab2f3e5b4960ac86f98d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Mar 08 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67ca7b7e906a3c5d2be854da?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Mar 08 |
 | **[Whitsons Culinary Group](https://www.whitsons.com/)** | **[Business Analyst- New York or Chicago Area](https://jobright.ai/jobs/info/67cb96335c3ea3f7729fe291?utm_campaign=Business%20Analyst&utm_source=1103)** | Islandia, NY | On Site | Mar 07 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67cb7400fede2c29cac3be34?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 07 |
 | **[Alter Domus](http://www.alterdomus.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67cb64bbbf7d0c8827653d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Carmel, IN | Hybrid | Mar 07 |
@@ -85,34 +88,4 @@ For a complete list, click the following sortable link below:
 | **[WhirlWind Technologies, LLC](https://www.wwindtech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c6817d5ff8874c398f82df?utm_campaign=Business%20Analyst&utm_source=1103)** | Oxon Hill, MD | On Site | Mar 03 |
 | **[Luxoft](http://www.luxoft.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c602d24104d7caae13ec30?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 03 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Digital Innovation - Business Analyst](https://jobright.ai/jobs/info/677e9d5fc93154ff956a5873?utm_campaign=Business%20Analyst&utm_source=1103)** | Mason, OH | On Site | Mar 03 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Mar 01 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Analyst – Advisory Americas – IBG Energy, Renewables & Infrastructure LatAm](https://jobright.ai/jobs/info/67a6ca092aa0527d04d61543?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 01 |
-| **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 01 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Mar 01 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67c2511f8843b056d4f591ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Feb 28 |
-| **[VinAudit.com Inc.](http://www.vinaudit.com)** | **[Business Administrator](https://jobright.ai/jobs/info/67c2511f8843b056d4f591f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 28 |
-| **[Wasserman](http://www.teamwass.com)** | **[New Business Manager (Parental Leave Coverage)](https://jobright.ai/jobs/info/67bd2ec7ddaa3aab85b1d8c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Feb 28 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67c205a3f269898f16b66b09?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | On Site | Feb 28 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Analyst, Platform Distribution Operations](https://jobright.ai/jobs/info/67c1fd96a3aec1578526e0cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Burbank, CA | On Site | Feb 28 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a57bd497baaa84bc66b6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 28 |
-| ↳ | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Feb 28 |
-| **[Optum](https://www.optum.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67c1164975735852bc5d7826?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 27 |
-| **[Zones, LLC](http://zones.com)** | **[Business Systems Associate Analyst](https://jobright.ai/jobs/info/67c0ddaa2f88f81c7bb56b87?utm_campaign=Business%20Analyst&utm_source=1103)** | Carol Stream, IL | Remote | Feb 27 |
-| **[Kennesaw State University](http://www.kennesaw.edu)** | **[Business Operations Specialist -Business Operations Specialist - Radow College of Humanities & Social Sciences](https://jobright.ai/jobs/info/67c0c3e81e0d22a181e68b55?utm_campaign=Business%20Analyst&utm_source=1103)** | Kennesaw, GA | On Site | Feb 27 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Business Analyst, Platform Distribution Operations](https://jobright.ai/jobs/info/67c0b3346fc167951f731d14?utm_campaign=Business%20Analyst&utm_source=1103)** | Burbank, CA, USA | On Site | Feb 27 |
-| ↳ | **[Business Analyst, Platform Distribution Operations](https://jobright.ai/jobs/info/67c0b4006fc167951f7324db?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol, CT, USA | On Site | Feb 27 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Process Analyst - Workday (FIN)](https://jobright.ai/jobs/info/67c121d61b9ab4b1288da1c0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 27 |
-| **[PacifiCorp](https://www.pacificorp.com/)** | **[Sr Business Analyst, Salt Lake City, UT #113237](https://jobright.ai/jobs/info/67bf502b1d33b35bbd6862f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 26 |
-| **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6781b3b1e14b914d46119959?utm_campaign=Business%20Analyst&utm_source=1103)** | Peoria, IL | Hybrid | Feb 26 |
-| **[Brown & Brown](http://www.bbinsurance.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | Remote | Feb 25 |
-| **[VinAudit.com Inc.](http://www.vinaudit.com)** | **[Business Administrator for a Tech Startup](https://jobright.ai/jobs/info/67bec13bf636a08ca1b0e2fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 25 |
-| **[SBM Management Services, LP](http://www.sbmmanagement.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/67a13558f6cdd99d3286b814?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Feb 25 |
-| **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67be53fe020e15024df9ece0?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Feb 25 |
-| **[Brown & Brown](http://www.bbinsurance.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efceb?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Feb 25 |
-| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | Remote | Feb 25 |
-| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67bd38c36ab12c2ba61e9ac8?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 24 |
-| **[Hermeus](http://www.hermeus.com)** | **[Business Applications Manager](https://jobright.ai/jobs/info/67bcc52ccf0e43a616c0f627?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 24 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67bcbf5773ae9880b98780a7?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI | On Site | Feb 24 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bc4ddaba3705f8d9493334?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I, Account Integrity](https://jobright.ai/jobs/info/67bbf1036be2e22425319789?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
