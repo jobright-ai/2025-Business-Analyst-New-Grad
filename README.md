@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Business Manager Assistant - Remote](https://jobright.ai/jobs/info/67cdc01ea6206bbbc130e698?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | Remote | Mar 09 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67ccc2825b20f4d657bbf65f?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Mar 08 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67c28aef79cc4a38e245f177?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Mar 08 |
 | **[Loft](https://www.loft.com.br)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/67cc4d8c498e50107408c3b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 08 |
 | **[Great Minds](https://greatminds.org)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6793cb73f1b7df53b5d6dd10?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Mar 08 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67cabc3a68fbae7a82435bf2?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Mar 08 |
