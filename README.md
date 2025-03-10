@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67ce0d17021ab4a1c8a1eae2?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 09 |
 | **[Acosta](https://www.acosta.com)** | **[Business Manager Assistant - Remote](https://jobright.ai/jobs/info/67cdc01ea6206bbbc130e698?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | Remote | Mar 09 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6791c844da14e71efe852965?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 08 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67ccc2825b20f4d657bbf65f?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Mar 08 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67c28aef79cc4a38e245f177?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Mar 08 |
 | **[Loft](https://www.loft.com.br)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/67cc4d8c498e50107408c3b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 08 |
