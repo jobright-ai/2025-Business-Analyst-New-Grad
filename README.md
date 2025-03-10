@@ -57,7 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67cee2917ee0dc883e7ead9d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| **[Cadent](http://www.cadent.tv)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/67cf39f06094862eb6590297?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 10 |
+| **[EXL](http://www.exlservice.com)** | **[Manager (Business Analyst)](https://jobright.ai/jobs/info/67cf3803d69b1328faf4fbea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA | On Site | Mar 10 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67cf39f06094862eb659058c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst (Korean) - 31266](https://jobright.ai/jobs/info/67cf268fef209e02ff228b0c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst (Korean) - 31266](https://jobright.ai/jobs/info/67cf268fef209e02ff228b0d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| **[William Everett](https://wegrp.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67cf19948318a93f4dc461d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 10 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Italian) - 31262](https://jobright.ai/jobs/info/67cf1f69d18eaba142794eb7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst (Dutch) - 31264](https://jobright.ai/jobs/info/67cf1f69d18eaba142794ebb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst(Italian) - 31262](https://jobright.ai/jobs/info/67cf0d28e5f9bf87675a310f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst(German) - 31260](https://jobright.ai/jobs/info/67cf0d28e5f9bf87675a3092?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst(Mandarin) - 31257](https://jobright.ai/jobs/info/67cf0d28e5f9bf87675a30d0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67cf0d28e5f9bf87675a3104?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67ceed1d98ff7ad423bc3963?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Business Resilience Analyst](https://jobright.ai/jobs/info/67648b088dcfb675e0b80361?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Mar 10 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67ce0d17021ab4a1c8a1eae2?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 09 |
 | **[Acosta](https://www.acosta.com)** | **[Business Manager Assistant - Remote](https://jobright.ai/jobs/info/67cdc01ea6206bbbc130e698?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | Remote | Mar 09 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6791c844da14e71efe852965?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 08 |
@@ -65,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67c28aef79cc4a38e245f177?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Mar 08 |
 | **[Loft](https://www.loft.com.br)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/67cc4d8c498e50107408c3b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 08 |
 | **[Great Minds](https://greatminds.org)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6793cb73f1b7df53b5d6dd10?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Mar 08 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67cabc3a68fbae7a82435bf2?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Mar 08 |
 | **[IGT](http://igt.com)** | **[Business Pro Analyst I](https://jobright.ai/jobs/info/6794a418bc0954b91be9f53c?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | On Site | Mar 08 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67cab2f3e5b4960ac86f98d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Mar 08 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67ca7b7e906a3c5d2be854da?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Mar 08 |
@@ -79,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[City National Bank](http://www.cnb.com)** | **[Small Business Consumer Processor I](https://jobright.ai/jobs/info/67cac1dffca0293007c765aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 07 |
 | **[GLOVIS America, Inc.](https://www.glovisusa.com/)** | **[Analyst - Performance Management & Customer Service](https://jobright.ai/jobs/info/67ca51d6c92c5898cb45585c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Mar 06 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67ca51d6c92c5898cb455cfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Onalaska, WI | On Site | Mar 06 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/67ca1a52defbf4487e66a07d?utm_campaign=Business%20Analyst&utm_source=1103)** | Fayetteville, NC | On Site | Mar 06 |
 | **[InvoiceCloud, Inc.](http://www.invoicecloud.net)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/67b04c95eea311d5fb4f55f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston | On Site | Mar 06 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Analyst - I.T.](https://jobright.ai/jobs/info/67c9e0960a64c164b1d2e7a9?utm_campaign=Business%20Analyst&utm_source=1103)** | 1101 E. First Street Sanford, FL | On Site | Mar 06 |
 | **[University of Pittsburgh](possible.pitt.edu)** | **[ER/LR Business Analyst I](https://jobright.ai/jobs/info/67c9e39aa33dc7dffa17095d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Mar 06 |
@@ -90,7 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Pzena Investment Management](http://www.pzena.com/)** | **[Junior Business Systems Analyst](https://jobright.ai/jobs/info/67c877d6fdd25fb4ea915b2b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 05 |
 | ↳ | **[Junior Business Systems Analyst](https://jobright.ai/jobs/info/67c878a04808d600d999a597?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Mar 05 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[Analyst, Technology Business Analyst (Campus)](https://jobright.ai/jobs/info/67abe4edfe93e40b6c1c23b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 05 |
-| **[Webster Bank](https://www.websterbank.com)** | **[Analyst - Business Analysis](https://jobright.ai/jobs/info/67c78cf14583327c3c780a3d?utm_campaign=Business%20Analyst&utm_source=1103)** | CT Waterbury 145 Bank St | On Site | Mar 04 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67cbd160f974b69c9c6d8242?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | Hybrid | Mar 03 |
-| **[WhirlWind Technologies, LLC](https://www.wwindtech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c6817d5ff8874c398f82df?utm_campaign=Business%20Analyst&utm_source=1103)** | Oxon Hill, MD | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
