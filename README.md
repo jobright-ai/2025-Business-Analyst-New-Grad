@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67ce0d17021ab4a1c8a1eae2?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 09 |
 | **[Acosta](https://www.acosta.com)** | **[Business Manager Assistant - Remote](https://jobright.ai/jobs/info/67cdc01ea6206bbbc130e698?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | Remote | Mar 09 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67ccc2825b20f4d657bbf65f?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Mar 08 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67c28aef79cc4a38e245f177?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Mar 08 |
@@ -91,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67cbd160f974b69c9c6d8242?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | Hybrid | Mar 03 |
 | **[WhirlWind Technologies, LLC](https://www.wwindtech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c6817d5ff8874c398f82df?utm_campaign=Business%20Analyst&utm_source=1103)** | Oxon Hill, MD | On Site | Mar 03 |
 | **[Luxoft](http://www.luxoft.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c602d24104d7caae13ec30?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 03 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Digital Innovation - Business Analyst](https://jobright.ai/jobs/info/677e9d5fc93154ff956a5873?utm_campaign=Business%20Analyst&utm_source=1103)** | Mason, OH | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
