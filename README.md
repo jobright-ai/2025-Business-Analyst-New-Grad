@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schneider Electric](https://www.se.com)** | **[Schneider Development Program: Business Analyst](https://jobright.ai/jobs/info/67d20d335bb230b0d8b7ad82?utm_campaign=Business%20Analyst&utm_source=1103)** | Athens, TX | Hybrid | Mar 12 |
+| ↳ | **[Schneider Development Program: Business Analyst](https://jobright.ai/jobs/info/67d204f5c1841df9a757ef4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Middletown, PA | Hybrid | Mar 12 |
+| ↳ | **[Schneider Development Program: Business Analyst](https://jobright.ai/jobs/info/67d204f5c1841df9a757f279?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, TN | Hybrid | Mar 12 |
 | **[Caplugs](http://www.caplugs.com)** | **[Business Analyst- Buffalo, NY- Erie, PA or Houston, TX](https://jobright.ai/jobs/info/67d1a9ad47453bfa6b75cd91?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 12 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/67d1a0fb2b6df044cb0b72eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Mar 12 |
 | **[VinAudit.com Inc.](http://www.vinaudit.com)** | **[Business Administrator for a Tech Startup](https://jobright.ai/jobs/info/67d1445c4a45c420e1ea2d0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Mar 11 |
@@ -70,30 +73,30 @@ For a complete list, click the following sortable link below:
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67d07d0bf3ff7e6cf95bed63?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Mar 11 |
 | **[NEOGOV](http://www.neogov.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/67d071805dad79f3083b8737?utm_campaign=Business%20Analyst&utm_source=1103)** | El Centro, CA (Valley Plaza) | On Site | Mar 11 |
 | **[Red Ventures](http://www.redventures.com)** | **[Business Operations, Analyst / Bankrate](https://jobright.ai/jobs/info/67d051f92d3382d131764f83?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Dutch) - 31264](https://jobright.ai/jobs/info/67cf1261cdfaa8c7cd12de92?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 11 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Dutch) - 31264](https://jobright.ai/jobs/info/67cf1261cdfaa8c7cd12de8e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 11 |
 | ↳ | **[Remote Business Analyst (Italian) - 31262](https://jobright.ai/jobs/info/67cf0d28e5f9bf87675a2caa?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 11 |
-| ↳ | **[Remote Business Analyst(Swedish) - 31269](https://jobright.ai/jobs/info/67d1445c4a45c420e1ea2dd3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 11 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst(Swedish) - 31269](https://jobright.ai/jobs/info/67d1326a044ce9402a8b0dc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Mar 10 |
-| ↳ | **[Remote Business Analyst(Vietnamese) - 31271](https://jobright.ai/jobs/info/67d11cc24f958d04a33498b6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst(Swedish) - 31269](https://jobright.ai/jobs/info/67d1445c4a45c420e1ea2dd4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 11 |
+| ↳ | **[Remote Business Analyst(Vietnamese) - 31271](https://jobright.ai/jobs/info/67d1445c4a45c420e1ea2dd6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 11 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst(Swedish) - 31269](https://jobright.ai/jobs/info/67d105031808f22b67537d39?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Mar 10 |
 | **[CareFirst BlueCross BlueShield](https://individual.carefirst.com)** | **[Business Associate Analyst (Remote)](https://jobright.ai/jobs/info/67cf942caaab0158749f821b?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Mar 10 |
 | **[Abbott](https://www.abbott.com)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/67cf973bcb50055de9769ae0?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | On Site | Mar 10 |
 | **[OCC](https://www.theocc.com/)** | **[Associate, Business Systems Analysis](https://jobright.ai/jobs/info/67cf7ca857dde3b7a8a0adbd?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 10 |
 | **[Starr Insurance](https://starrcompanies.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/67cf79eef1232ffe9f3d0950?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 10 |
 | **[EXL](http://www.exlservice.com)** | **[Manager (Business Analyst)](https://jobright.ai/jobs/info/67d03a46cec23f70dcee3485?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 10 |
-| **[OCC](https://www.theocc.com/)** | **[Associate, Business Systems Analysis](https://jobright.ai/jobs/info/67cf46f83ccfc89b91a31eaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 10 |
-| ↳ | **[Associate, Business Systems Analysis](https://jobright.ai/jobs/info/67cf46f83ccfc89b91a3208c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - 125 S Franklin | Hybrid | Mar 10 |
+| **[OCC](https://www.theocc.com/)** | **[Associate, Business Systems Analysis](https://jobright.ai/jobs/info/67cf46f83ccfc89b91a3208c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - 125 S Franklin | Hybrid | Mar 10 |
+| ↳ | **[Associate, Business Systems Analysis](https://jobright.ai/jobs/info/67cf46f83ccfc89b91a31eaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 10 |
 | **[Cadent](http://www.cadent.tv)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/67cf39f06094862eb6590297?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 10 |
 | **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Korean) - 31266](https://jobright.ai/jobs/info/67cfc821b499b06dc9008a19?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67cf3ce0622ed6c0c6bdad7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Mar 10 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67cf39f06094862eb6590594?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
-| ↳ | **[Remote Business Analyst (Korean) - 31266](https://jobright.ai/jobs/info/67cf2ae25d3b932edb55383f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
-| ↳ | **[Remote Business Analyst (Korean) - 31266](https://jobright.ai/jobs/info/67cf2ae25d3b932edb553847?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
-| ↳ | **[Remote Business Analyst (Italian) - 31262](https://jobright.ai/jobs/info/67cf1f69d18eaba142794c7f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
-| ↳ | **[Remote Business Analyst (Dutch) - 31264](https://jobright.ai/jobs/info/67cf1f69d18eaba142794ebb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
-| ↳ | **[Remote Business Analyst(German) - 31260](https://jobright.ai/jobs/info/67cf0d28e5f9bf87675a306e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
-| ↳ | **[Remote Business Analyst(Mandarin) - 31257](https://jobright.ai/jobs/info/67cf021acb34e8c15c855272?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
-| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67cef6b2ac946885a762bdf6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
-| ↳ | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67cef6b2ac946885a762be77?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67cf39f06094862eb65905a6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst (Korean) - 31266](https://jobright.ai/jobs/info/67cf268fef209e02ff228b0c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst (Korean) - 31266](https://jobright.ai/jobs/info/67cf268fef209e02ff228b0d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst (Dutch) - 31264](https://jobright.ai/jobs/info/67cf1f69d18eaba142794c81?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst (Italian) - 31262](https://jobright.ai/jobs/info/67cf1f69d18eaba142794eb4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst(German) - 31260](https://jobright.ai/jobs/info/67cf0d28e5f9bf87675a3024?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst(Mandarin) - 31257](https://jobright.ai/jobs/info/67cf021acb34e8c15c85526e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67cef2d3bfa759d65beb15d0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
+| ↳ | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67cef6b2ac946885a762be76?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
 | **[Janus Henderson Investors](http://www.janushenderson.com/)** | **[Business Resilience Analyst](https://jobright.ai/jobs/info/67648b088dcfb675e0b80361?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Mar 10 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67ce0d17021ab4a1c8a1eae2?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 09 |
 | **[Acosta](https://www.acosta.com)** | **[Business Manager Assistant - Remote](https://jobright.ai/jobs/info/67cdc01ea6206bbbc130e698?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | Remote | Mar 09 |
