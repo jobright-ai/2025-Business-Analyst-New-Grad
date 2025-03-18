@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8bbd4b30ca6dd4faf963f?utm_campaign=Business%20Analyst&utm_source=1103)** | OR | Hybrid | Mar 17 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9318f1a07f371d9a78a96?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8e91c0bc13c664da172b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Hybrid | Mar 17 |
+| ↳ | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8bbd4b30ca6dd4faf963f?utm_campaign=Business%20Analyst&utm_source=1103)** | OR | Hybrid | Mar 17 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/67d8afd5ba047825058207d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Mar 17 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/67d8a09c4bff4b5c1aac7ed1?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Mar 17 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 17 |
@@ -90,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[GLOVIS America, Inc.](https://www.glovisusa.com/)** | **[Analyst - Performance Management & Customer Service](https://jobright.ai/jobs/info/67ca51d6c92c5898cb45585c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Mar 11 |
 | **[InvoiceCloud, Inc.](http://www.invoicecloud.net)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/67b04c95eea311d5fb4f55f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston | On Site | Mar 11 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67d07d0bf3ff7e6cf95bed63?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Mar 11 |
-| **[Red Ventures](http://www.redventures.com)** | **[Business Operations, Analyst / Bankrate](https://jobright.ai/jobs/info/67d051f92d3382d131764f83?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
