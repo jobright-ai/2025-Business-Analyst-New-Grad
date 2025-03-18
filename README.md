@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d868b8923ed35f17af629d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 17 |
+| **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/67d8afd5ba047825058207d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Mar 17 |
+| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/67d8a09c4bff4b5c1aac7ed1?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Mar 17 |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 17 |
+| ↳ | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d868b8923ed35f17af629d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 17 |
 | **[City of Phoenix](https://www.phoenix.gov/)** | **[Business Systems Analyst - Police, Strategic Information Bureau](https://jobright.ai/jobs/info/67d7ed5297e99ab8f577a18e?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Mar 17 |
 | **[Vervent](https://www.vervent.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/679da41480585d3cb2318ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Mar 16 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/67d41ece5cc37145e562bddb?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Mar 16 |
@@ -87,10 +90,7 @@ For a complete list, click the following sortable link below:
 | **[InvoiceCloud, Inc.](http://www.invoicecloud.net)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/67b04c95eea311d5fb4f55f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston | On Site | Mar 11 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67d07d0bf3ff7e6cf95bed63?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Mar 11 |
 | **[Red Ventures](http://www.redventures.com)** | **[Business Operations, Analyst / Bankrate](https://jobright.ai/jobs/info/67d051f92d3382d131764f83?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Mar 11 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Dutch) - 31264](https://jobright.ai/jobs/info/67cf1261cdfaa8c7cd12de92?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 11 |
 | **[California Public Utilities Commission](https://www.cpuc.ca.gov)** | **[Information Technology Specialist I/ Business Analyst (JC-469016)- Information Technology Division/ Business Relations Management Section (BRMS)](https://jobright.ai/jobs/info/67c7a9858a0f1b1d5410ab7e?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | On Site | Mar 11 |
 | **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Italian) - 31262](https://jobright.ai/jobs/info/67cf0d28e5f9bf87675a3110?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 11 |
-| ↳ | **[Remote Business Analyst(Vietnamese) - 31271](https://jobright.ai/jobs/info/67d1445c4a45c420e1ea2dd6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 11 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst - Cyber Security](https://jobright.ai/jobs/info/6793d14cc971d747df4f2c69?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona, United States | On Site | Mar 10 |
-| **[Cadent](http://www.cadent.tv)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/67d3fcb50506b03ad76f044e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 10 |
+| ↳ | **[Remote Business Analyst (Dutch) - 31264](https://jobright.ai/jobs/info/67cf1261cdfaa8c7cd12de52?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
