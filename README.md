@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9318f1a07f371d9a78a96?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Vietnamese) - 31271](https://jobright.ai/jobs/info/67d95af77891b2826cbe8c56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Finnish) - 31274](https://jobright.ai/jobs/info/67d95af77891b2826cbe8c99?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d95af77891b2826cbe8c9b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Swedish) - 31269](https://jobright.ai/jobs/info/67d9439c940d04bd965e4585?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Swedish) - 31269](https://jobright.ai/jobs/info/67d9439c940d04bd965e458f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Danish)](https://jobright.ai/jobs/info/67d9399c0a2c5889c9ac31eb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9335c1a07f371d9a7960d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67d9625d98ecb8fc7d978ab5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 17 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8e91c0bc13c664da172b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Hybrid | Mar 17 |
 | ↳ | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8bbd4b30ca6dd4faf963f?utm_campaign=Business%20Analyst&utm_source=1103)** | OR | Hybrid | Mar 17 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/67d8afd5ba047825058207d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Mar 17 |
@@ -89,7 +96,4 @@ For a complete list, click the following sortable link below:
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/67d1a0fb2b6df044cb0b72eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Mar 12 |
 | **[VinAudit.com Inc.](http://www.vinaudit.com)** | **[Business Administrator for a Tech Startup](https://jobright.ai/jobs/info/67d1445c4a45c420e1ea2d0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Mar 11 |
 | **[FreeWill](https://www.freewill.com)** | **[Strategic Business Analyst ](https://jobright.ai/jobs/info/67d0c362bd3dbd964571a666?utm_campaign=Business%20Analyst&utm_source=1103)** | REMOTE-USA | Remote | Mar 11 |
-| **[GLOVIS America, Inc.](https://www.glovisusa.com/)** | **[Analyst - Performance Management & Customer Service](https://jobright.ai/jobs/info/67ca51d6c92c5898cb45585c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Mar 11 |
-| **[InvoiceCloud, Inc.](http://www.invoicecloud.net)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/67b04c95eea311d5fb4f55f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston | On Site | Mar 11 |
-| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/67d07d0bf3ff7e6cf95bed63?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
