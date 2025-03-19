@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67da2c52d1c6896614ec4da8?utm_campaign=Business%20Analyst&utm_source=1103)** | Massachusetts, United States | On Site | Mar 18 |
+| **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67da1a3ac9168bffb53c3c71?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 18 |
+| **[Lithia & Driveway](http://www.lithia.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/67da12487c27ce0112cc09f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - USA | Hybrid | Mar 18 |
+| **[Qlik](https://www.qlik.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67da12487c27ce0112cc0af5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hybrid Remote, Waltham, Massachusetts | Hybrid | Mar 18 |
 | **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67d9f2d855cf5bdf8e986036?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Mar 18 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67d9e4d55f9961350d2371ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Mar 18 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Associate Business Management Analyst / Business Management Analyst Apopka Florida - R10189608](https://jobright.ai/jobs/info/67d9cfe7be02e888d70f1f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Apopka, FL | On Site | Mar 18 |
@@ -64,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Associate Business Management Analyst / Business Management Analyst Apopka Florida](https://jobright.ai/jobs/info/67d9cfe7be02e888d70f1f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Apopka, FL | On Site | Mar 18 |
 | **[Washington Gas](https://www.washingtongas.com/)** | **[WGL - Junior Business Analyst](https://jobright.ai/jobs/info/67d98face9f2b3b8583373e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | On Site | Mar 18 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67d8f96de3ca2772d6a887dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | Hybrid | Mar 18 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e459d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
-| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9335c1a07f371d9a7960d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e459f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9335c1a07f371d9a79610?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8e91c0bc13c664da172b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Hybrid | Mar 17 |
 | ↳ | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8bbd4b30ca6dd4faf963f?utm_campaign=Business%20Analyst&utm_source=1103)** | OR | Hybrid | Mar 17 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 17 |
