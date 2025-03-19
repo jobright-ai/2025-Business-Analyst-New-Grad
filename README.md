@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67d9f2d855cf5bdf8e986036?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Mar 18 |
+| **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67d9e4d55f9961350d2371ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Mar 18 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Associate Business Management Analyst / Business Management Analyst Apopka Florida - R10189608](https://jobright.ai/jobs/info/67d9cfe7be02e888d70f1f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Apopka, FL | On Site | Mar 18 |
+| **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67d9c1b1eb7c4a9f09ba042c?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Massachusetts - Full Time Remote | Remote | Mar 18 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Associate Business Management Analyst / Business Management Analyst Apopka Florida](https://jobright.ai/jobs/info/67d9cfe7be02e888d70f1f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Apopka, FL | On Site | Mar 18 |
 | **[Washington Gas](https://www.washingtongas.com/)** | **[WGL - Junior Business Analyst](https://jobright.ai/jobs/info/67d98face9f2b3b8583373e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | On Site | Mar 18 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e459e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
-| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9335c1a07f371d9a79607?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
-| **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67d9625d98ecb8fc7d978ab5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 17 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67d8f96de3ca2772d6a887dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | Hybrid | Mar 18 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e459d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9335c1a07f371d9a7960d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8e91c0bc13c664da172b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Hybrid | Mar 17 |
 | ↳ | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8bbd4b30ca6dd4faf963f?utm_campaign=Business%20Analyst&utm_source=1103)** | OR | Hybrid | Mar 17 |
-| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/67d8a09c4bff4b5c1aac7ed1?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Mar 17 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 17 |
 | ↳ | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d868b8923ed35f17af629d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 17 |
 | **[City of Phoenix](https://www.phoenix.gov/)** | **[Business Systems Analyst - Police, Strategic Information Bureau](https://jobright.ai/jobs/info/67d7ed5297e99ab8f577a18e?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Mar 17 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Sr Business Analyst, Business Planning Analyst - Capital One Shopping (Remote-Eligible)](https://jobright.ai/jobs/info/67d4be8406d8f8fc78dae91e?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Remote | Mar 14 |
 | ↳ | **[Sr Business Analyst, Business Planning Analyst - Capital One Shopping (Remote-Eligible)](https://jobright.ai/jobs/info/67d45fd88ee5ed80db14fe34?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Remote | Mar 14 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Controls Group (“BCG”) - Analyst](https://jobright.ai/jobs/info/67b7f150952490b3f8130b13?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 14 |
-| **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67d4f8c90bf82764a918db42?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Mar 14 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Associate IT Business Analyst, Warehousing](https://jobright.ai/jobs/info/67d38db94a0c4e1d6853ea19?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Mar 13 |
 | ↳ | **[Associate IT Business Analyst, Warehousing](https://jobright.ai/jobs/info/67d36705538fb3360520c560?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Mar 13 |
 | **[Luminate](https://luminatedata.com/)** | **[Business Research Coordinator](https://jobright.ai/jobs/info/67998b19cb678960236303ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 13 |
@@ -89,5 +92,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Schneider Development Program: Business Analyst](https://jobright.ai/jobs/info/67d204f5c1841df9a757f279?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, TN | Hybrid | Mar 12 |
 | **[Caplugs](http://www.caplugs.com)** | **[Business Analyst- Buffalo, NY- Erie, PA or Houston, TX](https://jobright.ai/jobs/info/67d1a9ad47453bfa6b75cd91?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 12 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/67d1a0fb2b6df044cb0b72eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Mar 12 |
-| **[VinAudit.com Inc.](http://www.vinaudit.com)** | **[Business Administrator for a Tech Startup](https://jobright.ai/jobs/info/67d1445c4a45c420e1ea2d0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
