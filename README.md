@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NTT DATA North America](https://us.nttdata.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67ddb930a17eada3de939916?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Remote | Mar 21 |
 | **[Ally](http://www.ally.com/)** | **[Analyst - Advanced Business Analytics](https://jobright.ai/jobs/info/67dda2d31b95d8e0cf93395a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Mar 21 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67dd694aa575c7b0733a4bca?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Mar 21 |
 | **[Oak Street Health](http://www.oakstreethealth.com)** | **[Analyst, Patient Engagement](https://jobright.ai/jobs/info/67dce4349aaa95b5a1619a49?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 20 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst - CoStar](https://jobright.ai/jobs/info/67dc62a16e245f4cba665d59?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | On Site | Mar 20 |
 | **[LDP](https://ldp-ita.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67dc62eca1b31073ff47bd0e?utm_campaign=Business%20Analyst&utm_source=1103)** | West Hazleton, PA | On Site | Mar 20 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst - CoStar](https://jobright.ai/jobs/info/67dc5065ffb2a8fe72569665?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Louis, Missouri, USA | On Site | Mar 20 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Junior Business Analyst - REMOTE](https://jobright.ai/jobs/info/67dda32d0a476b241d7d1371?utm_campaign=Business%20Analyst&utm_source=1103)** | Any Location / Remote | Remote | Mar 20 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, NASC ACES, ACES Analytics and Strategy](https://jobright.ai/jobs/info/67dd0df30932ff15fd024d5d?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Mar 19 |
 | ↳ | **[Business Analyst, NASC ACES, ACES Analytics and Strategy](https://jobright.ai/jobs/info/67dd0df30932ff15fd024d60?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Mar 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Business Analyst, Business Planning Analyst - Capital One Shopping (Remote-Eligible)](https://jobright.ai/jobs/info/67dd14d7fd08ca4630ebd3b8?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Remote | Mar 19 |
@@ -93,12 +93,10 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c1f5701b295cc66bb250f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Mar 18 |
 | **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67da1a3ac9168bffb53c3c71?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 18 |
 | ↳ | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67d9f2d855cf5bdf8e986036?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Mar 18 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Associate Business Management Analyst / Business Management Analyst Apopka Florida - R10189608](https://jobright.ai/jobs/info/67d9cfe7be02e888d70f1f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Apopka, FL | On Site | Mar 18 |
-| ↳ | **[2025 Associate Business Management Analyst / Business Management Analyst Apopka Florida](https://jobright.ai/jobs/info/67d9cfe7be02e888d70f1f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Apopka, FL | On Site | Mar 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c195bfafb3979f8c755678?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 18 |
 | **[Washington Gas](https://www.washingtongas.com/)** | **[WGL - Junior Business Analyst](https://jobright.ai/jobs/info/67d98face9f2b3b8583373e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | On Site | Mar 18 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e459a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
-| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d941c6940d04bd965e3ec8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e459f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9335c1a07f371d9a79606?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/67db9d8b338b153feb0a332d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 17 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8e91c0bc13c664da172b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Hybrid | Mar 17 |
 | ↳ | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8bbd4b30ca6dd4faf963f?utm_campaign=Business%20Analyst&utm_source=1103)** | OR | Hybrid | Mar 17 |
