@@ -58,8 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 23 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67e0c4084cf5a0045ca5cea0?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | Hybrid | Mar 22 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a57bd497baaa84bc66b6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 22 |
 | ↳ | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Mar 22 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67e0b636984213775b2ee32b?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | Hybrid | Mar 21 |
 | **[NTT DATA North America](https://us.nttdata.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67ddb930a17eada3de939916?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Remote | Mar 21 |
 | **[Ally](http://www.ally.com/)** | **[Analyst - Advanced Business Analytics](https://jobright.ai/jobs/info/67dda2d31b95d8e0cf93395a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Mar 21 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67dd694aa575c7b0733a4bca?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Mar 21 |
@@ -96,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67d9f2d855cf5bdf8e986036?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Mar 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c195bfafb3979f8c755678?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 18 |
 | **[Washington Gas](https://www.washingtongas.com/)** | **[WGL - Junior Business Analyst](https://jobright.ai/jobs/info/67d98face9f2b3b8583373e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | On Site | Mar 18 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e45a2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
-| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d941c6940d04bd965e3ec6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e4597?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9335c1a07f371d9a7960d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/67db9d8b338b153feb0a332d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 17 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8e91c0bc13c664da172b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Hybrid | Mar 17 |
 | ↳ | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8bbd4b30ca6dd4faf963f?utm_campaign=Business%20Analyst&utm_source=1103)** | OR | Hybrid | Mar 17 |
