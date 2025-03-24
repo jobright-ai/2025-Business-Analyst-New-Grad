@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67e156c3b7c64521f3471775?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
+| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67e156c3b7c64521f347178a?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Mar 24 |
+| ↳ | **[Remote Business Analyst (Vietnamese) - 31271](https://jobright.ai/jobs/info/67e1461f094b31b764dcecba?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
+| ↳ | **[Remote Business Analyst(German) - 31260](https://jobright.ai/jobs/info/67e156c3b7c64521f347179c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
+| ↳ | **[Remote Business Analyst (Finnish) - 31274](https://jobright.ai/jobs/info/67e1461f094b31b764dcec84?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
+| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67e13ea443c0aedfb158e917?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 23 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a57bd497baaa84bc66b6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 22 |
 | ↳ | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Mar 22 |
@@ -83,25 +89,22 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, NASC ACES, ACES Analytics and Strategy](https://jobright.ai/jobs/info/67db880368e743562718295f?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Mar 19 |
 | **[Building Service 32BJ Benefit Funds](https://www.32bjfunds.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/67db4d420922024e73cc0967?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 19 |
 | **[90 Degree Benefits](https://caprockhp.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67dbccf2b274065a06ae804e?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Paul, MN | On Site | Mar 19 |
-| **[Net at Work](http://www.netatwork.com)** | **[Business Analyst (Entry Level) Rotation Program (Hybrid NYC)](https://jobright.ai/jobs/info/67db195b827d2cd5cc21b2ab?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 19 |
 | **[One80 Intermediaries](https://www.one80intermediaries.com/)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/67db21d6437f57132295b32b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 19 |
 | **[Lendio](http://lendio.com)** | **[Business Operations Associate](https://jobright.ai/jobs/info/67dafbdfb8f390c459ba73a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Lehi UT HQ | On Site | Mar 19 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Business Process Analyst - Field Repair Center](https://jobright.ai/jobs/info/67daf1aefda37a5234279ae7?utm_campaign=Business%20Analyst&utm_source=1103)** | US-DE-Wilmington | On Site | Mar 19 |
+| **[Net at Work](http://www.netatwork.com)** | **[Business Analyst (Entry Level) Rotation Program (Hybrid NYC)](https://jobright.ai/jobs/info/67daf31a334e737061278362?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 19 |
 | **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/67dae367cbd2efce5c17e570?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - US | Remote | Mar 19 |
 | **[Brown & Brown](http://www.bbinsurance.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | Remote | Mar 19 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efceb?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Mar 19 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/67a14a38a14db88eab2efd7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | Remote | Mar 19 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67e0ef8e6c8dc7f6d0a83a1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | Hybrid | Mar 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c1f5701b295cc66bb250f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Mar 18 |
 | **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67da1a3ac9168bffb53c3c71?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 18 |
 | ↳ | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67d9f2d855cf5bdf8e986036?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Mar 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c195bfafb3979f8c755678?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 18 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e4599?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
-| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9335c1a07f371d9a79611?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e4598?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9318f1a07f371d9a78a96?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
 | **[City of Phoenix](https://www.phoenix.gov/)** | **[Business Systems Analyst - Police, Strategic Information Bureau](https://jobright.ai/jobs/info/67e0f620ce7c590922db40fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Mar 17 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/67db9d8b338b153feb0a332d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 17 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8e91c0bc13c664da172b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Hybrid | Mar 17 |
 | ↳ | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8bbd4b30ca6dd4faf963f?utm_campaign=Business%20Analyst&utm_source=1103)** | OR | Hybrid | Mar 17 |
-| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 17 |
-| ↳ | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d868b8923ed35f17af629d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
