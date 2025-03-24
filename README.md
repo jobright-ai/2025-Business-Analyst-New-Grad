@@ -57,17 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67e156c3b7c64521f3471775?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
-| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67e156c3b7c64521f347178a?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Mar 24 |
-| ↳ | **[Remote Business Analyst (Vietnamese) - 31271](https://jobright.ai/jobs/info/67e1461f094b31b764dcecba?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
-| ↳ | **[Remote Business Analyst(German) - 31260](https://jobright.ai/jobs/info/67e156c3b7c64521f347179c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
-| ↳ | **[Remote Business Analyst (Finnish) - 31274](https://jobright.ai/jobs/info/67e1461f094b31b764dcec84?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
-| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67e13ea443c0aedfb158e917?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
+| **[Alter Domus](http://www.alterdomus.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67e19f3597646d6f872e5667?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Mar 24 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67e156c3b7c64521f347177b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
+| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67e1461f094b31b764dcec63?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Mar 24 |
+| ↳ | **[Remote Business Analyst (Vietnamese) - 31271](https://jobright.ai/jobs/info/67e1461f094b31b764dcec21?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
+| ↳ | **[Remote Business Analyst (Finnish) - 31274](https://jobright.ai/jobs/info/67e1416db4380a0d81478292?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
+| ↳ | **[Remote Business Analyst(German) - 31260](https://jobright.ai/jobs/info/67e1416db4380a0d8147829a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
+| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67e13ea443c0aedfb158e914?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Mar 23 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 23 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a57bd497baaa84bc66b6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 22 |
 | ↳ | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Mar 22 |
 | **[NTT DATA North America](https://us.nttdata.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67ddb930a17eada3de939916?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Remote | Mar 21 |
-| **[Ally](http://www.ally.com/)** | **[Analyst - Advanced Business Analytics](https://jobright.ai/jobs/info/67dda2d31b95d8e0cf93395a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Mar 21 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67dd694aa575c7b0733a4bca?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, WA | On Site | Mar 21 |
 | **[Oak Street Health](http://www.oakstreethealth.com)** | **[Analyst, Patient Engagement](https://jobright.ai/jobs/info/67dce4349aaa95b5a1619a49?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 20 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67dcb074ce15b8e70a124cbc?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Mar 20 |
@@ -77,16 +78,12 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst - CoStar](https://jobright.ai/jobs/info/67dc62a16e245f4cba665d59?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | On Site | Mar 20 |
 | **[LDP](https://ldp-ita.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/67dc62eca1b31073ff47bd0e?utm_campaign=Business%20Analyst&utm_source=1103)** | West Hazleton, PA | On Site | Mar 20 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst - CoStar](https://jobright.ai/jobs/info/67dc5065ffb2a8fe72569665?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Louis, Missouri, USA | On Site | Mar 20 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, NASC ACES, ACES Analytics and Strategy](https://jobright.ai/jobs/info/67dd0df30932ff15fd024d5d?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Mar 19 |
-| ↳ | **[Business Analyst, NASC ACES, ACES Analytics and Strategy](https://jobright.ai/jobs/info/67dd0df30932ff15fd024d60?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Mar 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Business Analyst, Business Planning Analyst - Capital One Shopping (Remote-Eligible)](https://jobright.ai/jobs/info/67dd14d7fd08ca4630ebd3b8?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Remote | Mar 19 |
 | ↳ | **[Sr Business Analyst, Business Planning Analyst - Capital One Shopping (Remote-Eligible)](https://jobright.ai/jobs/info/67dd1725529aace070f8aa60?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Remote | Mar 19 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/67db9ba4338b153feb0a28bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 19 |
 | **[Interstate Waste Services, Inc.](http://interstatewaste.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67db773be3b4bec5793aee43?utm_campaign=Business%20Analyst&utm_source=1103)** | Teaneck, NJ | On Site | Mar 19 |
 | **[Stantec](http://www.stantec.com)** | **[Business Support Analyst](https://jobright.ai/jobs/info/67db6883180ea13878955f55?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA | On Site | Mar 19 |
 | ↳ | **[Business Support Analyst](https://jobright.ai/jobs/info/67db5d4a79a6242280dc93bb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 19 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, NASC ACES, ACES Analytics and Strategy](https://jobright.ai/jobs/info/67db880368e7435627182955?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Mar 19 |
-| ↳ | **[Business Analyst, NASC ACES, ACES Analytics and Strategy](https://jobright.ai/jobs/info/67db880368e743562718295f?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Mar 19 |
 | **[Building Service 32BJ Benefit Funds](https://www.32bjfunds.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/67db4d420922024e73cc0967?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 19 |
 | **[90 Degree Benefits](https://caprockhp.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67dbccf2b274065a06ae804e?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Paul, MN | On Site | Mar 19 |
 | **[One80 Intermediaries](https://www.one80intermediaries.com/)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/67db21d6437f57132295b32b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 19 |
@@ -101,10 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67da1a3ac9168bffb53c3c71?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 18 |
 | ↳ | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67d9f2d855cf5bdf8e986036?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Mar 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67c195bfafb3979f8c755678?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 18 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e4598?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
-| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9318f1a07f371d9a78a96?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Japanese) - 31265](https://jobright.ai/jobs/info/67d9439c940d04bd965e4597?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
+| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67d9335c1a07f371d9a79610?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
 | **[City of Phoenix](https://www.phoenix.gov/)** | **[Business Systems Analyst - Police, Strategic Information Bureau](https://jobright.ai/jobs/info/67e0f620ce7c590922db40fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Mar 17 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/67db9d8b338b153feb0a332d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 17 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8e91c0bc13c664da172b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Hybrid | Mar 17 |
-| ↳ | **[Early Career Business Analyst](https://jobright.ai/jobs/info/67d8bbd4b30ca6dd4faf963f?utm_campaign=Business%20Analyst&utm_source=1103)** | OR | Hybrid | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
