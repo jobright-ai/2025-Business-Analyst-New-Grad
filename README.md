@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist I](https://jobright.ai/jobs/info/67eaded14c6238bb0b74fb3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Mar 31 |
+| **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67ead7e8a273c96e373b8751?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | On Site | Mar 31 |
+| **[AT&T](https://www.att.com/)** | **[Specialist Tech Business Analysis](https://jobright.ai/jobs/info/67eab3307812c1f76818dda1?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas | On Site | Mar 31 |
+| **[Luxoft](http://www.luxoft.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67ea9824694ea6f05b3386f0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 31 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/67ea91711bbdff26c27d95bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | On Site | Mar 31 |
 | **[IGT](http://igt.com)** | **[Business Pro Analyst I](https://jobright.ai/jobs/info/6794a418bc0954b91be9f53c?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | On Site | Mar 30 |
 | **[SavvyMoney](http://www.savvymoney.com)** | **[Business Analyst (Dublin, CA)](https://jobright.ai/jobs/info/67e7df2a4a0828ddc79593ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, CA | Hybrid | Mar 29 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[Business Systems Analyst- Record Management System (RMS)](https://jobright.ai/jobs/info/67e4dbdd51851fe5d9113071?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Mar 28 |
 | **[HealthEquity](http://www.healthequity.com)** | **[Business Analyst - Fraud Prevention](https://jobright.ai/jobs/info/67e729bcce4bf67c58d837f7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 28 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67e236c4f948d22c390cd300?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Mar 28 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67e37c30b3e488121993c500?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Mar 28 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67e236c4f948d22c390cd300?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Mar 28 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[Analyst, Technology Business Analyst (Campus)](https://jobright.ai/jobs/info/67e77ab79fdea0c6efc04101?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 27 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Analyst I or II - Producer Services](https://jobright.ai/jobs/info/67e8c12d8537f4e4688b2c54?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Mar 27 |
 | **[KeyBank](https://www.key.com)** | **[Digital Banking Associate Business Analyst](https://jobright.ai/jobs/info/67e61e03480735d6ae85ed52?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Mar 27 |
@@ -78,12 +83,11 @@ For a complete list, click the following sortable link below:
 | **[BeneSys, Inc.](https://benesys.com)** | **[Business Analyst (Carmel, IN)](https://jobright.ai/jobs/info/67e5b1ec5519d35b65c5e3b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Carmel, IN | Hybrid | Mar 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67e236c4f948d22c390cd2fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Mar 26 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67e36b3c857c34c3d1e899c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | Hybrid | Mar 26 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67e37c30b3e488121993c500?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Mar 26 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67e393af7f0f905c6cbdbce1?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | Hybrid | Mar 26 |
 | ↳ | **[Junior Momentum Business Analyst](https://jobright.ai/jobs/info/67dd02976cb40ac3a5c5a258?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Mar 26 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993cc1e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 26 |
-| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993cc3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Mar 26 |
-| ↳ | **[Remote Business Analyst (German) - 31260](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993cc86?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 26 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67e3dc6cba9e4b2ec9d7bc09?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 26 |
+| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993cc3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Mar 26 |
+| ↳ | **[Remote Business Analyst (German) - 31260](https://jobright.ai/jobs/info/67e3e5a9b5d9ee007993cc83?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 26 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr Business Analyst, Business Planning Analyst - Capital One Shopping (Remote-Eligible)](https://jobright.ai/jobs/info/67e386d3b05be1d18e925d94?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Remote | Mar 25 |
 | ↳ | **[Sr Business Analyst, Business Planning Analyst - Capital One Shopping (Remote-Eligible)](https://jobright.ai/jobs/info/67e386d3b05be1d18e925da3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Remote | Mar 25 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67e364ba67c00e3fd19b809e?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 25 |
