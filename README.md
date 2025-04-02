@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medtronic](https://www.medtronic.com)** | **[ECP - Associate IT Analyst - POSTING INTENTED FOR THOSE ALREADY HIRED](https://jobright.ai/jobs/info/67ed644a14d5869399832e71?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota, United States of America | On Site | Apr 02 |
+| **[InvoiceCloud, Inc.](http://www.invoicecloud.net)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/67b04c95eea311d5fb4f55f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston | On Site | Apr 02 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/67ec6e95d5295f435e562f39?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Apr 01 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/67ec78fd6f76696fd2810adf?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Apr 01 |
 | **[Citi](https://www.citi.com)** | **[Senior Business Analyst - Spread Products, Officer, Tampa](https://jobright.ai/jobs/info/67ec3fdb4cec5f4a3f8b56db?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Hybrid | Apr 01 |
@@ -66,13 +68,12 @@ For a complete list, click the following sortable link below:
 | **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Finnish) - 31274](https://jobright.ai/jobs/info/67ecc5113a3946dccc614344?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
 | ↳ | **[Remote Business Analyst (Finnish) - 31274](https://jobright.ai/jobs/info/67ec1958d502d55c985c38cb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/67ec0607549f4b0dc41075c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Harrisburg, PA | On Site | Apr 01 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67ec1b0dd502d55c985c3903?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 01 |
-| ↳ | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6ca5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
-| ↳ | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6cb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 01 |
-| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67ecc5113a3946dccc6143ab?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
-| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6d26?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67ec1b0dd502d55c985c3902?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
+| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67ec1b0dd502d55c985c3905?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 01 |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67cf3ce0622ed6c0c6bdad7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 01 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6cbb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
+| ↳ | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6cc2?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 01 |
 | ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67ebdba68b402c15fb0d405c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
-| **[WhirlWind Technologies, LLC](https://www.wwindtech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67eb5ca09e8948f3a00c6785?utm_campaign=Business%20Analyst&utm_source=1103)** | Oxon Hill, MD | On Site | Mar 31 |
 | **[AT&T](https://www.att.com/)** | **[Specialist Tech Business Analysis](https://jobright.ai/jobs/info/67eb75eef602ac9cec7f9e00?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Mar 31 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[New College Grad -Business Analyst (MBA)](https://jobright.ai/jobs/info/67eb41776a236320bd14e412?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | On Site | Mar 31 |
 | ↳ | **[New College Grad -Business Analyst (MBA)](https://jobright.ai/jobs/info/67eb279f3c4be46cc06cfd4a?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | On Site | Mar 31 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[HealthEquity](http://www.healthequity.com)** | **[Business Analyst - Fraud Prevention](https://jobright.ai/jobs/info/67e729bcce4bf67c58d837f7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 28 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67e37c30b3e488121993c500?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Mar 28 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67e236c4f948d22c390cd300?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Mar 28 |
-| **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[Analyst, Technology Business Analyst (Campus)](https://jobright.ai/jobs/info/67e77ab79fdea0c6efc04101?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 27 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Analyst I or II - Producer Services](https://jobright.ai/jobs/info/67e8c12d8537f4e4688b2c54?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Mar 27 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67ce5f5b54b78453b79274fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 27 |
 | **[BeneSys, Inc.](https://benesys.com)** | **[Business Analyst (Carmel, IN)](https://jobright.ai/jobs/info/67e5b1ec5519d35b65c5e28a?utm_campaign=Business%20Analyst&utm_source=1103)** | Carmel, IN | Hybrid | Mar 27 |
@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Florida International University](https://www.fiu.edu)** | **[Associate Applications Business Analyst -534674](https://jobright.ai/jobs/info/67e58d2c794ae47af9c66380?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | On Site | Mar 27 |
 | **[Red Ventures](http://www.redventures.com)** | **[Business Operations, Analyst / Bankrate](https://jobright.ai/jobs/info/67e57893828e8f5e7ac4cb32?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 27 |
 | **[Texas A&M University](http://www.tamu.edu/)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/67e562d8b8351f3ff580a619?utm_campaign=Business%20Analyst&utm_source=1103)** | College Station, TX | On Site | Mar 27 |
-| **[BeneSys, Inc.](https://benesys.com)** | **[Business Analyst (Carmel, IN)](https://jobright.ai/jobs/info/67e5b1ec5519d35b65c5e3b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Carmel, IN | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
