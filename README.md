@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Associate Business Management  Linthicum MD - R10191579](https://jobright.ai/jobs/info/67ee4ea5ec0dabb777425708?utm_campaign=Business%20Analyst&utm_source=1103)** | Linthicum Heights, MD | On Site | Apr 03 |
+| ↳ | **[2025 Associate Business Management  Linthicum MD - R10191579-2](https://jobright.ai/jobs/info/67ee4ea5ec0dabb777425715?utm_campaign=Business%20Analyst&utm_source=1103)** | Linthicum Heights, MD | On Site | Apr 03 |
 | **[City National Bank](http://www.cnb.com)** | **[Small Business Consumer Processor I](https://jobright.ai/jobs/info/67ee3b3c3ce6c739ef5062a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 02 |
 | **[Lendmark Financial Services](http://lendmarkfinancial.com)** | **[Business Analyst - I](https://jobright.ai/jobs/info/67ee26d8e84485085b69bc42?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrenceville, GA | On Site | Apr 02 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Associate Professional Business Analyst](https://jobright.ai/jobs/info/67edad4847a7de490f7c306a?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | On Site | Apr 02 |
@@ -70,16 +72,16 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/67ec78fd6f76696fd2810adf?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Apr 01 |
 | **[Citi](https://www.citi.com)** | **[Senior Business Analyst - Spread Products, Officer, Tampa](https://jobright.ai/jobs/info/67ec3fdb4cec5f4a3f8b56db?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Hybrid | Apr 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/67ec3fdb4cec5f4a3f8b5a97?utm_campaign=Business%20Analyst&utm_source=1103)** | Harrisburg, PA | Remote | Apr 01 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Vietnamese) - 31271](https://jobright.ai/jobs/info/67ec371d3062b60b757e0193?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Vietnamese) - 31271](https://jobright.ai/jobs/info/67ec371d3062b60b757e0192?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
 | **[Citi](https://www.citi.com)** | **[Senior Business Analyst - Spread Products, Officer, Tampa](https://jobright.ai/jobs/info/67ec12794628f94da5e4ddbc?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa Florida United States | On Site | Apr 01 |
 | **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Finnish) - 31274](https://jobright.ai/jobs/info/67ecc5113a3946dccc614344?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
-| ↳ | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67ec371d3062b60b757e02d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 01 |
-| ↳ | **[Remote Business Analyst (Finnish) - 31274](https://jobright.ai/jobs/info/67ec1958d502d55c985c38ca?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
+| ↳ | **[Remote Business Analyst (Finnish) - 31274](https://jobright.ai/jobs/info/67ec1958d502d55c985c38cb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/67ec0607549f4b0dc41075c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Harrisburg, PA | On Site | Apr 01 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67ec1b0dd502d55c985c3905?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 01 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67cf3ce0622ed6c0c6bdad7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 01 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6cba?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
-| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6d07?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 01 |
-| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6d27?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6cb7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
+| ↳ | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6cbd?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 01 |
+| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67ec112e8f84ebf56cde6d21?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
 | ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67ebe51c5b77728f128428ba?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
 | **[AT&T](https://www.att.com/)** | **[Specialist Tech Business Analysis](https://jobright.ai/jobs/info/67eb75eef602ac9cec7f9e00?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Mar 31 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[New College Grad -Business Analyst (MBA)](https://jobright.ai/jobs/info/67eb41776a236320bd14e412?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | On Site | Mar 31 |
@@ -96,9 +98,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Junior Momentum Business Analyst](https://jobright.ai/jobs/info/67dd02976cb40ac3a5c5a258?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | Mar 28 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67e236c4f948d22c390cd300?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Mar 28 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Analyst I or II - Producer Services](https://jobright.ai/jobs/info/67e8c12d8537f4e4688b2c54?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Mar 27 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67ce5f5b54b78453b79274fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 27 |
-| **[BeneSys, Inc.](https://benesys.com)** | **[Business Analyst (Carmel, IN)](https://jobright.ai/jobs/info/67e5b1ec5519d35b65c5e28a?utm_campaign=Business%20Analyst&utm_source=1103)** | Carmel, IN | Hybrid | Mar 27 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67d10cb0d12d06c64365858f?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | Hybrid | Mar 27 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67e229fcc9104545c95f673d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 27 |
-| ↳ | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67e22378a734c83817d29964?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
