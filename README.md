@@ -103,10 +103,10 @@ For a complete list, click the following sortable link below:
 | **[OpenLoop](https://openloophealth.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67f438524552e52260a74541?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Information Technology Business Partner](https://jobright.ai/jobs/info/67f409f7920523939fb741ae?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Berkeley, MO | On Site | Apr 07 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Junior Business Researcher Analyst - Research Center](https://jobright.ai/jobs/info/67f3e49bf805481e34e50997?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY, United States | On Site | Apr 07 |
-| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Finnish) - 31274](https://jobright.ai/jobs/info/67f3df6f649732861f4e91d1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
-| ↳ | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67f3df6f649732861f4e922b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 07 |
-| ↳ | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67f3df6f649732861f4e922e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
-| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67f3df6f649732861f4e9319?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 07 |
-| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67f3df6f649732861f4e9335?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
-| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67f3c6eb3d30e6d5a91678e7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
+| **[Turing](https://www.turing.com)** | **[Remote Business Analyst (Finnish) - 31274](https://jobright.ai/jobs/info/67f3d816c8f5c2bdf3d70fd3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
+| ↳ | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67f3df6f649732861f4e9256?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 07 |
+| ↳ | **[Remote Business Analyst (Norwegian) - 31268](https://jobright.ai/jobs/info/67f3d816c8f5c2bdf3d70ffd?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
+| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67f3df6f649732861f4e931b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
+| ↳ | **[Remote Business Analyst (Danish) - 31267](https://jobright.ai/jobs/info/67f3d816c8f5c2bdf3d71008?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 07 |
+| ↳ | **[Remote Business Analyst (Mandarin) - 31257](https://jobright.ai/jobs/info/67f3c6eb3d30e6d5a91678e8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
