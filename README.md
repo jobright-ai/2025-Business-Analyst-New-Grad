@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dryer Vent Wizard International](https://www.dryerventwizard.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/67fde5d1e4b1d05d6e28ee74?utm_campaign=Business%20Analyst&utm_source=1103)** | Middletown, OH | On Site | Apr 14 |
+| **[RADIAS Health](https://radiashealth.org/)** | **[Business Coordinator](https://jobright.ai/jobs/info/67fde5d1e4b1d05d6e28f10b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Apr 14 |
+| **[WhirlWind Technologies, LLC](https://www.wwindtech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67fdf10c639e70e7b1c4042a?utm_campaign=Business%20Analyst&utm_source=1103)** | Oxon Hill, MD | On Site | Apr 14 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67fdb692c47e2660d55d85f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Apr 14 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/67fdad4092d163106db9b061?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - Texas - AAFES Headquarters (Dallas) | On Site | Apr 14 |
 | **[MiraCosta College](http://www.miracosta.edu/)** | **[Assistant Business Systems Analyst, Admissions & Records](https://jobright.ai/jobs/info/67fd94d8c30985f05cc79917?utm_campaign=Business%20Analyst&utm_source=1103)** | Oceanside, CA | On Site | Apr 14 |
@@ -94,6 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/67db9d8b338b153feb0a332d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 08 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67f5703b49562ecaa05799af?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | On Site | Apr 08 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Advisor-Hybrid](https://jobright.ai/jobs/info/67f57b80c12aa5dd489e42f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Apr 08 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Analyst, Business Control](https://jobright.ai/jobs/info/67f558c1d3a765660612e2d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Apr 08 |
-| **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analytics Advisor-Hybrid](https://jobright.ai/jobs/info/67f52ec21fcc44bfe0767e26?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
