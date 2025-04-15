@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67fdb692c47e2660d55d85f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Apr 14 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/67fdad4092d163106db9b061?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - Texas - AAFES Headquarters (Dallas) | On Site | Apr 14 |
 | **[MiraCosta College](http://www.miracosta.edu/)** | **[Assistant Business Systems Analyst, Admissions & Records](https://jobright.ai/jobs/info/67fd94d8c30985f05cc79917?utm_campaign=Business%20Analyst&utm_source=1103)** | Oceanside, CA | On Site | Apr 14 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Business Systems Analyst 2 - 8537](https://jobright.ai/jobs/info/67fd7012c2028ec7448af068?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 14 |
 | ↳ | **[Business Systems Analyst 2 - 8537](https://jobright.ai/jobs/info/67fd60a346fb01cc98467cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Apr 14 |
@@ -79,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f7c52e81089cbf4c6eaa60?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | Hybrid | Apr 10 |
 | **[Building Service 32BJ Benefit Funds](https://www.32bjfunds.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/67db4d420922024e73cc0967?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 10 |
 | **[HealthEquity](http://www.healthequity.com)** | **[Business Analyst, Fraud Prevention](https://jobright.ai/jobs/info/67f7bbddbd5791c69c165c1c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 10 |
-| **[HP](http://www.hp.com)** | **[Business Planning Analyst](https://jobright.ai/jobs/info/67f6ce88136fde3671632b71?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States of America | On Site | Apr 09 |
+| **[HP](http://www.hp.com)** | **[Business Planning Analyst](https://jobright.ai/jobs/info/67f6ce88136fde3671632849?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States of America | On Site | Apr 09 |
 | **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67da1a3ac9168bffb53c3c71?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Apr 09 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/67ec6e95d5295f435e562f39?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Apr 09 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/67f6c159c9731f5444ac0026?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Apr 09 |
@@ -87,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Information Technology Business Partner](https://jobright.ai/jobs/info/67f60b5d56702ca86f17faf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Berkeley, MO | On Site | Apr 08 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/67f5dce3c655737e08af34c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 08 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67f5d392811c3cf2f6812aec?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 08 |
+| **[American Express](http://www.americanexpress.com)** | **[Senior Analyst - Enterprise Control Management, Learning & Communications](https://jobright.ai/jobs/info/67fdc0465ee9788acaa1680f?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunrise, Florida, United States | Hybrid | Apr 08 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 08 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/67db9d8b338b153feb0a332d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 08 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67f5703b49562ecaa05799af?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | On Site | Apr 08 |
