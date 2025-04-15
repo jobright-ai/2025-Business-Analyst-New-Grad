@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dryer Vent Wizard International](https://www.dryerventwizard.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/67fde5d1e4b1d05d6e28ee74?utm_campaign=Business%20Analyst&utm_source=1103)** | Middletown, OH | On Site | Apr 14 |
 | **[RADIAS Health](https://radiashealth.org/)** | **[Business Coordinator](https://jobright.ai/jobs/info/67fde5d1e4b1d05d6e28f10b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Apr 14 |
 | **[WhirlWind Technologies, LLC](https://www.wwindtech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67fdf10c639e70e7b1c4042a?utm_campaign=Business%20Analyst&utm_source=1103)** | Oxon Hill, MD | On Site | Apr 14 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67fdb692c47e2660d55d85f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Apr 14 |
@@ -94,7 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67f5d392811c3cf2f6812aec?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 08 |
 | **[American Express](http://www.americanexpress.com)** | **[Senior Analyst - Enterprise Control Management, Learning & Communications](https://jobright.ai/jobs/info/67fdc0465ee9788acaa1680f?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunrise, Florida, United States | Hybrid | Apr 08 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 08 |
-| **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/67db9d8b338b153feb0a332d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 08 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/67f5703b49562ecaa05799af?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | On Site | Apr 08 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Advisor-Hybrid](https://jobright.ai/jobs/info/67f57b80c12aa5dd489e42f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
