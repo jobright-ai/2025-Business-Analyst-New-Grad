@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MiraCosta College](http://www.miracosta.edu/)** | **[Assistant Business Systems Analyst, Admissions & Records](https://jobright.ai/jobs/info/67fd94d8c30985f05cc79917?utm_campaign=Business%20Analyst&utm_source=1103)** | Oceanside, CA | On Site | Apr 14 |
+| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Business Systems Analyst 2 - 8537](https://jobright.ai/jobs/info/67fd7012c2028ec7448af068?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 14 |
+| ↳ | **[Business Systems Analyst 2 - 8537](https://jobright.ai/jobs/info/67fd60a346fb01cc98467cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Apr 14 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 14 |
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 13 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 13 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a57bd497baaa84bc66b6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 13 |
@@ -72,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Business Planning Analyst](https://jobright.ai/jobs/info/67fc821135c7ac6030255844?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | On Site | Apr 10 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst, Tech & Ops](https://jobright.ai/jobs/info/67f827a1c437784ea3885181?utm_campaign=Business%20Analyst&utm_source=1103)** | HQ - San Diego, CA | On Site | Apr 10 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67f81764d88f8155040a73f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 10 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate, Business Analysis](https://jobright.ai/jobs/info/67f8a59459c0d5a68578dccc?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Apr 10 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f7c52e81089cbf4c6eaa60?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | Hybrid | Apr 10 |
 | **[Building Service 32BJ Benefit Funds](https://www.32bjfunds.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/67db4d420922024e73cc0967?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 10 |
 | **[HealthEquity](http://www.healthequity.com)** | **[Business Analyst, Fraud Prevention](https://jobright.ai/jobs/info/67f7bbddbd5791c69c165c1c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 10 |
@@ -90,7 +93,4 @@ For a complete list, click the following sortable link below:
 | **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Advisor-Hybrid](https://jobright.ai/jobs/info/67f57b80c12aa5dd489e42f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Apr 08 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Analyst, Business Control](https://jobright.ai/jobs/info/67f558c1d3a765660612e2d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Apr 08 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analytics Advisor-Hybrid](https://jobright.ai/jobs/info/67f52ec21fcc44bfe0767e26?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Apr 08 |
-| **[OpenLoop](https://openloophealth.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67f4d1c14036140498bca71e?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, Iowa, United States, Hybrid, Remote | Remote | Apr 08 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Advisor-Hybrid](https://jobright.ai/jobs/info/67f7aa094cff64b3b4d8ced4?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Apr 07 |
-| **[Our Blood Institute](https://obi.org)** | **[it BUSINESS ANALYST](https://jobright.ai/jobs/info/67f93126555421e8e7d39398?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
