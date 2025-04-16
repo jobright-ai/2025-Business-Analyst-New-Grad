@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67fecf031d7d0cdc34bea38f?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Apr 15 |
+| **[Millennium](https://www.mlp.com)** | **[Business Management Analyst](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9f48?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 15 |
+| **[The Exchange](https://www.shopmyexchange.com/)** | **[Services Business Tech](https://jobright.ai/jobs/info/67fead3aa1051eb58d391810?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - California - Fort Irwin | On Site | Apr 15 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67fe897de7cbc48ddb884d6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Apr 15 |
-| **[GLOVIS America, Inc.](https://www.glovisusa.com/)** | **[Analyst - Performance Management & Customer Service](https://jobright.ai/jobs/info/67fe85a1bea71abe87c05a4f?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | On Site | Apr 15 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Process Analyst](https://jobright.ai/jobs/info/67fe8d493dd028ff89c9d1fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | Hybrid | Apr 15 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67e36b3c857c34c3d1e899c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | Hybrid | Apr 15 |
 | **[RADIAS Health](https://radiashealth.org/)** | **[Business Coordinator](https://jobright.ai/jobs/info/67fde5d1e4b1d05d6e28f10b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Apr 14 |
