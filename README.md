@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vivid Seats](http://www.vividseats.com)** | **[Business Analyst, Monitoring](https://jobright.ai/jobs/info/67e30e15a44c591183674f38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 16 |
+| **[DISH Network](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Apr 16 |
+| **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst Support](https://jobright.ai/jobs/info/67ff789292a33ef668ecfa75?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Apr 16 |
 | **[Johns Hopkins Health Plans](https://www.ehp.org)** | **[Business Analyst-Healthcare Claims](https://jobright.ai/jobs/info/67ff54266e03ed0a97993edb?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Remote | Apr 15 |
 | **[Anaplan](https://www.anaplan.com)** | **[Business & Data Operations Analyst](https://jobright.ai/jobs/info/67ff25c7aad436010076f99c?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 15 |
 | **[Bainbridge](http://www.bainbridge.com)** | **[M&A Business Researcher](https://jobright.ai/jobs/info/67ff19369c9d53dc56122a10?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 15 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a57bd497baaa84bc66b6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 13 |
 | **[Cotter Consulting, Inc.](http://cotterconsulting.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67f903068b7e7dca0e82ff79?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 12 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 12 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/67f938a27ebb40770ff14509?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | Hybrid | Apr 11 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f1b4c20cb2ac3d81804161?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Apr 11 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst - CoStar](https://jobright.ai/jobs/info/67dc62a16e245f4cba665d59?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | On Site | Apr 11 |
 | **[Optum](https://www.optum.com/)** | **[Claims Business Process Analyst - Remote in TX](https://jobright.ai/jobs/info/67f8db431c2576898ef8e93c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 11 |
