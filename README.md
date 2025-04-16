@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Q-Centrix](https://www.q-centrix.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67e328496b4314e58b825cd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 16 |
 | **[Vivid Seats](http://www.vividseats.com)** | **[Business Analyst, Monitoring](https://jobright.ai/jobs/info/67e30e15a44c591183674f38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 16 |
 | **[DISH Network](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Apr 16 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst Support](https://jobright.ai/jobs/info/67ff789292a33ef668ecfa75?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Apr 16 |
