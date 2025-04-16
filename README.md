@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bainbridge](http://www.bainbridge.com)** | **[M&A Business Researcher](https://jobright.ai/jobs/info/67ff19369c9d53dc56122a10?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 15 |
+| **[University of California, Santa Cruz](http://www.ucsc.edu)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67ff1239d683b55468fe34b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Cruz County, CA | Hybrid | Apr 15 |
+| **[Anaplan](https://www.anaplan.com)** | **[Business & Data Operations Analyst](https://jobright.ai/jobs/info/67ff02837d1ea36c928e4ac4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, United States | Hybrid | Apr 15 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67fecf031d7d0cdc34bea38f?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Apr 15 |
 | **[Millennium](https://www.mlp.com)** | **[Business Management Analyst](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9f48?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 15 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Services Business Tech](https://jobright.ai/jobs/info/67fead3aa1051eb58d391810?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - California - Fort Irwin | On Site | Apr 15 |
