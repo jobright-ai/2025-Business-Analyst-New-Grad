@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johns Hopkins Health Plans](https://www.ehp.org)** | **[Business Analyst-Healthcare Claims](https://jobright.ai/jobs/info/67ff54266e03ed0a97993edb?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Remote | Apr 15 |
+| **[Anaplan](https://www.anaplan.com)** | **[Business & Data Operations Analyst](https://jobright.ai/jobs/info/67ff25c7aad436010076f99c?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 15 |
 | **[Bainbridge](http://www.bainbridge.com)** | **[M&A Business Researcher](https://jobright.ai/jobs/info/67ff19369c9d53dc56122a10?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 15 |
 | **[University of California, Santa Cruz](http://www.ucsc.edu)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67ff1239d683b55468fe34b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Cruz County, CA | Hybrid | Apr 15 |
 | **[Anaplan](https://www.anaplan.com)** | **[Business & Data Operations Analyst](https://jobright.ai/jobs/info/67ff02837d1ea36c928e4ac4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, United States | Hybrid | Apr 15 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67fe897de7cbc48ddb884d6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Apr 15 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Process Analyst](https://jobright.ai/jobs/info/67fe8d493dd028ff89c9d1fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | Hybrid | Apr 15 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67e36b3c857c34c3d1e899c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | Hybrid | Apr 15 |
+| **[GLOVIS America, Inc.](https://www.glovisusa.com/)** | **[Analyst - Performance Management & Customer Service](https://jobright.ai/jobs/info/67ff2d00089642d93b25c020?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | On Site | Apr 15 |
 | **[RADIAS Health](https://radiashealth.org/)** | **[Business Coordinator](https://jobright.ai/jobs/info/67fde5d1e4b1d05d6e28f10b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Apr 14 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67fdb692c47e2660d55d85f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Apr 14 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/67fdad4092d163106db9b061?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - Texas - AAFES Headquarters (Dallas) | On Site | Apr 14 |
@@ -90,8 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f7c52e81089cbf4c6eaa60?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | Hybrid | Apr 10 |
 | **[Building Service 32BJ Benefit Funds](https://www.32bjfunds.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/67db4d420922024e73cc0967?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 10 |
 | **[HealthEquity](http://www.healthequity.com)** | **[Business Analyst, Fraud Prevention](https://jobright.ai/jobs/info/67f7bbddbd5791c69c165c1c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 10 |
-| **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67da1a3ac9168bffb53c3c71?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Apr 09 |
-| **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/67ec6e95d5295f435e562f39?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Apr 09 |
-| **[Tower Research Capital](http://www.tower-research.com/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/67f6c159c9731f5444ac0026?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Apr 09 |
-| **[Our Blood Institute](https://obi.org)** | **[IT BUSINESS ANALYST (OKLAHOMA CITY, OK)](https://jobright.ai/jobs/info/67f68ec61897aeda809a5ebd?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
