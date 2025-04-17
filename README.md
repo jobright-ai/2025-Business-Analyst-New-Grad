@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WM](https://www.wm.com/)** | **[Analyst I, Business Solutions](https://jobright.ai/jobs/info/68004338fec283b2761d1b0c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 16 |
+| **[Advarra](https://www.advarra.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68003787aff4505555625ec1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Apr 16 |
+| **[Net at Work](http://www.netatwork.com)** | **[First Year Associate Program for Accounting and Technology Business Analysts ](https://jobright.ai/jobs/info/680034f64a91e36bee350961?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 16 |
+| **[OpenLoop](https://openloophealth.com)** | **[Business Process Specialist](https://jobright.ai/jobs/info/67f4d1c14036140498bca71e?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, Iowa, United States, Hybrid, Remote | Remote | Apr 16 |
+| **[Advarra](https://www.advarra.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68001de80d4962cf80f834b0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Apr 16 |
+| **[WM](https://www.wm.com/)** | **[Analyst I, Business Solutions](https://jobright.ai/jobs/info/680013a46ec6abc8542263cd?utm_campaign=Business%20Analyst&utm_source=1103)** | 800 CAPITOL ST STE 3000, HOUSTON, TX, 77002, US | On Site | Apr 16 |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67fffd1780255206e4879983?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 16 |
+| **[Cimarron Inc.](http://www.cimarroninc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67fffc58d163633d5430f894?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX 78226 US (Primary) | On Site | Apr 16 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67e328496b4314e58b825cd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 16 |
 | **[Vivid Seats](http://www.vividseats.com)** | **[Business Analyst, Monitoring](https://jobright.ai/jobs/info/67e30e15a44c591183674f38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 16 |
 | **[DISH Network](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Apr 16 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst Support](https://jobright.ai/jobs/info/67ff789292a33ef668ecfa75?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Apr 16 |
-| **[Johns Hopkins Health Plans](https://www.ehp.org)** | **[Business Analyst-Healthcare Claims](https://jobright.ai/jobs/info/67ff54266e03ed0a97993edb?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Remote | Apr 15 |
 | **[Anaplan](https://www.anaplan.com)** | **[Business & Data Operations Analyst](https://jobright.ai/jobs/info/67ff25c7aad436010076f99c?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 15 |
 | **[Bainbridge](http://www.bainbridge.com)** | **[M&A Business Researcher](https://jobright.ai/jobs/info/67ff19369c9d53dc56122a10?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 15 |
 | **[University of California, Santa Cruz](http://www.ucsc.edu)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67ff1239d683b55468fe34b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Cruz County, CA | Hybrid | Apr 15 |
@@ -89,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst - CoStar](https://jobright.ai/jobs/info/67dc62a16e245f4cba665d59?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | On Site | Apr 11 |
 | **[Optum](https://www.optum.com/)** | **[Claims Business Process Analyst - Remote in TX](https://jobright.ai/jobs/info/67f8db431c2576898ef8e93c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 11 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Research Analyst](https://jobright.ai/jobs/info/67f8a0c16ddfbc55c14d2072?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 10 |
-| **[Net at Work](http://www.netatwork.com)** | **[Business Analyst (Entry Level) Rotation Program (Hybrid NYC)](https://jobright.ai/jobs/info/67fca1f0084d13e5f6287a57?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 10 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst, Tech & Ops](https://jobright.ai/jobs/info/67f8b3d18e6226337953122f?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 10 |
 | ↳ | **[Business Analyst, Tech & Ops](https://jobright.ai/jobs/info/67f827a1c437784ea3885181?utm_campaign=Business%20Analyst&utm_source=1103)** | HQ - San Diego, CA | On Site | Apr 10 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67f81764d88f8155040a73f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 10 |
