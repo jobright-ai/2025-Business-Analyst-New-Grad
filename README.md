@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Valley Communications, LLC](https://www.pvc2.com/)** | **[Business Analyst GIS](https://jobright.ai/jobs/info/6801ad690b2b8b7c4be9929e?utm_campaign=Business%20Analyst&utm_source=1103)** | Billerica, MA | Remote | Apr 17 |
 | **[Louisiana Healthcare Connections](http://louisianahealthconnect.com)** | **[Business Analyst I (Process Improvement)](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c498?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Apr 17 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c488?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Hybrid | Apr 17 |
 | **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801838802b160cc8f01f099?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, Texas, United States | On Site | Apr 17 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68017bb69e5a92b831fbc9c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 17 |
 | **[Red Ventures](http://www.redventures.com)** | **[Analyst, Business Operations / Bankrate](https://jobright.ai/jobs/info/68017bb69e5a92b831fbccb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 17 |
@@ -66,16 +66,11 @@ For a complete list, click the following sortable link below:
 | **[Louisiana Healthcare Connections](http://louisianahealthconnect.com)** | **[Business Analyst I (Process Improvement)](https://jobright.ai/jobs/info/68019096b77ab4a14fe5ccd1?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Apr 17 |
 | ↳ | **[Business Analyst I (Process Improvement)](https://jobright.ai/jobs/info/68019096b77ab4a14fe5ccd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisiana, United States | Remote | Apr 17 |
 | ↳ | **[Business Analyst I (Process Improvement)](https://jobright.ai/jobs/info/68019096b77ab4a14fe5ccd3?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Apr 17 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5ccde?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Hybrid | Apr 17 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5ccdc?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Hybrid | Apr 17 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5cce1?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Hybrid | Apr 17 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5cce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Hybrid | Apr 17 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5cce4?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona, United States | Hybrid | Apr 17 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5cce5?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Apr 17 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/68014daf62d20e804fcbf677?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 17 |
 | **[The University of Kansas](https://www.lsi.ku.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/680167ad2c9ac6ed7c1ec25e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrence, KS | On Site | Apr 17 |
 | **[Lendio](http://lendio.com)** | **[Business Operations Associate](https://jobright.ai/jobs/info/680157db0157e5a0cfd1ca80?utm_campaign=Business%20Analyst&utm_source=1103)** | Lehi, UT | On Site | Apr 17 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/68011bef3001ca4c5a9d4f24?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, New York Metropolitan Area | On Site | Apr 17 |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67ce5f5b54b78453b79274fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Apr 17 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/680092206b75fc005bb04d31?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Apr 16 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68003787aff4505555625ec1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Apr 16 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Merch on Demand](https://jobright.ai/jobs/info/6800708b1b16152554b02af6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Apr 16 |
@@ -110,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a57bd497baaa84bc66b6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 13 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 12 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f1b4c20cb2ac3d81804161?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Apr 11 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst - CoStar](https://jobright.ai/jobs/info/67dc62a16e245f4cba665d59?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
