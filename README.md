@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louisiana Healthcare Connections](http://louisianahealthconnect.com)** | **[Business Analyst I (Process Improvement)](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c498?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Apr 17 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68018f21b77ab4a14fe5c488?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Hybrid | Apr 17 |
+| **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801838802b160cc8f01f099?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, Texas, United States | On Site | Apr 17 |
+| **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68017bb69e5a92b831fbc9c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 17 |
+| **[Red Ventures](http://www.redventures.com)** | **[Analyst, Business Operations / Bankrate](https://jobright.ai/jobs/info/68017bb69e5a92b831fbccb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 17 |
+| **[Passport](https://passportglobal.com)** | **[BizOps Associate](https://jobright.ai/jobs/info/680172e39efac5fcb482b3c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Apr 17 |
+| **[Louisiana Healthcare Connections](http://louisianahealthconnect.com)** | **[Business Analyst I (Process Improvement)](https://jobright.ai/jobs/info/68019096b77ab4a14fe5ccd1?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Apr 17 |
+| ↳ | **[Business Analyst I (Process Improvement)](https://jobright.ai/jobs/info/68019096b77ab4a14fe5ccd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisiana, United States | Remote | Apr 17 |
+| ↳ | **[Business Analyst I (Process Improvement)](https://jobright.ai/jobs/info/68019096b77ab4a14fe5ccd3?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Apr 17 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5ccde?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Hybrid | Apr 17 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5ccdc?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Hybrid | Apr 17 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5cce1?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Hybrid | Apr 17 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5cce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Hybrid | Apr 17 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5cce4?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona, United States | Hybrid | Apr 17 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68019096b77ab4a14fe5cce5?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Apr 17 |
+| **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/68014daf62d20e804fcbf677?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 17 |
+| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/680167ad2c9ac6ed7c1ec25e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrence, KS | On Site | Apr 17 |
+| **[Lendio](http://lendio.com)** | **[Business Operations Associate](https://jobright.ai/jobs/info/680157db0157e5a0cfd1ca80?utm_campaign=Business%20Analyst&utm_source=1103)** | Lehi, UT | On Site | Apr 17 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/68011bef3001ca4c5a9d4f24?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, New York Metropolitan Area | On Site | Apr 17 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/680092206b75fc005bb04d31?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Apr 16 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68003787aff4505555625ec1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Apr 16 |
@@ -66,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[OpenLoop](https://openloophealth.com)** | **[Business Process Specialist](https://jobright.ai/jobs/info/67f4d1c14036140498bca71e?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, Iowa, United States, Hybrid, Remote | Remote | Apr 16 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68001de80d4962cf80f834b0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Apr 16 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67fffd1780255206e4879983?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 16 |
-| **[Cimarron Inc.](http://www.cimarroninc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67fffc58d163633d5430f894?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX 78226 US (Primary) | On Site | Apr 16 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67e328496b4314e58b825cd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 16 |
 | **[Vivid Seats](http://www.vividseats.com)** | **[Business Analyst, Monitoring](https://jobright.ai/jobs/info/67e30e15a44c591183674f38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 16 |
 | **[DISH Network](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Apr 16 |
@@ -91,10 +108,7 @@ For a complete list, click the following sortable link below:
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 13 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 13 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a57bd497baaa84bc66b6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 13 |
-| **[Cotter Consulting, Inc.](http://cotterconsulting.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67f903068b7e7dca0e82ff79?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 12 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 12 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f1b4c20cb2ac3d81804161?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Apr 11 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst - CoStar](https://jobright.ai/jobs/info/67dc62a16e245f4cba665d59?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | On Site | Apr 11 |
-| **[Optum](https://www.optum.com/)** | **[Claims Business Process Analyst - Remote in TX](https://jobright.ai/jobs/info/67f8db431c2576898ef8e93c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 11 |
-| **[Korn Ferry](http://www.kornferry.com)** | **[Research Analyst](https://jobright.ai/jobs/info/67f8a0c16ddfbc55c14d2072?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
