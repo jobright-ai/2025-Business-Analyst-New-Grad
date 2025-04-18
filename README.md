@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/680288203c4a0cb566434463?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | On Site | Apr 18 |
 | **[Ally](http://www.ally.com/)** | **[Analyst - Advanced Business Analytics](https://jobright.ai/jobs/info/6801e74215abf93ff9941aaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Apr 17 |
 | **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801c830971a8a8d5e2203a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, TX | On Site | Apr 17 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/68022baca4ed04ca1ae3deef?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Apr 17 |
