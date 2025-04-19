@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6802e68826778fbc426d5db5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Apr 18 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/680288203c4a0cb566434463?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | On Site | Apr 18 |
 | **[Ally](http://www.ally.com/)** | **[Analyst - Advanced Business Analytics](https://jobright.ai/jobs/info/6801e74215abf93ff9941aaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Apr 17 |
 | **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801c830971a8a8d5e2203a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, TX | On Site | Apr 17 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/68022baca4ed04ca1ae3deef?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Apr 17 |
 | **[Precision Valley Communications, LLC](https://www.pvc2.com/)** | **[Business Analyst GIS](https://jobright.ai/jobs/info/6801ad690b2b8b7c4be9929e?utm_campaign=Business%20Analyst&utm_source=1103)** | Billerica, MA | Remote | Apr 17 |
+| **[University of Arizona](https://www.arizona.edu)** | **[Business Coordinator, Engineering Business Center-North](https://jobright.ai/jobs/info/6802ac4eef041e7307544cf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | Apr 17 |
 | **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801838802b160cc8f01f099?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, Texas, United States | On Site | Apr 17 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68017bb69e5a92b831fbc9c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 17 |
 | **[Red Ventures](http://www.redventures.com)** | **[Analyst, Business Operations / Bankrate](https://jobright.ai/jobs/info/68017bb69e5a92b831fbccb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 17 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[OpenLoop](https://openloophealth.com)** | **[Business Process Specialist](https://jobright.ai/jobs/info/67f4d1c14036140498bca71e?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, Iowa, United States, Hybrid, Remote | Remote | Apr 16 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68001de80d4962cf80f834b0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Apr 16 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/67fffd1780255206e4879983?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 16 |
-| **[Q-Centrix](https://www.q-centrix.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/67e328496b4314e58b825cd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 16 |
 | **[Vivid Seats](http://www.vividseats.com)** | **[Business Analyst, Monitoring](https://jobright.ai/jobs/info/67e30e15a44c591183674f38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 16 |
 | **[DISH Network](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Apr 16 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst Support](https://jobright.ai/jobs/info/67ff789292a33ef668ecfa75?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Apr 16 |
