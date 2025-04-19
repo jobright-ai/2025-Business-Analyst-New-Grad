@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/6803f029b1bcd2db22ad84b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 19 |
 | **[San Bernardino County](https://linktr.ee/SBCHR)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/680375deed4312fcd4444b6b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Bernardino County, CA | Hybrid | Apr 19 |
 | **[GALLO](https://www.gallo.com)** | **[Supply Chain Analyst](https://jobright.ai/jobs/info/68035345083b2c049b5fc0ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Modesto, CA | On Site | Apr 19 |
 | **[Discover Financial Services](https://www.discover.com)** | **[Senior Process Improvement Analyst](https://jobright.ai/jobs/info/68031c6016c783f42116a090?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Remote | Apr 18 |
