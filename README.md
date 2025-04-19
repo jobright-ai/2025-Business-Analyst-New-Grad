@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6802e68826778fbc426d5db5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Apr 18 |
+| **[GALLO](https://www.gallo.com)** | **[Supply Chain Analyst](https://jobright.ai/jobs/info/68035345083b2c049b5fc0ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Modesto, CA | On Site | Apr 19 |
+| **[Discover Financial Services](https://www.discover.com)** | **[Senior Process Improvement Analyst](https://jobright.ai/jobs/info/68031c6016c783f42116a090?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Remote | Apr 18 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/680288203c4a0cb566434463?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | On Site | Apr 18 |
 | **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801c830971a8a8d5e2203a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, TX | On Site | Apr 17 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/68022baca4ed04ca1ae3deef?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Apr 17 |
@@ -104,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[FanDuel](http://www.fanduel.com)** | **[Commercial Sizing Analyst](https://jobright.ai/jobs/info/679bd9fdbf835e8593867cea?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 13 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6785651503ef395402650616?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 13 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a57bd497baaa84bc66b6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 13 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
