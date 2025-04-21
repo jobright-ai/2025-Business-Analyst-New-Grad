@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intermountain Health](https://intermountainhealthcare.org/)** | **[Business Analyst Technical](https://jobright.ai/jobs/info/6806883be1bc0e69f4831c68?utm_campaign=Business%20Analyst&utm_source=1103)** | SelectHealth - Murray | Hybrid | Apr 21 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Apr 21 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e052?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 21 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065a89ee2bba26baec53ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 21 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/6803f029b1bcd2db22ad84b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 19 |
 | **[San Bernardino County](https://linktr.ee/SBCHR)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/680375deed4312fcd4444b6b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Bernardino County, CA | Hybrid | Apr 19 |
 | **[GALLO](https://www.gallo.com)** | **[Supply Chain Analyst](https://jobright.ai/jobs/info/68035345083b2c049b5fc0ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Modesto, CA | On Site | Apr 19 |
@@ -97,10 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Anaplan](https://www.anaplan.com)** | **[Business & Data Operations Analyst](https://jobright.ai/jobs/info/67ff02837d1ea36c928e4ac4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, United States | Hybrid | Apr 15 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67fecf031d7d0cdc34bea38f?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Apr 15 |
 | **[Millennium](https://www.mlp.com)** | **[Business Management Analyst](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9f48?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 15 |
-| **[The Exchange](https://www.shopmyexchange.com/)** | **[Services Business Tech](https://jobright.ai/jobs/info/67fead3aa1051eb58d391810?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - California - Fort Irwin | On Site | Apr 15 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/67fe897de7cbc48ddb884d6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Apr 15 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Process Analyst](https://jobright.ai/jobs/info/67fe8d493dd028ff89c9d1fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | Hybrid | Apr 15 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67e36b3c857c34c3d1e899c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | Hybrid | Apr 15 |
-| **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67fdad4092d163106db9b061?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - Texas - AAFES Headquarters (Dallas) | On Site | Apr 14 |
-| **[MiraCosta College](http://www.miracosta.edu/)** | **[Assistant Business Systems Analyst, Admissions & Records](https://jobright.ai/jobs/info/67fd94d8c30985f05cc79917?utm_campaign=Business%20Analyst&utm_source=1103)** | Oceanside, CA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
