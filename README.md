@@ -103,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/67e36b3c857c34c3d1e899c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | Hybrid | Apr 15 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67fdad4092d163106db9b061?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - Texas - AAFES Headquarters (Dallas) | On Site | Apr 14 |
 | **[MiraCosta College](http://www.miracosta.edu/)** | **[Assistant Business Systems Analyst, Admissions & Records](https://jobright.ai/jobs/info/67fd94d8c30985f05cc79917?utm_campaign=Business%20Analyst&utm_source=1103)** | Oceanside, CA | On Site | Apr 14 |
-| **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Business Systems Analyst 2 - 8537](https://jobright.ai/jobs/info/67fd7012c2028ec7448af068?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 14 |
-| ↳ | **[Business Systems Analyst 2 - 8537](https://jobright.ai/jobs/info/67fd60a346fb01cc98467cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
