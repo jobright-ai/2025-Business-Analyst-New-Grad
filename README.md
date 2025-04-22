@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6806e7dd0eaacf11d5b59117?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 21 |
 | **[YES! Communities](http://www.yescommunities.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6806dbe4c94c4334bff3bc31?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 21 |
 | **[HelloFresh](https://www.hellofresh.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6806c7ab566bdbd59ea61de0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 21 |
 | **[Intermountain Health](https://intermountainhealthcare.org/)** | **[Business Analyst Technical](https://jobright.ai/jobs/info/6806883be1bc0e69f4831c68?utm_campaign=Business%20Analyst&utm_source=1103)** | SelectHealth - Murray | Hybrid | Apr 21 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Valley Communications, LLC](https://www.pvc2.com/)** | **[Business Analyst GIS](https://jobright.ai/jobs/info/6801ad690b2b8b7c4be9929e?utm_campaign=Business%20Analyst&utm_source=1103)** | Billerica, MA | Remote | Apr 17 |
 | **[University of Arizona](https://www.arizona.edu)** | **[Business Coordinator, Engineering Business Center-North](https://jobright.ai/jobs/info/6802ac4eef041e7307544cf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | Apr 17 |
 | **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801838802b160cc8f01f099?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, Texas, United States | On Site | Apr 17 |
-| **[Red Ventures](http://www.redventures.com)** | **[Analyst, Business Operations / Bankrate](https://jobright.ai/jobs/info/68017bb69e5a92b831fbccb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 17 |
 | **[Passport](https://passportglobal.com)** | **[BizOps Associate](https://jobright.ai/jobs/info/680172e39efac5fcb482b3c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Apr 17 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/68014daf62d20e804fcbf677?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 17 |
 | **[The University of Kansas](https://www.lsi.ku.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/680167ad2c9ac6ed7c1ec25e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrence, KS | On Site | Apr 17 |
