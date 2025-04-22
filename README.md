@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 1)](https://jobright.ai/jobs/info/67f49662bd2699df45df13d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 22 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6806e7dd0eaacf11d5b59117?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 21 |
 | **[YES! Communities](http://www.yescommunities.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68072c506fd5c69c105a586b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, USA | On Site | Apr 21 |
 | **[HelloFresh](https://www.hellofresh.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6806c7ab566bdbd59ea61de0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 21 |
@@ -77,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801838802b160cc8f01f099?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, Texas, United States | On Site | Apr 17 |
 | **[Passport](https://passportglobal.com)** | **[BizOps Associate](https://jobright.ai/jobs/info/680172e39efac5fcb482b3c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Apr 17 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/68014daf62d20e804fcbf677?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 17 |
-| **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Business Coordinator](https://jobright.ai/jobs/info/680167ad2c9ac6ed7c1ec25e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrence, KS | On Site | Apr 17 |
+| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/680167ad2c9ac6ed7c1ec25e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrence, KS | On Site | Apr 17 |
 | **[Lendio](http://lendio.com)** | **[Business Operations Associate](https://jobright.ai/jobs/info/680157db0157e5a0cfd1ca80?utm_campaign=Business%20Analyst&utm_source=1103)** | Lehi, UT | On Site | Apr 17 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I](https://jobright.ai/jobs/info/68011bef3001ca4c5a9d4f24?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, New York Metropolitan Area | On Site | Apr 17 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/67ce5f5b54b78453b79274fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Apr 17 |
@@ -100,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[University of California, Santa Cruz](http://www.ucsc.edu)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67ff1239d683b55468fe34b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Cruz County, CA | Hybrid | Apr 15 |
 | **[Anaplan](https://www.anaplan.com)** | **[Business & Data Operations Analyst](https://jobright.ai/jobs/info/67ff02837d1ea36c928e4ac4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, United States | Hybrid | Apr 15 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67fecf031d7d0cdc34bea38f?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Apr 15 |
-| **[Millennium](https://www.mlp.com)** | **[Business Management Analyst](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9f48?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
