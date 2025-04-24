@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68096c28572824798c8dd292?utm_campaign=Business%20Analyst&utm_source=1103)** | AR | Remote | Apr 23 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6809641805ecbe5707a74a9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Arkansas, United States | Remote | Apr 23 |
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/680926de9ec22c126575b5e4?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Apr 23 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68091f42265ddce5256f8d9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Home, MI | On Site | Apr 23 |
 | **[Citi](https://www.citi.com)** | **[Senior Business Analyst - Spread Products, Officer, Tampa](https://jobright.ai/jobs/info/67f95224366e5eb8f168478e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 23 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e052?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 21 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065a89ee2bba26baec53ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 21 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/6803f029b1bcd2db22ad84b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 19 |
-| **[Discover Financial Services](https://www.discover.com)** | **[Senior Process Improvement Analyst](https://jobright.ai/jobs/info/68031c6016c783f42116a090?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Remote | Apr 18 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/680288203c4a0cb566434463?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | On Site | Apr 18 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6805f47f2b0ac599bd9773cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 17 |
 | **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801c830971a8a8d5e2203a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, TX | On Site | Apr 17 |
