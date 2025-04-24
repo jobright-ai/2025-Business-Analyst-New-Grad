@@ -57,20 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Senior Analyst, Business Analytics](https://jobright.ai/jobs/info/6809e996b56a6bc39fe97a4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | Apr 24 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Information Technology Business Partner](https://jobright.ai/jobs/info/68099d22147958ab63feee0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Berkeley, MO | On Site | Apr 23 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6809641805ecbe5707a74a9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Arkansas, United States | Remote | Apr 23 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68096c28572824798c8dd292?utm_campaign=Business%20Analyst&utm_source=1103)** | AR | Remote | Apr 23 |
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/680926de9ec22c126575b5e4?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Apr 23 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68091f42265ddce5256f8d9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Home, MI | On Site | Apr 23 |
 | **[Citi](https://www.citi.com)** | **[Senior Business Analyst - Spread Products, Officer, Tampa](https://jobright.ai/jobs/info/67f95224366e5eb8f168478e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 23 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Jr Business Analyst](https://jobright.ai/jobs/info/68082aa951246f8e727b991d?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Apr 22 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6807e72b6bd3c93446004ab2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego California | On Site | Apr 22 |
 | **[General Atomics](http://www.ga.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6807e72b6bd3c934460048ff?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego California | On Site | Apr 22 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 1)](https://jobright.ai/jobs/info/67f49662bd2699df45df13d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 22 |
-| **[YES! Communities](http://www.yescommunities.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68072c506fd5c69c105a586b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, USA | On Site | Apr 21 |
+| **[YES! Communities](http://www.yescommunities.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6809cc0f238a03e24d489bc2?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 21 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68072c506fd5c69c105a586b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, USA | On Site | Apr 21 |
 | **[Intermountain Health](https://intermountainhealthcare.org/)** | **[Business Analyst Technical](https://jobright.ai/jobs/info/6806883be1bc0e69f4831c68?utm_campaign=Business%20Analyst&utm_source=1103)** | SelectHealth - Murray | Hybrid | Apr 21 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Apr 21 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e052?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 21 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e052?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 21 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Apr 21 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065a89ee2bba26baec53ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 21 |
 | **[The Alexander Group](https://www.alexandergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68098b6ff3c9d2c3d61e9929?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta | On Site | Apr 20 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/6803f029b1bcd2db22ad84b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 19 |
@@ -117,7 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst - CoStar](https://jobright.ai/jobs/info/67dc62a16e245f4cba665d59?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | On Site | Apr 11 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst, Tech & Ops](https://jobright.ai/jobs/info/68022bafd92209664574543b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 10 |
 | ↳ | **[Business Analyst, Tech & Ops](https://jobright.ai/jobs/info/67f827a1c437784ea3885181?utm_campaign=Business%20Analyst&utm_source=1103)** | HQ - San Diego, CA | On Site | Apr 10 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f7c52e81089cbf4c6eaa60?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | Hybrid | Apr 10 |
-| **[Building Service 32BJ Benefit Funds](https://www.32bjfunds.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/67db4d420922024e73cc0967?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 10 |
-| **[HealthEquity](http://www.healthequity.com)** | **[Business Analyst, Fraud Prevention](https://jobright.ai/jobs/info/67f7bbddbd5791c69c165c1c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
