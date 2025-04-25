@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 24 |
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/680ac91135d7842f2c950c88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 24 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I, SPS FP&A](https://jobright.ai/jobs/info/680aba0296c9d0f10b1386f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 24 |
+| ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aba0296c9d0f10b138731?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Apr 24 |
 | **[Clemson University](http://www.clemson.edu)** | **[IT Systems Business Analyst](https://jobright.ai/jobs/info/680ac5a62eafdeaefb1c70bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Apr 24 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aba0296c9d0f10b138731?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Apr 24 |
-| ↳ | **[Business Analyst I, SPS FP&A](https://jobright.ai/jobs/info/680aba0296c9d0f10b1386f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 24 |
-| ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b939?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Apr 24 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b7b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Apr 24 |
 | ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b93a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Apr 24 |
-| ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b7b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Apr 24 |
+| ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b939?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Apr 24 |
 | ↳ | **[Business Analyst I, SPS FP&A](https://jobright.ai/jobs/info/680a684b56a70e11e2c1cc45?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Apr 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Operations Specialist II (Business Optimization Specialist)](https://jobright.ai/jobs/info/680a50ca02fbd3a21f18e7a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA, United States | On Site | Apr 24 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Research Analyst](https://jobright.ai/jobs/info/680a4c5e9e0937c90cdb31cc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 24 |
@@ -124,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/67a57bd497baaa84bc66b6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 13 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 12 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f1b4c20cb2ac3d81804161?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Apr 11 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst - CoStar](https://jobright.ai/jobs/info/67dc62a16e245f4cba665d59?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | On Site | Apr 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
