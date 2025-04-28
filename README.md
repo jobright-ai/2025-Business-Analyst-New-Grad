@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendmark Financial Services](http://lendmarkfinancial.com)** | **[Business Analyst - I](https://jobright.ai/jobs/info/680fcc31bbbd0ca76a5e369b?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrenceville, GA | On Site | Apr 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/680c34a319ae08c3f6f424d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 25 |
 | **[DXC Technology](https://www.dxc.com)** | **[Analyst II Business Process Transactions](https://jobright.ai/jobs/info/680c28fae9f64364e2cfb5c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Iowa, United States | Remote | Apr 25 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/680c0fbd3e2658a34d53b0be?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | On Site | Apr 25 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aba0296c9d0f10b138731?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Apr 24 |
 | **[Clemson University](http://www.clemson.edu)** | **[IT Systems Business Analyst](https://jobright.ai/jobs/info/680ac5a62eafdeaefb1c70bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Apr 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b93a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Apr 24 |
-| ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b7b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Apr 24 |
 | ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b939?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Apr 24 |
+| ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b7b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Apr 24 |
 | ↳ | **[Business Analyst I, SPS FP&A](https://jobright.ai/jobs/info/680a684b56a70e11e2c1cc45?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Apr 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Operations Specialist II (Business Optimization Specialist)](https://jobright.ai/jobs/info/680a50ca02fbd3a21f18e7a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA, United States | On Site | Apr 24 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Research Analyst](https://jobright.ai/jobs/info/680a4c5e9e0937c90cdb31cc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 24 |
@@ -88,5 +89,5 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Senior Business Analyst - Spread Products, Officer, Tampa](https://jobright.ai/jobs/info/67f95224366e5eb8f168478e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 23 |
 | **[General Atomics](http://www.ga.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/680d298b2826896aaeb03357?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego California | On Site | Apr 22 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/680d298b2826896aaeb032ed?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego California | On Site | Apr 22 |
-| **[YES! Communities](http://www.yescommunities.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6809cc0f238a03e24d489bc2?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 21 |
+| **[YES! Communities](http://www.yescommunities.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/680f9d27884cf7a198ba0dd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
