@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/6810065e01154c05434f0173?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Apr 28 |
+| **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68106d9ca9bc8f820462ce4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Apr 28 |
+| ↳ | **[Business Technology Analyst](https://jobright.ai/jobs/info/6810065e01154c05434f0173?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Apr 28 |
 | **[Lendmark Financial Services](http://lendmarkfinancial.com)** | **[Business Analyst - I](https://jobright.ai/jobs/info/680fcc31bbbd0ca76a5e369b?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrenceville, GA | On Site | Apr 28 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst - Risk Management](https://jobright.ai/jobs/info/67d4b28b89530ed00f0884c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | Apr 26 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/680c34a319ae08c3f6f424d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 25 |
@@ -73,12 +74,12 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I (Customer Service)](https://jobright.ai/jobs/info/680af7229807011690541b04?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian, ID | On Site | Apr 24 |
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 24 |
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/680ac91135d7842f2c950c88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 24 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aba0296c9d0f10b138731?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Apr 24 |
-| ↳ | **[Business Analyst I, SPS FP&A](https://jobright.ai/jobs/info/680aba0296c9d0f10b1386f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 24 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I, SPS FP&A](https://jobright.ai/jobs/info/680aba0296c9d0f10b1386f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 24 |
+| ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aba0296c9d0f10b138731?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Apr 24 |
 | **[Clemson University](http://www.clemson.edu)** | **[IT Systems Business Analyst](https://jobright.ai/jobs/info/680ac5a62eafdeaefb1c70bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Apr 24 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b939?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Apr 24 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b7b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Apr 24 |
+| ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b939?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Apr 24 |
 | ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b93a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Apr 24 |
-| ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b7b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Apr 24 |
 | ↳ | **[Business Analyst I, SPS FP&A](https://jobright.ai/jobs/info/680a684b56a70e11e2c1cc45?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Apr 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Operations Specialist II (Business Optimization Specialist)](https://jobright.ai/jobs/info/680a50ca02fbd3a21f18e7a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA, United States | On Site | Apr 24 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Research Analyst](https://jobright.ai/jobs/info/680a4c5e9e0937c90cdb31cc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 24 |
