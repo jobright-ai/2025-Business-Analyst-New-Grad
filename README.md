@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sumitomo Mitsui Banking Corporation – SMBC Group](https://www.smbcgroup.com/americas)** | **[Business Manager, Analyst](https://jobright.ai/jobs/info/681157d680ae5349347bbca4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 29 |
 | **[OpenLoop](https://openloophealth.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67f4d1c14036140498bca71e?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, Iowa, United States, Hybrid, Remote | Remote | Apr 29 |
+| **[Sam's Club](http://www.samsclub.com)** | **[Analyst, Business Analysis and Insights](https://jobright.ai/jobs/info/68112d58ac7873c7f4b03640?utm_campaign=Business%20Analyst&utm_source=1103)** | Bentonville, AR | On Site | Apr 29 |
 | **[Pzena Investment Management](http://www.pzena.com/)** | **[Junior Business Systems Analyst](https://jobright.ai/jobs/info/6810e89ea1ac31d12e4af338?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 29 |
+| **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/68112473f637fae3575a2df0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Apr 29 |
 | **[OpenLoop](https://openloophealth.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67f438524552e52260a74541?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 29 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[BUSINESS ANALYST-JUNIOR* - 04292025- 67466](https://jobright.ai/jobs/info/68109a80ececac6d55e709c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Davidson County, TN | Hybrid | Apr 29 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68106d9ca9bc8f820462ce4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Apr 28 |
@@ -76,18 +79,13 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I (Customer Service)](https://jobright.ai/jobs/info/680af7229807011690541b04?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian, ID | On Site | Apr 24 |
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 24 |
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/680ac91135d7842f2c950c88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 24 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aba0296c9d0f10b138731?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Apr 24 |
-| ↳ | **[Business Analyst I, SPS FP&A](https://jobright.ai/jobs/info/680aba0296c9d0f10b1386f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 24 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I, SPS FP&A](https://jobright.ai/jobs/info/680aba0296c9d0f10b1386f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 24 |
 | **[Clemson University](http://www.clemson.edu)** | **[IT Systems Business Analyst](https://jobright.ai/jobs/info/680ac5a62eafdeaefb1c70bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Apr 24 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b7b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Apr 24 |
-| ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b93a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Apr 24 |
-| ↳ | **[Business Analyst, AMZL Speed and Emerging Business](https://jobright.ai/jobs/info/680aa252c5a7314e6ac8b939?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Apr 24 |
-| ↳ | **[Business Analyst I, SPS FP&A](https://jobright.ai/jobs/info/680a684b56a70e11e2c1cc45?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Apr 24 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I, SPS FP&A](https://jobright.ai/jobs/info/680a684b56a70e11e2c1cc45?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Apr 24 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Operations Specialist II (Business Optimization Specialist)](https://jobright.ai/jobs/info/680a50ca02fbd3a21f18e7a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA, United States | On Site | Apr 24 |
 | **[Korn Ferry](http://www.kornferry.com)** | **[Research Analyst](https://jobright.ai/jobs/info/680a4c5e9e0937c90cdb31cc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 24 |
 | **[Group W](http://groupw.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/680da3a5bea965eab3715bbc?utm_campaign=Business%20Analyst&utm_source=1103)** | Suffolk, VA | On Site | Apr 23 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Associate Information Technology Business Partner](https://jobright.ai/jobs/info/68099d22147958ab63feee0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Berkeley, MO | On Site | Apr 23 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680a787cb3616448b2a9ea74?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Apr 23 |
 | **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/680926de9ec22c126575b5e4?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Apr 23 |
 | **[Citi](https://www.citi.com)** | **[Senior Business Analyst - Spread Products, Officer, Tampa](https://jobright.ai/jobs/info/67f95224366e5eb8f168478e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
