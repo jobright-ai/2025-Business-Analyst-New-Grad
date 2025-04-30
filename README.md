@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68118e2bc296d359eccc9e72?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 29 |
 | **[Sumitomo Mitsui Banking Corporation – SMBC Group](https://www.smbcgroup.com/americas)** | **[Business Manager, Analyst](https://jobright.ai/jobs/info/681157d680ae5349347bbca4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 29 |
 | **[OpenLoop](https://openloophealth.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67f4d1c14036140498bca71e?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, Iowa, United States, Hybrid, Remote | Remote | Apr 29 |
 | **[Sam's Club](http://www.samsclub.com)** | **[Analyst, Business Analysis and Insights](https://jobright.ai/jobs/info/68112d58ac7873c7f4b03640?utm_campaign=Business%20Analyst&utm_source=1103)** | Bentonville, AR | On Site | Apr 29 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68106d9ca9bc8f820462ce4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Apr 28 |
 | ↳ | **[Business Technology Analyst](https://jobright.ai/jobs/info/6810065e01154c05434f0173?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Apr 28 |
 | **[Lendmark Financial Services](http://lendmarkfinancial.com)** | **[Business Analyst - I](https://jobright.ai/jobs/info/680fcc31bbbd0ca76a5e369b?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrenceville, GA | On Site | Apr 28 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/67d41ece5cc37145e562bddb?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Apr 27 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst - Risk Management](https://jobright.ai/jobs/info/67d4b28b89530ed00f0884c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | Apr 26 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/680c34a319ae08c3f6f424d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 25 |
 | ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/680c0fbd3e2658a34d53b0be?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | On Site | Apr 25 |
