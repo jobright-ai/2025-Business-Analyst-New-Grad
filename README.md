@@ -58,34 +58,34 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Crowe](https://www.crowe.com/)** | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c58?utm_campaign=Business%20Analyst&utm_source=1103)** | South Bend, IN | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | On Site | Apr 30 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington, KY | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Livingston, NJ | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c61?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c64?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | On Site | Apr 30 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Apr 30 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c63?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 30 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c5d?utm_campaign=Business%20Analyst&utm_source=1103)** | Tallahassee, FL | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Livingston, NJ | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c61?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c64?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a79?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a8d?utm_campaign=Business%20Analyst&utm_source=1103)** | Elkhart, IN | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a83?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a72?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a84?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a86?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Sarasota, FL | On Site | Apr 30 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a80?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a79?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a75?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Apr 30 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a83?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a85?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a8d?utm_campaign=Business%20Analyst&utm_source=1103)** | Elkhart, IN | On Site | Apr 30 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a70?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN | On Site | Apr 30 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a7c?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | On Site | Apr 30 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a88?utm_campaign=Business%20Analyst&utm_source=1103)** | Grand Rapids, MI | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a86?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a85?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a75?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Sarasota, FL | On Site | Apr 30 |
+| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a84?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Apr 30 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812eb13a9ed53ebccf6b393?utm_campaign=Business%20Analyst&utm_source=1103)** | Manchester, NH | On Site | Apr 30 |
 | ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812eb13a9ed53ebccf6b392?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Apr 30 |
 | **[Optum](https://www.optum.com/)** | **[Quality Business Process Analyst - National Remote](https://jobright.ai/jobs/info/6812bcc1fd76562823285549?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 30 |
