@@ -58,9 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/67f6c159c9731f5444ac0026?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 01 |
-| **[Crowe](https://www.crowe.com/)** | **[Business Analyst 2](https://jobright.ai/jobs/info/6812fb622b2e280b386d0c5d?utm_campaign=Business%20Analyst&utm_source=1103)** | Tallahassee, FL | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a75?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Apr 30 |
-| ↳ | **[Business Analyst 2](https://jobright.ai/jobs/info/6812f59f6e06900418297a7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Apr 30 |
 | **[Optum](https://www.optum.com/)** | **[Quality Business Process Analyst - National Remote](https://jobright.ai/jobs/info/6812bcc1fd76562823285549?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 30 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/6812b44dfca3dd55613006e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Apr 30 |
 | **[Optum](https://www.optum.com/)** | **[Quality Business Process Analyst - National Remote](https://jobright.ai/jobs/info/6812b8d610ebb7a5857f1e27?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 30 |
@@ -102,6 +99,5 @@ For a complete list, click the following sortable link below:
 | **[The Alexander Group](https://www.alexandergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68098b6ff3c9d2c3d61e9929?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta | On Site | Apr 20 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/6803f029b1bcd2db22ad84b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 19 |
 | **[GLOVIS America, Inc.](https://www.glovisusa.com/)** | **[Analyst - Performance Management & Customer Service](https://jobright.ai/jobs/info/680cb90c0be34182f8431265?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | On Site | Apr 18 |
-| **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6805f47f2b0ac599bd9773cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 17 |
-| **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801c830971a8a8d5e2203a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, TX | On Site | Apr 17 |
+| **[Symetra](http://www.symetra.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68140134daf7c7eb4a720e31?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
