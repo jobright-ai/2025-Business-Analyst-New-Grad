@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank Policy Institute](https://bpi.com)** | **[Assistant Vice President, Research Analyst](https://jobright.ai/jobs/info/68150cb9ecf1387d1d9162ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | May 02 |
+| **[Unity](https://unity.com)** | **[Business and Data Analyst (looking for soon-to-be college grads)](https://jobright.ai/jobs/info/6814c24340982431392197b1?utm_campaign=Business%20Analyst&utm_source=1103)** | New Cumberland, PA | On Site | May 02 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f7c52e81089cbf4c6eaa60?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | Hybrid | May 02 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 02 |
+| **[Net at Work](http://www.netatwork.com)** | **[Business Analyst (Entry Level) Rotation Program (Hybrid NYC)](https://jobright.ai/jobs/info/68145cd769ab7b52dc72b447?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 02 |
 | **[HealthEquity](http://www.healthequity.com)** | **[Business Analyst, Fraud Prevention](https://jobright.ai/jobs/info/67f7bbddbd5791c69c165c1c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 02 |
 | **[Symetra](http://www.symetra.com)** | **[Business Analyst](https://jobright.ai/jobs/info/681424943697978fab3ab405?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 01 |
 | **[Apex Global Solutions](https://apexglobalus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68141fa254ebf22a4b951427?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 01 |
@@ -98,11 +101,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/6810531848169e0c326e3d5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 21 |
 | **[Net at Work](http://www.netatwork.com)** | **[First Year Associate Program for Accounting and Technology Business Analysts](https://jobright.ai/jobs/info/68105edd8ea6215a34c2bdda?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 21 |
 | **[YES! Communities](http://www.yescommunities.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/680f9d0864ce80e1a72730e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, USA | On Site | Apr 21 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Apr 21 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e052?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 21 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e052?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 21 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Apr 21 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065a89ee2bba26baec53ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 21 |
 | **[The Alexander Group](https://www.alexandergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68098b6ff3c9d2c3d61e9929?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta | On Site | Apr 20 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/6803f029b1bcd2db22ad84b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Apr 19 |
-| **[GLOVIS America, Inc.](https://www.glovisusa.com/)** | **[Analyst - Performance Management & Customer Service](https://jobright.ai/jobs/info/680cb90c0be34182f8431265?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | On Site | Apr 18 |
-| **[Symetra](http://www.symetra.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68140134daf7c7eb4a720e31?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
