@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Senior Analyst, Business Analytics](https://jobright.ai/jobs/info/6815c30d905c970e7dfbfb53?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, TN | Hybrid | May 03 |
 | **[Bank Policy Institute](https://bpi.com)** | **[Assistant Vice President, Research Analyst](https://jobright.ai/jobs/info/68150cb9ecf1387d1d9162ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | May 02 |
 | **[Unity](https://unity.com)** | **[Business and Data Analyst (looking for soon-to-be college grads)](https://jobright.ai/jobs/info/6814c24340982431392197b1?utm_campaign=Business%20Analyst&utm_source=1103)** | New Cumberland, PA | On Site | May 02 |
+| **[Building Service 32BJ Benefit Funds](https://www.32bjfunds.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/67db4d420922024e73cc0967?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 02 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f7c52e81089cbf4c6eaa60?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | Hybrid | May 02 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 02 |
 | **[Net at Work](http://www.netatwork.com)** | **[Business Analyst (Entry Level) Rotation Program (Hybrid NYC)](https://jobright.ai/jobs/info/68145cd769ab7b52dc72b447?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 02 |
