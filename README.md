@@ -99,8 +99,7 @@ For a complete list, click the following sortable link below:
 | **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/6811b4327493703f21acbe3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Apr 22 |
 | **[YES! Communities](http://www.yescommunities.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/680f9d27884cf7a198ba0dd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 21 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/6810531848169e0c326e3d5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 21 |
-| **[Net at Work](http://www.netatwork.com)** | **[First Year Associate Program for Accounting and Technology Business Analysts](https://jobright.ai/jobs/info/68105edd8ea6215a34c2bdda?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 21 |
-| **[YES! Communities](http://www.yescommunities.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/680f9d0864ce80e1a72730e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, USA | On Site | Apr 21 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/680f9d0864ce80e1a72730e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, USA | On Site | Apr 21 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e052?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 21 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Apr 21 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68065a89ee2bba26baec53ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Apr 21 |
