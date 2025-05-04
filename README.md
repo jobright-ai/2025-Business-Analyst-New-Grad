@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | May 04 |
 | **[MiraCosta College](http://www.miracosta.edu/)** | **[Assistant Business Systems Analyst, Admissions & Records](https://jobright.ai/jobs/info/6816f5a02cadb2def8f8b8e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Oceanside, CA | On Site | May 03 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f1b4c20cb2ac3d81804161?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | May 03 |
 | **[State of Minnesota](https://mn.gov)** | **[Business Solutions Specialist - Management Analyst 1](https://jobright.ai/jobs/info/6815dcb0dbde026d50ec7af7?utm_campaign=Business%20Analyst&utm_source=1103)** | MN | Hybrid | May 03 |
@@ -88,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/68014daf62d20e804fcbf677?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 28 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/6810065e01154c05434f0173?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Apr 28 |
 | **[Lendmark Financial Services](http://lendmarkfinancial.com)** | **[Business Analyst - I](https://jobright.ai/jobs/info/680fcc31bbbd0ca76a5e369b?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrenceville, GA | On Site | Apr 28 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/67d41ece5cc37145e562bddb?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
