@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MiraCosta College](http://www.miracosta.edu/)** | **[Assistant Business Systems Analyst, Admissions & Records](https://jobright.ai/jobs/info/6816f5a02cadb2def8f8b8e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Oceanside, CA | On Site | May 03 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f1b4c20cb2ac3d81804161?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | May 03 |
 | **[State of Minnesota](https://mn.gov)** | **[Business Solutions Specialist - Management Analyst 1](https://jobright.ai/jobs/info/6815dcb0dbde026d50ec7af7?utm_campaign=Business%20Analyst&utm_source=1103)** | MN | Hybrid | May 03 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Senior Analyst, Business Analytics](https://jobright.ai/jobs/info/6815c30d905c970e7dfbfb53?utm_campaign=Business%20Analyst&utm_source=1103)** | Franklin, TN | Hybrid | May 03 |
