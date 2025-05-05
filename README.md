@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | May 04 |
-| **[MiraCosta College](http://www.miracosta.edu/)** | **[Assistant Business Systems Analyst, Admissions & Records](https://jobright.ai/jobs/info/6816f5a02cadb2def8f8b8e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Oceanside, CA | On Site | May 03 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f1b4c20cb2ac3d81804161?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | May 03 |
 | **[State of Minnesota](https://mn.gov)** | **[Business Solutions Specialist - Management Analyst 1](https://jobright.ai/jobs/info/6815dcb0dbde026d50ec7af7?utm_campaign=Business%20Analyst&utm_source=1103)** | MN | Hybrid | May 03 |
 | **[Bank Policy Institute](https://bpi.com)** | **[Assistant Vice President, Research Analyst](https://jobright.ai/jobs/info/68150cb9ecf1387d1d9162ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | May 02 |
@@ -78,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Mindex](http://www.mindex.com)** | **[Sr. Business Analyst - Remote (Req. #705)](https://jobright.ai/jobs/info/6812600c5aafa2f8be904ebc?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Remote | Apr 30 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 30 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68118e2bc296d359eccc9e72?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 29 |
-| **[Sumitomo Mitsui Banking Corporation – SMBC Group](https://www.smbcgroup.com/americas)** | **[Business Manager, Analyst](https://jobright.ai/jobs/info/681157d680ae5349347bbca4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 29 |
+| **[SMBC Group](https://www.smbcgroup.com/americas)** | **[Business Manager, Analyst](https://jobright.ai/jobs/info/681157d680ae5349347bbca4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 29 |
 | **[OpenLoop](https://openloophealth.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67f4d1c14036140498bca71e?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, Iowa, United States, Hybrid, Remote | Remote | Apr 29 |
 | **[Pzena Investment Management](http://www.pzena.com/)** | **[Junior Business Systems Analyst](https://jobright.ai/jobs/info/6810e89ea1ac31d12e4af338?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 29 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/68112473f637fae3575a2df0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Apr 29 |
@@ -88,4 +87,21 @@ For a complete list, click the following sortable link below:
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/68014daf62d20e804fcbf677?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 28 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/6810065e01154c05434f0173?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Apr 28 |
 | **[Lendmark Financial Services](http://lendmarkfinancial.com)** | **[Business Analyst - I](https://jobright.ai/jobs/info/680fcc31bbbd0ca76a5e369b?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrenceville, GA | On Site | Apr 28 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/67d41ece5cc37145e562bddb?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Apr 27 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst - Risk Management](https://jobright.ai/jobs/info/67d4b28b89530ed00f0884c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | Apr 26 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/680c34a319ae08c3f6f424d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 25 |
+| ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/680c0fbd3e2658a34d53b0be?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | On Site | Apr 25 |
+| **[Anduril Industries](https://www.anduril.com)** | **[Technical Business Operations](https://jobright.ai/jobs/info/67ef2fe4e0b9b5b9f804f895?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA | On Site | Apr 25 |
+| **[Farm Credit Mid-America](http://www.e-farmcredit.com/careers)** | **[IT Business Analyst](https://jobright.ai/jobs/info/680bea380251284d05d33d02?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Apr 25 |
+| **[University of California, Santa Cruz](http://www.ucsc.edu)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67ff1239d683b55468fe34b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Cruz County, CA | Hybrid | Apr 25 |
+| **[eClerx](http://www.eclerx.com/)** | **[Business Analyst- Derivatives](https://jobright.ai/jobs/info/67b9443207e6bf037eca9d29?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 25 |
+| **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 24 |
+| **[Tradeweb](http://www.tradeweb.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/680ac91135d7842f2c950c88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 24 |
+| **[Group W](http://groupw.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/680da3a5bea965eab3715bbc?utm_campaign=Business%20Analyst&utm_source=1103)** | Suffolk, VA | On Site | Apr 23 |
+| **[Los Angeles Apparel](https://losangelesapparel.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/680926de9ec22c126575b5e4?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Apr 23 |
+| **[Citi](https://www.citi.com)** | **[Senior Business Analyst - Spread Products, Officer, Tampa](https://jobright.ai/jobs/info/67f95224366e5eb8f168478e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 23 |
+| **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/6811b4327493703f21acbe3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Apr 22 |
+| **[YES! Communities](http://www.yescommunities.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/680f9d27884cf7a198ba0dd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 21 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/6810531848169e0c326e3d5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 21 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/680f9d0864ce80e1a72730e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, USA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
