@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lineage](https://www.onelineage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/681993d4dbc49aac9406103e?utm_campaign=Business%20Analyst&utm_source=1103)** | Novi, MI | Hybrid | May 05 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Analyst (Starlink Growth)](https://jobright.ai/jobs/info/68194e8217f79db62029d291?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | May 05 |
 | **[Wiland](https://wiland.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68194167801e6cb66bc86206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Associate Business Analyst/ Business Analyst](https://jobright.ai/jobs/info/68192300190a2d4413e4649a?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL, United States | On Site | May 05 |
@@ -86,7 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68118e2bc296d359eccc9e72?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 29 |
 | **[SMBC Group](https://www.smbcgroup.com/americas)** | **[Business Manager, Analyst](https://jobright.ai/jobs/info/681157d680ae5349347bbca4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 29 |
 | **[OpenLoop](https://openloophealth.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67f4d1c14036140498bca71e?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, Iowa, United States, Hybrid, Remote | Remote | Apr 29 |
-| **[Pzena Investment Management](http://www.pzena.com/)** | **[Junior Business Systems Analyst](https://jobright.ai/jobs/info/6810e89ea1ac31d12e4af338?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 29 |
-| **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/68112473f637fae3575a2df0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Apr 29 |
-| **[OpenLoop](https://openloophealth.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67f438524552e52260a74541?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
