@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/681a4a9fda42c060cae4d7e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | May 06 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Intel Anlst](https://jobright.ai/jobs/info/681a3ba1d42bd161d63b496d?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA, United States | On Site | May 06 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | May 06 |
+| **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator, Interpreter Services](https://jobright.ai/jobs/info/681a25c31c6caa1f156c24a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, New York Metropolitan Area | On Site | May 06 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Business Analyst](https://jobright.ai/jobs/info/6819dc5b1e239b2cbde04ff6?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 06 |
 | **[Lineage](https://www.onelineage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/681993d4dbc49aac9406103e?utm_campaign=Business%20Analyst&utm_source=1103)** | Novi, MI | Hybrid | May 05 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Analyst (Starlink Growth)](https://jobright.ai/jobs/info/68194e8217f79db62029d291?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | May 05 |
@@ -85,6 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[Quality Business Process Analyst - National Remote](https://jobright.ai/jobs/info/6812b8d610ebb7a5857f1e27?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 30 |
 | **[Mindex](http://www.mindex.com)** | **[Sr. Business Analyst - Remote (Req. #705)](https://jobright.ai/jobs/info/6812600c5aafa2f8be904ebc?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Remote | Apr 30 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 30 |
-| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68118e2bc296d359eccc9e72?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 29 |
-| **[SMBC Group](https://www.smbcgroup.com/americas)** | **[Business Manager, Analyst](https://jobright.ai/jobs/info/681157d680ae5349347bbca4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
