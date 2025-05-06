@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Business Analyst](https://jobright.ai/jobs/info/6819dc5b1e239b2cbde04ff6?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 06 |
 | **[Lineage](https://www.onelineage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/681993d4dbc49aac9406103e?utm_campaign=Business%20Analyst&utm_source=1103)** | Novi, MI | Hybrid | May 05 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Analyst (Starlink Growth)](https://jobright.ai/jobs/info/68194e8217f79db62029d291?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | May 05 |
 | **[Wiland](https://wiland.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68194167801e6cb66bc86206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 05 |
@@ -86,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 30 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68118e2bc296d359eccc9e72?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 29 |
 | **[SMBC Group](https://www.smbcgroup.com/americas)** | **[Business Manager, Analyst](https://jobright.ai/jobs/info/681157d680ae5349347bbca4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 29 |
-| **[OpenLoop](https://openloophealth.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67f4d1c14036140498bca71e?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, Iowa, United States, Hybrid, Remote | Remote | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
