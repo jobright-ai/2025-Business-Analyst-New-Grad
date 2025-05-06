@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SpaceX](https://www.spacex.com)** | **[Business Analyst (Starlink Growth)](https://jobright.ai/jobs/info/68194e8217f79db62029d291?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | May 05 |
+| **[Wiland](https://wiland.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68194167801e6cb66bc86206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 05 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Associate Business Analyst/ Business Analyst](https://jobright.ai/jobs/info/68192300190a2d4413e4649a?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL, United States | On Site | May 05 |
+| **[Interstate Waste Services, Inc.](http://interstatewaste.com)** | **[Process Analyst](https://jobright.ai/jobs/info/68190eb1c4b177dff16bad9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Teaneck, NJ | On Site | May 05 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Analyst (Starlink Growth)](https://jobright.ai/jobs/info/681905adc59075fed0af6a3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | May 05 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Business Operations Analyst](https://jobright.ai/jobs/info/6818ff18f9690028bf4f7812?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | May 05 |
-| **[Optum](https://www.optum.com/)** | **[Business Analyst - Remote](https://jobright.ai/jobs/info/6818fb32ec667b4fb2e6d2b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | May 05 |
-| ↳ | **[Business Analyst - Remote](https://jobright.ai/jobs/info/6818fa8c4798c4ffabd605a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | May 05 |
+| **[Optum](https://www.optum.com/)** | **[Business Analyst - Remote](https://jobright.ai/jobs/info/6818fa8c4798c4ffabd605a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | May 05 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6818f08ec1d45b360c11715d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | May 05 |
+| **[Optum](https://www.optum.com/)** | **[Business Analyst - Remote](https://jobright.ai/jobs/info/6818fb32ec667b4fb2e6d2b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | May 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Buyer Abuse](https://jobright.ai/jobs/info/67a5dd6f5a2446e265003217?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | May 04 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f1b4c20cb2ac3d81804161?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | May 03 |
 | **[State of Minnesota](https://mn.gov)** | **[Business Solutions Specialist - Management Analyst 1](https://jobright.ai/jobs/info/6815dcb0dbde026d50ec7af7?utm_campaign=Business%20Analyst&utm_source=1103)** | MN | Hybrid | May 03 |
@@ -87,6 +91,4 @@ For a complete list, click the following sortable link below:
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/68112473f637fae3575a2df0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chevy Chase, MD | On Site | Apr 29 |
 | **[OpenLoop](https://openloophealth.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/67f438524552e52260a74541?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 29 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[BUSINESS ANALYST-JUNIOR* - 04292025- 67466](https://jobright.ai/jobs/info/68109a80ececac6d55e709c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Davidson County, TN | Hybrid | Apr 29 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68106d9ca9bc8f820462ce4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Apr 28 |
-| **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/68014daf62d20e804fcbf677?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
