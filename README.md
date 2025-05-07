@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[DeVry University](http://www.devry.edu)** | **[Business Process Analyst](https://jobright.ai/jobs/info/681b02c2d5f1776de91a8ab5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 06 |
 | **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Financial Systems Business Analyst](https://jobright.ai/jobs/info/681afeab7382124f66cb7282?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 06 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea310?utm_campaign=Business%20Analyst&utm_source=1103)** | (HAL) Remote Employees | Remote | May 06 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea003?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, California, United States | On Site | May 06 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea003?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, California, United States | On Site | May 06 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea310?utm_campaign=Business%20Analyst&utm_source=1103)** | (HAL) Remote Employees | Remote | May 06 |
 | **[Cintas](https://www.cintas.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/681a6f88f8c6dda7864e5f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 06 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6f71635df6b150cda37f?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Seattle, WA | On Site | May 06 |
 | ↳ | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6236633ef90f26eca430?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Tukwila, WA | On Site | May 06 |
