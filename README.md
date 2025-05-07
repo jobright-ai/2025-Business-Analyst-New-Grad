@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea003?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, California, United States | On Site | May 06 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea310?utm_campaign=Business%20Analyst&utm_source=1103)** | (HAL) Remote Employees | Remote | May 06 |
+| **[DeVry University](http://www.devry.edu)** | **[Business Process Analyst](https://jobright.ai/jobs/info/681b02c2d5f1776de91a8ab5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 06 |
+| **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Financial Systems Business Analyst](https://jobright.ai/jobs/info/681afeab7382124f66cb7282?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 06 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea310?utm_campaign=Business%20Analyst&utm_source=1103)** | (HAL) Remote Employees | Remote | May 06 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea003?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, California, United States | On Site | May 06 |
 | **[Cintas](https://www.cintas.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/681a6f88f8c6dda7864e5f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 06 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6f71635df6b150cda380?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Tukwila, WA | On Site | May 06 |
-| ↳ | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6236633ef90f26eca19c?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Seattle, WA | On Site | May 06 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6f71635df6b150cda37f?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Seattle, WA | On Site | May 06 |
+| ↳ | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6236633ef90f26eca430?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Tukwila, WA | On Site | May 06 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/681a4a9fda42c060cae4d7e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | May 06 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Intel Anlst](https://jobright.ai/jobs/info/681a3ba1d42bd161d63b496d?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA, United States | On Site | May 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | May 06 |
@@ -93,6 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[Quality Business Process Analyst - National Remote](https://jobright.ai/jobs/info/6812bcc1fd76562823285549?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 30 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/6812b44dfca3dd55613006e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Apr 30 |
 | **[Optum](https://www.optum.com/)** | **[Quality Business Process Analyst - National Remote](https://jobright.ai/jobs/info/6812b8d610ebb7a5857f1e27?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 30 |
-| **[Mindex](http://www.mindex.com)** | **[Sr. Business Analyst - Remote (Req. #705)](https://jobright.ai/jobs/info/6812600c5aafa2f8be904ebc?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Remote | Apr 30 |
-| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
