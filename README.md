@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Softheon](http://softheon.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/681a98c2b768684a2acaa315?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 06 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea310?utm_campaign=Business%20Analyst&utm_source=1103)** | (HAL) Remote Employees | Remote | May 06 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea003?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, California, United States | On Site | May 06 |
+| **[Cintas](https://www.cintas.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/681a6f88f8c6dda7864e5f87?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 06 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6f71635df6b150cda380?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Tukwila, WA | On Site | May 06 |
+| ↳ | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6236633ef90f26eca19c?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Seattle, WA | On Site | May 06 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/681a4a9fda42c060cae4d7e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | May 06 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Intel Anlst](https://jobright.ai/jobs/info/681a3ba1d42bd161d63b496d?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA, United States | On Site | May 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | May 06 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator, Interpreter Services](https://jobright.ai/jobs/info/681a25c31c6caa1f156c24a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, New York Metropolitan Area | On Site | May 06 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Business Analyst](https://jobright.ai/jobs/info/6819dc5b1e239b2cbde04ff6?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 06 |
 | **[Lineage](https://www.onelineage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/681993d4dbc49aac9406103e?utm_campaign=Business%20Analyst&utm_source=1103)** | Novi, MI | Hybrid | May 05 |
+| **[Meissner](https://www.meissner.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/681a98c2b768684a2acaa372?utm_campaign=Business%20Analyst&utm_source=1103)** | Camarillo, CA | On Site | May 05 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Analyst (Starlink Growth)](https://jobright.ai/jobs/info/68194e8217f79db62029d291?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | May 05 |
 | **[Wiland](https://wiland.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68194167801e6cb66bc86206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Associate Business Analyst/ Business Analyst](https://jobright.ai/jobs/info/68192300190a2d4413e4649a?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL, United States | On Site | May 05 |
