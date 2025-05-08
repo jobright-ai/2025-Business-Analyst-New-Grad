@@ -57,19 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/681c0bcabe97fd9c623664c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 07 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bd6f68bef88a742d0c1ab?utm_campaign=Business%20Analyst&utm_source=1103)** | South Carolina, United States | Remote | May 07 |
 | ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bd6f68bef88a742d0c382?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | May 07 |
+| ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681c0b96502cb418d76baff1?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | May 07 |
 | **[84.51˚](http://8451.com/)** | **[Commercial Business Analyst (P3961)](https://jobright.ai/jobs/info/681bc0a8903ae95714f4c45e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 07 |
 | ↳ | **[Commercial Business Analyst (P3961)](https://jobright.ai/jobs/info/681bc0a8903ae95714f4c45f?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | Hybrid | May 07 |
 | ↳ | **[Commercial Business Analyst (P3961)](https://jobright.ai/jobs/info/681bba39fe607676a8dc239c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | May 07 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182baad?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-NC | Remote | May 07 |
-| ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182baaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-TN | Remote | May 07 |
-| ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182bab7?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-GA | Remote | May 07 |
 | ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182baae?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-IL | Remote | May 07 |
-| ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182bab2?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | May 07 |
-| ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182bab6?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-TX | Remote | May 07 |
+| ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182baaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-TN | Remote | May 07 |
 | ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182b77d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MO | Remote | May 07 |
 | ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182bab1?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-SC | Remote | May 07 |
+| ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182bab2?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | May 07 |
+| ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182bab7?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-GA | Remote | May 07 |
+| ↳ | **[Business Analyst I - Claims](https://jobright.ai/jobs/info/681bb5888aab6d8ed182bab6?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-TX | Remote | May 07 |
 | **[New York State Department of Taxation and Finance](http://www.tax.ny.gov/)** | **[Business Systems Analyst 1 (NY HELPS)](https://jobright.ai/jobs/info/681bace367fd8dbb79809c04?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | May 07 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681bace367fd8dbb79809cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 07 |
 | **[Travelers](https://www.travelers.com)** | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/681baba1a7b589a5015c2a52?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | On Site | May 07 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Financial Systems Business Analyst](https://jobright.ai/jobs/info/681afeab7382124f66cb7282?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 06 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea003?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, California, United States | On Site | May 06 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681a762243a62dae0baea310?utm_campaign=Business%20Analyst&utm_source=1103)** | (HAL) Remote Employees | Remote | May 06 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6236633ef90f26eca19c?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Seattle, WA | On Site | May 06 |
-| ↳ | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6236633ef90f26eca430?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Tukwila, WA | On Site | May 06 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6236633ef90f26eca430?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Tukwila, WA | On Site | May 06 |
+| ↳ | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/681a6236633ef90f26eca19c?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Seattle, WA | On Site | May 06 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/681a4a9fda42c060cae4d7e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | May 06 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Intel Anlst](https://jobright.ai/jobs/info/681a3ba1d42bd161d63b496d?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA, United States | On Site | May 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | May 06 |
