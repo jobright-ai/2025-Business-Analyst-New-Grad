@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AT&T](https://www.att.com/)** | **[Specialist Tech Business Analysis](https://jobright.ai/jobs/info/6823dc02f1e05fe4b793139a?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakton, VA | On Site | May 13 |
-| ↳ | **[Specialist Tech Business Analysis](https://jobright.ai/jobs/info/6823dc02f1e05fe4b793142e?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakton, VA | On Site | May 13 |
+| **[RPX Corporation](http://www.rpxcorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6823f88ea2ba228deff0a837?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | May 13 |
+| **[Orthodox Union](https://www.ou.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6823f3f8f971ca01eef5f47e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 13 |
 | **[CGI](https://www.cgi.com)** | **[Entry Level Momentum Business Analyst](https://jobright.ai/jobs/info/6823d7835975337d6d65dffe?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | May 13 |
 | **[White Plains Hospital](https://wphospital.org/default.aspx)** | **[Business Analyst Administration](https://jobright.ai/jobs/info/6823c57c6605c13031362cf9?utm_campaign=Business%20Analyst&utm_source=1103)** | White Plains, NY | On Site | May 13 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Personal Insurance)](https://jobright.ai/jobs/info/6823953fa471affbe39c50c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 13 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Merch on Demand](https://jobright.ai/jobs/info/6800708b1b16152554b02bc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 13 |
+| **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6805f47f2b0ac599bd9773cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 13 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Associate Business Management Analyst - R10194938](https://jobright.ai/jobs/info/6822a8a3c0371b7ecaa02633?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 12 |
 | ↳ | **[Associate Business Management Analyst](https://jobright.ai/jobs/info/6822868871a7c93df1bb76e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 12 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst Coordinator](https://jobright.ai/jobs/info/68228334acfe97222552fce1?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | May 12 |
@@ -70,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f7c52e81089cbf4c6eaa60?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | Hybrid | May 12 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/67f1b4c20cb2ac3d81804161?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | May 12 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/68223cd616295b148ca862fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, Massachusetts, United States | Hybrid | May 12 |
-| **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/682207aceca91851f3cb6fe4?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | May 12 |
-| ↳ | **[Graduate Business Analyst](https://jobright.ai/jobs/info/682207aceca91851f3cb7083?utm_campaign=Business%20Analyst&utm_source=1103)** | Connecticut, United States | On Site | May 12 |
+| **[GRAYCE](https://grayce.co.uk/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/682207aceca91851f3cb7083?utm_campaign=Business%20Analyst&utm_source=1103)** | Connecticut, United States | On Site | May 12 |
 | ↳ | **[Graduate Business Analyst](https://jobright.ai/jobs/info/682207aceca91851f3cb6fc3?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | May 12 |
+| ↳ | **[Graduate Business Analyst](https://jobright.ai/jobs/info/682207aceca91851f3cb6fe4?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | May 12 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Sales Analytics Business Analyst](https://jobright.ai/jobs/info/682048f4a4b12d2c8a44f3d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 10 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/681f9bed72abbf4fb6de89d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | May 10 |
 | **[Montefiore Health System](https://www.montefiorehealthsystem.org)** | **[BUSINESS ASSOCIATE](https://jobright.ai/jobs/info/681e599c5f462331d33e4362?utm_campaign=Business%20Analyst&utm_source=1103)** | Bronx, NY | On Site | May 09 |
