@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/682538a610d269e2752fbc92?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 14 |
 | **[Oracle](https://www.oracle.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6824fa3dc86740611e19d349?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 14 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/6824e211f3233344872cf4ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | May 14 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/6824dcbb43a0e6fdb6d885ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 14 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Senior Analyst, Business Analytics](https://jobright.ai/jobs/info/6824a853445b1c3ae81cfedd?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Hybrid | May 14 |
 | **[Citi](https://www.citi.com)** | **[Senior Business Analyst - Spread Products, Officer, Tampa](https://jobright.ai/jobs/info/67f95224366e5eb8f168478e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | May 14 |
-| **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/68241da3eab0db5ce60aafbf?utm_campaign=Business%20Analyst&utm_source=1103)** | MN - St. Paul | On Site | May 13 |
+| **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/68241da3eab0db5ce60aafd2?utm_campaign=Business%20Analyst&utm_source=1103)** | MD - Hunt Valley | On Site | May 13 |
+| ↳ | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/68241da3eab0db5ce60aafbf?utm_campaign=Business%20Analyst&utm_source=1103)** | MN - St. Paul | On Site | May 13 |
 | ↳ | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/68241da3eab0db5ce60aafd3?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | On Site | May 13 |
-| ↳ | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/68241da3eab0db5ce60aafd2?utm_campaign=Business%20Analyst&utm_source=1103)** | MD - Hunt Valley | On Site | May 13 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6824030d341b6a709e87d5de?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | May 13 |
 | **[CGI](https://www.cgi.com)** | **[Entry Level Momentum Business Analyst](https://jobright.ai/jobs/info/6823d7835975337d6d65dffe?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | May 13 |
 | **[White Plains Hospital](https://wphospital.org/default.aspx)** | **[Business Analyst Administration](https://jobright.ai/jobs/info/6823c57c6605c13031362cf9?utm_campaign=Business%20Analyst&utm_source=1103)** | White Plains, NY | On Site | May 13 |
