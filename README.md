@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boeing](https://www.boeing.co.uk)** | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/682b3d2d799e716450e4a062?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 19 |
+| ↳ | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/682b3d2d799e716450e49fb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Tukwila, WA | On Site | May 19 |
+| **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/68014daf62d20e804fcbf677?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 19 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/682b4b8ec43c6649fd92eadd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tukwila, WA | On Site | May 19 |
 | **[eClerx](http://www.eclerx.com/)** | **[Business Analyst- Derivatives](https://jobright.ai/jobs/info/67b9443207e6bf037eca9d29?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | May 17 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68281383403931318b6c8161?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | May 17 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst - Risk Management](https://jobright.ai/jobs/info/67d4b28b89530ed00f0884c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | May 17 |
@@ -84,10 +88,10 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Methods Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/6826a5d9e122b3c53028129d?utm_campaign=Business%20Analyst&utm_source=1103)** | Tukwila, WA | On Site | May 15 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68263dc195bb2564eae39d4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/6826284850d1a5205415c9dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | May 15 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/682625df7b4db82ce0ef0340?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | May 15 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/682625df7b4db82ce0ef03b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | May 15 |
 | **[AT&T](https://www.att.com/)** | **[Specialist Tech Business Analysis](https://jobright.ai/jobs/info/68261c98f76bed2d58bd380a?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas | On Site | May 15 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I, OpsTech Central Services ](https://jobright.ai/jobs/info/682606c054a3c8d32f471984?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | May 15 |
-| ↳ | **[Business Analyst I, OpsTech Central Services ](https://jobright.ai/jobs/info/682606c054a3c8d32f471983?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | May 15 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I, OpsTech Central Services ](https://jobright.ai/jobs/info/682606c054a3c8d32f471983?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | May 15 |
+| ↳ | **[Business Analyst I, OpsTech Central Services ](https://jobright.ai/jobs/info/682606c054a3c8d32f471984?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | May 15 |
 | ↳ | **[Business Analyst I, OpsTech Central Services ](https://jobright.ai/jobs/info/682606c054a3c8d32f471985?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, USA | On Site | May 15 |
 | ↳ | **[Business Analyst I, OpsTech Central Services ](https://jobright.ai/jobs/info/6826067f54a3c8d32f470f5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | May 15 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Global Business Analyst & Communications](https://jobright.ai/jobs/info/68258850d71178612e3f07dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 14 |
@@ -106,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[White Plains Hospital](https://wphospital.org/default.aspx)** | **[Business Analyst Administration](https://jobright.ai/jobs/info/6823c57c6605c13031362cf9?utm_campaign=Business%20Analyst&utm_source=1103)** | White Plains, NY | On Site | May 13 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Personal Insurance)](https://jobright.ai/jobs/info/6823953fa471affbe39c50c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 13 |
 | **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801c830971a8a8d5e2203a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, TX | On Site | May 13 |
+| **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Commercial Business Analyst - LV](https://jobright.ai/jobs/info/67e345126fd9edf4cdbf5eca?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | May 13 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Merch on Demand](https://jobright.ai/jobs/info/6800708b1b16152554b02bc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 13 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6805f47f2b0ac599bd9773cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 13 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[Associate Business Management Analyst](https://jobright.ai/jobs/info/6822868871a7c93df1bb76e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
