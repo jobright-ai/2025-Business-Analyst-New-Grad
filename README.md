@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682d2bc36037a7e771321e07?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | May 20 |
+| **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/682dcc0225703b6942072661?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway California | On Site | May 20 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Shared Services, SPS Finance](https://jobright.ai/jobs/info/682d130f7b6e1a241a84d0cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 20 |
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682d0a9b2aff285d0ed566d0?utm_campaign=Business%20Analyst&utm_source=1103)** | White Plains, NY | On Site | May 20 |
 | **[BGC Group](https://www.bgcg.com)** | **[Business Analyst – M&A and Executive Office, Americas](https://jobright.ai/jobs/info/682cf4c53d4a4206eb849762?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | May 20 |
@@ -96,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68263dc195bb2564eae39d4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 15 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/682625df7b4db82ce0ef0340?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | May 15 |
 | **[AT&T](https://www.att.com/)** | **[Specialist Tech Business Analysis](https://jobright.ai/jobs/info/68261c98f76bed2d58bd380a?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas | On Site | May 15 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/6824dcbb43a0e6fdb6d885ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
