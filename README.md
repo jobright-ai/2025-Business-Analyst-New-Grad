@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Business Analyst - Claims](https://jobright.ai/jobs/info/682e1d8406643252b2adef65?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA,  Remote | Remote | May 21 |
+| ↳ | **[Business Analyst - Claims](https://jobright.ai/jobs/info/682e1d3d06643252b2ade745?utm_campaign=Business%20Analyst&utm_source=1103)** | Coppell, TX, Remote | Remote | May 21 |
+| **[SMBC Group](https://www.smbcgroup.com/americas)** | **[Business Manager, Analyst](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79f06?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 21 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682d2bc36037a7e771321e07?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | May 20 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/682dcc0225703b6942072661?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway California | On Site | May 20 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Shared Services, SPS Finance](https://jobright.ai/jobs/info/682d130f7b6e1a241a84d0cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 20 |
@@ -66,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Lexipol](https://www.lexipol.com/)** | **[Business Analyst - GTM](https://jobright.ai/jobs/info/682cbc5f0f54f1446481348e?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Hybrid | May 20 |
 | **[Optum](https://www.optum.com/)** | **[Senior Business Process Analyst - Remote](https://jobright.ai/jobs/info/682c33d8d55f08f2f3930ddc?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | Hybrid | May 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Associate Business Management Analyst - R10195206](https://jobright.ai/jobs/info/682c30296d72a482955c885e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 20 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297f?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Columbus  | On Site | May 20 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago  | On Site | May 20 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago  | On Site | May 20 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297f?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Columbus  | On Site | May 20 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f0d7d3dbaa5e3e02115?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Beachwood | On Site | May 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Associate Business Management Analyst](https://jobright.ai/jobs/info/682c4133f5cebd16a873f40e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | May 19 |
 | **[Trinity University](https://www.trinity.edu/)** | **[Business Analyst I - Functional Lead: Workday Curriculum & Degree Audit](https://jobright.ai/jobs/info/682be4c7e99132f75098769a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | May 19 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6826c573d05c08c3e3e7121a?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 19 |
 | **[Digitas Health](http://www.digitashealth.com)** | **[Senior Analyst, Business Transformation](https://jobright.ai/jobs/info/68014daf62d20e804fcbf677?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 19 |
 | **[University of Arizona](https://www.arizona.edu)** | **[Business Coordinator, Engineering Business Center - North](https://jobright.ai/jobs/info/682b8beb6d4e9a19c0733f9b?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | May 18 |
-| **[eClerx](http://www.eclerx.com/)** | **[Business Analyst- Derivatives](https://jobright.ai/jobs/info/67b9443207e6bf037eca9d29?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | May 17 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68281383403931318b6c8161?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | May 17 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst - Risk Management](https://jobright.ai/jobs/info/67d4b28b89530ed00f0884c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | May 17 |
 | **[Travelers](https://www.travelers.com)** | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/682538a610d269e2752fbc92?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 16 |
@@ -95,6 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Lexipol](https://www.lexipol.com/)** | **[Business Analyst - GTM](https://jobright.ai/jobs/info/68269aae5124a81e2da92c3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | May 15 |
 | **[Healthfirst](https://healthfirst.org)** | **[Business Process Analyst &#8211; Hyphen](https://jobright.ai/jobs/info/681b86c6624164b804399db0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 15 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68263dc195bb2564eae39d4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 15 |
-| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/682625df7b4db82ce0ef0340?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | May 15 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/682625df7b4db82ce0ef03b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | May 15 |
 | **[AT&T](https://www.att.com/)** | **[Specialist Tech Business Analysis](https://jobright.ai/jobs/info/68261c98f76bed2d58bd380a?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
