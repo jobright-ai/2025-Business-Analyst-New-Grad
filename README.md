@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[J.P. Morgan Advisors - Business Analyst Administrator - New York, NY](https://jobright.ai/jobs/info/682f56da75c563e09375046f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | May 22 |
+| **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | May 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[ERP Business Analyst Associate / Level 1 /  FT Telework](https://jobright.ai/jobs/info/682ed09a8a40ff66f2f95eed?utm_campaign=Business%20Analyst&utm_source=1103)** | Possible | On Site | May 22 |
 | ↳ | **[ERP Business Analyst Associate / Level 1 /  FT Telework](https://jobright.ai/jobs/info/682ed06c8a40ff66f2f95820?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, Texas | On Site | May 22 |
-| **[Odoo](https://tenthplanet.in/odoo/)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/682eefa3288073370778360b?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | May 21 |
 | **[California Department of Forestry and Fire Protection (CAL FIRE)](https://www.fire.ca.gov/)** | **[Information Technology Business Specialist](https://jobright.ai/jobs/info/682e76d7c0dc0f13258b6f00?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | May 21 |
 | **[Capital One](http://www.capitalone.com)** | **[Sr. Business Analyst, Card Onboarding, Premium Products](https://jobright.ai/jobs/info/682e976e24cafe7969959580?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 21 |
 | ↳ | **[Sr. Business Analyst, Card Onboarding, Premium Products](https://jobright.ai/jobs/info/682e976e24cafe79699596ea?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | May 21 |
@@ -76,9 +77,9 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681d75181d023bfd4e3447c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | May 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Associate Business Management Analyst - R10195206](https://jobright.ai/jobs/info/682c30296d72a482955c885e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 20 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297f?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Columbus  | On Site | May 20 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f0d7d3dbaa5e3e02115?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Beachwood | On Site | May 20 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago  | On Site | May 20 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f0d7d3dbaa5e3e02115?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Beachwood | On Site | May 20 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297f?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Columbus  | On Site | May 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Associate Business Management Analyst](https://jobright.ai/jobs/info/682c4133f5cebd16a873f40e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | May 19 |
 | **[Trinity University](https://www.trinity.edu/)** | **[Business Analyst I - Functional Lead: Workday Curriculum & Degree Audit](https://jobright.ai/jobs/info/682be4c7e99132f75098769a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | May 19 |
 | **[Sony](http://www.sony.net)** | **[Junior Business Analyst, EUSP](https://jobright.ai/jobs/info/682bced1e3979e7ddb7c8a81?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 19 |
@@ -96,9 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 16 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/6812b44dfca3dd55613006e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 15 |
 | **[Lionsgate](https://www.lionsgate.com)** | **[Business Analyst - IT, PMO - Office of the CIO](https://jobright.ai/jobs/info/6826c505adc9497507b94bd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | May 15 |
-| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst (Albertsons)](https://jobright.ai/jobs/info/682955cae53309afe94aff7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | On Site | May 15 |
-| **[PlanMember Financial Corporation](http://online.planmember.com)** | **[Business Analyst Level 1](https://jobright.ai/jobs/info/68268cd1ebc3a5296b86dcf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Carpinteria, CA | On Site | May 15 |
-| **[AT&T](https://www.att.com/)** | **[Specialist Tech Business Analysis](https://jobright.ai/jobs/info/682682382f2532ce60920008?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | May 15 |
-| **[Lexipol](https://www.lexipol.com/)** | **[Business Analyst - GTM](https://jobright.ai/jobs/info/68269aae5124a81e2da92c3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | May 15 |
-| **[Healthfirst](https://healthfirst.org)** | **[Business Process Analyst &#8211; Hyphen](https://jobright.ai/jobs/info/681b86c6624164b804399db0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
