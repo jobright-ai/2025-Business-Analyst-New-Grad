@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Business Analyst - Claims](https://jobright.ai/jobs/info/682e1d8406643252b2adef65?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA,  Remote | Remote | May 21 |
-| ↳ | **[Business Analyst - Claims](https://jobright.ai/jobs/info/682e1d3d06643252b2ade745?utm_campaign=Business%20Analyst&utm_source=1103)** | Coppell, TX, Remote | Remote | May 21 |
+| **[Lionsgate](https://www.lionsgate.com)** | **[Business Analyst-IT, PMO, Office of the CIO](https://jobright.ai/jobs/info/682e5130c8b0425a1f545f10?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | May 21 |
 | **[SMBC Group](https://www.smbcgroup.com/americas)** | **[Business Manager, Analyst](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79f06?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 21 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682d2bc36037a7e771321e07?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | May 20 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/682dcc0225703b6942072661?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway California | On Site | May 20 |
@@ -84,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst - Risk Management](https://jobright.ai/jobs/info/67d4b28b89530ed00f0884c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | May 17 |
 | **[Travelers](https://www.travelers.com)** | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/682538a610d269e2752fbc92?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Sr Analyst, Business Analytics](https://jobright.ai/jobs/info/6827f23f24d11808a5628134?utm_campaign=Business%20Analyst&utm_source=1103)** | Harrisburg, PA | Hybrid | May 16 |
-| **[Tradeweb](http://www.tradeweb.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6827e0babcb00b39676c76ee?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 16 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6827a28f704757f36c8889a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | Hybrid | May 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Sr Analyst, Business Analytics](https://jobright.ai/jobs/info/6827886c9d797cb1d1a9fe08?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Work from home | Hybrid | May 16 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68277bcfa32301fa0a19d60a?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach CA-700 | On Site | May 16 |
