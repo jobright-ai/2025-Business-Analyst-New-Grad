@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682fd353105316571cf208aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
+| ↳ | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682fcaa23285f324a58b9624?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/682fcaa23285f324a58b98e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | May 22 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fb9bdebed1250d43aa08d?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | May 22 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | May 22 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd644e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | May 22 |
@@ -83,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681d75181d023bfd4e3447c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | May 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Associate Business Management Analyst - R10195206](https://jobright.ai/jobs/info/682c30296d72a482955c885e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 20 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297f?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Columbus  | On Site | May 20 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f0d7d3dbaa5e3e02115?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Beachwood | On Site | May 20 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f0d7d3dbaa5e3e02115?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Beachwood | On Site | May 20 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297f?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Columbus  | On Site | May 20 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago  | On Site | May 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Associate Business Management Analyst](https://jobright.ai/jobs/info/682c4133f5cebd16a873f40e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | May 19 |
 | **[Sony](http://www.sony.net)** | **[Junior Business Analyst, EUSP](https://jobright.ai/jobs/info/682bced1e3979e7ddb7c8a81?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 19 |
@@ -96,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst - Risk Management](https://jobright.ai/jobs/info/67d4b28b89530ed00f0884c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | May 17 |
 | **[Travelers](https://www.travelers.com)** | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/682538a610d269e2752fbc92?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Sr Analyst, Business Analytics](https://jobright.ai/jobs/info/6827f23f24d11808a5628134?utm_campaign=Business%20Analyst&utm_source=1103)** | Harrisburg, PA | Hybrid | May 16 |
-| **[Pacific Life](http://www.pacificlife.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/682fb9bdebed1250d43aa017?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | May 16 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Sr Analyst, Business Analytics](https://jobright.ai/jobs/info/6827886c9d797cb1d1a9fe08?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Work from home | Hybrid | May 16 |
+| ↳ | **[Sr Analyst, Business Analytics](https://jobright.ai/jobs/info/6827886c9d797cb1d1a9fe08?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Work from home | Hybrid | May 16 |
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
