@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[Building Service 32BJ Benefit Funds](https://www.32bjfunds.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/67db4d420922024e73cc0967?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 24 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 24 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[2 - Business Process Analyst 1 (PN: 20083020 & 20066980)](https://jobright.ai/jobs/info/68329330db76aa509d5af9ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | May 23 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfd?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | May 23 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | May 23 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | May 23 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfd?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | May 23 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830b281f56c2b11dfd42830?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | May 23 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830d275a830fee55f60067a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | May 23 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830d275a830fee55f600684?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | Remote | May 23 |
@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681d75181d023bfd4e3447c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | May 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Associate Business Management Analyst - R10195206](https://jobright.ai/jobs/info/682c30296d72a482955c885e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 20 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297f?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Columbus  | On Site | May 20 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago  | On Site | May 20 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago  | On Site | May 20 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297f?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Columbus  | On Site | May 20 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f0d7d3dbaa5e3e02115?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Beachwood | On Site | May 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Associate Business Management Analyst](https://jobright.ai/jobs/info/682c4133f5cebd16a873f40e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | May 19 |
 | **[Sony](http://www.sony.net)** | **[Junior Business Analyst, EUSP](https://jobright.ai/jobs/info/682bced1e3979e7ddb7c8a81?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 19 |
