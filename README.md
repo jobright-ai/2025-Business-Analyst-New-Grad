@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6818f08ec1d45b360c11715d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | May 27 |
 | **[Building Service 32BJ Benefit Funds](https://www.32bjfunds.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/67db4d420922024e73cc0967?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 24 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 24 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[2 - Business Process Analyst 1 (PN: 20083020 & 20066980)](https://jobright.ai/jobs/info/68329330db76aa509d5af9ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | May 23 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | May 23 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfd?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | May 23 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfd?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | May 23 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | May 23 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830b281f56c2b11dfd42830?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | May 23 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830d275a830fee55f60067a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | May 23 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830d275a830fee55f600684?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | Remote | May 23 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682fcaa23285f324a58b9624?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/682fcaa23285f324a58b98e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | May 22 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | May 22 |
-| **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd64173?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
-| ↳ | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd641a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd641a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
+| ↳ | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd64173?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/67f6c159c9731f5444ac0026?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 22 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[J.P. Morgan Advisors - Business Analyst Administrator - New York, NY](https://jobright.ai/jobs/info/682f56da75c563e09375046f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | May 22 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | May 22 |
@@ -89,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Shared Services, SPS Finance](https://jobright.ai/jobs/info/682d130f7b6e1a241a84d0cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 20 |
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682d0a9b2aff285d0ed566d0?utm_campaign=Business%20Analyst&utm_source=1103)** | White Plains, NY | On Site | May 20 |
 | **[BGC Group](https://www.bgcg.com)** | **[Business Analyst – M&A and Executive Office, Americas](https://jobright.ai/jobs/info/682cf4c53d4a4206eb849762?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | May 20 |
-| **[Lexipol](https://www.lexipol.com/)** | **[Business Analyst - GTM](https://jobright.ai/jobs/info/682cbc5f0f54f1446481348e?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
