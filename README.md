@@ -60,8 +60,8 @@ For a complete list, click the following sortable link below:
 | **[Building Service 32BJ Benefit Funds](https://www.32bjfunds.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/67db4d420922024e73cc0967?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 24 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 24 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[2 - Business Process Analyst 1 (PN: 20083020 & 20066980)](https://jobright.ai/jobs/info/68329330db76aa509d5af9ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | May 23 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfd?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | May 23 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | May 23 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | May 23 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830bd57a0916eec299dabfd?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | May 23 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830b281f56c2b11dfd42830?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | May 23 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830d275a830fee55f60067a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | May 23 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6830d275a830fee55f600684?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | Remote | May 23 |
