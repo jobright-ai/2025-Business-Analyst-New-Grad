@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Financial Systems Business Analyst](https://jobright.ai/jobs/info/681afeab7382124f66cb7282?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | May 28 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst - Health](https://jobright.ai/jobs/info/6836c625c960dfbab9a9dc81?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 28 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop -  Experience Business Analyst - Seattle](https://jobright.ai/jobs/info/6836b25a51f54152b10a57f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 27 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst- HYBRID](https://jobright.ai/jobs/info/68366375d3bc7cf6c1802063?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhasset, NY | Hybrid | May 27 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682fd353105316571cf208aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
 | ↳ | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682fcaa23285f324a58b9624?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | May 22 |
-| **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd641a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
-| ↳ | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd64173?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd64173?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
+| ↳ | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd641a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
 | **[CEIPAL](https://www.linkedin.com/company/74148122)** | **[Business Analyst](https://jobright.ai/jobs/info/6836a20e6b17423d37d55f56?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | May 22 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/67f6c159c9731f5444ac0026?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 22 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst- HYBRID](https://jobright.ai/jobs/info/6835cf05facdf78331d66048?utm_campaign=Business%20Analyst&utm_source=1103)** | 600 Community Drive, Manhasset, NY, 11030, US | Hybrid | May 22 |
