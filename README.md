@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst- HYBRID](https://jobright.ai/jobs/info/68366375d3bc7cf6c1802063?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhasset, NY | Hybrid | May 27 |
+| **[City and County of San Francisco](https://sf.gov/)** | **[1051-IS Business Analyst-Assistant](https://jobright.ai/jobs/info/68365e67c507878e0ad3415d?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | May 27 |
+| **[Lam Research](http://www.lamresearch.com)** | **[Business Operations Analyst 1](https://jobright.ai/jobs/info/68365381e7092dd0ba2a6193?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | Hybrid | May 27 |
 | **[Cognizant](https://www.cognizant.com)** | **[DX Associate Business Analyst](https://jobright.ai/jobs/info/68364a2e58d6f6e469b20708?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | Hybrid | May 27 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/68366f0ecd5feade1f6f5d8d?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | May 27 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[1051-IS Business Analyst-Assistant](https://jobright.ai/jobs/info/6836374dd15dbe60987978c5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | May 27 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Tel Business Operations Analyst](https://jobright.ai/jobs/info/68360f7ae95c77f1c740f649?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL, United States | On Site | May 27 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Analyst - BCG Vantage, Large-scale Transformation](https://jobright.ai/jobs/info/683604010fafbf5bb4ddfbbf?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | May 27 |
@@ -72,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Net at Work](http://www.netatwork.com)** | **[Business Analyst (Entry Level) Rotation Program (Hybrid NYC)](https://jobright.ai/jobs/info/68145cd769ab7b52dc72b447?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 23 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682fd353105316571cf208aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
 | ↳ | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682fcaa23285f324a58b9624?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/682fcaa23285f324a58b98e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | May 22 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | May 22 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd64173?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
 | ↳ | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd641a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
