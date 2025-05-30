@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ascensus](https://www2.ascensus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6838b3572fb9cfbb038ac34f?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 29 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6838b3572fb9cfbb038ac0b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | May 29 |
+| **[Ascensus](https://www2.ascensus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6838b3572fb9cfbb038ac0b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | May 29 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6838b3572fb9cfbb038ac34f?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Sr. Analyst, Process](https://jobright.ai/jobs/info/6838b2ccca59e619ac8107d9?utm_campaign=Business%20Analyst&utm_source=1103)** | IL - Chicago | Hybrid | May 29 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Business Operations Analyst 1](https://jobright.ai/jobs/info/68389d572f653ca92951634a?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus Campus | On Site | May 29 |
 | **[VGM Group, Inc.](https://www.vgm.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6837af58513394dcc9c56d17?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | On Site | May 28 |
@@ -68,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/6829702f827deee137838753?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 28 |
 | **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Financial Systems Business Analyst](https://jobright.ai/jobs/info/681afeab7382124f66cb7282?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | May 28 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst - Health](https://jobright.ai/jobs/info/6836c625c960dfbab9a9dc81?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 28 |
-| **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst- HYBRID](https://jobright.ai/jobs/info/68366375d3bc7cf6c1802063?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhasset, NY | Hybrid | May 27 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[1051-IS Business Analyst-Assistant](https://jobright.ai/jobs/info/68365e67c507878e0ad3415d?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | May 27 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/68366f0ecd5feade1f6f5d8d?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | May 27 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[1051-IS Business Analyst-Assistant](https://jobright.ai/jobs/info/6836374dd15dbe60987978c5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | May 27 |
@@ -84,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682fd353105316571cf208aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
 | ↳ | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682fcaa23285f324a58b9624?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | May 22 |
-| **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd64173?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
-| ↳ | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd641a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd641a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
+| ↳ | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd64173?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
 | **[CEIPAL](https://www.linkedin.com/company/74148122)** | **[Business Analyst](https://jobright.ai/jobs/info/6836a20e6b17423d37d55f56?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | May 22 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/67f6c159c9731f5444ac0026?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 22 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[J.P. Morgan Advisors - Business Analyst Administrator - New York, NY](https://jobright.ai/jobs/info/682f56da75c563e09375046f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | May 22 |
@@ -108,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68065d228f9fdeae9041e04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | May 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681d75181d023bfd4e3447c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | May 20 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago  | On Site | May 20 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297f?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Columbus  | On Site | May 20 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f0d7d3dbaa5e3e02115?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Beachwood | On Site | May 20 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago  | On Site | May 20 |
 | **[Sony](http://www.sony.net)** | **[Junior Business Analyst, EUSP](https://jobright.ai/jobs/info/682bced1e3979e7ddb7c8a81?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 19 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Junior Business Analyst, EUSP](https://jobright.ai/jobs/info/682b89b64376980197964acd?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | Hybrid | May 19 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Technical Business Operations](https://jobright.ai/jobs/info/67ef2fe4e0b9b5b9f804f895?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA | On Site | May 17 |
@@ -118,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst - Risk Management](https://jobright.ai/jobs/info/67d4b28b89530ed00f0884c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | May 17 |
 | **[Travelers](https://www.travelers.com)** | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/682538a610d269e2752fbc92?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 16 |
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 16 |
-| **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/6812b44dfca3dd55613006e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 15 |
-| **[Lionsgate](https://www.lionsgate.com)** | **[Business Analyst - IT, PMO - Office of the CIO](https://jobright.ai/jobs/info/6826c505adc9497507b94bd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
