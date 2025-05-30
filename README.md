@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketbridge](http://www.market-bridge.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68391e02b40678fa70b92215?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | May 29 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68391733e3bca59dacc15c36?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 29 |
-| **[Marketbridge](http://www.market-bridge.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68390acca3165427a2c878b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | May 29 |
 | **[UST](https://www.ust.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb2a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Summit, WA | Remote | May 29 |
+| **[Marketbridge](http://www.market-bridge.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68390acca3165427a2c878b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | May 29 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6838b3572fb9cfbb038ac0b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | May 29 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6838b3572fb9cfbb038ac34f?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Sr. Analyst, Process](https://jobright.ai/jobs/info/6838b2ccca59e619ac8107d9?utm_campaign=Business%20Analyst&utm_source=1103)** | IL - Chicago | Hybrid | May 29 |
@@ -84,16 +85,16 @@ For a complete list, click the following sortable link below:
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 24 |
 | **[Symetra](http://www.symetra.com)** | **[Business Analyst](https://jobright.ai/jobs/info/681424943697978fab3ab405?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 23 |
 | **[Net at Work](http://www.netatwork.com)** | **[Business Analyst (Entry Level) Rotation Program (Hybrid NYC)](https://jobright.ai/jobs/info/68145cd769ab7b52dc72b447?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 23 |
+| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[ERP Business Analyst](https://jobright.ai/jobs/info/6839586b9c7cf2f9362411ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Mundelein, IL | On Site | May 22 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682fd353105316571cf208aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
 | ↳ | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682fcaa23285f324a58b9624?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | May 22 |
-| **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd64173?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
-| ↳ | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd641a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist, Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd641a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | May 22 |
+| ↳ | **[Business Analytics Specialist - Hybrid](https://jobright.ai/jobs/info/682f79ab7b70aa21dbd64173?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | May 22 |
 | **[CEIPAL](https://www.linkedin.com/company/74148122)** | **[Business Analyst](https://jobright.ai/jobs/info/6836a20e6b17423d37d55f56?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | May 22 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/67f6c159c9731f5444ac0026?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 22 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[J.P. Morgan Advisors - Business Analyst Administrator - New York, NY](https://jobright.ai/jobs/info/682f56da75c563e09375046f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | May 22 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | May 22 |
-| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[ERP Business Analyst](https://jobright.ai/jobs/info/6838688015a29f55973f4bf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Mundelein, IL | On Site | May 22 |
 | **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/67da1a3ac9168bffb53c3c71?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | May 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[ERP Business Analyst Associate / Level 1 /  FT Telework](https://jobright.ai/jobs/info/682ed09a8a40ff66f2f95eed?utm_campaign=Business%20Analyst&utm_source=1103)** | Possible | On Site | May 22 |
 | ↳ | **[ERP Business Analyst Associate / Level 1 /  FT Telework](https://jobright.ai/jobs/info/682ed06c8a40ff66f2f95820?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, Texas | On Site | May 22 |
@@ -112,13 +113,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681d75181d023bfd4e3447c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | May 20 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago  | On Site | May 20 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f0d7d3dbaa5e3e02115?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Beachwood | On Site | May 20 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297f?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Columbus  | On Site | May 20 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f0d7d3dbaa5e3e02115?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Beachwood | On Site | May 20 |
 | **[Sony](http://www.sony.net)** | **[Junior Business Analyst, EUSP](https://jobright.ai/jobs/info/682bced1e3979e7ddb7c8a81?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 19 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Junior Business Analyst, EUSP](https://jobright.ai/jobs/info/682b89b64376980197964acd?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | Hybrid | May 19 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Technical Business Operations](https://jobright.ai/jobs/info/67ef2fe4e0b9b5b9f804f895?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA | On Site | May 17 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/682f1d1d2adba239cf73eca7?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | May 17 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst - Risk Management](https://jobright.ai/jobs/info/67d4b28b89530ed00f0884c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Malvern, PA | On Site | May 17 |
 | **[Travelers](https://www.travelers.com)** | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/682538a610d269e2752fbc92?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 16 |
-| **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
