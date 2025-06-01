@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sr. Business Analyst, Card Onboarding, Premium Products](https://jobright.ai/jobs/info/682e976e24cafe79699596ea?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | May 21 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/682e684bf97560d0c6847f24?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | May 21 |
 | **[Lionsgate](https://www.lionsgate.com)** | **[Business Analyst-IT, PMO, Office of the CIO](https://jobright.ai/jobs/info/682e5130c8b0425a1f545f10?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | May 21 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Business Analyst - Claims (Remote)](https://jobright.ai/jobs/info/683a330fbc974a6dfbdc25ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Coppell, TX, Remote | Remote | May 21 |
-| ↳ | **[Business Analyst - Claims (Remote)](https://jobright.ai/jobs/info/683a330fbc974a6dfbdc248a?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA,  Remote | Remote | May 21 |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Business Analyst - Claims (Remote)](https://jobright.ai/jobs/info/683a330fbc974a6dfbdc248a?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA,  Remote | Remote | May 21 |
+| ↳ | **[Business Analyst - Claims (Remote)](https://jobright.ai/jobs/info/683a330fbc974a6dfbdc25ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Coppell, TX, Remote | Remote | May 21 |
 | **[SMBC Group](https://www.smbcgroup.com/americas)** | **[Business Manager, Analyst](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79f06?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 21 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682d2bc36037a7e771321e07?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | May 20 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Shared Services, SPS Finance](https://jobright.ai/jobs/info/682d130f7b6e1a241a84d0cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | May 20 |
@@ -119,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/681d75181d023bfd4e3447c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | May 20 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297f?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Columbus  | On Site | May 20 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago  | On Site | May 20 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f0d7d3dbaa5e3e02115?utm_campaign=Business%20Analyst&utm_source=1103)** |  US-OH-Beachwood | On Site | May 20 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682d7f347d3dbaa5e3e0297e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago  | On Site | May 20 |
 | **[Sony](http://www.sony.net)** | **[Junior Business Analyst, EUSP](https://jobright.ai/jobs/info/682bced1e3979e7ddb7c8a81?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 19 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Junior Business Analyst, EUSP](https://jobright.ai/jobs/info/682b89b64376980197964acd?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | Hybrid | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
