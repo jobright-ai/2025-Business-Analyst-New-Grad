@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Regions Bank](https://www.regionsinsurance.com/)** | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e58095a1270a094763cfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoover, AL | On Site | Jun 02 |
+| **[Regions Bank](https://www.regionsinsurance.com/)** | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e664e983606171a3c4736?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Jun 02 |
+| ↳ | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e664e983606171a3c473b?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jun 02 |
+| ↳ | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e4e42ddbd0bd2fefaeafa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoover, AL | On Site | Jun 02 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Agency, Enterprise Distribution Management))](https://jobright.ai/jobs/info/683e44e44df955f0404bdb58?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 02 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/683e2ff57c5ec3a7cbf68da5?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Jun 02 |
 | **[BGC Group](https://www.bgcg.com)** | **[Business Analyst – M&A and Executive Office, Americas](https://jobright.ai/jobs/info/682cf4c53d4a4206eb849762?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Jun 02 |
@@ -77,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst - Premium Audit](https://jobright.ai/jobs/info/683b0266ea8f5f91f48e2aa9?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 31 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/683a648d24b1d2d95fb5b3d8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 30 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/683a510a914edeeea36a96b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | May 30 |
-| **[UAB Medicine](https://www.uabmedicine.org)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/683a14cf8e8a422be2f9ea04?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | May 30 |
-| ↳ | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/683a82b45ca1e8b598e7acd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | May 30 |
+| **[UAB Medicine](https://www.uabmedicine.org)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/683a14cf8e8a422be2f9ea51?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | May 30 |
+| ↳ | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/683a14cf8e8a422be2f9ea04?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | May 30 |
 | **[Marketbridge](http://www.market-bridge.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68391e02b40678fa70b92215?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | May 29 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68391733e3bca59dacc15c36?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 29 |
 | **[UST](https://www.ust.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb2a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Summit, WA | Remote | May 29 |
@@ -96,7 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Early Career Business Analyst](https://jobright.ai/jobs/info/68366f0ecd5feade1f6f5d8d?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | May 27 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[1051-IS Business Analyst-Assistant](https://jobright.ai/jobs/info/6836374dd15dbe60987978c5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | May 27 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Analyst - BCG Vantage, Large-scale Transformation](https://jobright.ai/jobs/info/683604010fafbf5bb4ddfbbf?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | May 27 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/677f54e7daee8e91b847e655?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | May 27 |
-| **[Wiland](https://wiland.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/682ff857fc58871b831775cd?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 27 |
-| **[SpaceX](https://www.spacex.com)** | **[Business Analyst (Starlink Growth)](https://jobright.ai/jobs/info/68194e8217f79db62029d291?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
