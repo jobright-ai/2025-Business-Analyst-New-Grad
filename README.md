@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6840fe8312842b47c8c1de0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Jun 04 |
+| **[UAB Medicine](https://www.uabmedicine.org)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/684158b5cad655d6717727d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | Jun 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68412b8119ea3c1d5adf67bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Jun 04 |
+| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/6840fe8312842b47c8c1de0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Jun 04 |
 | **[NexGen Technologies, Inc.](http://nexgeninc.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6840d4e4adef25cc8e757968?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 04 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Business Analytics Specialist I](https://jobright.ai/jobs/info/6840a0c856fb2ed363ab9014?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Jun 04 |
 | **[Citi](https://www.citi.com)** | **[Business Analytics Senior Analyst](https://jobright.ai/jobs/info/6840a0c856fb2ed363ab8efd?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | Hybrid | Jun 04 |
@@ -96,9 +98,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Business Strategist (MBA Candidate) - 6 Month TFT](https://jobright.ai/jobs/info/683de13dd24764bed6c6ed3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Redwood City, CA | On Site | Jun 02 |
 | **[DB Schenker](https://d4s.dbschenker.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/683d9d144f03118ff266d648?utm_campaign=Business%20Analyst&utm_source=1103)** | Cherry Valley, IL | On Site | Jun 02 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/681f9bed72abbf4fb6de89d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jun 01 |
-| **[UAB Medicine](https://www.uabmedicine.org)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/683a82b45ca1e8b598e7acd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | May 30 |
+| **[UAB Medicine](https://www.uabmedicine.org)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/684136048682eefc8bb5848a?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | May 30 |
+| ↳ | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/683a82b45ca1e8b598e7acd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | May 30 |
+| **[The Ohio State University](http://www.osu.edu/)** | **[Business Operations Analyst 1](https://jobright.ai/jobs/info/684125fe42584171d7ddb9c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | May 30 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68391733e3bca59dacc15c36?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 29 |
 | **[UST](https://www.ust.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb2a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Summit, WA | Remote | May 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Sr. Analyst, Process](https://jobright.ai/jobs/info/6838b2ccca59e619ac8107d9?utm_campaign=Business%20Analyst&utm_source=1103)** | IL - Chicago | Hybrid | May 29 |
-| **[The Ohio State University](http://www.osu.edu/)** | **[Business Operations Analyst 1](https://jobright.ai/jobs/info/68389d572f653ca92951634a?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus Campus | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
