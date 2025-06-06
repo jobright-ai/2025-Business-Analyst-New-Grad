@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Global Business Analyst & Communications](https://jobright.ai/jobs/info/68432bac1dcc4cad0e566998?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 06 |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Research and Insight Analyst (Remote)](https://jobright.ai/jobs/info/6843270d4fb4bf348f9c7eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Livonia, Michigan | Remote | Jun 06 |
+| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst (Albertsons)](https://jobright.ai/jobs/info/682955cae53309afe94aff7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | On Site | Jun 06 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst- Cash Management Reporting](https://jobright.ai/jobs/info/68428b4be5d6c437d1caf677?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jun 05 |
-| ↳ | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jun 05 |
 | ↳ | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Jun 05 |
+| ↳ | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jun 05 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68424ea32b95c941446a780f?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jun 05 |
 | **[CereCore](https://cerecore.net/)** | **[Business Analyst Entry Level](https://jobright.ai/jobs/info/68423fb8fe229db3202b96a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN, United States | On Site | Jun 05 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68423eb32d1d1dcc5fd24a1d?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, NJ | On Site | Jun 05 |
@@ -96,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/682d5065a2aec0113101539c?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Jun 03 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6805f47f2b0ac599bd9773cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 03 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e664e983606171a3c4734?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jun 02 |
-| ↳ | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e664e983606171a3c4730?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Jun 02 |
-| ↳ | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e58095a1270a094763cfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoover, AL | On Site | Jun 02 |
+| ↳ | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e664e983606171a3c4736?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Jun 02 |
+| ↳ | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e4e42ddbd0bd2fefaeafa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoover, AL | On Site | Jun 02 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Agency, Enterprise Distribution Management))](https://jobright.ai/jobs/info/683e44e44df955f0404bdb58?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 02 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/683e2ff57c5ec3a7cbf68da5?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Jun 02 |
 | **[BGC Group](https://www.bgcg.com)** | **[Business Analyst – M&A and Executive Office, Americas](https://jobright.ai/jobs/info/682cf4c53d4a4206eb849762?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Jun 02 |
