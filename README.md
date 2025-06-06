@@ -97,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6805f47f2b0ac599bd9773cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 03 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e664e983606171a3c4734?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jun 02 |
 | ↳ | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e664e983606171a3c4730?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Jun 02 |
-| ↳ | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e4e42ddbd0bd2fefaeafa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoover, AL | On Site | Jun 02 |
+| ↳ | **[Business Transformation Analyst](https://jobright.ai/jobs/info/683e58095a1270a094763cfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoover, AL | On Site | Jun 02 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Agency, Enterprise Distribution Management))](https://jobright.ai/jobs/info/683e44e44df955f0404bdb58?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 02 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/683e2ff57c5ec3a7cbf68da5?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Jun 02 |
 | **[BGC Group](https://www.bgcg.com)** | **[Business Analyst – M&A and Executive Office, Americas](https://jobright.ai/jobs/info/682cf4c53d4a4206eb849762?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Jun 02 |
@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Business Strategist (MBA Candidate) - 6 Month TFT](https://jobright.ai/jobs/info/683de13dd24764bed6c6ed3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Redwood City, CA | On Site | Jun 02 |
 | **[DB Schenker](https://d4s.dbschenker.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/683d9d144f03118ff266d648?utm_campaign=Business%20Analyst&utm_source=1103)** | Cherry Valley, IL | On Site | Jun 02 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/681f9bed72abbf4fb6de89d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jun 01 |
-| **[UAB Medicine](https://www.uabmedicine.org)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/683a82b45ca1e8b598e7acd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
