@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PIH Health](https://www.pihhealth.org)** | **[Junior Business Analyst, FT Days](https://jobright.ai/jobs/info/684493e5de9f53869f98d376?utm_campaign=Business%20Analyst&utm_source=1103)** | Whittier, CA | On Site | Jun 07 |
+| ↳ | **[Junior Business Analyst, FT Days](https://jobright.ai/jobs/info/68449763d1dd4a501e86bca9?utm_campaign=Business%20Analyst&utm_source=1103)** | Whittier, CA | On Site | Jun 07 |
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 07 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6843d8430ffb4fc4905e891a?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jun 06 |
 | **[Ascensus](https://www2.ascensus.com/)** | **[Business Analyst (Hybrid / Glendale, CA)](https://jobright.ai/jobs/info/6843a5ecc28f21afd582b06e?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Jun 06 |
@@ -81,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Business Analyst- Cash Management Reporting](https://jobright.ai/jobs/info/68428b4be5d6c437d1caf677?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/6843bb312c0581ba66f05bc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Jun 05 |
 | ↳ | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Jun 05 |
-| ↳ | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jun 05 |
 | ↳ | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jun 05 |
+| ↳ | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jun 05 |
 | **[CereCore](https://cerecore.net/)** | **[Business Analyst Entry Level](https://jobright.ai/jobs/info/68423fb8fe229db3202b96a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN, United States | On Site | Jun 05 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68423eb32d1d1dcc5fd24a1d?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, NJ | On Site | Jun 05 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/684229509f805e2c477b8313?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Jun 05 |
