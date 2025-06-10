@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lithia & Driveway](http://www.lithia.com/)** | **[DFC IT Business Analyst](https://jobright.ai/jobs/info/68471b9ccda490f3099faaef?utm_campaign=Business%20Analyst&utm_source=1103)** | Driveway Finance Corporation, Tigard, OR 97223 | On Site | Jun 09 |
+| **[New York Jets](http://www.newyorkjets.com)** | **[Business Analyst](https://jobright.ai/jobs/info/684761a3e5385904cd1bfa60?utm_campaign=Business%20Analyst&utm_source=1103)** | Florham Park, NJ | On Site | Jun 09 |
+| **[Lithia & Driveway](http://www.lithia.com/)** | **[DFC IT Business Analyst](https://jobright.ai/jobs/info/6847401e1877a73197d07310?utm_campaign=Business%20Analyst&utm_source=1103)** | Portland, OR | Hybrid | Jun 09 |
+| ↳ | **[DFC IT Business Analyst](https://jobright.ai/jobs/info/68471b9ccda490f3099faaef?utm_campaign=Business%20Analyst&utm_source=1103)** | Driveway Finance Corporation, Tigard, OR 97223 | On Site | Jun 09 |
 | **[PIH Health](https://www.pihhealth.org)** | **[Junior Business Analyst, FT Days](https://jobright.ai/jobs/info/684493e5de9f53869f98d376?utm_campaign=Business%20Analyst&utm_source=1103)** | Whittier, CA | On Site | Jun 07 |
 | ↳ | **[Junior Business Analyst, FT Days](https://jobright.ai/jobs/info/68449763d1dd4a501e86bca9?utm_campaign=Business%20Analyst&utm_source=1103)** | Whittier, CA | On Site | Jun 07 |
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 07 |
@@ -72,10 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Global Business Analyst & Communications](https://jobright.ai/jobs/info/68432bac1dcc4cad0e566998?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 06 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst (Albertsons)](https://jobright.ai/jobs/info/682955cae53309afe94aff7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | On Site | Jun 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/6843bb312c0581ba66f05bc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Jun 05 |
-| ↳ | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jun 05 |
 | ↳ | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jun 05 |
 | ↳ | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Jun 05 |
-| **[CereCore](https://cerecore.net/)** | **[Business Analyst Entry Level](https://jobright.ai/jobs/info/68423fb8fe229db3202b96a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN, United States | On Site | Jun 05 |
+| ↳ | **[Business Analyst I, OpsTech Central Services](https://jobright.ai/jobs/info/684280d3c2b39e3cb80777a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jun 05 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68423eb32d1d1dcc5fd24a1d?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, NJ | On Site | Jun 05 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/684229509f805e2c477b8313?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Jun 05 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Junior Business Analyst, Omnichannel Systems](https://jobright.ai/jobs/info/6841ffbd93089fd653f701ee?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 05 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[DXC Technology](https://www.dxc.com)** | **[Analyst II Business Process Transactions / RR-0204160](https://jobright.ai/jobs/info/683f9c3079c6e91d4dd90bb5?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee, United States | Remote | Jun 03 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/683f97664bf15f6970a6cfe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jun 03 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst - (onsite Hawaii)](https://jobright.ai/jobs/info/683f97664bf15f6970a6d03c?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | On Site | Jun 03 |
-| **[DXC Technology](https://www.dxc.com)** | **[Analyst II Business Process Transactions / RR-0178685](https://jobright.ai/jobs/info/683f965fccaef82c24319621?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee, United States | Remote | Jun 03 |
 | **[State Street](http://www.statestreet.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/683f851bcc8bcfda6bf1ba9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA | On Site | Jun 03 |
 | **[DXC Technology](https://www.dxc.com)** | **[Analyst II Business Process Transactions / RR-0204160](https://jobright.ai/jobs/info/683f6bee58a8462f8faa0ed3?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - TN - ANY CITY | On Site | Jun 03 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst - (onsite Hawaii)](https://jobright.ai/jobs/info/683f62413250c09f1dd7fd08?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | On Site | Jun 03 |
