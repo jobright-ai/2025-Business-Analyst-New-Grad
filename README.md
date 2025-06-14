@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Building Service 32BJ Benefit Funds](https://www.32bjfunds.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/67db4d420922024e73cc0967?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 14 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/684cdde70abcd95f348691fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jun 13 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/684cd59bb603b584bdcc5c12?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Jun 13 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/684c7c6cb4feb1c6cb242c71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 13 |
@@ -71,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Jun 13 |
 | **[Symetra](http://www.symetra.com)** | **[Business Analyst](https://jobright.ai/jobs/info/681424943697978fab3ab405?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 13 |
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/684ba01b137e35638beb8cb0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York County, NY | Hybrid | Jun 12 |
-| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 12 |
-| ↳ | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Jun 12 |
+| **[Travelers](https://www.travelers.com)** | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Jun 12 |
 | **[Capital Rx](https://cap-rx.com)** | **[Business Analyst](https://jobright.ai/jobs/info/684b7fd161b49b398e464e06?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Jun 12 |
+| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b794c12ef4306c16e6c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 12 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/684b72e2100866fa57fea5b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Villa Park, IL | Hybrid | Jun 12 |
 | **[Emerald Transformer](https://www.emeraldtransformer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/684c36874fb6794d4c3dc81c?utm_campaign=Business%20Analyst&utm_source=1103)** | McKinney, Texas | On Site | Jun 12 |
 | **[Cognizant](https://www.cognizant.com)** | **[Business Analyst](https://jobright.ai/jobs/info/684b62eda41544a835e6b7b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, GA | Hybrid | Jun 12 |
