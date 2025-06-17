@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6850d185813d2d2132e70daf?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Jun 16 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6850a99a059bb5aa433a2494?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jun 16 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682d2bc36037a7e771321e07?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Jun 15 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 15 |
@@ -92,12 +93,13 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/684a0464ac05775a2ebb1594?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanahan, SC | On Site | Jun 11 |
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6849efa9e12ba2402a004393?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 11 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Shared Services, SPS Finance](https://jobright.ai/jobs/info/682d130f7b6e1a241a84d0cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jun 11 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6849bfb67e2a518ce28822d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver | On Site | Jun 11 |
-| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6849bfb67e2a518ce28822d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago | On Site | Jun 11 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6849bfb67e2a518ce28822d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago | On Site | Jun 11 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6849bfb67e2a518ce288213a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington | On Site | Jun 11 |
+| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6849bfb67e2a518ce28822d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver | On Site | Jun 11 |
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682d0a9b2aff285d0ed566d0?utm_campaign=Business%20Analyst&utm_source=1103)** | White Plains, NY | On Site | Jun 11 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/68494cef7f90eb8457f6a66d?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | Remote | Jun 11 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[BUSINESS DATA ANALYST / EXECUTIVE I](https://jobright.ai/jobs/info/68494207c3b95121f04bbf0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | Hybrid | Jun 11 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6850d84a2a14ba8ace494248?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Jun 10 |
 | **[Salesforce](https://www.salesforce.com)** | **[Business Operations Senior Analyst](https://jobright.ai/jobs/info/68489a0f20a4fc6476508530?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington - Seattle | On Site | Jun 10 |
 | ↳ | **[Business Operations Senior Analyst](https://jobright.ai/jobs/info/68489a0f20a4fc64765082cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington - Remote | Remote | Jun 10 |
 | **[Sony](http://www.sony.net)** | **[Junior Business Analyst, EUSP](https://jobright.ai/jobs/info/683fb97d34ae9b14b3a26003?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Jun 10 |
