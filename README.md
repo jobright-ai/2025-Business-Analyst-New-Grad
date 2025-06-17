@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6850a99a059bb5aa433a2494?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jun 16 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682d2bc36037a7e771321e07?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Jun 15 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 15 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68423eb32d1d1dcc5fd24a1d?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, NJ | On Site | Jun 14 |
@@ -76,10 +77,10 @@ For a complete list, click the following sortable link below:
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Jun 13 |
 | **[Symetra](http://www.symetra.com)** | **[Business Analyst](https://jobright.ai/jobs/info/681424943697978fab3ab405?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 13 |
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/684ba01b137e35638beb8cb0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York County, NY | Hybrid | Jun 12 |
-| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 12 |
-| ↳ | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Jun 12 |
+| **[Travelers](https://www.travelers.com)** | **[Document Management Business Process Specialist](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Jun 12 |
 | **[Capital Rx](https://cap-rx.com)** | **[Business Analyst](https://jobright.ai/jobs/info/684b7fd161b49b398e464e06?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Jun 12 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/684b55252cad77b22d9b6ade?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver or NYC - Hybrid | On Site | Jun 12 |
+| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b794c12ef4306c16e6c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 12 |
+| **[Capital Rx](https://cap-rx.com)** | **[Business Analyst](https://jobright.ai/jobs/info/684b55252cad77b22d9b6ade?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver or NYC - Hybrid | On Site | Jun 12 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/67f6c159c9731f5444ac0026?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Jun 12 |
 | **[SMBC Group](https://www.smbcgroup.com/americas)** | **[Business Manager, Analyst](https://jobright.ai/jobs/info/682977756dd7e5f8b5d79f06?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 12 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684ad8ed6c6e74637b36bce4?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | On Site | Jun 12 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/684b3154cb6a43977f3ab65c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jun 12 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jun 12 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/684a395c148cae1feef82726?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanahan, SC | On Site | Jun 11 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Analyst,Business Analysis](https://jobright.ai/jobs/info/684fe87a102f56194eab36e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, SC | Hybrid | Jun 11 |
 | **[SMUD](https://www.smud.org/en)** | **[IT Business Relationship Analyst Entry](https://jobright.ai/jobs/info/684a274063ce61c08585b170?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, US | On Site | Jun 11 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/684a0464ac05775a2ebb1594?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanahan, SC | On Site | Jun 11 |
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6849efa9e12ba2402a004393?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 11 |
@@ -98,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682d0a9b2aff285d0ed566d0?utm_campaign=Business%20Analyst&utm_source=1103)** | White Plains, NY | On Site | Jun 11 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/68494cef7f90eb8457f6a66d?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | Remote | Jun 11 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[BUSINESS DATA ANALYST / EXECUTIVE I](https://jobright.ai/jobs/info/68494207c3b95121f04bbf0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | Hybrid | Jun 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Business Operations Senior Analyst](https://jobright.ai/jobs/info/68489a0f20a4fc64765082cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington - Remote | Remote | Jun 10 |
-| ↳ | **[Business Operations Senior Analyst](https://jobright.ai/jobs/info/68489a0f20a4fc6476508530?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington - Seattle | On Site | Jun 10 |
+| **[Salesforce](https://www.salesforce.com)** | **[Business Operations Senior Analyst](https://jobright.ai/jobs/info/68489a0f20a4fc6476508530?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington - Seattle | On Site | Jun 10 |
+| ↳ | **[Business Operations Senior Analyst](https://jobright.ai/jobs/info/68489a0f20a4fc64765082cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington - Remote | Remote | Jun 10 |
 | **[Sony](http://www.sony.net)** | **[Junior Business Analyst, EUSP](https://jobright.ai/jobs/info/683fb97d34ae9b14b3a26003?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Jun 10 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/684888437fcfd40c9cbcffe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jun 10 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/683e2ff57c5ec3a7cbf68da5?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Jun 10 |
