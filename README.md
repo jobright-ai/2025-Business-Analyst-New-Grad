@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Joint Commission](http://www.jointcommission.org)** | **[Accreditation Business Analyst](https://jobright.ai/jobs/info/6863515f060dab0b62ab66b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | On Site | Jun 30 |
+| **[Scratch Financial](https://scratchpay.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6863931b9a5b6ca6b25ca3de?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jul 01 |
+| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Junior Business Analyst-Minnetonka, MN](https://jobright.ai/jobs/info/68638e8de27fdcd5ec5cd619?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnetonka, MN | Hybrid | Jul 01 |
 | **[ATI](https://www.atimaterials.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68634b23ec748bccb848c273?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, OR | On Site | Jun 30 |
 | **[Snowflake](https://www.snowflake.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68634708aa3a3feb64ee006b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, CA | On Site | Jun 30 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68633caeae595f0d5d04833b?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jun 30 |
+| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst- Intake](https://jobright.ai/jobs/info/685b9e94d3325f51c5099f0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 30 |
 | **[ATS Automation, Inc](https://www.atspnw.com)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/6863330695ac3b1c682ba5ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Renton, WA | On Site | Jun 30 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Business Systems Solutions Analyst II](https://jobright.ai/jobs/info/68632f1ffb761b1eafaa2beb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 30 |
+| **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801c830971a8a8d5e2203a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, TX | On Site | Jun 30 |
 | **[PSEG](https://www.pseg.com)** | **[10952 Sr Associate IT Business Analyst](https://jobright.ai/jobs/info/68634059dd8619f403d85a99?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Jun 30 |
 | **[Scratch Financial](https://scratchpay.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6862f8184f40875a63edff2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote (United States) | Hybrid | Jun 30 |
 | **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Financial Systems Business Analyst](https://jobright.ai/jobs/info/6862f21db38ddfc1c86f6ef1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jun 30 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Budderfly](https://www.budderfly.com/)** | **[Corporate Business Analyst](https://jobright.ai/jobs/info/6862665a044973d778dc74ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Shelton, CT | Remote | Jun 30 |
 | **[Budderfly](https://www.budderfly.com/)** | **[Corporate Business Analyst](https://jobright.ai/jobs/info/686211cfba8716ce4f3bb93b?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - US | Remote | Jun 29 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/685dfe69bee2fb40984e85d7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jun 28 |
+| **[U.S. Bank](http://www.usbank.com)** | **[TA Business Integration Analyst](https://jobright.ai/jobs/info/686366667a81f4d891937490?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Jun 27 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/684229509f805e2c477b8313?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Jun 27 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Analyst 1, P1, Core Services, NEX : Job Level - Analyst](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dd54?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, Maryland, United States of America | On Site | Jun 27 |
 | **[AltaGas Ltd.](http://www.altagas.ca)** | **[WGL Energy - Business Analyst](https://jobright.ai/jobs/info/685eed7e4e5f63826209c7fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA | On Site | Jun 27 |
@@ -91,7 +95,5 @@ For a complete list, click the following sortable link below:
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Services Business Tech](https://jobright.ai/jobs/info/685c9acec7cbae507c0ae712?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - California - Fort Irwin | On Site | Jun 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst - (onsite Hawaii)](https://jobright.ai/jobs/info/683f97664bf15f6970a6d03c?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | On Site | Jun 25 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6805f47f2b0ac599bd9773cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 25 |
-| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst- Intake](https://jobright.ai/jobs/info/685b9e94d3325f51c5099f0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 25 |
-| **[ISC (Integrated Specialty Coverages, LLC)](http://insstrategies.com)** | **[Business Process Optimization Assistant I](https://jobright.ai/jobs/info/6801c830971a8a8d5e2203a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tyler, TX | On Site | Jun 24 |
 | **[VertexOne](https://www.vertexone.net)** | **[Business Analyst I (Must have Utility background)](https://jobright.ai/jobs/info/685b4b072506f81b26df9bb0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
