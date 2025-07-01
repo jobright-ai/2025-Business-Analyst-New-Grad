@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University-Sacramento](https://www.csus.edu/)** | **[Athletics Business Analyst](https://jobright.ai/jobs/info/68641eae1a8ecf1c43296877?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 01 |
 | **[Scratch Financial](https://scratchpay.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6863931b9a5b6ca6b25ca3de?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jul 01 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Junior Business Analyst-Minnetonka, MN](https://jobright.ai/jobs/info/68638e8de27fdcd5ec5cd619?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnetonka, MN | Hybrid | Jul 01 |
 | **[ATI](https://www.atimaterials.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68634b23ec748bccb848c273?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, OR | On Site | Jun 30 |
@@ -88,11 +89,10 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Specialist, Business Metrics & Analysis](https://jobright.ai/jobs/info/685e59bd1f4dc47bc8a31684?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Jun 27 |
 | **[DISH Network](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Jun 26 |
 | **[Congruex](http://congruex.com)** | **[Assistant Business Manager](https://jobright.ai/jobs/info/685f6fd5dda593694d5296e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Boulder, CO | On Site | Jun 26 |
-| **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Jun 26 |
+| **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/685e0b6cce08e482ea1b2bf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Jun 26 |
 | **[Citi](https://www.citi.com)** | **[Business Analytics Senior Analyst](https://jobright.ai/jobs/info/6840a0c856fb2ed363ab8efd?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | Hybrid | Jun 26 |
 | **[Akamai Technologies](https://www.akamai.com)** | **[Business Systems Analyst - Hybrid Cambridge MA](https://jobright.ai/jobs/info/6840ece47575e7ad696d3b12?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jun 26 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Services Business Tech](https://jobright.ai/jobs/info/685c9acec7cbae507c0ae712?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - California - Fort Irwin | On Site | Jun 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst - (onsite Hawaii)](https://jobright.ai/jobs/info/683f97664bf15f6970a6d03c?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | On Site | Jun 25 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6805f47f2b0ac599bd9773cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 25 |
-| **[VertexOne](https://www.vertexone.net)** | **[Business Analyst I (Must have Utility background)](https://jobright.ai/jobs/info/685b4b072506f81b26df9bb0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
