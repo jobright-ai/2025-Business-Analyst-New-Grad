@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[Assistive Technology Business Analyst](https://jobright.ai/jobs/info/68644463f53e0ff0031c0069?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Jul 01 |
+| ↳ | **[Assistive Technology Business Analyst](https://jobright.ai/jobs/info/68644463f53e0ff0031c006a?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-VA | Remote | Jul 01 |
+| **[Gannett | USA TODAY NETWORK](http://www.gannett.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/686434ab3b01d176faa7014c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 01 |
+| **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/685dfe69bee2fb40984e85d7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jul 01 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Athletics Business Analyst](https://jobright.ai/jobs/info/68641eae1a8ecf1c43296877?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 01 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/67d41ece5cc37145e562bddb?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Jul 01 |
 | **[Scratch Financial](https://scratchpay.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6863931b9a5b6ca6b25ca3de?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jul 01 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Junior Business Analyst-Minnetonka, MN](https://jobright.ai/jobs/info/68638e8de27fdcd5ec5cd619?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnetonka, MN | Hybrid | Jul 01 |
 | **[ATI](https://www.atimaterials.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68634b23ec748bccb848c273?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, OR | On Site | Jun 30 |
-| **[Snowflake](https://www.snowflake.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68634708aa3a3feb64ee006b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, CA | On Site | Jun 30 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68633caeae595f0d5d04833b?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jun 30 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst- Intake](https://jobright.ai/jobs/info/685b9e94d3325f51c5099f0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 30 |
 | **[ATS Automation, Inc](https://www.atspnw.com)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/6863330695ac3b1c682ba5ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Renton, WA | On Site | Jun 30 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 30 |
 | **[Budderfly](https://www.budderfly.com/)** | **[Corporate Business Analyst](https://jobright.ai/jobs/info/6862665a044973d778dc74ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Shelton, CT | Remote | Jun 30 |
 | **[Budderfly](https://www.budderfly.com/)** | **[Corporate Business Analyst](https://jobright.ai/jobs/info/686211cfba8716ce4f3bb93b?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - US | Remote | Jun 29 |
-| **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/685dfe69bee2fb40984e85d7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jun 28 |
 | **[U.S. Bank](http://www.usbank.com)** | **[TA Business Integration Analyst](https://jobright.ai/jobs/info/686366667a81f4d891937490?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Jun 27 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/684229509f805e2c477b8313?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Jun 27 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Analyst 1, P1, Core Services, NEX : Job Level - Analyst](https://jobright.ai/jobs/info/685f02f27d3948fd9b94dd54?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, Maryland, United States of America | On Site | Jun 27 |
