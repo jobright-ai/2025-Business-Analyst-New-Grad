@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sidecar Health](https://sidecarhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6865b9b21431185a18fb8eaf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 02 |
+| **[G-III Apparel Group](https://www.giii.com/)** | **[Junior Business Analyst, Omnichannel Systems](https://jobright.ai/jobs/info/6841ffbd93089fd653f701ee?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 02 |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/68658af4dacc710e97af2950?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jul 02 |
+| **[MetaPhase](https://metaphaseconsulting.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68658712671b2427f5737e32?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 02 |
+| **[Kemper](http://kemper.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc442?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas | On Site | Jul 02 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68658ff171c37de7722c7ad9?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida | On Site | Jul 02 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68658ff171c37de7722c7ad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, Alabama | On Site | Jul 02 |
+| **[MetaPhase](https://metaphaseconsulting.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6865913b5a467cb6264ea533?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Jul 02 |
 | **[Tillster](http://tillster.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68649a551b884b43e8b9578b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 01 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Jul 01 |
-| **[Centene Corporation](http://www.centene.com)** | **[Assistive Technology Business Analyst](https://jobright.ai/jobs/info/686578f59bb868c433e34348?utm_campaign=Business%20Analyst&utm_source=1103)** | VA | Remote | Jul 01 |
 | **[Gannett | USA TODAY NETWORK](http://www.gannett.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/686434ab3b01d176faa7014c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 01 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/685dfe69bee2fb40984e85d7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jul 01 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Athletics Business Analyst](https://jobright.ai/jobs/info/68641eae1a8ecf1c43296877?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 01 |
