@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/684b3154cb6a43977f3ab65c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jul 03 |
 | **[Scratch Financial](https://scratchpay.com)** | **[Business Analyst](https://jobright.ai/jobs/info/686642051a2257c003cf2e03?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jul 02 |
 | **[State Street](http://www.statestreet.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/685d347f81c380091c6d960d?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA | On Site | Jul 02 |
 | **[Kemper](http://kemper.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6865d9b9fa2c8673df6c01c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | Hybrid | Jul 02 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Junior Business Analyst, Omnichannel Systems](https://jobright.ai/jobs/info/6841ffbd93089fd653f701ee?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 02 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/68658af4dacc710e97af2950?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jul 02 |
 | **[MetaPhase](https://metaphaseconsulting.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68658712671b2427f5737e32?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 02 |
-| **[Kemper](http://kemper.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68658ff171c37de7722c7ad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, Alabama | On Site | Jul 02 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68658ff171c37de7722c7ad9?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida | On Site | Jul 02 |
+| **[Kemper](http://kemper.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68658ff171c37de7722c7ad9?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida | On Site | Jul 02 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68658ff171c37de7722c7ad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, Alabama | On Site | Jul 02 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc442?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas | On Site | Jul 02 |
 | **[MetaPhase](https://metaphaseconsulting.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6865913b5a467cb6264ea533?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Jul 02 |
 | **[Tillster](http://tillster.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68649a551b884b43e8b9578b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 01 |
@@ -97,5 +98,5 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Specialist, Business Metrics & Analysis](https://jobright.ai/jobs/info/685e59bd1f4dc47bc8a31684?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Jun 27 |
 | **[DISH Network](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Jun 26 |
 | **[Congruex](http://congruex.com)** | **[Assistant Business Manager](https://jobright.ai/jobs/info/685f6fd5dda593694d5296e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Boulder, CO | On Site | Jun 26 |
-| **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/685e0b6cce08e482ea1b2bf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Jun 26 |
+| **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
