@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[TA Business Integration Analyst](https://jobright.ai/jobs/info/686366667a81f4d891937490?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Jun 27 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/684229509f805e2c477b8313?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Jun 27 |
 | **[TBWA\Media Arts Lab](http://www.mediaartslab.com/)** | **[Business Affairs Executive (entry level)](https://jobright.ai/jobs/info/685ee670bcc637be2316e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jun 27 |
-| **[Xogene](https://www.xogene.com/)** | **[AI/Technology Business Analyst](https://jobright.ai/jobs/info/685ea7e98e143342dd8ce098?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
