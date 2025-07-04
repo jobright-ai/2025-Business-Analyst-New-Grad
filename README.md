@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68671895bbeda2d64b8171d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Jul 03 |
+| **[The Travel Corporation](https://ttc.com/about/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/686702ea0c142dbf52b23ff7?utm_campaign=Business%20Analyst&utm_source=1103)** | Calabasas, CA | Hybrid | Jul 03 |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/6866e143a680c9b339400888?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jul 03 |
 | **[Ripple Effect Studios](https://www.ea.com/ea-studios/ripple-effect)** | **[AI Business Strategist (MBA Candidate) - 6 Month TFT](https://jobright.ai/jobs/info/6866c78f54bbd609c0224245?utm_campaign=Business%20Analyst&utm_source=1103)** | Marina del Rey, CA | On Site | Jul 03 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6866c76454bbd609c0223be5?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | Hybrid | Jul 03 |
 | **[Ripple Effect Studios](https://www.ea.com/ea-studios/ripple-effect)** | **[AI Business Strategist (MBA Candidate) - 6 Month TFT](https://jobright.ai/jobs/info/6866c0d218861a21481fc766?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | Hybrid | Jul 03 |
+| ↳ | **[AI Business Strategist (MBA Candidate) - 6 Month TFT](https://jobright.ai/jobs/info/6866e143a680c9b3394008c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Redwood City, CA | On Site | Jul 03 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6866b29f79d1d50125d59383?utm_campaign=Business%20Analyst&utm_source=1103)** | 570 Washington Blvd, Jersey City, NJ, 07310, US | Hybrid | Jul 03 |
 | **[North Carolina Education Lottery](https://nclottery.com/)** | **[eCommerce Business Analyst](https://jobright.ai/jobs/info/6866bb610c725ef7354e4af9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 03 |
 | **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/684b3154cb6a43977f3ab65c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jul 03 |
@@ -96,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[TBWA\Media Arts Lab](http://www.mediaartslab.com/)** | **[Business Affairs Executive (entry level)](https://jobright.ai/jobs/info/685ee670bcc637be2316e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jun 27 |
 | **[Xogene](https://www.xogene.com/)** | **[AI/Technology Business Analyst](https://jobright.ai/jobs/info/685ea7e98e143342dd8ce098?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Jun 27 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Specialist, Business Metrics & Analysis](https://jobright.ai/jobs/info/685e59bd1f4dc47bc8a31684?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Jun 27 |
-| **[DISH Network](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
