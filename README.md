@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6867bd5135584b65422c06c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
+| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68671895bbeda2d64b8171d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Jul 03 |
 | **[The Travel Corporation](https://ttc.com/about/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/686702ea0c142dbf52b23ff7?utm_campaign=Business%20Analyst&utm_source=1103)** | Calabasas, CA | Hybrid | Jul 03 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/6866e143a680c9b339400888?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jul 03 |
