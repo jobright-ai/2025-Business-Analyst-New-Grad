@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6867bd5135584b65422c06c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68671895bbeda2d64b8171d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Jul 03 |
 | **[The Travel Corporation](https://ttc.com/about/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/686702ea0c142dbf52b23ff7?utm_campaign=Business%20Analyst&utm_source=1103)** | Calabasas, CA | Hybrid | Jul 03 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/6866e143a680c9b339400888?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jul 03 |
@@ -96,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Budderfly](https://www.budderfly.com/)** | **[Corporate Business Analyst](https://jobright.ai/jobs/info/686211cfba8716ce4f3bb93b?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - US | Remote | Jun 29 |
 | **[U.S. Bank](http://www.usbank.com)** | **[TA Business Integration Analyst](https://jobright.ai/jobs/info/686366667a81f4d891937490?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Jun 27 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/684229509f805e2c477b8313?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Jun 27 |
-| **[TBWA\Media Arts Lab](http://www.mediaartslab.com/)** | **[Business Affairs Executive (entry level)](https://jobright.ai/jobs/info/685ee670bcc637be2316e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
