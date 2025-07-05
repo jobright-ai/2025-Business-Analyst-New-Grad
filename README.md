@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Jul 05 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1eb7b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jul 05 |
+| **[FICO](http://www.fico.com)** | **[Business Operations Analyst - NORAM](https://jobright.ai/jobs/info/684c68f2c2455dccea18d5c9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 05 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6867bd5135584b65422c06c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 04 |
@@ -92,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Scratch Financial](https://scratchpay.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6862f8184f40875a63edff2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote (United States) | Hybrid | Jun 30 |
 | **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Financial Systems Business Analyst](https://jobright.ai/jobs/info/6862f21db38ddfc1c86f6ef1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jun 30 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/6862d9cc4238f3ea028df931?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Jun 30 |
+| **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Business Analyst](https://jobright.ai/jobs/info/68692c1d35584b65421f8eb5?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Hybrid | Jun 30 |
 | **[Unity](https://unity.com)** | **[Business and Data Analyst (entry level)](https://jobright.ai/jobs/info/6862ec0ca2643f59196ad338?utm_campaign=Business%20Analyst&utm_source=1103)** | New Cumberland, PA | On Site | Jun 30 |
 | **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Business Management Trainee](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce416?utm_campaign=Business%20Analyst&utm_source=1103)** | Newington, CT | On Site | Jun 30 |
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 30 |
