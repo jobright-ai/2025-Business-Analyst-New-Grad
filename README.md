@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/685dfe69bee2fb40984e85d7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jul 05 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Jul 05 |
+| **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Jul 05 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jul 05 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/684c6fbe72a71b4d2cf1eb7b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jul 05 |
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst - NORAM](https://jobright.ai/jobs/info/684c68f2c2455dccea18d5c9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 05 |
