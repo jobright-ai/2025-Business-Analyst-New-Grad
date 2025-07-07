@@ -100,6 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Unity](https://unity.com)** | **[Business and Data Analyst (entry level)](https://jobright.ai/jobs/info/6862ec0ca2643f59196ad338?utm_campaign=Business%20Analyst&utm_source=1103)** | New Cumberland, PA | On Site | Jun 30 |
 | **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Business Management Trainee](https://jobright.ai/jobs/info/68628c7b70bd07d88b6ce416?utm_campaign=Business%20Analyst&utm_source=1103)** | Newington, CT | On Site | Jun 30 |
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst](https://jobright.ai/jobs/info/680aef4824377af781cff46a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 30 |
-| **[Budderfly](https://www.budderfly.com/)** | **[Corporate Business Analyst](https://jobright.ai/jobs/info/6862665a044973d778dc74ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Shelton, CT | Remote | Jun 30 |
-| **[Budderfly](https://www.budderfly.com/)** | **[Corporate Business Analyst](https://jobright.ai/jobs/info/686211cfba8716ce4f3bb93b?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - US | Remote | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
