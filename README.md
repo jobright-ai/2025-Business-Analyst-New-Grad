@@ -57,16 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Junior Business Analyst - Minnetonka, MN](https://jobright.ai/jobs/info/686cd4a165ca97161f3d4242?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnetonka, MN | Hybrid | Jul 07 |
+| **[Travelers](https://www.travelers.com)** | **[Business  Analyst - BI Product Value Stream](https://jobright.ai/jobs/info/686d6cf51d70c54b6631aaf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 08 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/686d56bcf647ce171897fc39?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Remote | Jul 08 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/686d3c1e9f97117d5db0b6e3?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MI | Remote | Jul 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c70a535584b6542ba83bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c6cf535584b6542a7a22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c68eb35584b654290e104?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 07 |
 | **[State Street](http://www.statestreet.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/685d347f81c380091c6d960d?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA | On Site | Jul 07 |
 | **[NYC Alliance](https://www.nycalliance.com)** | **[Business Partner - Process](https://jobright.ai/jobs/info/686c3c6635584b65428442bf?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 07 |
-| **[LPL Financial](https://www.lpl.com)** | **[Analyst, Business Systems](https://jobright.ai/jobs/info/686c10d035584b654267df03?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | Hybrid | Jul 07 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Inventory Planning Analyst - ATF](https://jobright.ai/jobs/info/686c066c35584b6542226718?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 07 |
 | **[LOFT](http://anninc.com/)** | **[Inventory Planning Analyst - LOFT](https://jobright.ai/jobs/info/686c061a35584b6542213ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 07 |
-| **[LPL Financial](https://www.lpl.com)** | **[Analyst, Business Systems](https://jobright.ai/jobs/info/686c037a35584b654211232e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill/Charlotte | Hybrid | Jul 07 |
 | **[AMEX Healthcare](https://www.amex-vienna.at/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/686c00d135584b654201fa3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Jul 07 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686bdbb235584b6542204b28?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686bdabb35584b65421941a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 07 |
@@ -93,9 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Sidecar Health](https://sidecarhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6865b9b21431185a18fb8eaf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 02 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Junior Business Analyst, Omnichannel Systems](https://jobright.ai/jobs/info/6841ffbd93089fd653f701ee?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 02 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/68658af4dacc710e97af2950?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jul 02 |
-| **[MetaPhase](https://metaphaseconsulting.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68658712671b2427f5737e32?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 02 |
-| ↳ | **[Junior Business Analyst](https://jobright.ai/jobs/info/6865913b5a467cb6264ea533?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Jul 02 |
+| **[MetaPhase](https://metaphaseconsulting.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6865913b5a467cb6264ea533?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Jul 02 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Athletics Business Analyst](https://jobright.ai/jobs/info/686c9b6235584b6542a454fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 01 |
-| **[Tillster](http://tillster.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68649a551b884b43e8b9578b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 01 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
