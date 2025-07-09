@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/68526105327493acee71848a?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 09 |
 | **[Blueprint](https://bpcs.com/)** | **[Business Analyst - Supply Chain Coordinator](https://jobright.ai/jobs/info/686d9beb5f428ecb4c018a12?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jul 08 |
 | **[KeyLogic](http://www.keylogic.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/686da99a847857cfc76332bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Folsom, CA | On Site | Jul 08 |
 | **[Travelers](https://www.travelers.com)** | **[Business  Analyst - BI Product Value Stream](https://jobright.ai/jobs/info/686d6cf51d70c54b6631aaf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 08 |
@@ -80,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst - NORAM](https://jobright.ai/jobs/info/684c68f2c2455dccea18d5c9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 05 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6867bd5135584b65422c06c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
-| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b794c12ef4306c16e6c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 04 |
+| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68671895bbeda2d64b8171d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Jul 03 |
 | **[The Travel Corporation](https://ttc.com/about/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/686702ea0c142dbf52b23ff7?utm_campaign=Business%20Analyst&utm_source=1103)** | Calabasas, CA | Hybrid | Jul 03 |
 | **[Ripple Effect Studios](https://www.ea.com/ea-studios/ripple-effect)** | **[AI Business Strategist (MBA Candidate) - 6 Month TFT](https://jobright.ai/jobs/info/6866c78f54bbd609c0224245?utm_campaign=Business%20Analyst&utm_source=1103)** | Marina del Rey, CA | On Site | Jul 03 |
@@ -91,6 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/684b3154cb6a43977f3ab65c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jul 03 |
 | **[Scratch Financial](https://scratchpay.com)** | **[Business Analyst](https://jobright.ai/jobs/info/686642051a2257c003cf2e03?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jul 02 |
 | **[Sidecar Health](https://sidecarhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6865b9b21431185a18fb8eaf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 02 |
-| **[G-III Apparel Group](https://www.giii.com/)** | **[Junior Business Analyst, Omnichannel Systems](https://jobright.ai/jobs/info/6841ffbd93089fd653f701ee?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 02 |
-| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/68658af4dacc710e97af2950?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
