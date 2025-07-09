@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KeyLogic](http://www.keylogic.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/686da99a847857cfc76332bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Folsom, CA | On Site | Jul 08 |
 | **[Blueprint](https://bpcs.com/)** | **[Business Analyst - Supply Chain Coordinator](https://jobright.ai/jobs/info/686d9beb5f428ecb4c018a12?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jul 08 |
+| **[KeyLogic](http://www.keylogic.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/686da99a847857cfc76332bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Folsom, CA | On Site | Jul 08 |
 | **[Travelers](https://www.travelers.com)** | **[Business  Analyst - BI Product Value Stream](https://jobright.ai/jobs/info/686d6cf51d70c54b6631aaf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 08 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/686d56bcf647ce171897fc39?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Remote | Jul 08 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/686d3c1e9f97117d5db0b6e3?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MI | Remote | Jul 08 |
@@ -95,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Sidecar Health](https://sidecarhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6865b9b21431185a18fb8eaf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 02 |
 | **[G-III Apparel Group](https://www.giii.com/)** | **[Junior Business Analyst, Omnichannel Systems](https://jobright.ai/jobs/info/6841ffbd93089fd653f701ee?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 02 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/68658af4dacc710e97af2950?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jul 02 |
-| **[MetaPhase](https://metaphaseconsulting.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6865913b5a467cb6264ea533?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
