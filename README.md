@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turnberry Solutions](http://threebridge.com)** | **[Business Analyst](https://jobright.ai/jobs/info/686eb022ac843c9a776d2479?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Jul 09 |
+| **[AmeriLife](http://www.amerilife.com)** | **[Career Business Analyst](https://jobright.ai/jobs/info/686eab8373ccb0d57604883f?utm_campaign=Business%20Analyst&utm_source=1103)** | Clearwater, FL | On Site | Jul 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/68526105327493acee71848a?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 09 |
+| ↳ | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/6852613c327493acee718fc4?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Jul 09 |
+| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6818f08ec1d45b360c11715d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 08 |
 | **[Blueprint](https://bpcs.com/)** | **[Business Analyst - Supply Chain Coordinator](https://jobright.ai/jobs/info/686d9beb5f428ecb4c018a12?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jul 08 |
-| **[KeyLogic](http://www.keylogic.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/686da99a847857cfc76332bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Folsom, CA | On Site | Jul 08 |
 | **[Travelers](https://www.travelers.com)** | **[Business  Analyst - BI Product Value Stream](https://jobright.ai/jobs/info/686d6cf51d70c54b6631aaf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c70a535584b6542ba83bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c6cf535584b6542a7a22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 07 |
@@ -91,5 +94,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Education Lottery](https://nclottery.com/)** | **[eCommerce Business Analyst](https://jobright.ai/jobs/info/6866bb610c725ef7354e4af9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 03 |
 | **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/684b3154cb6a43977f3ab65c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jul 03 |
 | **[Scratch Financial](https://scratchpay.com)** | **[Business Analyst](https://jobright.ai/jobs/info/686642051a2257c003cf2e03?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jul 02 |
-| **[Sidecar Health](https://sidecarhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6865b9b21431185a18fb8eaf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
