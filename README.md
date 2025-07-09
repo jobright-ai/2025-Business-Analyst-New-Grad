@@ -60,8 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Blueprint](https://bpcs.com/)** | **[Business Analyst - Supply Chain Coordinator](https://jobright.ai/jobs/info/686d9beb5f428ecb4c018a12?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jul 08 |
 | **[KeyLogic](http://www.keylogic.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/686da99a847857cfc76332bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Folsom, CA | On Site | Jul 08 |
 | **[Travelers](https://www.travelers.com)** | **[Business  Analyst - BI Product Value Stream](https://jobright.ai/jobs/info/686d6cf51d70c54b6631aaf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 08 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/686d56bcf647ce171897fc39?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Remote | Jul 08 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/686d3c1e9f97117d5db0b6e3?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MI | Remote | Jul 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c70a535584b6542ba83bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c6cf535584b6542a7a22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c68eb35584b654290e104?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 07 |
