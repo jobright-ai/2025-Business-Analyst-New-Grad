@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/686f2ba34add8b013735e73d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 09 |
 | **[Fiserv](http://www.fiserv.com)** | **[Interchange Business Analyst](https://jobright.ai/jobs/info/686ee002938fa366112a6bd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Jul 09 |
-| **[22nd Century Technologies Inc.](https://tscti.com/)** | **[Business Analyst - I](https://jobright.ai/jobs/info/686ee8dfca98a710fa3aa27f?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Jul 09 |
 | **[Turnberry Solutions](http://threebridge.com)** | **[Business Analyst](https://jobright.ai/jobs/info/686eb022ac843c9a776d2479?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Jul 09 |
 | **[AmeriLife](http://www.amerilife.com)** | **[Career Business Analyst](https://jobright.ai/jobs/info/686eab8373ccb0d57604883f?utm_campaign=Business%20Analyst&utm_source=1103)** | Clearwater, FL | On Site | Jul 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/68526105327493acee71848a?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 09 |
@@ -90,6 +89,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6867bd5135584b65422c06c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b794c12ef4306c16e6c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 04 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/686f4b9ab524c5bedec1e9e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jul 03 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68671895bbeda2d64b8171d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Jul 03 |
-| **[The Travel Corporation](https://ttc.com/about/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/686702ea0c142dbf52b23ff7?utm_campaign=Business%20Analyst&utm_source=1103)** | Calabasas, CA | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
