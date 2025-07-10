@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[22nd Century Technologies Inc.](https://tscti.com/)** | **[Business Analyst - I](https://jobright.ai/jobs/info/686ee8dfca98a710fa3aa27f?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Jul 09 |
+| **[Fiserv](http://www.fiserv.com)** | **[Interchange Business Analyst](https://jobright.ai/jobs/info/686ee002938fa366112a6bd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Jul 09 |
 | **[Turnberry Solutions](http://threebridge.com)** | **[Business Analyst](https://jobright.ai/jobs/info/686eb022ac843c9a776d2479?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Jul 09 |
 | **[AmeriLife](http://www.amerilife.com)** | **[Career Business Analyst](https://jobright.ai/jobs/info/686eab8373ccb0d57604883f?utm_campaign=Business%20Analyst&utm_source=1103)** | Clearwater, FL | On Site | Jul 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/68526105327493acee71848a?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 09 |
@@ -84,14 +86,11 @@ For a complete list, click the following sortable link below:
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst - NORAM](https://jobright.ai/jobs/info/684c68f2c2455dccea18d5c9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 05 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6867bd5135584b65422c06c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
-| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 04 |
+| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b794c12ef4306c16e6c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68671895bbeda2d64b8171d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Jul 03 |
 | **[The Travel Corporation](https://ttc.com/about/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/686702ea0c142dbf52b23ff7?utm_campaign=Business%20Analyst&utm_source=1103)** | Calabasas, CA | Hybrid | Jul 03 |
-| **[Ripple Effect Studios](https://www.ea.com/ea-studios/ripple-effect)** | **[AI Business Strategist (MBA Candidate) - 6 Month TFT](https://jobright.ai/jobs/info/6866c78f54bbd609c0224245?utm_campaign=Business%20Analyst&utm_source=1103)** | Marina del Rey, CA | On Site | Jul 03 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6866c76454bbd609c0223be5?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | Hybrid | Jul 03 |
-| **[Ripple Effect Studios](https://www.ea.com/ea-studios/ripple-effect)** | **[AI Business Strategist (MBA Candidate) - 6 Month TFT](https://jobright.ai/jobs/info/6866e143a680c9b3394008c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Redwood City, CA | On Site | Jul 03 |
-| **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6866b29f79d1d50125d59383?utm_campaign=Business%20Analyst&utm_source=1103)** | 570 Washington Blvd, Jersey City, NJ, 07310, US | Hybrid | Jul 03 |
+| ↳ | **[IT Business Analyst](https://jobright.ai/jobs/info/6866b29f79d1d50125d59383?utm_campaign=Business%20Analyst&utm_source=1103)** | 570 Washington Blvd, Jersey City, NJ, 07310, US | Hybrid | Jul 03 |
 | **[North Carolina Education Lottery](https://nclottery.com/)** | **[eCommerce Business Analyst](https://jobright.ai/jobs/info/6866bb610c725ef7354e4af9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 03 |
 | **[Moelis & Company](http://moelis.com)** | **[Capital Markets Business Analyst, Business Management - New York](https://jobright.ai/jobs/info/684b3154cb6a43977f3ab65c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jul 03 |
-| **[Scratch Financial](https://scratchpay.com)** | **[Business Analyst](https://jobright.ai/jobs/info/686642051a2257c003cf2e03?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
