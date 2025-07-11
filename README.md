@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/687164c306ad7073463c4d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Jul 11 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/6837ac8962b7fb21ca4ba047?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Jul 11 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6870893706ad7073463be813?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Jul 10 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/68705e47a5ae807a59cf7e09?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Remote | Jul 10 |
@@ -71,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[State Street](http://www.statestreet.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/685d347f81c380091c6d960d?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA | On Site | Jul 09 |
 | **[Fiserv](http://www.fiserv.com)** | **[Interchange Business Analyst](https://jobright.ai/jobs/info/686ee002938fa366112a6bd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Jul 09 |
 | **[Turnberry Solutions](http://threebridge.com)** | **[Business Analyst](https://jobright.ai/jobs/info/686eb022ac843c9a776d2479?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Jul 09 |
-| **[AmeriLife](http://www.amerilife.com)** | **[Career Business Analyst](https://jobright.ai/jobs/info/686eab8373ccb0d57604883f?utm_campaign=Business%20Analyst&utm_source=1103)** | Clearwater, FL | On Site | Jul 09 |
+| **[Accenture](https://www.accenture.com)** | **[Epic Grand Central Senior Analyst / Onshore Coordinator 5766077](https://jobright.ai/jobs/info/685268c0251c2028caf0693f?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Jul 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/68526105327493acee71848a?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 09 |
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst – Platform Support](https://jobright.ai/jobs/info/68516249adf0fc998e03f558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/6852613c327493acee718fc4?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Jul 09 |
