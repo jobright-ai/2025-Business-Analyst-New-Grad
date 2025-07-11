@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Life](http://www.pacificlife.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6870893706ad7073463be813?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Jul 10 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/68705e47a5ae807a59cf7e09?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Remote | Jul 10 |
 | ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 10 |
 | **[KeyLogic](http://www.keylogic.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/687050e106ad7073463bcfb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Loveland, CO | On Site | Jul 10 |
@@ -92,6 +93,4 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jul 05 |
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst - NORAM](https://jobright.ai/jobs/info/684c68f2c2455dccea18d5c9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 05 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6867bd5135584b65422c06c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 04 |
-| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
