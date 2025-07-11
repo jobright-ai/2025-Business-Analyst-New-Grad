@@ -58,10 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/687164c306ad7073463c4d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Jul 11 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/6862d9cc4238f3ea028df931?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Jul 11 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/6837ac8962b7fb21ca4ba047?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Jul 11 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6870893706ad7073463be813?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Jul 10 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/68705e47a5ae807a59cf7e09?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Remote | Jul 10 |
-| **[Travelers](https://www.travelers.com)** | **[Business  Analyst - BI Product Value Stream](https://jobright.ai/jobs/info/686d6cf51d70c54b6631aaf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 10 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6818f08ec1d45b360c11715d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 10 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 10 |
 | **[Deutsche Bank](https://www.db.com)** | **[Business Manager - Analyst](https://jobright.ai/jobs/info/687023c21923f89fd073e896?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, 5201 Gate Parkway | Hybrid | Jul 10 |
