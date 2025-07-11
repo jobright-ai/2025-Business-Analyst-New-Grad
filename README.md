@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 10 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/68705e47a5ae807a59cf7e09?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Remote | Jul 10 |
+| ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 10 |
 | **[KeyLogic](http://www.keylogic.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/687050e106ad7073463bcfb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Loveland, CO | On Site | Jul 10 |
 | **[Deutsche Bank](https://www.db.com)** | **[Business Manager - Analyst](https://jobright.ai/jobs/info/687023c21923f89fd073e896?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, 5201 Gate Parkway | Hybrid | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Experience Business Analyst - Seattle](https://jobright.ai/jobs/info/68703aec06ad7073463bc3c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jul 10 |
 | **[Fiserv](http://www.fiserv.com)** | **[Interchange Business Analyst](https://jobright.ai/jobs/info/687019fe06ad7073463bb0ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, MD | On Site | Jul 10 |
 | **[Capital Rx](https://cap-rx.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6870378501cc0956e7e8043f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 10 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/686f2ba34add8b013735e73d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 09 |
+| **[State Street](http://www.statestreet.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/685d347f81c380091c6d960d?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA | On Site | Jul 09 |
 | **[Fiserv](http://www.fiserv.com)** | **[Interchange Business Analyst](https://jobright.ai/jobs/info/686ee002938fa366112a6bd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Jul 09 |
 | **[Turnberry Solutions](http://threebridge.com)** | **[Business Analyst](https://jobright.ai/jobs/info/686eb022ac843c9a776d2479?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Jul 09 |
 | **[AmeriLife](http://www.amerilife.com)** | **[Career Business Analyst](https://jobright.ai/jobs/info/686eab8373ccb0d57604883f?utm_campaign=Business%20Analyst&utm_source=1103)** | Clearwater, FL | On Site | Jul 09 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c70a535584b6542ba83bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c6cf535584b6542a7a22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c68eb35584b654290e104?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 07 |
-| **[State Street](http://www.statestreet.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/685d347f81c380091c6d960d?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA | On Site | Jul 07 |
 | **[NYC Alliance](https://www.nycalliance.com)** | **[Business Partner - Process](https://jobright.ai/jobs/info/686c3c6635584b65428442bf?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 07 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Inventory Planning Analyst - ATF](https://jobright.ai/jobs/info/686c066c35584b6542226718?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 07 |
 | **[LOFT](http://anninc.com/)** | **[Inventory Planning Analyst - LOFT](https://jobright.ai/jobs/info/686c061a35584b6542213ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 07 |
