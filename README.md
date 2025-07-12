@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virginia Department of Taxation](https://www.tax.virginia.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/6871a3caa5ae807a59d00e72?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 11 |
+| **[Energy Exemplar](https://energyexemplar.com/)** | **[Junior Business Analyst (Solutions)](https://jobright.ai/jobs/info/68718a7306ad7073463c5c27?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 11 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/687164c306ad7073463c4d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Jul 11 |
+| **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6871902606ad7073463c5f36?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Jul 11 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/6862d9cc4238f3ea028df931?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Jul 11 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/6837ac8962b7fb21ca4ba047?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Jul 11 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6870893706ad7073463be813?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Jul 10 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/68526105327493acee71848a?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 09 |
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst – Platform Support](https://jobright.ai/jobs/info/68516249adf0fc998e03f558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/6852613c327493acee718fc4?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Jul 09 |
-| **[Blueprint](https://bpcs.com/)** | **[Business Analyst - Supply Chain Coordinator](https://jobright.ai/jobs/info/686d9beb5f428ecb4c018a12?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jul 08 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c70a535584b6542ba83bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c6cf535584b6542a7a22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686c68eb35584b654290e104?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 07 |
