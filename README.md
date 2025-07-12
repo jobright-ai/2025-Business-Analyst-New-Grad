@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Virginia Department of Taxation](https://www.tax.virginia.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/6871a3caa5ae807a59d00e72?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 11 |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/6871bbd6a5ae807a59d01665?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Jul 11 |
 | **[Energy Exemplar](https://energyexemplar.com/)** | **[Junior Business Analyst (Solutions)](https://jobright.ai/jobs/info/68718a7306ad7073463c5c27?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 11 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/687164c306ad7073463c4d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Jul 11 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6871902606ad7073463c5f36?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Jul 11 |
