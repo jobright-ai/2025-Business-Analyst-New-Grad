@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LBS Financial Credit Union](https://www.lbsfcu.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/6871ee82a5ae807a59d038a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CA | On Site | Jul 11 |
 | **[Virginia Department of Taxation](https://www.tax.virginia.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/6871a3caa5ae807a59d00e72?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 11 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/6871bbd6a5ae807a59d01665?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Jul 11 |
 | **[Energy Exemplar](https://energyexemplar.com/)** | **[Junior Business Analyst (Solutions)](https://jobright.ai/jobs/info/68718a7306ad7073463c5c27?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 11 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Capital Rx](https://cap-rx.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6870378501cc0956e7e8043f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 10 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/686f2ba34add8b013735e73d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 09 |
 | **[State Street](http://www.statestreet.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/685d347f81c380091c6d960d?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA | On Site | Jul 09 |
-| **[Fiserv](http://www.fiserv.com)** | **[Interchange Business Analyst](https://jobright.ai/jobs/info/686ee002938fa366112a6bd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Jul 09 |
 | **[Turnberry Solutions](http://threebridge.com)** | **[Business Analyst](https://jobright.ai/jobs/info/686eb022ac843c9a776d2479?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Jul 09 |
 | **[Accenture](https://www.accenture.com)** | **[Epic Grand Central Senior Analyst / Onshore Coordinator 5766077](https://jobright.ai/jobs/info/685268c0251c2028caf0693f?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Jul 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/68526105327493acee71848a?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 09 |
@@ -92,7 +92,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686bda4735584b654216456d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 07 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 07 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/685dfe69bee2fb40984e85d7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jul 05 |
-| **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Jul 05 |
-| **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Jul 05 |
-| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
