@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686bdabb35584b65421941a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686bda4735584b654216456d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 07 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 07 |
-| **[California State University-Sacramento](https://www.csus.edu/)** | **[Athletics Business Analyst](https://jobright.ai/jobs/info/68747e0b299cbc74b874e596?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 06 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/685dfe69bee2fb40984e85d7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jul 05 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Jul 05 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Jul 05 |
@@ -118,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[ATI](https://www.atimaterials.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68634b23ec748bccb848c273?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, OR | On Site | Jun 30 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68633caeae595f0d5d04833b?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jun 30 |
 | **[PSEG](https://www.pseg.com)** | **[10952 Sr Associate IT Business Analyst](https://jobright.ai/jobs/info/68634059dd8619f403d85a99?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Jun 30 |
-| **[Scratch Financial](https://scratchpay.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6862f8184f40875a63edff2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote (United States) | Hybrid | Jun 30 |
-| **[Kirkland & Ellis](https://www.kirkland.com/)** | **[Financial Systems Business Analyst](https://jobright.ai/jobs/info/6862f21db38ddfc1c86f6ef1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
