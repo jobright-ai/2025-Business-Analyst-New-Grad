@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686bdbb235584b6542204b28?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686bdabb35584b65421941a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 07 |
 | ↳ | **[Business Analyst Associate - February 2026](https://jobright.ai/jobs/info/686bda4735584b654216456d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 07 |
-| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
