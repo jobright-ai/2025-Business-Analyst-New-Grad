@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Electronics](http://www.sonyjobs.com)** | **[Junior Business Analyst, End User Support & Productivity](https://jobright.ai/jobs/info/6876a8c15cebcd1dd51cb0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | NA / NY New York-25 Madison 37.5 | Hybrid | Jul 15 |
+| **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/68769df95cebcd1dd51ca7e3?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Jul 15 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/687696f95cebcd1dd51ca45c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Jul 15 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Associate, Business Analysis](https://jobright.ai/jobs/info/68767825ae2f413e4a5aff2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jul 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/687665625cebcd1dd51c8b3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jul 15 |
