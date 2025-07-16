@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68771f1d299cbc74b8763c63?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jul 15 |
 | **[Benchmark](http://www.bench.com)** | **[Business System Analyst II](https://jobright.ai/jobs/info/687713455cebcd1dd51cef7f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/68770045ae2f413e4a5b5ca3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 15 |
-| **[Global Credit Union](https://globalcu.org/)** | **[Business Analyst I, II, III, Senior](https://jobright.ai/jobs/info/6876fe955cebcd1dd51ce3ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Glendale, AZ | On Site | Jul 15 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Operations Research Analyst - Level 2 - R10200732-2](https://jobright.ai/jobs/info/6876fde5299cbc74b8762753?utm_campaign=Business%20Analyst&utm_source=1103)** | Dulles Town Center, VA | On Site | Jul 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6876fa53ae2f413e4a5b595d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6876f8645cebcd1dd51ce12f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 15 |
@@ -109,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Deutsche Bank](https://www.db.com)** | **[Business Manager - Analyst](https://jobright.ai/jobs/info/687023c21923f89fd073e896?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, 5201 Gate Parkway | Hybrid | Jul 10 |
 | **[Capital Rx](https://cap-rx.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6870378501cc0956e7e8043f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 10 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/686f2ba34add8b013735e73d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 09 |
-| **[State Street](http://www.statestreet.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/685d347f81c380091c6d960d?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
