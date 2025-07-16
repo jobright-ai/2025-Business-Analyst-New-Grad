@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Citi](https://www.citi.com)** | **[Business Analyst (Data)](https://jobright.ai/jobs/info/68766420299cbc74b875ccf8?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa Florida United States | On Site | Jul 16 |
 | **[DB Schenker](https://d4s.dbschenker.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/687745685cebcd1dd51d1d8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cherry Valley, IL | On Site | Jul 15 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68771f1d299cbc74b8763c63?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jul 15 |
 | **[Benchmark](http://www.bench.com)** | **[Business System Analyst II](https://jobright.ai/jobs/info/687713455cebcd1dd51cef7f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 15 |
@@ -66,8 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6876f8645cebcd1dd51ce12f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 15 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Sr Analyst, Home Strategy and Operations](https://jobright.ai/jobs/info/6876f7f25cebcd1dd51ce0c5?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA | On Site | Jul 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6876f5aeae2f413e4a5b553a?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jul 15 |
-| **[Global Credit Union](https://globalcu.org/)** | **[Business Analyst I, II, III, Senior](https://jobright.ai/jobs/info/6876f45cae2f413e4a5b544a?utm_campaign=Business%20Analyst&utm_source=1103)** | Street, MD | On Site | Jul 15 |
-| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6876f394299cbc74b8762070?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 15 |
+| ↳ | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6876f394299cbc74b8762070?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 15 |
 | **[Budderfly](https://www.budderfly.com/)** | **[Corporate Business Analyst](https://jobright.ai/jobs/info/6876d7d45cebcd1dd51ccf7b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 15 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6876bfdeae2f413e4a5b32cf?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jul 15 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6876e3a3ae2f413e4a5b4b01?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Jul 15 |
@@ -86,16 +86,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/68766508ae2f413e4a5af5d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/687664dbae2f413e4a5af5a9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/68766483299cbc74b875cd30?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jul 15 |
-| **[Citi](https://www.citi.com)** | **[Business Analyst (Data)](https://jobright.ai/jobs/info/68766420299cbc74b875ccf8?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa Florida United States | On Site | Jul 15 |
 | **[UNC Health](https://www.unchealth.org)** | **[Business Operations Analyst - Childrens Services Admin](https://jobright.ai/jobs/info/6875b04d299cbc74b8756fb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chapel Hill, NC | On Site | Jul 14 |
 | **[Wiland](https://wiland.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687595fcae2f413e4a5a8492?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 14 |
 | **[Capitolis](https://www.capitolis.com)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/68757beaae2f413e4a5a78e9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 14 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 14 |
-| **[Crew](http://theboomlab.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68754cb85cebcd1dd51bf3e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Audubon, PA | Hybrid | Jul 14 |
 | **[William Everett](https://wegrp.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68752697ae2f413e4a5a4360?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jul 14 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[1052-IS Business Analyst](https://jobright.ai/jobs/info/687537325cebcd1dd51beb62?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jul 14 |
 | **[Capitolis](https://www.capitolis.com)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/687518c2299cbc74b8751ff9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | On Site | Jul 14 |
-| **[UAB Medicine](https://www.uabmedicine.org)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/6874b529ae2f413e4a59f791?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | Jul 12 |
+| **[UAB Medicine](https://www.uabmedicine.org)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/687312cfa5ae807a59d0775b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | Jul 12 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Business Process Analyst (Associate or Mid-Level)](https://jobright.ai/jobs/info/6872b17ca5ae807a59d06f8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 12 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary IT Business Analyst at NC State](https://jobright.ai/jobs/info/6872633706ad7073463cc056?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 12 |
 | **[LBS Financial Credit Union](https://www.lbsfcu.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/6871ee82a5ae807a59d038a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CA | On Site | Jul 11 |
@@ -107,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 10 |
 | **[Deutsche Bank](https://www.db.com)** | **[Business Manager - Analyst](https://jobright.ai/jobs/info/687023c21923f89fd073e896?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, 5201 Gate Parkway | Hybrid | Jul 10 |
 | **[Capital Rx](https://cap-rx.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6870378501cc0956e7e8043f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 10 |
-| **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/686f2ba34add8b013735e73d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
