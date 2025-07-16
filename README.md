@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DB Schenker](https://d4s.dbschenker.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/687745685cebcd1dd51d1d8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cherry Valley, IL | On Site | Jul 15 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68771f1d299cbc74b8763c63?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jul 15 |
 | **[Benchmark](http://www.bench.com)** | **[Business System Analyst II](https://jobright.ai/jobs/info/687713455cebcd1dd51cef7f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 15 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/687720fc5cebcd1dd51cfac8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jul 15 |
@@ -97,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[William Everett](https://wegrp.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68752697ae2f413e4a5a4360?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jul 14 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[1052-IS Business Analyst](https://jobright.ai/jobs/info/687537325cebcd1dd51beb62?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jul 14 |
 | **[Capitolis](https://www.capitolis.com)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/687518c2299cbc74b8751ff9?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | On Site | Jul 14 |
-| **[UAB Medicine](https://www.uabmedicine.org)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/687312cfa5ae807a59d0775b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | Jul 12 |
+| **[UAB Medicine](https://www.uabmedicine.org)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/6874b529ae2f413e4a59f791?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | Jul 12 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Business Process Analyst (Associate or Mid-Level)](https://jobright.ai/jobs/info/6872b17ca5ae807a59d06f8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 12 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary IT Business Analyst at NC State](https://jobright.ai/jobs/info/6872633706ad7073463cc056?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 12 |
 | **[LBS Financial Credit Union](https://www.lbsfcu.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/6871ee82a5ae807a59d038a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CA | On Site | Jul 11 |
