@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/68770045ae2f413e4a5b5ca3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 15 |
+| **[Global Credit Union](https://globalcu.org/)** | **[Business Analyst I, II, III, Senior](https://jobright.ai/jobs/info/6876fe955cebcd1dd51ce3ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Glendale, AZ | On Site | Jul 15 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[Operations Research Analyst - Level 2 - R10200732-2](https://jobright.ai/jobs/info/6876fde5299cbc74b8762753?utm_campaign=Business%20Analyst&utm_source=1103)** | Dulles Town Center, VA | On Site | Jul 15 |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6876fa53ae2f413e4a5b595d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jul 15 |
+| ↳ | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6876f8645cebcd1dd51ce12f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 15 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Sr Analyst, Home Strategy and Operations](https://jobright.ai/jobs/info/6876f7f25cebcd1dd51ce0c5?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA | On Site | Jul 15 |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6876f5aeae2f413e4a5b553a?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jul 15 |
+| **[Global Credit Union](https://globalcu.org/)** | **[Business Analyst I, II, III, Senior](https://jobright.ai/jobs/info/6876f45cae2f413e4a5b544a?utm_campaign=Business%20Analyst&utm_source=1103)** | Street, MD | On Site | Jul 15 |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6876f394299cbc74b8762070?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 15 |
 | **[Budderfly](https://www.budderfly.com/)** | **[Corporate Business Analyst](https://jobright.ai/jobs/info/6876d7d45cebcd1dd51ccf7b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 15 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6876bfdeae2f413e4a5b32cf?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jul 15 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6876e3a3ae2f413e4a5b4b01?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Jul 15 |
@@ -101,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](http://www.statestreet.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/685d347f81c380091c6d960d?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA | On Site | Jul 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/68526105327493acee71848a?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 09 |
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst – Platform Support](https://jobright.ai/jobs/info/68516249adf0fc998e03f558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 09 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/6852613c327493acee718fc4?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
