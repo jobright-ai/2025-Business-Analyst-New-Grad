@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/687898f6ae2f413e4a5c4514?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, Washington, DC | Hybrid | Jul 16 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/687888d2ae2f413e4a5c3bd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Jul 16 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 16 |
 | **[RBC](https://www.rbc.com)** | **[Associate Director, Senior Business Analyst](https://jobright.ai/jobs/info/687852325cebcd1dd51d968b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Jul 16 |
@@ -64,6 +65,8 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Associate Director, Senior Business Analyst](https://jobright.ai/jobs/info/68782658ae2f413e4a5c02de?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, New Jersey, United States of America | On Site | Jul 16 |
 | **[Jefferies](http://www.jefferies.com)** | **[Fixed Income COO - Business Analyst/Associate](https://jobright.ai/jobs/info/68780e07ae2f413e4a5bf7f9?utm_campaign=Business%20Analyst&utm_source=1103)** | 520 Madison Avenue, New York, NY, 10022, US | On Site | Jul 16 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6860b78279cde293c45d82f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Jul 16 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 16 |
+| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6878abd9ae2f413e4a5c5378?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Jul 15 |
 | **[DB Schenker](https://d4s.dbschenker.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/687745685cebcd1dd51d1d8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cherry Valley, IL | On Site | Jul 15 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/687888885cebcd1dd51db931?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Jul 15 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68771f1d299cbc74b8763c63?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jul 15 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Business Analyst (Data)](https://jobright.ai/jobs/info/6876d345ae2f413e4a5b40d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Jul 15 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/68769df95cebcd1dd51ca7e3?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Jul 15 |
 | **[Effy Jewelry](https://www.effyjewelry.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/6876c747ae2f413e4a5b3876?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Jul 15 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Sr Analyst, Home Strategy and Operations](https://jobright.ai/jobs/info/6876c690ae2f413e4a5b37cd?utm_campaign=Business%20Analyst&utm_source=1103)** | 09514 - California Remote | Remote | Jul 15 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[1052-IS Business Analyst](https://jobright.ai/jobs/info/6876c76eae2f413e4a5b3897?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jul 15 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Associate, Business Analysis](https://jobright.ai/jobs/info/68767825ae2f413e4a5aff2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jul 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/687665625cebcd1dd51c8b3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jul 15 |
@@ -101,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[UAB Medicine](https://www.uabmedicine.org)** | **[Healthcare Business Analyst I - ENT](https://jobright.ai/jobs/info/687312cfa5ae807a59d0775b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Birmingham, Alabama Area | On Site | Jul 12 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Business Process Analyst (Associate or Mid-Level)](https://jobright.ai/jobs/info/6872b17ca5ae807a59d06f8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 12 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[UTS - Temporary IT Business Analyst at NC State](https://jobright.ai/jobs/info/6872633706ad7073463cc056?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 12 |
+| **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68789a3d866a435525abb1fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Jul 11 |
 | **[LBS Financial Credit Union](https://www.lbsfcu.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/6871ee82a5ae807a59d038a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CA | On Site | Jul 11 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/6871bbd6a5ae807a59d01665?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Jul 11 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/6862d9cc4238f3ea028df931?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Jul 11 |
