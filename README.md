@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cotiviti](http://www.cotiviti.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6879124fed63844c94498596?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 17 |
 | **[Citi](https://www.citi.com)** | **[Business Analyst (Data)](https://jobright.ai/jobs/info/68766420299cbc74b875ccf8?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa Florida United States | On Site | Jul 17 |
-| **[Cotiviti](http://www.cotiviti.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6878cd56991967626f06f7f6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 17 |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6879124fed63844c94498596?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 17 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/6878cd56991967626f06f7f6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 17 |
 | **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/687898f6ae2f413e4a5c4514?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, Washington, DC | Hybrid | Jul 16 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/687888d2ae2f413e4a5c3bd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Jul 16 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 16 |
@@ -78,8 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/6876f394299cbc74b8762070?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 15 |
 | **[Budderfly](https://www.budderfly.com/)** | **[Corporate Business Analyst](https://jobright.ai/jobs/info/6876d7d45cebcd1dd51ccf7b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 15 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6876bfdeae2f413e4a5b32cf?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jul 15 |
-| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6876e3a3ae2f413e4a5b4b01?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Jul 15 |
-| ↳ | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6876e5ec299cbc74b87619a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Jul 15 |
+| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6876e5ec299cbc74b87619a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Jul 15 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Associate, Business Analysis](https://jobright.ai/jobs/info/6876b64c299cbc74b875fdba?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jul 15 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6876c846299cbc74b876098e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jul 15 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Junior Business Analyst, End User Support & Productivity](https://jobright.ai/jobs/info/6876a8c15cebcd1dd51cb0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | NA / NY New York-25 Madison 37.5 | Hybrid | Jul 15 |
@@ -107,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/6871bbd6a5ae807a59d01665?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Jul 11 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/6862d9cc4238f3ea028df931?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Jul 11 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/6837ac8962b7fb21ca4ba047?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Jul 11 |
-| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6818f08ec1d45b360c11715d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
