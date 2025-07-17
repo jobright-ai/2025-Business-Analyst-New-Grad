@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6878cd56991967626f06f7f6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 17 |
 | **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/687898f6ae2f413e4a5c4514?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, Washington, DC | Hybrid | Jul 16 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/687888d2ae2f413e4a5c3bd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Jul 16 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 16 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 16 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6878abd9ae2f413e4a5c5378?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Jul 15 |
 | **[DB Schenker](https://d4s.dbschenker.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/687745685cebcd1dd51d1d8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cherry Valley, IL | On Site | Jul 15 |
-| **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/687888885cebcd1dd51db931?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Jul 15 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68771f1d299cbc74b8763c63?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jul 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/68770045ae2f413e4a5b5ca3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 15 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Operations Research Analyst - Level 2 - R10200732-2](https://jobright.ai/jobs/info/6876fde5299cbc74b8762753?utm_campaign=Business%20Analyst&utm_source=1103)** | Dulles Town Center, VA | On Site | Jul 15 |
@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6818f08ec1d45b360c11715d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 10 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 10 |
 | **[Deutsche Bank](https://www.db.com)** | **[Business Manager - Analyst](https://jobright.ai/jobs/info/687023c21923f89fd073e896?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, 5201 Gate Parkway | Hybrid | Jul 10 |
-| **[Capital Rx](https://cap-rx.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6870378501cc0956e7e8043f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
