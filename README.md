@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 19 |
 | **[Citi](https://www.citi.com)** | **[Business Analyst (Data)](https://jobright.ai/jobs/info/68766420299cbc74b875ccf8?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa Florida United States | On Site | Jul 19 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/687bb60d2097a271a8986c2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | Jul 19 |
 | ↳ | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/687bb778ed63844c944ab0ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Jul 19 |
-| **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 19 |
 | **[Optum](https://www.optum.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/687b94b0764c3d7411c33e68?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | Jul 18 |
 | **[Syntricate Technologies](https://www.syntricatetechnologies.com)** | **[Business Analyst](https://jobright.ai/jobs/info/687afe152097a271a898225b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Jul 18 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I - Interpreter Services](https://jobright.ai/jobs/info/687b49fb2097a271a8982f99?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | Remote | Jul 18 |
@@ -68,12 +68,14 @@ For a complete list, click the following sortable link below:
 | **[Brigham Young University](https://byu.edu)** | **[Assistant Business System Analyst (part-time)](https://jobright.ai/jobs/info/687a96d9ed63844c944a3ffa?utm_campaign=Business%20Analyst&utm_source=1103)** | Provo, UT | On Site | Jul 18 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst (GOV) - Entry Level - UAT Testing](https://jobright.ai/jobs/info/687a9a632097a271a89801c4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 18 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Jul 18 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/687c577d764c3d7411c36aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | On Site | Jul 17 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/687c7bb62097a271a8989f39?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | On Site | Jul 17 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/687c6d6e2097a271a89892b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | On Site | Jul 17 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/687c577d764c3d7411c36aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | On Site | Jul 17 |
 | **[Washington Trust Bank](http://www.watrust.com)** | **[Associate Solutions Analyst](https://jobright.ai/jobs/info/6879d5e7ed63844c9449ec2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | Hybrid | Jul 17 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b2e8ed63844c9449d78d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | On Site | Jul 17 |
-| ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b7b2a7fc8904e3964db2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Jul 17 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b7b2a7fc8904e3964db2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Jul 17 |
 | ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b508ed63844c9449d89d?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | On Site | Jul 17 |
 | ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b60a2097a271a897983e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | On Site | Jul 17 |
+| ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b2e8ed63844c9449d78d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | On Site | Jul 17 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68799857ed63844c9449cbc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Remote | Jul 17 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Intelligence Analyst (Workforce Planning)](https://jobright.ai/jobs/info/68797cffa7fc8904e39633b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL, United States | On Site | Jul 17 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/687963f0a7fc8904e39625c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Remote | Jul 17 |
