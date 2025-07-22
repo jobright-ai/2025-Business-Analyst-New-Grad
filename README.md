@@ -78,9 +78,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/687f0a052097a271a8999f9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | On Site | Jul 17 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/687f011f764c3d7411c48146?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Jul 17 |
 | **[Washington Trust Bank](http://www.watrust.com)** | **[Associate Solutions Analyst](https://jobright.ai/jobs/info/6879d5e7ed63844c9449ec2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | Hybrid | Jul 17 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b7b2a7fc8904e3964db2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Jul 17 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b508ed63844c9449d89d?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | On Site | Jul 17 |
+| ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b7b2a7fc8904e3964db2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Jul 17 |
 | ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b60a2097a271a897983e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | On Site | Jul 17 |
-| ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b508ed63844c9449d89d?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | On Site | Jul 17 |
 | ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b2e8ed63844c9449d78d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | On Site | Jul 17 |
 | **[Cenlar FSB](http://www.cenlar.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68796dcced63844c9449ba94?utm_campaign=Business%20Analyst&utm_source=1103)** | Ewing, PA | On Site | Jul 17 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68796bfea7fc8904e3962b5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jul 17 |
