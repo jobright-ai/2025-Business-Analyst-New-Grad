@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/687ea1a02097a271a8996955?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jul 21 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/687e84652097a271a8995a72?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jul 21 |
+| **[Wiland](https://wiland.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687595fcae2f413e4a5a8492?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 21 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 19 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/687bb60d2097a271a8986c2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | Jul 19 |
 | ↳ | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/687bb778ed63844c944ab0ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Jul 19 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Washington Trust Bank](http://www.watrust.com)** | **[Associate Solutions Analyst](https://jobright.ai/jobs/info/6879d5e7ed63844c9449ec2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | Hybrid | Jul 17 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b7b2a7fc8904e3964db2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Jul 17 |
 | ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b60a2097a271a897983e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | On Site | Jul 17 |
-| ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b508ed63844c9449d89d?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | On Site | Jul 17 |
 | ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b2e8ed63844c9449d78d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | On Site | Jul 17 |
+| ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b508ed63844c9449d89d?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | On Site | Jul 17 |
 | **[Cenlar FSB](http://www.cenlar.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68796dcced63844c9449ba94?utm_campaign=Business%20Analyst&utm_source=1103)** | Ewing, PA | On Site | Jul 17 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68796bfea7fc8904e3962b5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jul 17 |
 | **[Group W](http://groupw.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/6879442f2097a271a8975eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Suffolk, VA | On Site | Jul 17 |
@@ -86,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68708c3f01cc0956e7e82cb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jul 16 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6879b1a82097a271a8979614?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Jul 16 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 16 |
+| **[Citi](https://www.citi.com)** | **[Business Analyst (Data)](https://jobright.ai/jobs/info/687ed297db19f31cf0d6d598?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Jul 15 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68771f1d299cbc74b8763c63?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jul 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/68770045ae2f413e4a5b5ca3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 15 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Operations Research Analyst - Level 2 - R10200732-2](https://jobright.ai/jobs/info/6876fde5299cbc74b8762753?utm_campaign=Business%20Analyst&utm_source=1103)** | Dulles Town Center, VA | On Site | Jul 15 |
