@@ -77,13 +77,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/687eff74764c3d7411c47e4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | On Site | Jul 17 |
 | **[Washington Trust Bank](http://www.watrust.com)** | **[Associate Solutions Analyst](https://jobright.ai/jobs/info/6879d5e7ed63844c9449ec2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | Hybrid | Jul 17 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b7b2a7fc8904e3964db2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Jul 17 |
-| ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b2e8ed63844c9449d78d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | On Site | Jul 17 |
 | ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b60a2097a271a897983e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | On Site | Jul 17 |
+| ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b2e8ed63844c9449d78d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | On Site | Jul 17 |
 | ↳ | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/6879b508ed63844c9449d89d?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | On Site | Jul 17 |
 | **[Cenlar FSB](http://www.cenlar.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68796dcced63844c9449ba94?utm_campaign=Business%20Analyst&utm_source=1103)** | Ewing, PA | On Site | Jul 17 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68796bfea7fc8904e3962b5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jul 17 |
 | **[Group W](http://groupw.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/6879442f2097a271a8975eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Suffolk, VA | On Site | Jul 17 |
-| **[Cotiviti](http://www.cotiviti.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6879124fed63844c94498596?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 17 |
 | **[Washington Trust Bank](http://www.watrust.com)** | **[Associate Solutions Analyst](https://jobright.ai/jobs/info/687b94e3764c3d7411c33e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | Hybrid | Jul 16 |
 | **[RBC](https://www.rbc.com)** | **[Associate Director, Senior Business Analyst](https://jobright.ai/jobs/info/687852325cebcd1dd51d968b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Jul 16 |
 | ↳ | **[Associate Director, Senior Business Analyst](https://jobright.ai/jobs/info/68782658ae2f413e4a5c02de?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, New Jersey, United States of America | On Site | Jul 16 |
@@ -92,7 +91,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68708c3f01cc0956e7e82cb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jul 16 |
 | **[CGI](https://www.cgi.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6879b1a82097a271a8979614?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Jul 16 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 16 |
-| **[Citi](https://www.citi.com)** | **[Business Analyst (Data)](https://jobright.ai/jobs/info/687ed297db19f31cf0d6d598?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Jul 15 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68771f1d299cbc74b8763c63?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jul 15 |
 | **[Global Credit Union](https://globalcu.org/)** | **[Business Analyst I, II, III, Senior](https://jobright.ai/jobs/info/687f09639f72804245700672?utm_campaign=Business%20Analyst&utm_source=1103)** | Glendale, AZ | On Site | Jul 15 |
 | ↳ | **[Business Analyst I, II, III, Senior](https://jobright.ai/jobs/info/687f08642097a271a8999c89?utm_campaign=Business%20Analyst&utm_source=1103)** | Street, MD | On Site | Jul 15 |
