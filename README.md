@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6881219e16ea5743a373671b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 23 |
 | **[Tillster](http://tillster.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68649a551b884b43e8b9578b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 23 |
+| **[California State University-Sacramento](https://www.csus.edu/)** | **[Athletics Business Analyst](https://jobright.ai/jobs/info/6875e579299cbc74b8758a3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 23 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Jul 23 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Business Systems Analyst (Contract)](https://jobright.ai/jobs/info/6880d90816ea5743a37336af?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Jul 23 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 22 |
@@ -97,7 +99,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68796bfea7fc8904e3962b5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jul 17 |
 | **[Group W](http://groupw.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/6879442f2097a271a8975eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Suffolk, VA | On Site | Jul 17 |
 | **[Washington Trust Bank](http://www.watrust.com)** | **[Associate Solutions Analyst](https://jobright.ai/jobs/info/687b94e3764c3d7411c33e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | Hybrid | Jul 16 |
-| **[Black Hills Energy](https://www.blackhillsenergy.com)** | **[Business Systems Analyst - Shipper Services](https://jobright.ai/jobs/info/68785afdae2f413e4a5c1cce?utm_campaign=Business%20Analyst&utm_source=1103)** | Council Bluffs, IA | On Site | Jul 16 |
-| ↳ | **[Business Systems Analyst - Shipper Services](https://jobright.ai/jobs/info/687858d9866a435525ab8928?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakewood, CO | On Site | Jul 16 |
-| **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68801057764c3d7411c4eeda?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
