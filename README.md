@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tillster](http://tillster.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68649a551b884b43e8b9578b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 23 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 22 |
+| **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/6880d24116ea5743a3733417?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Jul 22 |
 | **[General Assembly](https://generalassemb.ly/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67c78ec5684906ab34c542cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | On Site | Jul 22 |
 | **[Apt](https://www.apt.london/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/688075599f7280424570b569?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL | On Site | Jul 22 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/687ef071db19f31cf0d6e468?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, United States | On Site | Jul 22 |
@@ -97,6 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Black Hills Energy](https://www.blackhillsenergy.com)** | **[Business Systems Analyst - Shipper Services](https://jobright.ai/jobs/info/68785afdae2f413e4a5c1cce?utm_campaign=Business%20Analyst&utm_source=1103)** | Council Bluffs, IA | On Site | Jul 16 |
 | ↳ | **[Business Systems Analyst - Shipper Services](https://jobright.ai/jobs/info/687858d9866a435525ab8928?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakewood, CO | On Site | Jul 16 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68801057764c3d7411c4eeda?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Jul 16 |
-| **[Jefferies](http://www.jefferies.com)** | **[Fixed Income COO - Business Analyst/Associate](https://jobright.ai/jobs/info/68780e07ae2f413e4a5bf7f9?utm_campaign=Business%20Analyst&utm_source=1103)** | 520 Madison Avenue, New York, NY, 10022, US | On Site | Jul 16 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6860b78279cde293c45d82f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
