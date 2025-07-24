@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Healthcare REIT](https://www.ahinvestors.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688276b5835a903aa07edae3?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Jul 24 |
 | **[The John F. Kennedy Center for the Performing Arts](http://www.kennedy-center.org)** | **[Business Systems Coordinator](https://jobright.ai/jobs/info/6865befce0db1b536368d866?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jul 24 |
 | **[Acentra Health](https://acentra.com/)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/6881aacbf4f06100f3a28d08?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68814f02f4f06100f3a25ec2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Jul 23 |
+| **[William Everett](https://wegrp.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68826b306fcd973d15ad8fa5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 23 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/67d41ece5cc37145e562bddb?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Jul 23 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6881219e16ea5743a373671b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 23 |
 | **[Tillster](http://tillster.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68649a551b884b43e8b9578b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 23 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Athletics Business Analyst](https://jobright.ai/jobs/info/6875e579299cbc74b8758a3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 23 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Jul 23 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Business Systems Analyst (Contract)](https://jobright.ai/jobs/info/6880d90816ea5743a37336af?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Jul 23 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 22 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/6880d24116ea5743a3733417?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Jul 22 |
 | **[General Assembly](https://generalassemb.ly/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67c78ec5684906ab34c542cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | On Site | Jul 22 |
 | **[Camping World](http://www.campingworld.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6881d83eee15177ae9717d53?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincolnshire, IL | Hybrid | Jul 22 |
 | **[Apt](https://www.apt.london/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/688075599f7280424570b569?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL | On Site | Jul 22 |
@@ -95,6 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Brigham Young University](https://byu.edu)** | **[Assistant Business System Analyst (part-time)](https://jobright.ai/jobs/info/687a96d9ed63844c944a3ffa?utm_campaign=Business%20Analyst&utm_source=1103)** | Provo, UT | On Site | Jul 18 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Jul 18 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6881c75aee15177ae97170c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | On Site | Jul 17 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6881a03b29ad6b2744ae37cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | On Site | Jul 17 |
-| **[Washington Trust Bank](http://www.watrust.com)** | **[Associate Solutions Analyst](https://jobright.ai/jobs/info/6879d5e7ed63844c9449ec2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | Hybrid | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
