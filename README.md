@@ -99,5 +99,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6881a03b29ad6b2744ae37cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | On Site | Jul 17 |
 | **[Washington Trust Bank](http://www.watrust.com)** | **[Associate Solutions Analyst](https://jobright.ai/jobs/info/6879d5e7ed63844c9449ec2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | Hybrid | Jul 17 |
 | **[Cenlar FSB](http://www.cenlar.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68796dcced63844c9449ba94?utm_campaign=Business%20Analyst&utm_source=1103)** | Ewing, PA | On Site | Jul 17 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68796bfea7fc8904e3962b5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
