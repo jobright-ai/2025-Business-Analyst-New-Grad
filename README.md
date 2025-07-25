@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6882e2566fcd973d15adcf6c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/6882cb6c835a903aa07f0c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jul 24 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/6882aebc835a903aa07f00b3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Jul 24 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6882bd1b835a903aa07f0793?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 24 |
