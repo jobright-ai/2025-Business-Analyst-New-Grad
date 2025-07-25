@@ -101,7 +101,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/687bb778ed63844c944ab0ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Jul 19 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/687cadde764c3d7411c3b3a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Jul 18 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6861fe61b8120079f9a95e62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 18 |
-| **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I - Interpreter Services](https://jobright.ai/jobs/info/687b49fb2097a271a8982f99?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | Remote | Jul 18 |
-| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/687a98b42097a271a897ffe2?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | On Site | Jul 18 |
-| **[Brigham Young University](https://byu.edu)** | **[Assistant Business System Analyst (part-time)](https://jobright.ai/jobs/info/687a96d9ed63844c944a3ffa?utm_campaign=Business%20Analyst&utm_source=1103)** | Provo, UT | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
