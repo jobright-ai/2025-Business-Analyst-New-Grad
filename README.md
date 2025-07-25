@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Insights & Analytics Associate - New York](https://jobright.ai/jobs/info/6883dbedb54cac0f1e73a4c6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 25 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68827b476fcd973d15ad95fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Jul 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Mgr,Business Analytics (IC)](https://jobright.ai/jobs/info/688386156fcd973d15ae1a40?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Work from home | Hybrid | Jul 25 |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 25 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/688335c8835a903aa07f4e56?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA | Hybrid | Jul 25 |
 | **[General Atomics](http://www.ga.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68832bad835a903aa07f451f?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway California | Hybrid | Jul 25 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/6882eb99835a903aa07f180d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 24 |
