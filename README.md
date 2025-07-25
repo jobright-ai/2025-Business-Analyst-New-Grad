@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/6882eb99835a903aa07f180d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 24 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6882e2566fcd973d15adcf6c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/6882cb6c835a903aa07f0c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jul 24 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/6882aebc835a903aa07f00b3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Jul 24 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6882bd1b835a903aa07f0793?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 24 |
 | **[Alexander Group](https://www.alexandergroup.com)** | **[Business Analyst, Analytics & Research](https://jobright.ai/jobs/info/6882a3d86fcd973d15adb26d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jul 24 |
 | **[Chelan County PUD](https://www.chelanpud.org/)** | **[Business Technology Analyst (I - Principal)](https://jobright.ai/jobs/info/68827f3b835a903aa07ede5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Wenatchee, WA | On Site | Jul 24 |
@@ -101,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Business Administrator I - Interpreter Services](https://jobright.ai/jobs/info/687b49fb2097a271a8982f99?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | Remote | Jul 18 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/687a98b42097a271a897ffe2?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | On Site | Jul 18 |
 | **[Brigham Young University](https://byu.edu)** | **[Assistant Business System Analyst (part-time)](https://jobright.ai/jobs/info/687a96d9ed63844c944a3ffa?utm_campaign=Business%20Analyst&utm_source=1103)** | Provo, UT | On Site | Jul 18 |
-| **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
