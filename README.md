@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Mgr,Business Analytics (IC)](https://jobright.ai/jobs/info/688386156fcd973d15ae1a40?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Work from home | Hybrid | Jul 25 |
 | **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/688335c8835a903aa07f4e56?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA | Hybrid | Jul 25 |
 | **[General Atomics](http://www.ga.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68832bad835a903aa07f451f?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway California | Hybrid | Jul 25 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/6882eb99835a903aa07f180d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 24 |
@@ -100,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/687bb60d2097a271a8986c2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | Jul 19 |
 | ↳ | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/687bb778ed63844c944ab0ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Jul 19 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/687cadde764c3d7411c3b3a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Jul 18 |
-| **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6861fe61b8120079f9a95e62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
