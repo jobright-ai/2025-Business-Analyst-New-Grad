@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FICO](http://www.fico.com)** | **[Business Operations Analyst - NORAM](https://jobright.ai/jobs/info/684c68f2c2455dccea18d5c9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 26 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/687cadde764c3d7411c3b3a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Jul 25 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Insights & Analytics Associate - New York](https://jobright.ai/jobs/info/6883dbedb54cac0f1e73a4c6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 25 |
 | **[Fitch Solutions](https://www.fitchsolutions.com)** | **[Business Insights & Analytics Associate - New York](https://jobright.ai/jobs/info/688414fa835a903aa07fa116?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 25 |
