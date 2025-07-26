@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Jul 26 |
+| **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Jul 26 |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jul 26 |
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst - NORAM](https://jobright.ai/jobs/info/684c68f2c2455dccea18d5c9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 26 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/687cadde764c3d7411c3b3a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Jul 25 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Insights & Analytics Associate - New York](https://jobright.ai/jobs/info/6883dbedb54cac0f1e73a4c6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 25 |
