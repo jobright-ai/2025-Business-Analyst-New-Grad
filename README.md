@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Kansas Office of Judicial Administration](https://www.kscourts.org/)** | **[Business Analyst - Office of Judicial Administration](https://jobright.ai/jobs/info/687e93522097a271a89962a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Topeka, KS | On Site | Jul 21 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/687e84652097a271a8995a72?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Jul 21 |
 | **[Wiland](https://wiland.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687595fcae2f413e4a5a8492?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 21 |
-| **[Perfected Claims](https://www.perfectedclaims.com)** | **[Business Analyst](https://jobright.ai/jobs/info/687ec765764c3d7411c462e1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | Remote | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
