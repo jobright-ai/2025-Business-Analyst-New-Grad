@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Voyatek](https://www.voyatek.com/)** | **[Business Analyst/ Technical Writer](https://jobright.ai/jobs/info/68865ef6b651c92cb78af385?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Jul 27 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Junior Business Analyst - Hybrid - Minnetonka, MN](https://jobright.ai/jobs/info/68856f874174df41e0f96a4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnetonka, MN | Hybrid | Jul 26 |
 | **[Arizona State University](http://www.asu.edu)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/688568e84174df41e0f969c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | Hybrid | Jul 26 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Jul 26 |
