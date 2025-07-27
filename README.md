@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Junior Business Analyst - Hybrid - Minnetonka, MN](https://jobright.ai/jobs/info/68856f874174df41e0f96a4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnetonka, MN | Hybrid | Jul 26 |
+| **[Arizona State University](http://www.asu.edu)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/688568e84174df41e0f969c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | Hybrid | Jul 26 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Jul 26 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Jul 26 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jul 26 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/68804539764c3d7411c50a67?utm_campaign=Business%20Analyst&utm_source=1103)** | Campus: Tempe | On Site | Jul 22 |
 | **[IQVIA](https://www.iqvia.com)** | **[Analyst, Business Process Svc](https://jobright.ai/jobs/info/6880ee7016ea5743a373420c?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Jul 22 |
 | **[The Travel Corporation](https://ttc.com/about/)** | **[Commercial Finance Business Analyst](https://jobright.ai/jobs/info/687f32482097a271a899ba99?utm_campaign=Business%20Analyst&utm_source=1103)** | TTC Tour Brands - Hybrid/Remote - Costa Mesa, CA | Remote | Jul 21 |
-| **[Crew](http://theboomlab.com)** | **[Business/Systems Analyst](https://jobright.ai/jobs/info/687eda48764c3d7411c46b4b?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Jul 21 |
 | **[Kansas Office of Judicial Administration](https://www.kscourts.org/)** | **[Business Analyst - Office of Judicial Administration](https://jobright.ai/jobs/info/687ed9dadb19f31cf0d6d828?utm_campaign=Business%20Analyst&utm_source=1103)** | Topeka, KS | On Site | Jul 21 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/687ea1a02097a271a8996955?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jul 21 |
 | **[Kansas Office of Judicial Administration](https://www.kscourts.org/)** | **[Business Analyst - Office of Judicial Administration](https://jobright.ai/jobs/info/687e93522097a271a89962a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Topeka, KS | On Site | Jul 21 |
