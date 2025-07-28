@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Darigold](http://www.darigold.com)** | **[Business Systems Analyst I - Oracle Supply Chain](https://jobright.ai/jobs/info/6886b26c4174df41e0f9a75e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Jul 28 |
+| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/6887524c73e3e13cbd93d207?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Jul 28 |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jul 28 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Junior Business Analyst - Hybrid - Minnetonka, MN](https://jobright.ai/jobs/info/68856f874174df41e0f96a4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnetonka, MN | Hybrid | Jul 27 |
-| **[Darigold](http://www.darigold.com)** | **[Business Systems Analyst I - Oracle Supply Chain](https://jobright.ai/jobs/info/6886b26c4174df41e0f9a75e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Jul 27 |
-| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/687cadde764c3d7411c3b3a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Jul 27 |
 | **[Voyatek](https://www.voyatek.com/)** | **[Business Analyst/ Technical Writer](https://jobright.ai/jobs/info/68865ef6b651c92cb78af385?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Jul 27 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6878ca42991967626f06f6d7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
 | **[Arizona State University](http://www.asu.edu)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/688568e84174df41e0f969c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | Hybrid | Jul 26 |
@@ -105,6 +106,4 @@ For a complete list, click the following sortable link below:
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/68804539764c3d7411c50a67?utm_campaign=Business%20Analyst&utm_source=1103)** | Campus: Tempe | On Site | Jul 22 |
 | **[The Travel Corporation](https://ttc.com/about/)** | **[Commercial Finance Business Analyst](https://jobright.ai/jobs/info/687f32482097a271a899ba99?utm_campaign=Business%20Analyst&utm_source=1103)** | TTC Tour Brands - Hybrid/Remote - Costa Mesa, CA | Remote | Jul 21 |
 | **[Kansas Office of Judicial Administration](https://www.kscourts.org/)** | **[Business Analyst - Office of Judicial Administration](https://jobright.ai/jobs/info/687ed9dadb19f31cf0d6d828?utm_campaign=Business%20Analyst&utm_source=1103)** | Topeka, KS | On Site | Jul 21 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/687ea1a02097a271a8996955?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jul 21 |
-| **[Kansas Office of Judicial Administration](https://www.kscourts.org/)** | **[Business Analyst - Office of Judicial Administration](https://jobright.ai/jobs/info/687e93522097a271a89962a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Topeka, KS | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
