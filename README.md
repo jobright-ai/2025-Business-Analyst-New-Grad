@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Southern California](http://www.usc.edu)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6887d3ff4174df41e0fa0e0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA - University Park Campus | On Site | Jul 28 |
+| **[Unity](https://unity.com)** | **[Business / Data Analyst (entry level)](https://jobright.ai/jobs/info/6887c9484174df41e0fa09fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Jul 28 |
+| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/6887c71f73e3e13cbd93ff23?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 28 |
+| **[Unity](https://unity.com)** | **[Business / Data Analyst (entry level)](https://jobright.ai/jobs/info/6887c28a4174df41e0fa049d?utm_campaign=Business%20Analyst&utm_source=1103)** | New Cumberland, PA | On Site | Jul 28 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst-Hybrid](https://jobright.ai/jobs/info/6887ab314174df41e0f9f9de?utm_campaign=Business%20Analyst&utm_source=1103)** | 330 S. Service Road, Melville, NY, 11747, US | Hybrid | Jul 28 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 28 |
 | **[Darigold](http://www.darigold.com)** | **[Business Systems Analyst I - Oracle Supply Chain](https://jobright.ai/jobs/info/6886b26c4174df41e0f9a75e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Jul 28 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[The PCA Companies](https://thepcacompanies.com/)** | **[Business Planning Analyst](https://jobright.ai/jobs/info/688288d9b54cac0f1e730583?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68814f02f4f06100f3a25ec2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Jul 23 |
 | **[William Everett](https://wegrp.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68826b306fcd973d15ad8fa5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 23 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/67d41ece5cc37145e562bddb?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Jul 23 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6881219e16ea5743a373671b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 23 |
 | **[Tillster](http://tillster.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68649a551b884b43e8b9578b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 23 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Athletics Business Analyst](https://jobright.ai/jobs/info/6875e579299cbc74b8758a3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 23 |
