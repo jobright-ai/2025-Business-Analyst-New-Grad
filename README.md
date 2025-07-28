@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6880a30a70ad650948c57e8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 22 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/68804539764c3d7411c50a67?utm_campaign=Business%20Analyst&utm_source=1103)** | Campus: Tempe | On Site | Jul 22 |
 | **[The Travel Corporation](https://ttc.com/about/)** | **[Commercial Finance Business Analyst](https://jobright.ai/jobs/info/687f32482097a271a899ba99?utm_campaign=Business%20Analyst&utm_source=1103)** | TTC Tour Brands - Hybrid/Remote - Costa Mesa, CA | Remote | Jul 21 |
-| **[Kansas Office of Judicial Administration](https://www.kscourts.org/)** | **[Business Analyst - Office of Judicial Administration](https://jobright.ai/jobs/info/687ed9dadb19f31cf0d6d828?utm_campaign=Business%20Analyst&utm_source=1103)** | Topeka, KS | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
