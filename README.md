@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst-Hybrid](https://jobright.ai/jobs/info/6887ab314174df41e0f9f9de?utm_campaign=Business%20Analyst&utm_source=1103)** | 330 S. Service Road, Melville, NY, 11747, US | Hybrid | Jul 28 |
+| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 28 |
 | **[Darigold](http://www.darigold.com)** | **[Business Systems Analyst I - Oracle Supply Chain](https://jobright.ai/jobs/info/6886b26c4174df41e0f9a75e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Jul 28 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/6887524c73e3e13cbd93d207?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Jul 28 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jul 28 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Voyatek](https://www.voyatek.com/)** | **[Business Analyst/ Technical Writer](https://jobright.ai/jobs/info/68865ef6b651c92cb78af385?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Jul 27 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6878ca42991967626f06f6d7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
 | **[Arizona State University](http://www.asu.edu)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/688568e84174df41e0f969c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | Hybrid | Jul 26 |
+| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b794c12ef4306c16e6c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 26 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Jul 26 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Jul 26 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/684c7c6cb4feb1c6cb242c71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 26 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6880ee7016ea5743a373420c?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Jul 22 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 22 |
 | **[General Assembly](https://generalassemb.ly/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67c78ec5684906ab34c542cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | On Site | Jul 22 |
-| **[Apt](https://www.apt.london/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/688075599f7280424570b569?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL | On Site | Jul 22 |
 | **[Worldgate, llc](https://worldgatellc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6881077216ea5743a37352d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Jul 22 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/687ef071db19f31cf0d6e468?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, United States | On Site | Jul 22 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/68829fa3835a903aa07ef6d5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, USA | On Site | Jul 22 |
