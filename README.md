@@ -58,10 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[University of Southern California](http://www.usc.edu)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6887d3ff4174df41e0fa0e0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA - University Park Campus | On Site | Jul 28 |
+| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/6887cae44174df41e0fa0ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 28 |
 | **[Unity](https://unity.com)** | **[Business / Data Analyst (entry level)](https://jobright.ai/jobs/info/6887c9484174df41e0fa09fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Jul 28 |
-| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/6887c71f73e3e13cbd93ff23?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 28 |
-| **[Unity](https://unity.com)** | **[Business / Data Analyst (entry level)](https://jobright.ai/jobs/info/6887c28a4174df41e0fa049d?utm_campaign=Business%20Analyst&utm_source=1103)** | New Cumberland, PA | On Site | Jul 28 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst-Hybrid](https://jobright.ai/jobs/info/6887ab314174df41e0f9f9de?utm_campaign=Business%20Analyst&utm_source=1103)** | 330 S. Service Road, Melville, NY, 11747, US | Hybrid | Jul 28 |
+| **[Unity](https://unity.com)** | **[Business / Data Analyst (entry level)](https://jobright.ai/jobs/info/6887c28a4174df41e0fa049d?utm_campaign=Business%20Analyst&utm_source=1103)** | New Cumberland, PA | On Site | Jul 28 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 28 |
 | **[Darigold](http://www.darigold.com)** | **[Business Systems Analyst I - Oracle Supply Chain](https://jobright.ai/jobs/info/6886b26c4174df41e0f9a75e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Jul 28 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/6887524c73e3e13cbd93d207?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Jul 28 |
@@ -109,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/688015cc764c3d7411c4f2c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Campus: Tempe | On Site | Jul 22 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6880a30a70ad650948c57e8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 22 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/68804539764c3d7411c50a67?utm_campaign=Business%20Analyst&utm_source=1103)** | Campus: Tempe | On Site | Jul 22 |
-| **[The Travel Corporation](https://ttc.com/about/)** | **[Commercial Finance Business Analyst](https://jobright.ai/jobs/info/687f32482097a271a899ba99?utm_campaign=Business%20Analyst&utm_source=1103)** | TTC Tour Brands - Hybrid/Remote - Costa Mesa, CA | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
