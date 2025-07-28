@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Darigold](http://www.darigold.com)** | **[Business Systems Analyst I - Oracle Supply Chain](https://jobright.ai/jobs/info/6886b26c4174df41e0f9a75e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Jul 27 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/687cadde764c3d7411c3b3a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Jul 27 |
 | **[Voyatek](https://www.voyatek.com/)** | **[Business Analyst/ Technical Writer](https://jobright.ai/jobs/info/68865ef6b651c92cb78af385?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Jul 27 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6878ca42991967626f06f6d7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
