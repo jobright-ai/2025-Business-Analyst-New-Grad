@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Related Companies](http://www.related.com/)** | **[Commercial Business Analyst/Associate](https://jobright.ai/jobs/info/688943ac9f961617fe213351?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 29 |
+| **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst/Associate](https://jobright.ai/jobs/info/68892fa79f961617fe21273a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 29 |
 | **[Related Companies](http://www.related.com/)** | **[Commercial Business Analyst/Associate](https://jobright.ai/jobs/info/688925ec09808a6103e456e5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York | On Site | Jul 29 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/6889226b09808a6103e454cf?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Pittsburgh (15222) | On Site | Jul 29 |
 | **[American Healthcare REIT](https://www.ahinvestors.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688919d5aab47a17f66fecd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Jul 29 |
@@ -67,9 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jul 29 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68880afa4174df41e0fa26de?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Jul 28 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 28 |
-| **[University of Southern California](http://www.usc.edu)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6887d3ff4174df41e0fa0e0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA - University Park Campus | On Site | Jul 28 |
+| **[University of Southern California](http://www.usc.edu)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6887d3e573e3e13cbd9405c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA - University Park Campus | On Site | Jul 28 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/6887cae44174df41e0fa0ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 28 |
-| **[Unity](https://unity.com)** | **[Business / Data Analyst (entry level)](https://jobright.ai/jobs/info/6887c9484174df41e0fa09fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Jul 28 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst-Hybrid](https://jobright.ai/jobs/info/6887ab314174df41e0f9f9de?utm_campaign=Business%20Analyst&utm_source=1103)** | 330 S. Service Road, Melville, NY, 11747, US | Hybrid | Jul 28 |
 | **[Unity](https://unity.com)** | **[Business / Data Analyst (entry level)](https://jobright.ai/jobs/info/6887c28a4174df41e0fa049d?utm_campaign=Business%20Analyst&utm_source=1103)** | New Cumberland, PA | On Site | Jul 28 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 28 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68827b476fcd973d15ad95fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Jul 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Mgr,Business Analytics (IC)](https://jobright.ai/jobs/info/688386156fcd973d15ae1a40?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Work from home | Hybrid | Jul 25 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 25 |
+| **[General Atomics Aeronautical Systems](http://www.ga.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6889481309808a6103e467a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway California | Hybrid | Jul 24 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6885a48cb651c92cb78aca76?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 24 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/6882eb99835a903aa07f180d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/6882cb6c835a903aa07f0c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jul 24 |
