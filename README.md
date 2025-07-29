@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USC](https://www.usc.co.uk/)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6888c3d1aab47a17f66fcda4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 29 |
+| ↳ | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6888bfa89f961617fe20f83b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jul 29 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68880afa4174df41e0fa26de?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Jul 28 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 28 |
@@ -106,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6880ee7016ea5743a373420c?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Jul 22 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687552f55cebcd1dd51bf886?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Jul 22 |
 | **[General Assembly](https://generalassemb.ly/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67c78ec5684906ab34c542cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | On Site | Jul 22 |
-| **[Worldgate, llc](https://worldgatellc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6881077216ea5743a37352d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
