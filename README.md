@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68880afa4174df41e0fa26de?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Jul 28 |
+| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 28 |
 | **[University of Southern California](http://www.usc.edu)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6887d3e573e3e13cbd9405c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA - University Park Campus | On Site | Jul 28 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/6887c71f73e3e13cbd93ff23?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 28 |
 | **[Unity](https://unity.com)** | **[Business / Data Analyst (entry level)](https://jobright.ai/jobs/info/6887c9484174df41e0fa09fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Jul 28 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 25 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6885a48cb651c92cb78aca76?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 24 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/6882eb99835a903aa07f180d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 24 |
-| ↳ | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/6882cb6c835a903aa07f0c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jul 24 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6882bd1b835a903aa07f0793?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 24 |
 | **[Alexander Group](https://www.alexandergroup.com)** | **[Business Analyst, Analytics & Research](https://jobright.ai/jobs/info/6882a3d86fcd973d15adb26d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jul 24 |
