@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/6889c23a09808a6103e4b62e?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[LAUNCH](http://launch.co)** | **[Business Researcher](https://jobright.ai/jobs/info/6889ad79aab47a17f6704758?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jul 29 |
-| **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/6889c23a09808a6103e4b62e?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Jul 29 |
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6889b1fdaab47a17f6704a11?utm_campaign=Business%20Analyst&utm_source=1103)** | New York County, NY | Hybrid | Jul 29 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68897b8809808a6103e47d9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Jul 29 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6889706daab47a17f67018c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | On Site | Jul 29 |
@@ -109,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/68658af4dacc710e97af2950?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jul 24 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/68885429fbbf032d0007abc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Jul 23 |
 | **[The PCA Companies](https://thepcacompanies.com/)** | **[Business Planning Analyst](https://jobright.ai/jobs/info/688288d9b54cac0f1e730583?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 23 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68814f02f4f06100f3a25ec2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
