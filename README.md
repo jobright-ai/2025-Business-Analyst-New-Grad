@@ -57,16 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ParsonsKellogg](https://parsonskellogg.com)** | **[Business Analyst/Systems Specialist, Associate](https://jobright.ai/jobs/info/688a30b6aab47a17f6707023?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Remote (Any Location) | Hybrid | Jul 30 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Business Analyst/Systems Specialist, Associate](https://jobright.ai/jobs/info/688a3030aab47a17f6706f85?utm_campaign=Business%20Analyst&utm_source=1103)** | US - Remote (Any Location) | Hybrid | Jul 30 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/6889c23a09808a6103e4b62e?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[LAUNCH](http://launch.co)** | **[Business Researcher](https://jobright.ai/jobs/info/6889ad79aab47a17f6704758?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jul 29 |
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6889b1fdaab47a17f6704a11?utm_campaign=Business%20Analyst&utm_source=1103)** | New York County, NY | Hybrid | Jul 29 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68897b8809808a6103e47d9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Jul 29 |
-| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6889706daab47a17f67018c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | On Site | Jul 29 |
 | **[Related Companies](http://www.related.com/)** | **[Commercial Business Analyst/Associate](https://jobright.ai/jobs/info/688951f209808a6103e46c40?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 29 |
 | **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst/Associate](https://jobright.ai/jobs/info/68892fa79f961617fe21273a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 29 |
 | **[Related Companies](http://www.related.com/)** | **[Commercial Business Analyst/Associate](https://jobright.ai/jobs/info/688925ec09808a6103e456e5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York | On Site | Jul 29 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/6889226b09808a6103e454cf?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Pittsburgh (15222) | On Site | Jul 29 |
-| **[American Healthcare REIT](https://www.ahinvestors.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688919d5aab47a17f66fecd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Jul 29 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/688920bfaab47a17f66ff38d?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Jul 29 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6888f96baab47a17f66fdf18?utm_campaign=Business%20Analyst&utm_source=1103)** | USA DC Washington | Hybrid | Jul 29 |
 | **[USC](https://www.usc.co.uk/)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6888c3d1aab47a17f66fcda4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 29 |
@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[The John F. Kennedy Center for the Performing Arts](http://www.kennedy-center.org)** | **[Business Systems Coordinator](https://jobright.ai/jobs/info/6865befce0db1b536368d866?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jul 24 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/68658af4dacc710e97af2950?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Jul 24 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/68885429fbbf032d0007abc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | On Site | Jul 23 |
-| **[The PCA Companies](https://thepcacompanies.com/)** | **[Business Planning Analyst](https://jobright.ai/jobs/info/688288d9b54cac0f1e730583?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
