@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688a90b409808a6103e4fcac?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Massachusetts - Full Time Remote | Remote | Jul 30 |
+| **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst (YOLO/Member Enrollment) - Remote](https://jobright.ai/jobs/info/688a8f9409808a6103e4fbc5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 30 |
+| **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/688a82ebaab47a17f6709689?utm_campaign=Business%20Analyst&utm_source=1103)** | US-VA-McLean, Virginia (Westpark Dr) | Hybrid | Jul 30 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/688a80d809808a6103e4f3d8?utm_campaign=Business%20Analyst&utm_source=1103)** | US-GA-Alpharetta, Georgia (Sanct) | Hybrid | Jul 30 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[New Business Analyst](https://jobright.ai/jobs/info/688a732f9f961617fe21bb8c?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethlehem, PA | On Site | Jul 30 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Business Analyst/Systems Specialist, Associate](https://jobright.ai/jobs/info/688a8e469f961617fe21c938?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jul 30 |
 | **[Inclusively](https://inclusively.com/)** | **[Analyst, Corporate Strategy](https://jobright.ai/jobs/info/688a489a09808a6103e4d86d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 30 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/6889c23a09808a6103e4b62e?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[LAUNCH](http://launch.co)** | **[Business Researcher](https://jobright.ai/jobs/info/6889ad79aab47a17f6704758?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jul 29 |
