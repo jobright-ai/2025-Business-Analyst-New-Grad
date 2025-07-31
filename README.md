@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst (YOLO/Member Enrollment)](https://jobright.ai/jobs/info/688b3bf4906ac06e1d1ca1b4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 31 |
 | **[City National Bank](http://www.cnb.com)** | **[Small Business Consumer Processor I](https://jobright.ai/jobs/info/688b1eb49f961617fe221dbd?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 30 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688ad86daab47a17f670bc11?utm_campaign=Business%20Analyst&utm_source=1103)** | Massachusetts, United States | On Site | Jul 30 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst (YOLO/Member Enrollment) - Remote](https://jobright.ai/jobs/info/688a8f9409808a6103e4fbc5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 30 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Inclusively](https://inclusively.com/)** | **[Analyst, Corporate Strategy](https://jobright.ai/jobs/info/688a489a09808a6103e4d86d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 30 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/6889c23a09808a6103e4b62e?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[LAUNCH](http://launch.co)** | **[Business Researcher](https://jobright.ai/jobs/info/6889ad79aab47a17f6704758?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jul 29 |
-| **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6889b1fdaab47a17f6704a11?utm_campaign=Business%20Analyst&utm_source=1103)** | New York County, NY | Hybrid | Jul 29 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/6882eb99835a903aa07f180d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 29 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68897b8809808a6103e47d9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Jul 29 |
 | **[State of Florida](http://www.myflorida.com)** | **[IT BUSINESS ANALYST I - 36000185](https://jobright.ai/jobs/info/688a60db9f961617fe21b19a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tallahassee, FL | On Site | Jul 29 |
@@ -87,8 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6889b3cf9f961617fe217628?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Jul 28 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68880afa4174df41e0fa26de?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Jul 28 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 28 |
-| **[University of Southern California](http://www.usc.edu)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6887d3ff4174df41e0fa0e0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA - University Park Campus | On Site | Jul 28 |
-| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/6887cae44174df41e0fa0ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 28 |
+| **[University of Southern California](http://www.usc.edu)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6887d3e573e3e13cbd9405c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA - University Park Campus | On Site | Jul 28 |
+| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/6887c71f73e3e13cbd93ff23?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 28 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst-Hybrid](https://jobright.ai/jobs/info/6887ab314174df41e0f9f9de?utm_campaign=Business%20Analyst&utm_source=1103)** | 330 S. Service Road, Melville, NY, 11747, US | Hybrid | Jul 28 |
 | **[Unity](https://unity.com)** | **[Business / Data Analyst (entry level)](https://jobright.ai/jobs/info/6887c28a4174df41e0fa049d?utm_campaign=Business%20Analyst&utm_source=1103)** | New Cumberland, PA | On Site | Jul 28 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 28 |
