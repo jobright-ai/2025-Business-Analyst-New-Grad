@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Keller Postman LLC](https://www.kellerpostman.com)** | **[Intake Junior Business Analyst](https://jobright.ai/jobs/info/688bd6213a30793eb963e145?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Mary, Florida, United States | Hybrid | Jul 31 |
+| **[Keller Postman LLC](https://www.kellerpostman.com)** | **[Intake Junior Business Analyst](https://jobright.ai/jobs/info/688c2230906ac06e1d1d0ff6?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Mary, FL | Hybrid | Jul 31 |
+| ↳ | **[Intake Junior Business Analyst](https://jobright.ai/jobs/info/688bd6213a30793eb963e145?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Mary, Florida, United States | Hybrid | Jul 31 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Deloitte - Technology Packages Analyst](https://jobright.ai/jobs/info/688bf8f93a30793eb963f122?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | On Site | Jul 31 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/688bc4ba1808534a89cb5fa7?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Jul 31 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/688bb6803a30793eb963ccf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jul 31 |
@@ -69,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688ad86daab47a17f670bc11?utm_campaign=Business%20Analyst&utm_source=1103)** | Massachusetts, United States | On Site | Jul 30 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst (YOLO/Member Enrollment) - Remote](https://jobright.ai/jobs/info/688a8f9409808a6103e4fbc5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 30 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/688abe7c9f961617fe21dcf3?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Jul 30 |
-| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/688ab65709808a6103e50b74?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 30 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/68526105327493acee71848a?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | On Site | Jul 30 |
+| **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/688ab65709808a6103e50b74?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 30 |
 | **[The John F. Kennedy Center for the Performing Arts](http://www.kennedy-center.org)** | **[Business Systems Coordinator](https://jobright.ai/jobs/info/6865befce0db1b536368d866?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jul 30 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688a90b409808a6103e4fcac?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Massachusetts - Full Time Remote | Remote | Jul 30 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/688a82ebaab47a17f6709689?utm_campaign=Business%20Analyst&utm_source=1103)** | US-VA-McLean, Virginia (Westpark Dr) | Hybrid | Jul 30 |
@@ -110,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68671895bbeda2d64b8171d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Jul 25 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Insights & Analytics Associate - New York](https://jobright.ai/jobs/info/6883dbedb54cac0f1e73a4c6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 25 |
 | **[Fitch Solutions](https://www.fitchsolutions.com)** | **[Business Insights & Analytics Associate - New York](https://jobright.ai/jobs/info/688414fa835a903aa07fa116?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 25 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
