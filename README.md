@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d4a861808534a89cc2636?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 02 |
+| **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d5cf13a30793eb964a672?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 02 |
+| **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/688d60d03a30793eb964a7b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Barbara, CA | Hybrid | Aug 02 |
+| **[ASUS](https://www.asus.com)** | **[Business Analyst (CA or MN)](https://jobright.ai/jobs/info/688d646427f9022553c0b278?utm_campaign=Business%20Analyst&utm_source=1103)** | Hybrid Remote, Fremont, California | Hybrid | Aug 02 |
 | **[EAH Housing](http://www.eahhousing.org/)** | **[Business System Analyst (8912 - IT)Hybrid Remote Position](https://jobright.ai/jobs/info/688d7ad7cdbd821a3663a701?utm_campaign=Business%20Analyst&utm_source=1103)** | San Rafael, CA | Hybrid | Aug 01 |
-| **[ASUS](https://www.asus.com)** | **[Business Analyst (CA or MN)](https://jobright.ai/jobs/info/688d646427f9022553c0b278?utm_campaign=Business%20Analyst&utm_source=1103)** | Hybrid Remote, Fremont, California | Hybrid | Aug 01 |
-| **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/688d60d03a30793eb964a7b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Barbara, CA | Hybrid | Aug 01 |
 | **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d7caae5cead4afd455d0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 01 |
-| **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d4a861808534a89cc2636?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 01 |
-| **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d5cf13a30793eb964a672?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 01 |
-| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345d27f9022553c09fa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
+| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345c3a30793eb964974b?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
 | **[Farm Credit Mid-America](http://www.e-farmcredit.com/careers)** | **[IT Business Analyst](https://jobright.ai/jobs/info/688d2f9c3a30793eb96494c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Aug 01 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/688d13f11808534a89cc0c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 01 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - Tempus Technologies](https://jobright.ai/jobs/info/688d97c2cdbd821a3663c784?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 01 |
@@ -90,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/688a82ebaab47a17f6709689?utm_campaign=Business%20Analyst&utm_source=1103)** | US-VA-McLean, Virginia (Westpark Dr) | Hybrid | Jul 30 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/688a80d809808a6103e4f3d8?utm_campaign=Business%20Analyst&utm_source=1103)** | US-GA-Alpharetta, Georgia (Sanct) | Hybrid | Jul 30 |
 | **[Darigold](http://www.darigold.com)** | **[Business Systems Analyst I - Oracle Supply Chain](https://jobright.ai/jobs/info/6886b26c4174df41e0f9a75e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Jul 30 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/6852613c327493acee718fc4?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Jul 30 |
 | **[LAUNCH](http://launch.co)** | **[Business Researcher](https://jobright.ai/jobs/info/6889ad79aab47a17f6704758?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jul 29 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/688dab9bcdbd821a3663d8de?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Jul 29 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/6882eb99835a903aa07f180d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 29 |
