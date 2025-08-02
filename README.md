@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d4a861808534a89cc2636?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 01 |
 | **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345c3a30793eb964974b?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
 | **[Farm Credit Mid-America](http://www.e-farmcredit.com/careers)** | **[IT Business Analyst](https://jobright.ai/jobs/info/688d2f9c3a30793eb96494c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Aug 01 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/688d13f11808534a89cc0c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 01 |
