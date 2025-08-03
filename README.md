@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/688f59346a4aac5783cdd2e1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Aug 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/68829fa3835a903aa07ef6d5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, USA | On Site | Aug 02 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/687ef071db19f31cf0d6e468?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, United States | On Site | Aug 02 |
-| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/688ea5626a4aac5783cd99eb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Aug 02 |
 | **[General Assembly](https://generalassemb.ly/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67c78ec5684906ab34c542cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | On Site | Aug 02 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/688e6347cdbd821a366417c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Aug 02 |
+| **[Razorfish](http://www.amnesia.com.au)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/6837ac8962b7fb21ca4ba047?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Aug 02 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d4a861808534a89cc2636?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 02 |
 | **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/688d60d03a30793eb964a7b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Barbara, CA | Hybrid | Aug 02 |
 | **[ASUS](https://www.asus.com)** | **[Business Analyst (CA or MN)](https://jobright.ai/jobs/info/688d646427f9022553c0b278?utm_campaign=Business%20Analyst&utm_source=1103)** | Hybrid Remote, Fremont, California | Hybrid | Aug 02 |
