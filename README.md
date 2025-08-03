@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/688f59346a4aac5783cdd2e1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Aug 03 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/688f8d30cdbd821a36645c2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Aug 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/68829fa3835a903aa07ef6d5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, USA | On Site | Aug 02 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/687ef071db19f31cf0d6e468?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, United States | On Site | Aug 02 |
 | **[General Assembly](https://generalassemb.ly/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67c78ec5684906ab34c542cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | On Site | Aug 02 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/688e6347cdbd821a366417c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Aug 02 |
+| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 02 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/6837ac8962b7fb21ca4ba047?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Aug 02 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d4a861808534a89cc2636?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 02 |
 | **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/688d60d03a30793eb964a7b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Barbara, CA | Hybrid | Aug 02 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Deloitte](https://www2.deloitte.com)** | **[Deloitte - Technology Packages Analyst](https://jobright.ai/jobs/info/688bf8f93a30793eb963f122?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | On Site | Jul 31 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/688bb6803a30793eb963ccf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jul 31 |
 | ↳ | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/688bb13a906ac06e1d1cd72f?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jul 31 |
-| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 31 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68831e63b54cac0f1e735ccf?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jul 31 |
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst – Platform Support](https://jobright.ai/jobs/info/68516249adf0fc998e03f558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 31 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst (YOLO/Member Enrollment)](https://jobright.ai/jobs/info/688b3bf4906ac06e1d1ca1b4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 31 |
