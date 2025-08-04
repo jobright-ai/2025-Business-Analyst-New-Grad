@@ -57,35 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sidecar Health](https://sidecarhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6890b4854c7e851b90ac8df0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 04 |
+| **[RBC](https://www.rbc.com)** | **[Analyst/Associate, Global Markets, Junior Business Manager](https://jobright.ai/jobs/info/68911a024c7e851b90acc0f2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Aug 04 |
+| **[ACUITY A MUTUAL INSURANCE COMPANY](http://www.acuity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68912bb64c7e851b90accb19?utm_campaign=Business%20Analyst&utm_source=1103)** | Sheboygan, WI | On Site | Aug 04 |
 | **[AT&T](https://www.att.com/)** | **[Specialist Technical Business Analysis](https://jobright.ai/jobs/info/68910e03f5ee707a15dbbb03?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, Virginia | On Site | Aug 04 |
-| **[Growvix](https://www.linkedin.com/company/104166605)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/68910b5bf5ee707a15dbb993?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Aug 04 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/689104f4f5ee707a15dbb48c?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville Metro | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/689103d04c7e851b90acb31a?utm_campaign=Business%20Analyst&utm_source=1103)** | Ohio, United States | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/689101934c7e851b90acb217?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | Remote | Aug 04 |
+| **[RBC](https://www.rbc.com)** | **[Analyst/Associate, Global Markets, Junior Business Manager](https://jobright.ai/jobs/info/68912a5bf5ee707a15dbca8b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 04 |
 | **[Voya Financial](https://www.voya.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6890fbb94c7e851b90acafaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Aug 04 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890fb6d4c7e851b90acaf90?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890fb09f47efe2113951b37?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890f6d5f47efe2113951a15?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Remote | Aug 04 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6890f472f47efe2113951936?utm_campaign=Business%20Analyst&utm_source=1103)** | Sheboygan, WI | Remote | Aug 04 |
 | **[ASUS](https://www.asus.com)** | **[Business Analyst (CA or MN)](https://jobright.ai/jobs/info/6890ee4e4c7e851b90acaadb?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Aug 04 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/68910634f5ee707a15dbb567?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Aug 04 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6890e799f47efe21139513bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Houston | Hybrid | Aug 04 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d52bf47efe2113950bfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-SC | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d517f47efe2113950bdf?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-UT | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d48c4c7e851b90aca003?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d482f47efe2113950b24?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-WI | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d46f4c7e851b90ac9fda?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-NM | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d4674c7e851b90ac9fca?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-KS | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d459f47efe2113950ae6?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MO | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d455f5ee707a15dba0a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-TX | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d448f47efe2113950ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MI | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d43cf5ee707a15dba082?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-PA | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d4374c7e851b90ac9f90?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MN | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d3f74c7e851b90ac9f46?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-TN | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d3f2f5ee707a15dba023?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-IL | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d3d9f5ee707a15dba007?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-OH | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d3c6f5ee707a15db9fee?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-IN | Remote | Aug 04 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6890d36af5ee707a15db9f92?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-GA | Remote | Aug 04 |
 | **[Farm Credit Mid-America](http://www.e-farmcredit.com/careers)** | **[IT Business Analyst](https://jobright.ai/jobs/info/688d2f9c3a30793eb96494c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Aug 04 |
 | **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d7caae5cead4afd455d0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 04 |
 | **[Sprout Social, Inc.](http://sproutsocial.com)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/68901cee6a4aac5783cde425?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote US | Hybrid | Aug 03 |
@@ -93,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/68829fa3835a903aa07ef6d5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, USA | On Site | Aug 02 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/687ef071db19f31cf0d6e468?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, United States | On Site | Aug 02 |
 | **[General Assembly](https://generalassemb.ly/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67c78ec5684906ab34c542cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | On Site | Aug 02 |
+| **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68789a3d866a435525abb1fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 02 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/688e6347cdbd821a366417c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Aug 02 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 02 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/6837ac8962b7fb21ca4ba047?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Aug 02 |
@@ -129,7 +109,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/688a80d809808a6103e4f3d8?utm_campaign=Business%20Analyst&utm_source=1103)** | US-GA-Alpharetta, Georgia (Sanct) | Hybrid | Jul 30 |
 | **[Darigold](http://www.darigold.com)** | **[Business Systems Analyst I - Oracle Supply Chain](https://jobright.ai/jobs/info/6886b26c4174df41e0f9a75e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Jul 30 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/6852613c327493acee718fc4?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Jul 30 |
-| **[Sidecar Health](https://sidecarhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6890b4854c7e851b90ac8df0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 30 |
 | **[LAUNCH](http://launch.co)** | **[Business Researcher](https://jobright.ai/jobs/info/6889ad79aab47a17f6704758?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jul 29 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/6882eb99835a903aa07f180d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 29 |
 | **[State of Florida](http://www.myflorida.com)** | **[IT BUSINESS ANALYST I - 36000185](https://jobright.ai/jobs/info/688a60db9f961617fe21b19a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tallahassee, FL | On Site | Jul 29 |
@@ -138,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[USC](https://www.usc.co.uk/)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6888c3d1aab47a17f66fcda4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 29 |
 | ↳ | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6888bfa89f961617fe20f83b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 29 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Jul 29 |
-| **[University of Southern California](http://www.usc.edu)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6889b2ca09808a6103e4a961?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Jul 28 |
-| ↳ | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6889b3cf9f961617fe217628?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
