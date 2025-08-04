@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68900485cdbd821a36646561?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Aug 03 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/688f8d30cdbd821a36645c2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Aug 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/68829fa3835a903aa07ef6d5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, USA | On Site | Aug 02 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/687ef071db19f31cf0d6e468?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, United States | On Site | Aug 02 |
@@ -71,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[EAH Housing](http://www.eahhousing.org/)** | **[Business System Analyst (8912 - IT)Hybrid Remote Position](https://jobright.ai/jobs/info/688d7ad7cdbd821a3663a701?utm_campaign=Business%20Analyst&utm_source=1103)** | San Rafael, CA | Hybrid | Aug 01 |
 | **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d7caae5cead4afd455d0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/688d5cf13a30793eb964a672?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 01 |
-| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345c3a30793eb964974b?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
+| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345d27f9022553c09fa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
 | **[Farm Credit Mid-America](http://www.e-farmcredit.com/careers)** | **[IT Business Analyst](https://jobright.ai/jobs/info/688d2f9c3a30793eb96494c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Aug 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 01 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/688d13f11808534a89cc0c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 01 |
@@ -112,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[University of Southern California](http://www.usc.edu)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6889b2ca09808a6103e4a961?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Jul 28 |
 | ↳ | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6889b3cf9f961617fe217628?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Jul 28 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68880afa4174df41e0fa26de?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Jul 28 |
-| **[University of Southern California](http://www.usc.edu)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6887d3e573e3e13cbd9405c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA - University Park Campus | On Site | Jul 28 |
+| **[University of Southern California](http://www.usc.edu)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6887d3ff4174df41e0fa0e0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA - University Park Campus | On Site | Jul 28 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/6887cae44174df41e0fa0ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Jul 28 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst-Hybrid](https://jobright.ai/jobs/info/6887ab314174df41e0f9f9de?utm_campaign=Business%20Analyst&utm_source=1103)** | 330 S. Service Road, Melville, NY, 11747, US | Hybrid | Jul 28 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 28 |
