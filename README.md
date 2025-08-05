@@ -117,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[IT BUSINESS ANALYST I - 36000185](https://jobright.ai/jobs/info/688a60db9f961617fe21b19a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tallahassee, FL | On Site | Jul 29 |
 | **[Related Companies](http://www.related.com/)** | **[Commercial Business Analyst/Associate](https://jobright.ai/jobs/info/688925ec09808a6103e456e5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York | On Site | Jul 29 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Inventory Planning Analyst - ATF](https://jobright.ai/jobs/info/686c066c35584b6542226718?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jul 29 |
-| **[USC](https://www.usc.co.uk/)** | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6888c3d1aab47a17f66fcda4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 29 |
-| ↳ | **[Business Strategy Analyst, Athletics](https://jobright.ai/jobs/info/6888bfa89f961617fe20f83b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
