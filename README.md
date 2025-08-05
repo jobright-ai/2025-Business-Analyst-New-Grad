@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68920f204c7e851b90ad2fc7?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Massachusetts - Full Time Remote | Remote | Aug 05 |
+| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/68920c4b4c7e851b90ad2ef4?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 05 |
 | **[ASUS](https://www.asus.com)** | **[Business Analyst (CA or MN)](https://jobright.ai/jobs/info/6890ee4e4c7e851b90acaadb?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Aug 05 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[ERP Business Analyst II - 118014](https://jobright.ai/jobs/info/68914b49f47efe21139542e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Aug 05 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/)** | **[Business Systems Analyst 1, SG-18, Business Systems Analyst TR 2, SG-16, Business Systems Analyst TR 1, SG-14(NYHELPS) Item# 00286](https://jobright.ai/jobs/info/68918540f5ee707a15dbf637?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Aug 04 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 01 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/688d13f11808534a89cc0c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 01 |
 | **[Farm Credit Mid-America](http://www.e-farmcredit.com/careers)** | **[IT Business Analyst](https://jobright.ai/jobs/info/688ce9f01808534a89cbf9b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Aug 01 |
-| **[Pacific Life](http://www.pacificlife.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/688cc9e827f9022553c06dc7?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Aug 01 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/6882cb6c835a903aa07f0c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Aug 01 |
 | **[Wiland](https://wiland.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687595fcae2f413e4a5a8492?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 31 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b794c12ef4306c16e6c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 31 |
