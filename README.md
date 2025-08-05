@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/)** | **[Business Systems Analyst 1, SG-18, Business Systems Analyst TR 2, SG-16, Business Systems Analyst TR 1, SG-14(NYHELPS) Item# 00286](https://jobright.ai/jobs/info/68918540f5ee707a15dbf637?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Aug 04 |
 | **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/688d60d03a30793eb964a7b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Barbara, CA | Hybrid | Aug 04 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68914ef54c7e851b90acd8bd?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Aug 04 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[ERP Business Analyst II - 118014](https://jobright.ai/jobs/info/68914b49f47efe21139542e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Aug 04 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345c3a30793eb964974b?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 01 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/688d13f11808534a89cc0c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 01 |
-| **[PNC](http://www.pnc.com)** | **[Business Analyst - Tempus Technologies](https://jobright.ai/jobs/info/688d97c2cdbd821a3663c784?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 01 |
 | **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst/Associate](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 01 |
 | **[Farm Credit Mid-America](http://www.e-farmcredit.com/careers)** | **[IT Business Analyst](https://jobright.ai/jobs/info/688ce9f01808534a89cbf9b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Aug 01 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/688cc9e827f9022553c06dc7?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Aug 01 |
