@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/689241144c7e851b90ad4271?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Houston | Hybrid | Aug 05 |
 | **[Barclays Investment Bank](https://www.investmentbank.barclays.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6892291e4c7e851b90ad38b5?utm_campaign=Business%20Analyst&utm_source=1103)** | 115 South Jefferson Rd Campus, Whippany | On Site | Aug 05 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Associate professional, business anaysis](https://jobright.ai/jobs/info/68921729f5ee707a15dc31b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Williamsville, NY, United States of America | Hybrid | Aug 05 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68920f204c7e851b90ad2fc7?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Massachusetts - Full Time Remote | Remote | Aug 05 |
@@ -72,10 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst/Associate](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 04 |
 | **[Sidecar Health](https://sidecarhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6890b4854c7e851b90ac8df0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 04 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Revenue Reconciliation](https://jobright.ai/jobs/info/68922832f47efe211395a28a?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Aug 04 |
-| **[RBC](https://www.rbc.com)** | **[Analyst/Associate, Global Markets, Junior Business Manager](https://jobright.ai/jobs/info/68911a024c7e851b90acc0f2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Aug 04 |
 | **[ACUITY A MUTUAL INSURANCE COMPANY](http://www.acuity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68912bb64c7e851b90accb19?utm_campaign=Business%20Analyst&utm_source=1103)** | Sheboygan, WI | On Site | Aug 04 |
 | **[AT&T](https://www.att.com/)** | **[Specialist Technical Business Analysis](https://jobright.ai/jobs/info/68910e03f5ee707a15dbbb03?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, Virginia | On Site | Aug 04 |
-| **[RBC](https://www.rbc.com)** | **[Analyst/Associate, Global Markets, Junior Business Manager](https://jobright.ai/jobs/info/68912a5bf5ee707a15dbca8b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 04 |
 | **[Voya Financial](https://www.voya.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6890fbb94c7e851b90acafaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Aug 04 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6890f472f47efe2113951936?utm_campaign=Business%20Analyst&utm_source=1103)** | Sheboygan, WI | Remote | Aug 04 |
 | **[Farm Credit Mid-America](http://www.e-farmcredit.com/careers)** | **[IT Business Analyst](https://jobright.ai/jobs/info/688d2f9c3a30793eb96494c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Aug 04 |
@@ -94,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68885534fbbf032d0007ae30?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Aug 02 |
 | **[EAH Housing](http://www.eahhousing.org/)** | **[Business System Analyst (8912 - IT)Hybrid Remote Position](https://jobright.ai/jobs/info/688d7ad7cdbd821a3663a701?utm_campaign=Business%20Analyst&utm_source=1103)** | San Rafael, CA | Hybrid | Aug 01 |
 | **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d5cf13a30793eb964a672?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 01 |
-| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345d27f9022553c09fa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
+| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345c3a30793eb964974b?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 01 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/688d13f11808534a89cc0c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 01 |
 | **[Farm Credit Mid-America](http://www.e-farmcredit.com/careers)** | **[IT Business Analyst](https://jobright.ai/jobs/info/688ce9f01808534a89cbf9b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Aug 01 |
@@ -120,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/689216bb4c7e851b90ad31ae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 30 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/6852613c327493acee718fc4?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Jul 30 |
 | **[LAUNCH](http://launch.co)** | **[Business Researcher](https://jobright.ai/jobs/info/6889ad79aab47a17f6704758?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jul 29 |
-| **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/6882eb99835a903aa07f180d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
