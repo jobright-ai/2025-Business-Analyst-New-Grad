@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/68930905f5ee707a15dcbc51?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 06 |
+| **[Orvix Engineering](https://orvixengr.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6892facbf47efe2113961b80?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida, United States | Remote | Aug 05 |
 | **[2nd Order Solutions](https://2os.com)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6892ca084c7e851b90ad876a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA or Richmond, VA | Hybrid | Aug 05 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68929a36f5ee707a15dc6f08?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Aug 05 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Associate professional, Business Analysis](https://jobright.ai/jobs/info/689294b2f5ee707a15dc6d45?utm_campaign=Business%20Analyst&utm_source=1103)** | Williamsville, NY | Hybrid | Aug 05 |
@@ -121,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[The John F. Kennedy Center for the Performing Arts](http://www.kennedy-center.org)** | **[Business Systems Coordinator](https://jobright.ai/jobs/info/6865befce0db1b536368d866?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jul 30 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/688a82ebaab47a17f6709689?utm_campaign=Business%20Analyst&utm_source=1103)** | US-VA-McLean, Virginia (Westpark Dr) | Hybrid | Jul 30 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/688a80d809808a6103e4f3d8?utm_campaign=Business%20Analyst&utm_source=1103)** | US-GA-Alpharetta, Georgia (Sanct) | Hybrid | Jul 30 |
-| **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/689216bb4c7e851b90ad31ae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
