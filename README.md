@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68929a36f5ee707a15dc6f08?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Aug 05 |
+| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Associate professional, Business Analysis](https://jobright.ai/jobs/info/689294b2f5ee707a15dc6d45?utm_campaign=Business%20Analyst&utm_source=1103)** | Williamsville, NY | Hybrid | Aug 05 |
+| **[Barclays Bank Delaware](https://cards.barclaycardus.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68928ebff47efe211395d6a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Whippany, NJ | On Site | Aug 05 |
 | **[Wave Broadband](http://www.wavebroadband.com)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/68926f954c7e851b90ad5c4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Aug 05 |
 | **[Reyes Fleet Management](https://reyesholdings.com/what-we-do/reyes-fleet-management)** | **[IT Business Analyst - VIP (ERP)](https://jobright.ai/jobs/info/689262c84c7e851b90ad549b?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, Illinois | On Site | Aug 05 |
+| **[Crossfire, LLC](http://crossfire-llc.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6892948ef47efe211395d8fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Aug 05 |
 | **[CGI](https://www.cgi.com)** | **[Entry Level Momentum Business Analyst](https://jobright.ai/jobs/info/68924d5b4c7e851b90ad47a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Aug 05 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/689241144c7e851b90ad4271?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Houston | Hybrid | Aug 05 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Associate professional, business anaysis](https://jobright.ai/jobs/info/68921729f5ee707a15dc31b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Williamsville, NY, United States of America | Hybrid | Aug 05 |
@@ -83,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[WGL Energy](http://wglenergy.com)** | **[WGL Energy - Business Analyst](https://jobright.ai/jobs/info/6891acd14c7e851b90ad16e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | Aug 04 |
 | **[Sprout Social, Inc.](http://sproutsocial.com)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/68901cee6a4aac5783cde425?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote US | Hybrid | Aug 03 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68900485cdbd821a36646561?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Aug 03 |
-| **[Apple](https://www.apple.com)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/68927cb9f5ee707a15dc626a?utm_campaign=Business%20Analyst&utm_source=1103)** | Cupertino, CA | On Site | Aug 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/68829fa3835a903aa07ef6d5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, USA | On Site | Aug 02 |
 | **[Tenstorrent](http://tenstorrent.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/687ef071db19f31cf0d6e468?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, United States | On Site | Aug 02 |
 | **[General Assembly](https://generalassemb.ly/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/67c78ec5684906ab34c542cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | On Site | Aug 02 |
@@ -95,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68885534fbbf032d0007ae30?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Aug 02 |
 | **[EAH Housing](http://www.eahhousing.org/)** | **[Business System Analyst (8912 - IT)Hybrid Remote Position](https://jobright.ai/jobs/info/688d7ad7cdbd821a3663a701?utm_campaign=Business%20Analyst&utm_source=1103)** | San Rafael, CA | Hybrid | Aug 01 |
 | **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d5cf13a30793eb964a672?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 01 |
-| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345c3a30793eb964974b?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
+| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345d27f9022553c09fa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 01 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/688d13f11808534a89cc0c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 01 |
 | **[Commonwealth of Kentucky - Commonwealth Office of Technology](https://www.kentucky.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6892580e4c7e851b90ad4d04?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY, US | Hybrid | Aug 01 |
