@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Net](https://www.healthnet.com)** | **[Business Analyst I Claims, Amisys](https://jobright.ai/jobs/info/68938814f47efe2113964c69?utm_campaign=Business%20Analyst&utm_source=1103)** | CA | Remote | Aug 06 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68789a3d866a435525abb1fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 06 |
 | **[Orvix Engineering](https://orvixengr.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6892facbf47efe2113961b80?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida, United States | Remote | Aug 06 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/68930905f5ee707a15dcbc51?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 06 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Crossfire, LLC](http://crossfire-llc.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6892948ef47efe211395d8fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Aug 05 |
 | **[CGI](https://www.cgi.com)** | **[Entry Level Momentum Business Analyst](https://jobright.ai/jobs/info/68924d5b4c7e851b90ad47a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Aug 05 |
 | **[AT&T](https://www.att.com/)** | **[Specialist Technical Business Analysis](https://jobright.ai/jobs/info/6892e6e4f47efe211396085e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Aug 05 |
+| **[Barclays Investment Bank](https://www.investmentbank.barclays.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68938fb44c7e851b90ade64a?utm_campaign=Business%20Analyst&utm_source=1103)** | 115 South Jefferson Rd Campus, Whippany | On Site | Aug 05 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68920f204c7e851b90ad2fc7?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Massachusetts - Full Time Remote | Remote | Aug 05 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/68920c4b4c7e851b90ad2ef4?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 05 |
 | **[ASUS](https://www.asus.com)** | **[Business Analyst (CA or MN)](https://jobright.ai/jobs/info/6890ee4e4c7e851b90acaadb?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Aug 05 |
@@ -98,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68885534fbbf032d0007ae30?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Aug 02 |
 | **[EAH Housing](http://www.eahhousing.org/)** | **[Business System Analyst (8912 - IT)Hybrid Remote Position](https://jobright.ai/jobs/info/688d7ad7cdbd821a3663a701?utm_campaign=Business%20Analyst&utm_source=1103)** | San Rafael, CA | Hybrid | Aug 01 |
 | **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d5cf13a30793eb964a672?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 01 |
-| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345c3a30793eb964974b?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
+| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345d27f9022553c09fa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 01 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/688d13f11808534a89cc0c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 01 |
 | **[Commonwealth of Kentucky - Commonwealth Office of Technology](https://www.kentucky.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6892580e4c7e851b90ad4d04?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY, US | Hybrid | Aug 01 |
@@ -114,6 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst (YOLO/Member Enrollment)](https://jobright.ai/jobs/info/688b3bf4906ac06e1d1ca1b4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 31 |
 | **[City National Bank](http://www.cnb.com)** | **[Small Business Consumer Processor I](https://jobright.ai/jobs/info/688b1eb49f961617fe221dbd?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 30 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[New Business Analyst](https://jobright.ai/jobs/info/688d9cfae5cead4afd45826a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethlehem, PA | On Site | Jul 30 |
-| **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst (YOLO/Member Enrollment) - Remote](https://jobright.ai/jobs/info/688a8f9409808a6103e4fbc5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 30 |
-| **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/688abe7c9f961617fe21dcf3?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
