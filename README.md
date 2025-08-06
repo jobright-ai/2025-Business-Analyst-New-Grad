@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvix Engineering](https://orvixengr.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6892facbf47efe2113961b80?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida, United States | Remote | Aug 06 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/68930905f5ee707a15dcbc51?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 06 |
-| **[Orvix Engineering](https://orvixengr.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6892facbf47efe2113961b80?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida, United States | Remote | Aug 05 |
 | **[2nd Order Solutions](https://2os.com)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6892ca084c7e851b90ad876a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA or Richmond, VA | Hybrid | Aug 05 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68929a36f5ee707a15dc6f08?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Aug 05 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Associate professional, Business Analysis](https://jobright.ai/jobs/info/689294b2f5ee707a15dc6d45?utm_campaign=Business%20Analyst&utm_source=1103)** | Williamsville, NY | Hybrid | Aug 05 |
@@ -100,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68885534fbbf032d0007ae30?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Aug 02 |
 | **[EAH Housing](http://www.eahhousing.org/)** | **[Business System Analyst (8912 - IT)Hybrid Remote Position](https://jobright.ai/jobs/info/688d7ad7cdbd821a3663a701?utm_campaign=Business%20Analyst&utm_source=1103)** | San Rafael, CA | Hybrid | Aug 01 |
 | **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d5cf13a30793eb964a672?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 01 |
-| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345d27f9022553c09fa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
+| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345c3a30793eb964974b?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 01 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/688d13f11808534a89cc0c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 01 |
 | **[Commonwealth of Kentucky - Commonwealth Office of Technology](https://www.kentucky.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6892580e4c7e851b90ad4d04?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY, US | Hybrid | Aug 01 |
