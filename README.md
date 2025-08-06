@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[2nd Order Solutions](https://2os.com)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6892ca084c7e851b90ad876a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA or Richmond, VA | Hybrid | Aug 05 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68929a36f5ee707a15dc6f08?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Aug 05 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Associate professional, Business Analysis](https://jobright.ai/jobs/info/689294b2f5ee707a15dc6d45?utm_campaign=Business%20Analyst&utm_source=1103)** | Williamsville, NY | Hybrid | Aug 05 |
 | **[Wave Broadband](http://www.wavebroadband.com)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/68926f954c7e851b90ad5c4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Aug 05 |
 | **[Reyes Fleet Management](https://reyesholdings.com/what-we-do/reyes-fleet-management)** | **[IT Business Analyst - VIP (ERP)](https://jobright.ai/jobs/info/689262c84c7e851b90ad549b?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, Illinois | On Site | Aug 05 |
 | **[Crossfire, LLC](http://crossfire-llc.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6892948ef47efe211395d8fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Aug 05 |
 | **[CGI](https://www.cgi.com)** | **[Entry Level Momentum Business Analyst](https://jobright.ai/jobs/info/68924d5b4c7e851b90ad47a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Aug 05 |
+| **[AT&T](https://www.att.com/)** | **[Specialist Technical Business Analysis](https://jobright.ai/jobs/info/6892e6e4f47efe211396085e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Aug 05 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Associate professional, business anaysis](https://jobright.ai/jobs/info/68921729f5ee707a15dc31b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Williamsville, NY, United States of America | Hybrid | Aug 05 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68920f204c7e851b90ad2fc7?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Massachusetts - Full Time Remote | Remote | Aug 05 |
 | **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/68920c4b4c7e851b90ad2ef4?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 05 |
@@ -120,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/688a82ebaab47a17f6709689?utm_campaign=Business%20Analyst&utm_source=1103)** | US-VA-McLean, Virginia (Westpark Dr) | Hybrid | Jul 30 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/688a80d809808a6103e4f3d8?utm_campaign=Business%20Analyst&utm_source=1103)** | US-GA-Alpharetta, Georgia (Sanct) | Hybrid | Jul 30 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/689216bb4c7e851b90ad31ae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 30 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/6852613c327493acee718fc4?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
