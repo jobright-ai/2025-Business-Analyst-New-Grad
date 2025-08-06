@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Health Net](https://www.healthnet.com)** | **[Business Analyst I Claims, Amisys](https://jobright.ai/jobs/info/68938814f47efe2113964c69?utm_campaign=Business%20Analyst&utm_source=1103)** | CA | Remote | Aug 06 |
+| **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[BUSINESS SYSTEMS ANALYST](https://jobright.ai/jobs/info/6893a73bf47efe2113965c03?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 06 |
+| **[Ally](http://www.ally.com/)** | **[Analyst - Business Ops, Tech](https://jobright.ai/jobs/info/68939e60a9199876488dea35?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 06 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68789a3d866a435525abb1fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 06 |
 | **[Orvix Engineering](https://orvixengr.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6892facbf47efe2113961b80?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida, United States | Remote | Aug 06 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst (Business Insurance)](https://jobright.ai/jobs/info/68930905f5ee707a15dcbc51?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 06 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Jack Link's Protein Snacks](https://jacklinks.com.au/)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/68914837f5ee707a15dbd7b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Aug 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/689145974c7e851b90acd5aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Aug 04 |
 | **[Sidecar Health](https://sidecarhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6890b4854c7e851b90ac8df0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 04 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Revenue Reconciliation](https://jobright.ai/jobs/info/6893a6e7f47efe2113965b75?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Aug 04 |
 | **[ACUITY A MUTUAL INSURANCE COMPANY](http://www.acuity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68912bb64c7e851b90accb19?utm_campaign=Business%20Analyst&utm_source=1103)** | Sheboygan, WI | On Site | Aug 04 |
 | **[AT&T](https://www.att.com/)** | **[Specialist Technical Business Analysis](https://jobright.ai/jobs/info/68910e03f5ee707a15dbbb03?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, Virginia | On Site | Aug 04 |
 | **[Voya Financial](https://www.voya.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6890fbb94c7e851b90acafaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Aug 04 |
@@ -115,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst – Platform Support](https://jobright.ai/jobs/info/68516249adf0fc998e03f558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 31 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst (YOLO/Member Enrollment)](https://jobright.ai/jobs/info/688b3bf4906ac06e1d1ca1b4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 31 |
 | **[City National Bank](http://www.cnb.com)** | **[Small Business Consumer Processor I](https://jobright.ai/jobs/info/688b1eb49f961617fe221dbd?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jul 30 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[New Business Analyst](https://jobright.ai/jobs/info/688d9cfae5cead4afd45826a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethlehem, PA | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
