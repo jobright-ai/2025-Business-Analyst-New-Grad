@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Business Analyst - 1-800-Radiator](https://jobright.ai/jobs/info/6894532fa9199876488e4dbf?utm_campaign=Business%20Analyst&utm_source=1103)** | Benicia, CA | On Site | Aug 07 |
+| **[HSBC](http://www.hsbc.com)** | **[Analyst, Global Trade Solutions Business Support](https://jobright.ai/jobs/info/68944ba4a9199876488e4854?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Aug 06 |
+| **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[ER/LR Business Analyst I](https://jobright.ai/jobs/info/68944666f47efe211396b3ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 06 |
+| **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689445af4c7e851b90ae4a73?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Aug 06 |
 | **[Reyes Fleet Management](https://reyesholdings.com/what-we-do/reyes-fleet-management)** | **[IT Business Analyst - VIP (ERP)](https://jobright.ai/jobs/info/689262c84c7e851b90ad549b?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, Illinois | On Site | Aug 06 |
 | **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[BUSINESS SYSTEMS ANALYST](https://jobright.ai/jobs/info/6893a73bf47efe2113965c03?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Business Analytics](https://jobright.ai/jobs/info/6893ec8c4c7e851b90ae15bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Aug 06 |
