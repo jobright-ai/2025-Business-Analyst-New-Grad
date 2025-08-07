@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6894ec788c6d6b4426775abd?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 07 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e5e473b3a600fe8831e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | Aug 07 |
+| ↳ | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e41f4ed2ea559ca5171d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 07 |
+| **[Ally](http://www.ally.com/)** | **[Analyst - Business Ops, Tech](https://jobright.ai/jobs/info/68939e60a9199876488dea35?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 07 |
 | **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Business Analyst - 1-800-Radiator](https://jobright.ai/jobs/info/6894532fa9199876488e4dbf?utm_campaign=Business%20Analyst&utm_source=1103)** | Benicia, CA | On Site | Aug 07 |
 | **[HSBC](http://www.hsbc.com)** | **[Analyst, Global Trade Solutions Business Support](https://jobright.ai/jobs/info/68944ba4a9199876488e4854?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Aug 06 |
 | **[University of Pittsburgh](pitt.edu)** | **[ER/LR Business Analyst I](https://jobright.ai/jobs/info/68944666f47efe211396b3ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 06 |
 | **[Reyes Fleet Management](https://reyesholdings.com/what-we-do/reyes-fleet-management)** | **[IT Business Analyst - VIP (ERP)](https://jobright.ai/jobs/info/689262c84c7e851b90ad549b?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, Illinois | On Site | Aug 06 |
 | **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[BUSINESS SYSTEMS ANALYST](https://jobright.ai/jobs/info/6893a73bf47efe2113965c03?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Business Analytics](https://jobright.ai/jobs/info/6893ec8c4c7e851b90ae15bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Aug 06 |
-| **[Ally](http://www.ally.com/)** | **[Analyst - Business Ops, Tech](https://jobright.ai/jobs/info/68939e60a9199876488dea35?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 06 |
 | **[Arrow Components](https://www.arrow.com/components)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6894abe84ed2ea559ca4f583?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Albany, Georgia Area | On Site | Aug 06 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68789a3d866a435525abb1fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 06 |
 | **[Orvix Engineering](https://orvixengr.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6892facbf47efe2113961b80?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida, United States | Remote | Aug 06 |
@@ -112,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/6894859373b3a600fe87feed?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Aug 01 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/6882cb6c835a903aa07f0c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Aug 01 |
 | **[Wiland](https://wiland.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/687595fcae2f413e4a5a8492?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 31 |
-| **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b794c12ef4306c16e6c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
