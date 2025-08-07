@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Business Analytics](https://jobright.ai/jobs/info/6893ec8c4c7e851b90ae15bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Aug 06 |
+| **[Reyes Fleet Management](https://reyesholdings.com/what-we-do/reyes-fleet-management)** | **[IT Business Analyst - VIP (ERP)](https://jobright.ai/jobs/info/689262c84c7e851b90ad549b?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, Illinois | On Site | Aug 06 |
 | **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[BUSINESS SYSTEMS ANALYST](https://jobright.ai/jobs/info/6893a73bf47efe2113965c03?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 06 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Business Analytics](https://jobright.ai/jobs/info/6893ec8c4c7e851b90ae15bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Aug 06 |
 | **[Ally](http://www.ally.com/)** | **[Analyst - Business Ops, Tech](https://jobright.ai/jobs/info/68939e60a9199876488dea35?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 06 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68789a3d866a435525abb1fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 06 |
 | **[Orvix Engineering](https://orvixengr.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6892facbf47efe2113961b80?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida, United States | Remote | Aug 06 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68929a36f5ee707a15dc6f08?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Aug 05 |
 | **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 05 |
 | **[Wave Broadband](http://www.wavebroadband.com)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/68926f954c7e851b90ad5c4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Aug 05 |
-| **[Reyes Fleet Management](https://reyesholdings.com/what-we-do/reyes-fleet-management)** | **[IT Business Analyst - VIP (ERP)](https://jobright.ai/jobs/info/689262c84c7e851b90ad549b?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, Illinois | On Site | Aug 05 |
 | **[Crossfire, LLC](http://crossfire-llc.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6892948ef47efe211395d8fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Aug 05 |
 | **[CGI](https://www.cgi.com)** | **[Entry Level Momentum Business Analyst](https://jobright.ai/jobs/info/68924d5b4c7e851b90ad47a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Aug 05 |
 | **[AT&T](https://www.att.com/)** | **[Specialist Technical Business Analysis](https://jobright.ai/jobs/info/6892e6e4f47efe211396085e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Aug 05 |
@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/688f04ddcdbd821a36644926?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | On Site | Aug 05 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[ERP Business Analyst II - 118014](https://jobright.ai/jobs/info/68914b49f47efe21139542e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Aug 05 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 05 |
+| **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689441504c7e851b90ae4759?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Aug 04 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/)** | **[Business Systems Analyst 1, SG-18, Business Systems Analyst TR 2, SG-16, Business Systems Analyst TR 1, SG-14(NYHELPS) Item# 00286](https://jobright.ai/jobs/info/68918540f5ee707a15dbf637?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Aug 04 |
 | **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/688d60d03a30793eb964a7b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Barbara, CA | Hybrid | Aug 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/689145974c7e851b90acd5aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Aug 04 |
@@ -111,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Deloitte](https://www2.deloitte.com)** | **[Deloitte - Technology Packages Analyst](https://jobright.ai/jobs/info/688bf8f93a30793eb963f122?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | On Site | Jul 31 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/688bb6803a30793eb963ccf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jul 31 |
 | ↳ | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/688bb13a906ac06e1d1cd72f?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jul 31 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68831e63b54cac0f1e735ccf?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
