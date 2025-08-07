@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Business Analytics](https://jobright.ai/jobs/info/6893ec8c4c7e851b90ae15bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Aug 06 |
 | **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[BUSINESS SYSTEMS ANALYST](https://jobright.ai/jobs/info/6893a73bf47efe2113965c03?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 06 |
 | **[Ally](http://www.ally.com/)** | **[Analyst - Business Ops, Tech](https://jobright.ai/jobs/info/68939e60a9199876488dea35?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 06 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68789a3d866a435525abb1fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 06 |
@@ -114,5 +115,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/688bb13a906ac06e1d1cd72f?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jul 31 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68831e63b54cac0f1e735ccf?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jul 31 |
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst – Platform Support](https://jobright.ai/jobs/info/68516249adf0fc998e03f558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 31 |
-| **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst (YOLO/Member Enrollment)](https://jobright.ai/jobs/info/688b3bf4906ac06e1d1ca1b4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
