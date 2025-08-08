@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/6895f89673b3a600fe88bab7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Aug 08 |
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc - Tech Business Analyst](https://jobright.ai/jobs/info/68954db44ed2ea559ca54dcf?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 07 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/689530a873b3a600fe885a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Aug 07 |
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc - Tech Business Analyst](https://jobright.ai/jobs/info/689510bd73b3a600fe884cfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 07 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Arrow Components](https://www.arrow.com/components)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6894abe84ed2ea559ca4f583?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Albany, Georgia Area | On Site | Aug 06 |
 | **[Arrowhead Programs](https://arrowheadprograms.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/687c6d9bed63844c944ad701?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | On Site | Aug 06 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68789a3d866a435525abb1fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 06 |
+| **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 06 |
 | **[Orvix Engineering](https://orvixengr.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6892facbf47efe2113961b80?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida, United States | Remote | Aug 06 |
 | **[2nd Order Solutions](https://2os.com)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6892ca084c7e851b90ad876a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA or Richmond, VA | Hybrid | Aug 05 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68929a36f5ee707a15dc6f08?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Aug 05 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Arrowhead Programs](https://arrowheadprograms.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6885aa104174df41e0f98031?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | On Site | Aug 05 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/688f04ddcdbd821a36644926?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas, United States | On Site | Aug 05 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[ERP Business Analyst II - 118014](https://jobright.ai/jobs/info/68914b49f47efe21139542e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Aug 05 |
-| **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst/Associate](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 05 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/)** | **[Business Systems Analyst 1, SG-18, Business Systems Analyst TR 2, SG-16, Business Systems Analyst TR 1, SG-14(NYHELPS) Item# 00286](https://jobright.ai/jobs/info/68918540f5ee707a15dbf637?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Aug 04 |
 | **[UC Santa Barbara](https://www.ucsb.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/688d60d03a30793eb964a7b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Barbara, CA | Hybrid | Aug 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/689145974c7e851b90acd5aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Aug 04 |
@@ -108,6 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68885534fbbf032d0007ae30?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Aug 02 |
 | **[EAH Housing](http://www.eahhousing.org/)** | **[Business System Analyst (8912 - IT)Hybrid Remote Position](https://jobright.ai/jobs/info/688d7ad7cdbd821a3663a701?utm_campaign=Business%20Analyst&utm_source=1103)** | San Rafael, CA | Hybrid | Aug 01 |
 | **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d5cf13a30793eb964a672?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 01 |
-| **[Össur](http://www.ossur.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d345c3a30793eb964974b?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, Florida, USA | Hybrid | Aug 01 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
