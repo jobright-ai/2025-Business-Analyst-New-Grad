@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tech Observer](http://tech-observer.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68961b5173b3a600fe88cafd?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Aug 08 |
+| **[Exeter Finance](http://www.exeterfinance.com)** | **[Business Strategy Analyst I](https://jobright.ai/jobs/info/689634f81b9e81727f18ec51?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX | On Site | Aug 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Analyst](https://jobright.ai/jobs/info/68960f9e8c6d6b442677eb1b?utm_campaign=Business%20Analyst&utm_source=1103)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Aug 08 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68960f091b9e81727f18dca6?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-TX | Remote | Aug 08 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/689623e11b9e81727f18e645?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Aug 08 |
+| **[Tech Observer](http://tech-observer.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68961b5173b3a600fe88cafd?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Aug 08 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/6895f89673b3a600fe88bab7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Aug 08 |
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc - Tech Business Analyst](https://jobright.ai/jobs/info/68954db44ed2ea559ca54dcf?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 07 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/689530a873b3a600fe885a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Aug 07 |
@@ -110,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d4a861808534a89cc2636?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 02 |
 | **[ASUS](https://www.asus.com)** | **[Business Analyst (CA or MN)](https://jobright.ai/jobs/info/688d646427f9022553c0b278?utm_campaign=Business%20Analyst&utm_source=1103)** | Hybrid Remote, Fremont, California | Hybrid | Aug 02 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68885534fbbf032d0007ae30?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Aug 02 |
-| **[EAH Housing](http://www.eahhousing.org/)** | **[Business System Analyst (8912 - IT)Hybrid Remote Position](https://jobright.ai/jobs/info/688d7ad7cdbd821a3663a701?utm_campaign=Business%20Analyst&utm_source=1103)** | San Rafael, CA | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
