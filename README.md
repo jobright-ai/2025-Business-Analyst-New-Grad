@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/689812388c6d6b442679504b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York County, NY | Hybrid | Aug 09 |
 | **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 08 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/6897540673b3a600fe896fd8?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Aug 08 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/689760c11b9e81727f1996bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 08 |
