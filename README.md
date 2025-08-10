@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/6898e51483d13d1f5b691144?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Aug 10 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6898d6aa5574fd6bc0c7aa24?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Aug 10 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/6898462ffaa4e875e824cb3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 10 |
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/689812388c6d6b442679504b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York County, NY | Hybrid | Aug 09 |
+| **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6861fe61b8120079f9a95e62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 09 |
 | **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 08 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/6897540673b3a600fe896fd8?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Aug 08 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/689760c11b9e81727f1996bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 08 |
@@ -75,10 +77,10 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/689530a873b3a600fe885a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Aug 07 |
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc - Tech Business Analyst](https://jobright.ai/jobs/info/689510bd73b3a600fe884cfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 07 |
 | **[Cenlar FSB](http://www.cenlar.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6895099c73b3a600fe8848d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Yardley, PA | Hybrid | Aug 07 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 07 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 07 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6894ec788c6d6b4426775abd?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 07 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e5e473b3a600fe8831e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | Aug 07 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6897a4078c6d6b442678f46c?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 07 |
+| ↳ | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e5e473b3a600fe8831e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | Aug 07 |
 | ↳ | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e41f4ed2ea559ca5171d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 07 |
 | **[HSBC](http://www.hsbc.com)** | **[Analyst, Global Trade Solutions Business Support](https://jobright.ai/jobs/info/68944ba4a9199876488e4854?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Aug 06 |
 | **[University of Pittsburgh](pitt.edu)** | **[ER/LR Business Analyst I](https://jobright.ai/jobs/info/68944666f47efe211396b3ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 06 |
