@@ -77,9 +77,9 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc - Tech Business Analyst](https://jobright.ai/jobs/info/68954db44ed2ea559ca54dcf?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 07 |
 | ↳ | **[Tech Business Analyst Assc - Tech Business Analyst](https://jobright.ai/jobs/info/689510bd73b3a600fe884cfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 07 |
 | **[Cenlar FSB](http://www.cenlar.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6895099c73b3a600fe8848d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Yardley, PA | Hybrid | Aug 07 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 07 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6894ec788c6d6b4426775abd?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 07 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6897a4078c6d6b442678f46c?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 07 |
-| ↳ | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e5e473b3a600fe8831e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | Aug 07 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e5e473b3a600fe8831e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | Aug 07 |
 | ↳ | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e41f4ed2ea559ca5171d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 07 |
 | **[HSBC](http://www.hsbc.com)** | **[Analyst, Global Trade Solutions Business Support](https://jobright.ai/jobs/info/68944ba4a9199876488e4854?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Aug 06 |
 | **[University of Pittsburgh](pitt.edu)** | **[ER/LR Business Analyst I](https://jobright.ai/jobs/info/68944666f47efe211396b3ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 06 |
@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Reyes Beverage Group](https://reyesbeerdivision.com)** | **[IT Business Analyst - VIP (ERP)](https://jobright.ai/jobs/info/6897824f73b3a600fe89a5f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, Illinois | On Site | Aug 04 |
 | **[Martin Brower](http://martinbrower.com)** | **[IT Business Analyst - VIP (ERP)](https://jobright.ai/jobs/info/68993b2683d13d1f5b6917d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, Illinois | On Site | Aug 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/689145974c7e851b90acd5aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Aug 04 |
-| **[Sidecar Health](https://sidecarhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6890b4854c7e851b90ac8df0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
