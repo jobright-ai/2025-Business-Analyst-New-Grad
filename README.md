@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6899763efaa4e875e8252a81?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Aug 10 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6897ac318c6d6b44267900fc?utm_campaign=Business%20Analyst&utm_source=1103)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Aug 10 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/6898e51483d13d1f5b691144?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Aug 10 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6898d6aa5574fd6bc0c7aa24?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Aug 10 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/6898462ffaa4e875e824cb3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 10 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 09 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6861fe61b8120079f9a95e62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 09 |
-| **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6899763efaa4e875e8252a81?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Aug 08 |
 | **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 08 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/6897540673b3a600fe896fd8?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Aug 08 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/689760c11b9e81727f1996bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 08 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Associate - Wealth Management Solutions Technology Analyst](https://jobright.ai/jobs/info/689868b883d13d1f5b6903c5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 08 |
 | **[Exeter Finance](http://www.exeterfinance.com)** | **[Business Strategy Analyst I](https://jobright.ai/jobs/info/689770bc1b9e81727f19a962?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX | On Site | Aug 08 |
 | ↳ | **[Business Strategy Analyst I](https://jobright.ai/jobs/info/68977abe1b9e81727f19b70a?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX | On Site | Aug 08 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6897ac318c6d6b44267900fc?utm_campaign=Business%20Analyst&utm_source=1103)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Aug 08 |
 | **[Tech Observer](http://tech-observer.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68973b1d73b3a600fe895288?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Aug 08 |
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc - Tech Business Analyst](https://jobright.ai/jobs/info/68954db44ed2ea559ca54dcf?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 07 |
 | ↳ | **[Tech Business Analyst Assc - Tech Business Analyst](https://jobright.ai/jobs/info/689510bd73b3a600fe884cfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 07 |
@@ -112,6 +112,4 @@ For a complete list, click the following sortable link below:
 | **[AT&T](https://www.att.com/)** | **[Specialist Technical Business Analysis](https://jobright.ai/jobs/info/68910e03f5ee707a15dbbb03?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, Virginia | On Site | Aug 04 |
 | **[Voya Financial](https://www.voya.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6890fbb94c7e851b90acafaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Aug 04 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6890f472f47efe2113951936?utm_campaign=Business%20Analyst&utm_source=1103)** | Sheboygan, WI | Remote | Aug 04 |
-| **[Farm Credit Mid-America](http://www.e-farmcredit.com/careers)** | **[IT Business Analyst](https://jobright.ai/jobs/info/688d2f9c3a30793eb96494c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisville, KY | Hybrid | Aug 04 |
-| **[Ambry Genetics](http://www.ambrygen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/688d7caae5cead4afd455d0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
