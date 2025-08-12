@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/689bb7f9faa4e875e8263003?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | Hybrid | Aug 12 |
+| **[Accenture](https://www.accenture.com)** | **[Partners in Performance Strategy Business Sr. Analyst](https://jobright.ai/jobs/info/689bb3c4faa4e875e8262b59?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Aug 12 |
+| **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 12 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance Strategy Business Sr. Analyst](https://jobright.ai/jobs/info/689b7e2c79a9f96662530c32?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, 888 Boylston, Corp | On Site | Aug 12 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/689b5cd583d13d1f5b69f9df?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 12 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/689b572083d13d1f5b69f8a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Aug 12 |
