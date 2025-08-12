@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689a989e83d13d1f5b69a35d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 11 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/689a93ef5574fd6bc0c83a96?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Aug 11 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Business Systems Solutions Analyst II](https://jobright.ai/jobs/info/689a8381faa4e875e8259540?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 11 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Associate - Clinical Supply Systems](https://jobright.ai/jobs/info/689aadd0faa4e875e825af7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Aug 11 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/689a815f5574fd6bc0c83160?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 11 |
@@ -94,12 +93,10 @@ For a complete list, click the following sortable link below:
 | **[Reyes Fleet Management](https://reyesholdings.com/what-we-do/reyes-fleet-management)** | **[IT Business Analyst - VIP (ERP)](https://jobright.ai/jobs/info/689262c84c7e851b90ad549b?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, Illinois | On Site | Aug 06 |
 | **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[BUSINESS SYSTEMS ANALYST](https://jobright.ai/jobs/info/6893a73bf47efe2113965c03?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/689731741b9e81727f195dfd?utm_campaign=Business%20Analyst&utm_source=1103)** | Stamford, Connecticut | Hybrid | Aug 06 |
-| **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 06 |
 | **[Orvix Engineering](https://orvixengr.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6892facbf47efe2113961b80?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida, United States | Remote | Aug 06 |
 | **[2nd Order Solutions](https://2os.com)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6892ca084c7e851b90ad876a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA or Richmond, VA | Hybrid | Aug 05 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68929a36f5ee707a15dc6f08?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Aug 05 |
 | **[CGI](https://www.cgi.com)** | **[Entry Level Momentum Business Analyst](https://jobright.ai/jobs/info/68924d5b4c7e851b90ad47a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Aug 05 |
 | **[Arrowhead Programs](https://arrowheadprograms.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/687c6d9bed63844c944ad701?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | On Site | Aug 05 |
 | **[AT&T](https://www.att.com/)** | **[Specialist Technical Business Analysis](https://jobright.ai/jobs/info/6892e6e4f47efe211396085e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Aug 05 |
-| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Business Process Associate](https://jobright.ai/jobs/info/68920c4b4c7e851b90ad2ef4?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL | Hybrid | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
