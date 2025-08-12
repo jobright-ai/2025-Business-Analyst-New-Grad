@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accenture](https://www.accenture.com)** | **[Partners in Performance Strategy Business Sr. Analyst](https://jobright.ai/jobs/info/689b7e2c79a9f96662530c32?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, 888 Boylston, Corp | On Site | Aug 12 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/689b5cd583d13d1f5b69f9df?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 12 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/689b572083d13d1f5b69f8a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Aug 12 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/689b408dfaa4e875e825f1ac?utm_campaign=Business%20Analyst&utm_source=1103)** | 45 Fruit Street Boston (Lunder Building) | On Site | Aug 12 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Tech Observer](http://tech-observer.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68973b1d73b3a600fe895288?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Aug 08 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/689ae4cafaa4e875e825d9b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Aug 07 |
 | **[Cenlar FSB](http://www.cenlar.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6895099c73b3a600fe8848d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Yardley, PA | Hybrid | Aug 07 |
-| **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc - Tech Business Analyst](https://jobright.ai/jobs/info/689b570179a9f9666252fb83?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 07 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6894ec788c6d6b4426775abd?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 07 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6897a4078c6d6b442678f46c?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 07 |
 | ↳ | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e5e473b3a600fe8831e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | Aug 07 |
