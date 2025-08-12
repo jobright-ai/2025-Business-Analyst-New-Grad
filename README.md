@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TriWest Healthcare Alliance](http://triwest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689a989e83d13d1f5b69a35d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 11 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Strategy Assistant - Fresh Graduates](https://jobright.ai/jobs/info/689a93ef5574fd6bc0c83a96?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Remote | Aug 11 |
+| **[Lumen Technologies](https://www.lumen.com)** | **[Business Systems Solutions Analyst II](https://jobright.ai/jobs/info/689a8381faa4e875e8259540?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 11 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/689a815f5574fd6bc0c83160?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 11 |
 | **[Hive](https://thehive.ai/)** | **[Business Analyst, Hive Models](https://jobright.ai/jobs/info/6745d84317314312922bec9d?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | Aug 11 |
 | **[CIBC](https://www.cibc.com)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/689a559183d13d1f5b6982e3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 11 |
