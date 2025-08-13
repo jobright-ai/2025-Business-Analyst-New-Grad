@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/689aeb365574fd6bc0c87b50?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 12 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/689bef3b83d13d1f5b6a496c?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston | On Site | Aug 12 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[[Hybrid] Business Analyst 2 (15828-4)](https://jobright.ai/jobs/info/689bd47e79a9f9666253415e?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Aug 12 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689bd44583d13d1f5b6a3d03?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Aug 12 |
 | **[Health Net](https://www.healthnet.com)** | **[Business Analyst I Claims, Amisys](https://jobright.ai/jobs/info/689bccf0faa4e875e8263943?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Remote | Aug 12 |
@@ -105,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[BUSINESS SYSTEMS ANALYST](https://jobright.ai/jobs/info/6893a73bf47efe2113965c03?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/689731741b9e81727f195dfd?utm_campaign=Business%20Analyst&utm_source=1103)** | Stamford, Connecticut | Hybrid | Aug 06 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Claims, Amisys](https://jobright.ai/jobs/info/689bd0b3faa4e875e8263aec?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-CA | Remote | Aug 06 |
-| **[Orvix Engineering](https://orvixengr.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6892facbf47efe2113961b80?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida, United States | Remote | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
