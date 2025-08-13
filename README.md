@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knowledgent](http://www.knowledgent.com)** | **[Partners in Performance Strategy Business Sr. Analyst](https://jobright.ai/jobs/info/689c182683d13d1f5b6a5ea9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Aug 12 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/689aeb365574fd6bc0c87b50?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 12 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/689bef3b83d13d1f5b6a496c?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston | On Site | Aug 12 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[[Hybrid] Business Analyst 2 (15828-4)](https://jobright.ai/jobs/info/689bd47e79a9f9666253415e?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Aug 12 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/689b408dfaa4e875e825f1ac?utm_campaign=Business%20Analyst&utm_source=1103)** | 45 Fruit Street Boston (Lunder Building) | On Site | Aug 12 |
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/689b0510faa4e875e825e966?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 12 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[ERP Business Analyst II - 118014](https://jobright.ai/jobs/info/68914b49f47efe21139542e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Aug 11 |
+| **[Sagora Senior Living](https://www.sagora.com/)** | **[Business Director](https://jobright.ai/jobs/info/689c222b83d13d1f5b6a65ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Rocklin, CA | On Site | Aug 11 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689a989e83d13d1f5b69a35d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 11 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Business Systems Solutions Analyst II](https://jobright.ai/jobs/info/689a8381faa4e875e8259540?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 11 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Associate - Clinical Supply Systems](https://jobright.ai/jobs/info/689aadd0faa4e875e825af7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Aug 11 |
@@ -98,9 +100,9 @@ For a complete list, click the following sortable link below:
 | **[Tech Observer](http://tech-observer.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68973b1d73b3a600fe895288?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Aug 08 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/689ae4cafaa4e875e825d9b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Aug 07 |
 | **[Cenlar FSB](http://www.cenlar.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6895099c73b3a600fe8848d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Yardley, PA | Hybrid | Aug 07 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 07 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6894ec788c6d6b4426775abd?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 07 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e5e473b3a600fe8831e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | Aug 07 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6897a4078c6d6b442678f46c?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 07 |
+| ↳ | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e5e473b3a600fe8831e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | Aug 07 |
 | ↳ | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e41f4ed2ea559ca5171d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 07 |
 | **[HSBC](http://www.hsbc.com)** | **[Analyst, Global Trade Solutions Business Support](https://jobright.ai/jobs/info/68944ba4a9199876488e4854?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Aug 06 |
 | **[Reyes Fleet Management](https://reyesholdings.com/what-we-do/reyes-fleet-management)** | **[IT Business Analyst - VIP (ERP)](https://jobright.ai/jobs/info/689262c84c7e851b90ad549b?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, Illinois | On Site | Aug 06 |
