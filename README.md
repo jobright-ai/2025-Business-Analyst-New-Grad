@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Knowledgent](http://www.knowledgent.com)** | **[Partners in Performance Strategy Business Sr. Analyst](https://jobright.ai/jobs/info/689c182683d13d1f5b6a5ea9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Aug 12 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/689aeb365574fd6bc0c87b50?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 12 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/689bef3b83d13d1f5b6a496c?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston | On Site | Aug 12 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[[Hybrid] Business Analyst 2 (15828-4)](https://jobright.ai/jobs/info/689bd47e79a9f9666253415e?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Aug 12 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689bd44583d13d1f5b6a3d03?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Aug 12 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance Strategy Business Sr. Analyst](https://jobright.ai/jobs/info/689bb3c4faa4e875e8262b59?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Aug 12 |
