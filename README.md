@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KeyBank](https://www.key.com)** | **[2026 Key's Technology, Operations & Services (Data Track) Rotational Analyst Program - Cleveland](https://jobright.ai/jobs/info/689cb5edfaa4e875e826a03f?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
-| ↳ | **[2026 Key's Technology, Operations & Services (Data Track) Rotational Analyst Program - Cleveland](https://jobright.ai/jobs/info/689cb38083d13d1f5b6a9fcc?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
+| **[KeyBank](https://www.key.com)** | **[2026 Key's Technology, Operations & Services (Data Track) Rotational Analyst Program - Cleveland](https://jobright.ai/jobs/info/689cb38083d13d1f5b6a9fcc?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Business Manager (Brazil Market)  Associate](https://jobright.ai/jobs/info/689ca6bcfaa4e875e82694bc?utm_campaign=Business%20Analyst&utm_source=1103)** | 1450 Brickell Ave, Miami, FL, 33131, US | On Site | Aug 13 |
+| **[KeyBank](https://www.key.com)** | **[2026 Key's Technology, Operations & Services (Data Track) Rotational Analyst Program - Cleveland](https://jobright.ai/jobs/info/689cb5edfaa4e875e826a03f?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
 | **[Knowledgent](http://www.knowledgent.com)** | **[Partners in Performance Strategy Business Sr. Analyst](https://jobright.ai/jobs/info/689c182683d13d1f5b6a5ea9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Aug 12 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/689aeb365574fd6bc0c87b50?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 12 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[[Hybrid] Business Analyst 2 (15828-4)](https://jobright.ai/jobs/info/689bd47e79a9f9666253415e?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Aug 12 |
@@ -80,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[CIBC](https://www.cibc.com)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/689a559183d13d1f5b6982e3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 11 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator - NEW YORK](https://jobright.ai/jobs/info/689a441983d13d1f5b6977c8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 11 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689a2d1afaa4e875e825669b?utm_campaign=Business%20Analyst&utm_source=1103)** | El Paso, TX | Hybrid | Aug 11 |
-| **[Citi](https://www.citi.com)** | **[Business Coordinator - NEW YORK](https://jobright.ai/jobs/info/689a1c9e5574fd6bc0c7fcd2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York New York United States | On Site | Aug 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6897ac318c6d6b44267900fc?utm_campaign=Business%20Analyst&utm_source=1103)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Aug 10 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/6898e51483d13d1f5b691144?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Aug 10 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6898d6aa5574fd6bc0c7aa24?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Aug 10 |
@@ -98,9 +97,9 @@ For a complete list, click the following sortable link below:
 | **[Tech Observer](http://tech-observer.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68973b1d73b3a600fe895288?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Aug 08 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/689ae4cafaa4e875e825d9b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Aug 07 |
 | **[Cenlar FSB](http://www.cenlar.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6895099c73b3a600fe8848d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Yardley, PA | Hybrid | Aug 07 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 07 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6894ec788c6d6b4426775abd?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 07 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6897a4078c6d6b442678f46c?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 07 |
-| ↳ | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e5e473b3a600fe8831e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | Aug 07 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e5e473b3a600fe8831e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | Aug 07 |
 | ↳ | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894e41f4ed2ea559ca5171d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 07 |
 | **[University of Pittsburgh](pitt.edu)** | **[ER/LR Business Analyst I](https://jobright.ai/jobs/info/689c40a379a9f9666253827c?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 07 |
 | **[HSBC](http://www.hsbc.com)** | **[Analyst, Global Trade Solutions Business Support](https://jobright.ai/jobs/info/68944ba4a9199876488e4854?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Aug 06 |
