@@ -106,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Reyes Fleet Management](https://reyesholdings.com/what-we-do/reyes-fleet-management)** | **[IT Business Analyst - VIP (ERP)](https://jobright.ai/jobs/info/689262c84c7e851b90ad549b?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, Illinois | On Site | Aug 06 |
 | **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[BUSINESS SYSTEMS ANALYST](https://jobright.ai/jobs/info/6893a73bf47efe2113965c03?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/689731741b9e81727f195dfd?utm_campaign=Business%20Analyst&utm_source=1103)** | Stamford, Connecticut | Hybrid | Aug 06 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Claims, Amisys](https://jobright.ai/jobs/info/689bd0b3faa4e875e8263aec?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-CA | Remote | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
