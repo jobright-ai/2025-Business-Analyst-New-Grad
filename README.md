@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/689d777d79a9f96662540a82?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 13 |
 | **[KeyBank](https://www.key.com)** | **[2026 Business Analyst Development Program- Cleveland](https://jobright.ai/jobs/info/689d35d383d13d1f5b6ae07d?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University - Process Improvement and Business Analyst](https://jobright.ai/jobs/info/689d357ffaa4e875e826dee2?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 13 |
 | **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/689d2fccfaa4e875e826db5c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 13 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 09 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6861fe61b8120079f9a95e62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Business Analyst - Emerging Channels](https://jobright.ai/jobs/info/689af16c83d13d1f5b69e5e5?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Aug 09 |
+| **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689d7b74faa4e875e8270b13?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Aug 08 |
 | **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 08 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/6897540673b3a600fe896fd8?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Aug 08 |
 | **[Exeter Finance](http://www.exeterfinance.com)** | **[Business Strategy Analyst I](https://jobright.ai/jobs/info/689757ca73b3a600fe897439?utm_campaign=Business%20Analyst&utm_source=1103)** | DFW Metroplex | On Site | Aug 08 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Exeter Finance](http://www.exeterfinance.com)** | **[Business Strategy Analyst I](https://jobright.ai/jobs/info/689770bc1b9e81727f19a962?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX | On Site | Aug 08 |
 | ↳ | **[Business Strategy Analyst I](https://jobright.ai/jobs/info/68977abe1b9e81727f19b70a?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX | On Site | Aug 08 |
 | **[Tech Observer](http://tech-observer.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68973b1d73b3a600fe895288?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Aug 08 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/689ae4cafaa4e875e825d9b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Aug 07 |
 | **[Cenlar FSB](http://www.cenlar.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6895099c73b3a600fe8848d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Yardley, PA | Hybrid | Aug 07 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 07 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6894ec788c6d6b4426775abd?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 07 |
