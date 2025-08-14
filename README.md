@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/689e2255faa4e875e827705e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 14 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/689e1174faa4e875e827685d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Aug 14 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/68885429fbbf032d0007abc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | Hybrid | Aug 14 |
 | **[Tillster](http://tillster.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/689db4e679a9f96662544120?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 14 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 14 |
