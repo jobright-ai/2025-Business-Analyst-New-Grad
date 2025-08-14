@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KeyBank](https://www.key.com)** | **[2026 Business Analyst Development Program- Cleveland](https://jobright.ai/jobs/info/689d35d383d13d1f5b6ae07d?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
+| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University - Process Improvement and Business Analyst](https://jobright.ai/jobs/info/689d357ffaa4e875e826dee2?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 13 |
+| **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/689d2fccfaa4e875e826db5c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 13 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, Business Analyst and Process Improvement Specialist](https://jobright.ai/jobs/info/689d1f0879a9f9666253d712?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 13 |
 | **[J.Crew Factory](https://factory.jcrew.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/689d125779a9f9666253d27e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA (Headquarters) | Hybrid | Aug 13 |
 | **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/689d206879a9f9666253d8cb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 13 |
@@ -65,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/689cdc0583d13d1f5b6ab2e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Aug 13 |
 | **[KeyBank](https://www.key.com)** | **[2026 Key's Technology, Operations & Services (Data Track) Rotational Analyst Program - Cleveland](https://jobright.ai/jobs/info/689cb38083d13d1f5b6a9fcc?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
 | ↳ | **[2026 Key's Technology, Operations & Services (Data Track) Rotational Analyst Program - Cleveland](https://jobright.ai/jobs/info/689cb5edfaa4e875e826a03f?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
-| **[Knowledgent](http://www.knowledgent.com)** | **[Partners in Performance Strategy Business Sr. Analyst](https://jobright.ai/jobs/info/689c182683d13d1f5b6a5ea9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Aug 12 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/689aeb365574fd6bc0c87b50?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 12 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[[Hybrid] Business Analyst 2 (15828-4)](https://jobright.ai/jobs/info/689bd47e79a9f9666253415e?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Aug 12 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance Strategy Business Sr. Analyst](https://jobright.ai/jobs/info/689bb3c4faa4e875e8262b59?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Aug 12 |
