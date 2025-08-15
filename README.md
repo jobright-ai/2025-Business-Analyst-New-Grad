@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sprout Social, Inc.](http://sproutsocial.com)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/689ed83e83d13d1f5b6c2aed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 14 |
+| **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 14 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright.ai/jobs/info/689e863079a9f9666254da32?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Aug 14 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Business Analyst - Remote in WA or NC](https://jobright.ai/jobs/info/689ea9c879a9f9666254e90e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Aug 14 |
 | **[Zoe Financial](https://zoefinancial.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68796c30a7fc8904e3962b96?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Aug 14 |
@@ -104,7 +105,5 @@ For a complete list, click the following sortable link below:
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6861fe61b8120079f9a95e62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Business Analyst - Emerging Channels](https://jobright.ai/jobs/info/689af16c83d13d1f5b69e5e5?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Aug 09 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689d7b74faa4e875e8270b13?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Aug 08 |
-| **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 08 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/6897540673b3a600fe896fd8?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Aug 08 |
-| **[Exeter Finance](http://www.exeterfinance.com)** | **[Business Strategy Analyst I](https://jobright.ai/jobs/info/689757ca73b3a600fe897439?utm_campaign=Business%20Analyst&utm_source=1103)** | DFW Metroplex | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
