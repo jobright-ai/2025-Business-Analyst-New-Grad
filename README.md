@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6861fe61b8120079f9a95e62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Business Analyst - Emerging Channels](https://jobright.ai/jobs/info/689af16c83d13d1f5b69e5e5?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Aug 09 |
 | **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689d7b74faa4e875e8270b13?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Aug 08 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/6897540673b3a600fe896fd8?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
