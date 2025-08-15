@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICF](https://www.icf.com)** | **[Business Analyst - Energy Efficiency](https://jobright.ai/jobs/info/689f443279a9f96662555817?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Aug 15 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/689f3a4683d13d1f5b6c4f5d?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Aug 15 |
 | **[Sprout Social, Inc.](http://sproutsocial.com)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/689ed83e83d13d1f5b6c2aed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 14 |
 | **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 14 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Key's Technology, Operations & Services (Data Track) Rotational Analyst Program - Cleveland](https://jobright.ai/jobs/info/689cb38083d13d1f5b6a9fcc?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Athletics Business Analyst](https://jobright.ai/jobs/info/6875e579299cbc74b8758a3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 13 |
 | **[KeyBank](https://www.key.com)** | **[2026 Key's Technology, Operations & Services (Data Track) Rotational Analyst Program - Cleveland](https://jobright.ai/jobs/info/689cb5edfaa4e875e826a03f?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Business Manager (Brazil Market)  Associate](https://jobright.ai/jobs/info/689f4980faa4e875e8285a49?utm_campaign=Business%20Analyst&utm_source=1103)** | 1450 Brickell Ave, Miami, FL, 33131, US | On Site | Aug 13 |
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b794c12ef4306c16e6c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 12 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/689aeb365574fd6bc0c87b50?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 12 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[[Hybrid] Business Analyst 2 (15828-4)](https://jobright.ai/jobs/info/689bd47e79a9f9666253415e?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Aug 12 |
