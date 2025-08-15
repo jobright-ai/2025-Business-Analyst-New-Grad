@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Business Analyst I- Fraud Risk Strategy](https://jobright.ai/jobs/info/689fa049faa4e875e828a431?utm_campaign=Business%20Analyst&utm_source=1103)** | 2500 Westfield Dr, Elgin, IL, 60124, US | On Site | Aug 15 |
+| **[CIBC Capital Markets](https://cibccm.com/en/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/689f9d09faa4e875e828a240?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 15 |
+| **[Chase](https://www.chase.com/)** | **[Business Analyst I- Fraud Risk Strategy](https://jobright.ai/jobs/info/689f9b2cb3e889632cf08fcc?utm_campaign=Business%20Analyst&utm_source=1103)** | 2500 Westfield Dr, Elgin, IL, 60124, US | On Site | Aug 15 |
+| **[Jackson](https://www.jackson.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689f9b2283d13d1f5b6c9ee5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
 | **[ICF](https://www.icf.com)** | **[Business Analyst - Energy Efficiency](https://jobright.ai/jobs/info/689f7a2fb3e889632cf078c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Aug 15 |
-| ↳ | **[Business Analyst - Energy Efficiency](https://jobright.ai/jobs/info/689f443279a9f96662555817?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Aug 15 |
+| **[PSEG](https://www.pseg.com)** | **[Sr Associate IT Business Analyst](https://jobright.ai/jobs/info/689fa370faa4e875e828a588?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Aug 15 |
+| **[ICF](https://www.icf.com)** | **[Business Analyst - Energy Efficiency](https://jobright.ai/jobs/info/689f443279a9f96662555817?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Aug 15 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/689f3a4683d13d1f5b6c4f5d?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Aug 15 |
 | **[Sprout Social, Inc.](http://sproutsocial.com)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/689ed83e83d13d1f5b6c2aed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 14 |
 | **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 14 |
@@ -108,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b8a9e86dff4492d60ee2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 09 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6861fe61b8120079f9a95e62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Senior Associate, Business Analyst - Emerging Channels](https://jobright.ai/jobs/info/689af16c83d13d1f5b69e5e5?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Aug 09 |
-| **[Midland Credit Management, an Encore Capital Group Company](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689d7b74faa4e875e8270b13?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
