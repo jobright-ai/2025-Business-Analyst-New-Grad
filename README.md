@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fe0d783d13d1f5b6cba46?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 15 |
-| **[HP](http://www.hp.com)** | **[Public Sector Business Analyst](https://jobright.ai/jobs/info/689fc3c183d13d1f5b6cad69?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States of America | On Site | Aug 15 |
+| **[HP](http://www.hp.com)** | **[Public Sector Business Analyst](https://jobright.ai/jobs/info/689fc3b3faa4e875e828af94?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States of America | On Site | Aug 15 |
 | **[PPM America, Inc.](http://www.ppmamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689fbc8783d13d1f5b6cab3f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Business Analyst I- Fraud Risk Strategy](https://jobright.ai/jobs/info/689fa049faa4e875e828a431?utm_campaign=Business%20Analyst&utm_source=1103)** | 2500 Westfield Dr, Elgin, IL, 60124, US | On Site | Aug 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fb34bfaa4e875e828a8f9?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 15 |
