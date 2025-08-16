@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HP](http://www.hp.com)** | **[Public Sector Business Analyst](https://jobright.ai/jobs/info/689fc3b3faa4e875e828af94?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States of America | On Site | Aug 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fe0d783d13d1f5b6cba46?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 15 |
+| **[HP](http://www.hp.com)** | **[Public Sector Business Analyst](https://jobright.ai/jobs/info/689fd6affaa4e875e828b89d?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Aug 15 |
+| ↳ | **[Public Sector Business Analyst](https://jobright.ai/jobs/info/689fc3b3faa4e875e828af94?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States of America | On Site | Aug 15 |
 | **[PPM America, Inc.](http://www.ppmamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689fbc8783d13d1f5b6cab3f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Business Analyst I- Fraud Risk Strategy](https://jobright.ai/jobs/info/689fa049faa4e875e828a431?utm_campaign=Business%20Analyst&utm_source=1103)** | 2500 Westfield Dr, Elgin, IL, 60124, US | On Site | Aug 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fb34bfaa4e875e828a8f9?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 15 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Sprout Social, Inc.](http://sproutsocial.com)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/689ed83e83d13d1f5b6c2aed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 14 |
 | **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 14 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright.ai/jobs/info/689e863079a9f9666254da32?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Aug 14 |
+| **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 14 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Business Analyst - Remote in WA or NC](https://jobright.ai/jobs/info/689ea9c879a9f9666254e90e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Aug 14 |
 | **[Zoe Financial](https://zoefinancial.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68796c30a7fc8904e3962b96?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Aug 14 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Business Analyst - Remote in WA or NC](https://jobright.ai/jobs/info/689eaa37faa4e875e827ed17?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Aug 14 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Business Systems Analyst (Personal Insurance)](https://jobright.ai/jobs/info/684b794c12ef4306c16e6c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Aug 12 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/689aeb365574fd6bc0c87b50?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 12 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[[Hybrid] Business Analyst 2 (15828-4)](https://jobright.ai/jobs/info/689bd47e79a9f9666253415e?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Aug 12 |
-| **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 12 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/689b5cd583d13d1f5b69f9df?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 12 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/689b572083d13d1f5b69f8a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Aug 12 |
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/689b0510faa4e875e825e966?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 12 |
