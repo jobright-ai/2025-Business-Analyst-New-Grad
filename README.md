@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sprout Social, Inc.](http://sproutsocial.com)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/689ed83e83d13d1f5b6c2aed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6878ca42991967626f06f6d7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
 | **[Verisk](https://www.verisk.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a3033837d3cc6b0d574357?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ, United States | Remote | Aug 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 17 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[PSEG](https://www.pseg.com)** | **[Sr Associate IT Business Analyst](https://jobright.ai/jobs/info/689fa370faa4e875e828a588?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Aug 15 |
 | **[ICF](https://www.icf.com)** | **[Business Analyst - Energy Efficiency](https://jobright.ai/jobs/info/689f443279a9f96662555817?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Aug 15 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/689f3a4683d13d1f5b6c4f5d?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Aug 15 |
-| **[Sprout Social, Inc.](http://sproutsocial.com)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/689ed83e83d13d1f5b6c2aed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 14 |
 | **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 14 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright.ai/jobs/info/689e863079a9f9666254da32?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Aug 14 |
 | **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 14 |
@@ -114,6 +114,4 @@ For a complete list, click the following sortable link below:
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[ERP Business Analyst II - 118014](https://jobright.ai/jobs/info/68914b49f47efe21139542e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Aug 11 |
 | **[Sagora Senior Living](https://www.sagora.com/)** | **[Business Director](https://jobright.ai/jobs/info/689c222b83d13d1f5b6a65ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Rocklin, CA | On Site | Aug 11 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689a989e83d13d1f5b69a35d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 11 |
-| **[Lumen Technologies](https://www.lumen.com)** | **[Business Systems Solutions Analyst II](https://jobright.ai/jobs/info/689a8381faa4e875e8259540?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 11 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/689a815f5574fd6bc0c83160?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
