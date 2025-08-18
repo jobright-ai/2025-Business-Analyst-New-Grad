@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a361f037d3cc6b0d57662f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 18 |
 | **[Sprout Social, Inc.](http://sproutsocial.com)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/689ed83e83d13d1f5b6c2aed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6878ca42991967626f06f6d7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
 | **[Verisk](https://www.verisk.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a3033837d3cc6b0d574357?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ, United States | Remote | Aug 18 |
@@ -82,9 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 14 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright.ai/jobs/info/689e863079a9f9666254da32?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Aug 14 |
 | **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 14 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Business Analyst - Remote in WA or NC](https://jobright.ai/jobs/info/689ea9c879a9f9666254e90e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Aug 14 |
 | **[Zoe Financial](https://zoefinancial.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68796c30a7fc8904e3962b96?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Aug 14 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Business Analyst - Remote in WA or NC](https://jobright.ai/jobs/info/689eaa37faa4e875e827ed17?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Aug 14 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/689e2255faa4e875e827705e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 14 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/689e1174faa4e875e827685d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Aug 14 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/68885429fbbf032d0007abc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | Hybrid | Aug 14 |
@@ -110,8 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Tenet Healthcare](http://tenethealth.com)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/689b5cd583d13d1f5b69f9df?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 12 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/689b572083d13d1f5b69f8a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Aug 12 |
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/689b0510faa4e875e825e966?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 12 |
-| **[Citi](https://www.citi.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/689ed8b483d13d1f5b6c2d4e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 11 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[ERP Business Analyst II - 118014](https://jobright.ai/jobs/info/68914b49f47efe21139542e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Remote | Aug 11 |
 | **[Sagora Senior Living](https://www.sagora.com/)** | **[Business Director](https://jobright.ai/jobs/info/689c222b83d13d1f5b6a65ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Rocklin, CA | On Site | Aug 11 |
-| **[TriWest Healthcare Alliance](http://triwest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/689a989e83d13d1f5b69a35d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
