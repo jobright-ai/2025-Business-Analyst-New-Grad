@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I (Provider Data)](https://jobright.ai/jobs/info/68a3b908403ad4363b1c336e?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-NC | Remote | Aug 18 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Technical Business Analyst II](https://jobright.ai/jobs/info/68a3a69a403ad4363b1c2bbf?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI Corporate | Hybrid | Aug 18 |
+| ↳ | **[Technical Business Analyst II](https://jobright.ai/jobs/info/68a3a66137d3cc6b0d578925?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY Corporate | Hybrid | Aug 18 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a37cf637d3cc6b0d5776a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 18 |
-| ↳ | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a361f037d3cc6b0d57662f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 18 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6878ca42991967626f06f6d7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
 | **[Verisk](https://www.verisk.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a3033837d3cc6b0d574357?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ, United States | Remote | Aug 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 17 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fb34bfaa4e875e828a8f9?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 15 |
 | **[CIBC Capital Markets](https://cibccm.com/en/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/689f9d09faa4e875e828a240?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 15 |
 | **[Chase](https://www.chase.com/)** | **[Business Analyst I- Fraud Risk Strategy](https://jobright.ai/jobs/info/689f9b2cb3e889632cf08fcc?utm_campaign=Business%20Analyst&utm_source=1103)** | 2500 Westfield Dr, Elgin, IL, 60124, US | On Site | Aug 15 |
-| **[ICF](https://www.icf.com)** | **[Business Analyst - Energy Efficiency](https://jobright.ai/jobs/info/689f7a2fb3e889632cf078c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Aug 15 |
 | **[PSEG](https://www.pseg.com)** | **[Sr Associate IT Business Analyst](https://jobright.ai/jobs/info/689fa370faa4e875e828a588?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Aug 15 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/689f3a4683d13d1f5b6c4f5d?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Aug 15 |
 | **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 14 |
