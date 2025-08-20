@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a55c1f33dd7158bbc996e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | Hybrid | Aug 19 |
+| **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a553b3758f2e4ac3fde0ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | Hybrid | Aug 19 |
 | **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a524b9758f2e4ac3fdc41b?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Aug 19 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/68a52460758f2e4ac3fdc3b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 19 |
 | **[Tawa Supermarket, Inc.](http://www.99ranch.com)** | **[Business Operations Specialist (BPO Specialist)](https://jobright.ai/jobs/info/68a5157c758f2e4ac3fdbc70?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Aug 19 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 19 |
 | **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[GENERAL PROFESSIONAL IV (TAXATION BUSINESS ANALYST) - DOWNTOWN, OAHU](https://jobright.ai/jobs/info/68a41e94e9f1c744da120fc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu County, HI | On Site | Aug 18 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/68a54bfeb6a3617d7fa7046d?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Aug 18 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a40843541cc34798409c03?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | Hybrid | Aug 18 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a3d87c37d3cc6b0d57a18c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a361f037d3cc6b0d57662f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 18 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6878ca42991967626f06f6d7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
@@ -92,11 +93,9 @@ For a complete list, click the following sortable link below:
 | **[Jackson](https://www.jackson.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a47323541cc3479840ba11?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
 | **[PSEG](https://www.pseg.com)** | **[Sr Associate IT Business Analyst](https://jobright.ai/jobs/info/689fa370faa4e875e828a588?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Aug 15 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/689f3a4683d13d1f5b6c4f5d?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Aug 15 |
-| **[Clemson University](http://www.clemson.edu)** | **[Information Systems Business Analyst II](https://jobright.ai/jobs/info/68973dcc8c6d6b4426787c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Clemson, SC | On Site | Aug 14 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright.ai/jobs/info/689e863079a9f9666254da32?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Aug 14 |
 | **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 14 |
 | **[Zoe Financial](https://zoefinancial.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68796c30a7fc8904e3962b96?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Aug 14 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/689e2255faa4e875e827705e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 14 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/689e1174faa4e875e827685d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Aug 14 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/68885429fbbf032d0007abc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | Hybrid | Aug 14 |
 | **[Tillster](http://tillster.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/689db4e679a9f96662544120?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 14 |
@@ -109,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[J.Crew](https://jobs.jcrew.com/JCrew)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/689d206879a9f9666253d8cb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 13 |
 | **[KeyBank](https://www.key.com)** | **[2026 Business Analyst Development Program- Cleveland](https://jobright.ai/jobs/info/689d05bafaa4e875e826cb39?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
 | **[California State University-Sacramento](https://www.csus.edu/)** | **[Athletics Business Analyst](https://jobright.ai/jobs/info/6875e579299cbc74b8758a3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 13 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Business Manager (Brazil Market)  Associate](https://jobright.ai/jobs/info/689f4980faa4e875e8285a49?utm_campaign=Business%20Analyst&utm_source=1103)** | 1450 Brickell Ave, Miami, FL, 33131, US | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
