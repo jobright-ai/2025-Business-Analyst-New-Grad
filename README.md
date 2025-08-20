@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crowe](https://www.crowe.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a5eaa033dd7158bbc9c821?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago IL USA | On Site | Aug 20 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a55c1f33dd7158bbc996e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | Hybrid | Aug 19 |
 | **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a553b3758f2e4ac3fde0ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | Hybrid | Aug 19 |
 | **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a524b9758f2e4ac3fdc41b?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Aug 19 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 16 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 16 |
 | **[PPM America, Inc.](http://www.ppmamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a53d5733dd7158bbc9835e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
-| **[HP](http://www.hp.com)** | **[Public Sector Business Analyst](https://jobright.ai/jobs/info/689fc3c183d13d1f5b6cad69?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States of America | On Site | Aug 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/6882cb6c835a903aa07f0c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Aug 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fb34bfaa4e875e828a8f9?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 15 |
 | **[CIBC Capital Markets](https://cibccm.com/en/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/689f9d09faa4e875e828a240?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 15 |
@@ -102,6 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Affinity Consulting Group](https://www.affinityconsulting.com/)** | **[Enterprise Business Analyst](https://jobright.ai/jobs/info/689efc0079a9f966625542a4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 14 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/68a1842c83d13d1f5b6d45c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Aug 14 |
 | **[KeyBank](https://www.key.com)** | **[2026 Business Analyst Development Program- Cleveland](https://jobright.ai/jobs/info/689d35d383d13d1f5b6ae07d?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 13 |
-| **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/689d2fccfaa4e875e826db5c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 13 |
-| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, Business Analyst and Process Improvement Specialist](https://jobright.ai/jobs/info/689d1f0879a9f9666253d712?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
