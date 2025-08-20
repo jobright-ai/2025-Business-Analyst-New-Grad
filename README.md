@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a524b9758f2e4ac3fdc41b?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Aug 19 |
+| **[Optum](https://www.optum.com/)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/68a52460758f2e4ac3fdc3b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 19 |
+| **[Tawa Supermarket, Inc.](http://www.99ranch.com)** | **[Business Operations Specialist (BPO Specialist)](https://jobright.ai/jobs/info/68a5157c758f2e4ac3fdbc70?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Aug 19 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a50cbab6a3617d7fa6e1a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Monterey, CA | Remote | Aug 19 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a506e6758f2e4ac3fdb5d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Monterey, CA | Hybrid | Aug 19 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I (Enrollment & Billing)](https://jobright.ai/jobs/info/68a5057b758f2e4ac3fdb546?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian, ID | On Site | Aug 19 |
