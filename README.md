@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a6057833dd7158bbc9d1c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 20 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68a60a4b758f2e4ac3fe21fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Aug 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a5eaa033dd7158bbc9c821?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago IL USA | On Site | Aug 20 |
+| **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a6d66c758f2e4ac3fe8544?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Aug 20 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a55c1f33dd7158bbc996e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | Hybrid | Aug 19 |
 | **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a553b3758f2e4ac3fde0ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | Hybrid | Aug 19 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a6ac0133dd7158bbca1c10?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Aug 19 |
@@ -101,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright.ai/jobs/info/689e863079a9f9666254da32?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Aug 14 |
 | **[Related Management Company](http://www.related.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/688da70c6a4aac5783cd54b6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 14 |
 | **[Zoe Financial](https://zoefinancial.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68796c30a7fc8904e3962b96?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Aug 14 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/689e1174faa4e875e827685d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
