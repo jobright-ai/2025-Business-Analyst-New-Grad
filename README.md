@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Associate - Wealth Management Solutions Technology Analyst](https://jobright.ai/jobs/info/68a66212b6a3617d7fa77272?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 20 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a65e9a758f2e4ac3fe4773?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Aug 20 |
 | **[American Healthcare REIT](https://www.ahinvestors.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a64a86758f2e4ac3fe40c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Aug 20 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68a539a0b6a3617d7fa6f93e?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Aug 20 |
@@ -101,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/689e1174faa4e875e827685d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Aug 14 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector (Hawaii)](https://jobright.ai/jobs/info/68885429fbbf032d0007abc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalawao County, HI | Hybrid | Aug 14 |
 | **[Tillster](http://tillster.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/689db4e679a9f96662544120?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 14 |
-| **[Affinity Consulting Group](https://www.affinityconsulting.com/)** | **[Enterprise Business Analyst](https://jobright.ai/jobs/info/689efc0079a9f966625542a4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
