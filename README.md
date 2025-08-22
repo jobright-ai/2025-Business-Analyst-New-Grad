@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68a7fb5b758f2e4ac3fefabd?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 21 |
 | **[Vagaro](https://sales.vagaro.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a7c78f33dd7158bbca9a15?utm_campaign=Business%20Analyst&utm_source=1103)** | Pleasanton, CA | On Site | Aug 21 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Delivery](https://jobright.ai/jobs/info/68a7c160758f2e4ac3fee271?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 21 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68a7bda3758f2e4ac3fee07b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 21 |
@@ -108,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[CIBC Capital Markets](https://cibccm.com/en/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/689f9d09faa4e875e828a240?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 15 |
 | **[Jackson](https://www.jackson.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a6f7a533dd7158bbca3c81?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
 | **[PSEG](https://www.pseg.com)** | **[Sr Associate IT Business Analyst](https://jobright.ai/jobs/info/689fa370faa4e875e828a588?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Aug 15 |
-| **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/689f3a4683d13d1f5b6c4f5d?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
