@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Innout](https://innoutdesigner.com)** | **[Technical Business Analyst I](https://jobright.ai/jobs/info/68a7ce96d627244576e2eeed?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Aug 21 |
 | **[Vagaro](https://sales.vagaro.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a7c78f33dd7158bbca9a15?utm_campaign=Business%20Analyst&utm_source=1103)** | Pleasanton, CA | On Site | Aug 21 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Delivery](https://jobright.ai/jobs/info/68a7c160758f2e4ac3fee271?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 21 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68a7bda3758f2e4ac3fee07b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 21 |
+| **[Innout](https://innoutdesigner.com)** | **[Technical Business Analyst I](https://jobright.ai/jobs/info/68a7ce96d627244576e2eeed?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Aug 21 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Associate - Wealth Management Solutions Technology Analyst](https://jobright.ai/jobs/info/68a7b324d627244576e2e091?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Corporate Services](https://jobright.ai/jobs/info/68a78b2dd627244576e2d504?utm_campaign=Business%20Analyst&utm_source=1103)** | Woonsocket, RI | Hybrid | Aug 21 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/68a78b08758f2e4ac3fed0bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerset, NJ | On Site | Aug 21 |
@@ -102,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Aug 17 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68a1087bfaa4e875e8291f8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Aug 16 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 16 |
-| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/67d88af8ddef98405b845004?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 16 |
+| **[PPM America, Inc.](http://www.ppmamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a7e24b33dd7158bbcaa137?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/6882cb6c835a903aa07f0c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Aug 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fb34bfaa4e875e828a8f9?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 15 |
 | **[CIBC Capital Markets](https://cibccm.com/en/)** | **[Analyst, Business Management](https://jobright.ai/jobs/info/689f9d09faa4e875e828a240?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 15 |
