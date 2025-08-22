@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Effy Jewelry](https://www.effyjewelry.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/68a8925cd627244576e33a18?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Aug 22 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a87fb6758f2e4ac3ff2de3?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Aug 22 |
+| ↳ | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a87f36d627244576e33170?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MI | Remote | Aug 22 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68a87b7c758f2e4ac3ff2bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 22 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/68a8707d758f2e4ac3ff255f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Aug 22 |
 | ↳ | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/68a86f9c758f2e4ac3ff24f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Aug 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68a7fb5b758f2e4ac3fefabd?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 21 |
