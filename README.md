@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Associate - Wealth Management Solutions Technology Analyst](https://jobright.ai/jobs/info/68a7b324d627244576e2e091?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Corporate Services](https://jobright.ai/jobs/info/68a78b2dd627244576e2d504?utm_campaign=Business%20Analyst&utm_source=1103)** | Woonsocket, RI | Hybrid | Aug 21 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/68a78b08758f2e4ac3fed0bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerset, NJ | On Site | Aug 21 |
 | ↳ | **[Business Operations Specialist](https://jobright.ai/jobs/info/68a78529d627244576e2cfef?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerset, NJ USA | On Site | Aug 21 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/68a52460758f2e4ac3fdc3b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 19 |
 | **[Tawa Supermarket, Inc.](http://www.99ranch.com)** | **[Business Operations Specialist (BPO Specialist)](https://jobright.ai/jobs/info/68a5157c758f2e4ac3fdbc70?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Aug 19 |
 | **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a50215b6a3617d7fa6de39?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Aug 19 |
+| **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I (Enrollment & Billing)](https://jobright.ai/jobs/info/68a7981033dd7158bbca84c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian, ID | On Site | Aug 19 |
 | **[Verisk](https://www.verisk.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a3033837d3cc6b0d574357?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ, United States | Remote | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fe0d783d13d1f5b6cba46?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 19 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68880afa4174df41e0fa26de?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 19 |
