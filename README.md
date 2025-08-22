@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optum](https://www.optum.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68a8af31d627244576e349ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnetonka, MN | Hybrid | Aug 22 |
+| **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/68a8aa7bd627244576e3481d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 22 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a8a809d627244576e344c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Remote | Aug 22 |
 | **[Effy Jewelry](https://www.effyjewelry.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/68a8925cd627244576e33a18?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Aug 22 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a87fb6758f2e4ac3ff2de3?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Aug 22 |
 | ↳ | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a87f36d627244576e33170?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MI | Remote | Aug 22 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/68a8707d758f2e4ac3ff255f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Aug 22 |
 | ↳ | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/68a86f9c758f2e4ac3ff24f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Aug 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68a7fb5b758f2e4ac3fefabd?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 21 |
-| **[Vagaro](https://sales.vagaro.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a7c78f33dd7158bbca9a15?utm_campaign=Business%20Analyst&utm_source=1103)** | Pleasanton, CA | On Site | Aug 21 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Delivery](https://jobright.ai/jobs/info/68a7c160758f2e4ac3fee271?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 21 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68a7bda3758f2e4ac3fee07b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 21 |
 | **[Innout](https://innoutdesigner.com)** | **[Technical Business Analyst I](https://jobright.ai/jobs/info/68a7ce96d627244576e2eeed?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Aug 21 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Interchange Business Analyst](https://jobright.ai/jobs/info/68a7696cd627244576e2c0a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, MD | On Site | Aug 21 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst - Model Risk Management](https://jobright.ai/jobs/info/68a73d35758f2e4ac3fea509?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 21 |
 | **[KeyBank](https://www.key.com)** | **[2026 Business Analyst Development Program- Chicago](https://jobright.ai/jobs/info/68a74c04d627244576e2b195?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 21 |
+| ↳ | **[2026 Business Analyst Development Program- Cleveland](https://jobright.ai/jobs/info/689d35d383d13d1f5b6ae07d?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 21 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a74838d627244576e2afe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tontitown, AR | On Site | Aug 21 |
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst – Platform Support](https://jobright.ai/jobs/info/68516249adf0fc998e03f558?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright.ai/jobs/info/689e863079a9f9666254da32?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Aug 21 |
