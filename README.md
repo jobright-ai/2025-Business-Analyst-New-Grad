@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68885534fbbf032d0007ae30?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Aug 23 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/68a973466acf96396f727b5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Aug 23 |
 | **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a8ffdb6acf96396f724165?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Aug 22 |
 | **[EliseAI](http://www.eliseai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a8cfb2758f2e4ac3ff57f3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68a8cef2d627244576e35baf?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Aug 22 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Senior Business Analyst - Eatontown or Remote](https://jobright.ai/jobs/info/68a8ccf1d627244576e35a5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Eatontown, NJ | Remote | Aug 22 |
 | **[State of Indiana](https://www.in.gov)** | **[HRIS Systems Business Analyst](https://jobright.ai/jobs/info/68a8caa6758f2e4ac3ff55e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Aug 22 |
-| **[State of Ohio](http://governor.ohio.gov)** | **[Business Analyst - (Family Support)](https://jobright.ai/jobs/info/68a8c6b8d627244576e356d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 22 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Analyst - (Family Support)](https://jobright.ai/jobs/info/68a8c6b8d627244576e356d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 22 |
 | **[Optum](https://www.optum.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68a8b83c6acf96396f721ff7?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnetonka, MN | Hybrid | Aug 22 |
 | **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a8c42c758f2e4ac3ff5156?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Aug 22 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/68a8aa7bd627244576e3481d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 22 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 19 |
 | **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[GENERAL PROFESSIONAL IV (TAXATION BUSINESS ANALYST) - DOWNTOWN, OAHU](https://jobright.ai/jobs/info/68a41e94e9f1c744da120fc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu County, HI | On Site | Aug 18 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/68a54bfeb6a3617d7fa7046d?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Aug 18 |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a37cf637d3cc6b0d5776a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 18 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a3d87c37d3cc6b0d57a18c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a361f037d3cc6b0d57662f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 18 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6878ca42991967626f06f6d7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 17 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Aug 17 |
