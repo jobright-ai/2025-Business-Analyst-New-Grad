@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a8ffdb6acf96396f724165?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Aug 22 |
 | **[EliseAI](http://www.eliseai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a8cfb2758f2e4ac3ff57f3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68a8cef2d627244576e35baf?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Aug 22 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Senior Business Analyst - Eatontown or Remote](https://jobright.ai/jobs/info/68a8ccf1d627244576e35a5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Eatontown, NJ | Remote | Aug 22 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/688bb6803a30793eb963ccf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Aug 22 |
 | ↳ | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/68a8707d758f2e4ac3ff255f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Aug 22 |
 | ↳ | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/68a86f9c758f2e4ac3ff24f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Aug 22 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68a7fb5b758f2e4ac3fefabd?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 21 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Delivery](https://jobright.ai/jobs/info/68a7c160758f2e4ac3fee271?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 21 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68a7bda3758f2e4ac3fee07b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 21 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright.ai/jobs/info/689e863079a9f9666254da32?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | Hybrid | Aug 21 |
 | **[Jubilant Pharma Limited](http://www.jubilantpharma.com/)** | **[Associate, Business Solutions](https://jobright.ai/jobs/info/68a67959758f2e4ac3fe5022?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | On Site | Aug 20 |
 | **[American Healthcare REIT](https://www.ahinvestors.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a64a86758f2e4ac3fe40c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Aug 20 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68a539a0b6a3617d7fa6f93e?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Aug 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a6057833dd7158bbc9d1c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68a5eaa033dd7158bbc9c821?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago IL USA | On Site | Aug 20 |
 | **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a6d66c758f2e4ac3fe8544?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Aug 20 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 19 |
 | **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[GENERAL PROFESSIONAL IV (TAXATION BUSINESS ANALYST) - DOWNTOWN, OAHU](https://jobright.ai/jobs/info/68a41e94e9f1c744da120fc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu County, HI | On Site | Aug 18 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/68a54bfeb6a3617d7fa7046d?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Aug 18 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a37cf637d3cc6b0d5776a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 18 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a3d87c37d3cc6b0d57a18c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a361f037d3cc6b0d57662f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 18 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6878ca42991967626f06f6d7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 17 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (5647)](https://jobright.ai/jobs/info/682f448103eb179d1a576180?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Aug 17 |
