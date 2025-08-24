@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/68a8aa7bd627244576e3481d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 22 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a8cca7758f2e4ac3ff578f?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Aug 22 |
 | ↳ | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a8a809d627244576e344c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Remote | Aug 22 |
-| **[Optum](https://www.optum.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68a8af31d627244576e349ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnetonka, MN | Hybrid | Aug 22 |
 | **[Effy Jewelry](https://www.effyjewelry.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/68a8925cd627244576e33a18?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Aug 22 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a87fb6758f2e4ac3ff2de3?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Aug 22 |
 | ↳ | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a87f36d627244576e33170?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MI | Remote | Aug 22 |
