@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Best Job Tool](https://www.bestjobtool.com)** | **[Associate Business  Analyst](https://jobright.ai/jobs/info/68ac8e35d627244576e46b4f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68aca28b758f2e4ac300746c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ac9ac2daf1431824c96513?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ac9a2f758f2e4ac3006d34?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ac9958d627244576e471d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Aug 25 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a6ac0133dd7158bbca1c10?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Aug 25 |
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Business Analyst I - Sales](https://jobright.ai/jobs/info/68ac8465d627244576e46684?utm_campaign=Business%20Analyst&utm_source=1103)** | Corp-Main - Diamond Bar, CA | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ac1ccddaf1431824c93d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 24 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68ab0805758f2e4ac3ffeddb?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 24 |
@@ -68,8 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a8ffdb6acf96396f724165?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Aug 22 |
 | **[EliseAI](http://www.eliseai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a8cfb2758f2e4ac3ff57f3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 22 |
 | **[State of Indiana](https://www.in.gov)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68a8cef2d627244576e35baf?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Aug 22 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Senior Business Analyst - Eatontown or Remote](https://jobright.ai/jobs/info/68a8ccf1d627244576e35a5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Eatontown, NJ | Remote | Aug 22 |
-| **[State of Indiana](https://www.in.gov)** | **[HRIS Systems Business Analyst](https://jobright.ai/jobs/info/68a8caa6758f2e4ac3ff55e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Aug 22 |
+| ↳ | **[HRIS Systems Business Analyst](https://jobright.ai/jobs/info/68a8caa6758f2e4ac3ff55e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Aug 22 |
 | **[State of Ohio](http://ohio.gov/)** | **[Business Analyst - (Family Support)](https://jobright.ai/jobs/info/68a8c6b8d627244576e356d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 22 |
 | **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a8c42c758f2e4ac3ff5156?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Aug 22 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/68a8aa7bd627244576e3481d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 22 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a6d66c758f2e4ac3fe8544?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Aug 20 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a55c1f33dd7158bbc996e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | Hybrid | Aug 19 |
 | **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a553b3758f2e4ac3fde0ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | Hybrid | Aug 19 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a6ac0133dd7158bbca1c10?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Aug 19 |
 | **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a524b9758f2e4ac3fdc41b?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Aug 19 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/68a52460758f2e4ac3fdc3b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 19 |
 | **[Tawa Supermarket, Inc.](http://www.99ranch.com)** | **[Business Operations Specialist (BPO Specialist)](https://jobright.ai/jobs/info/68a5157c758f2e4ac3fdbc70?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Aug 19 |
