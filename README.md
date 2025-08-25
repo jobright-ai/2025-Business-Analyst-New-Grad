@@ -115,6 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 19 |
 | **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[GENERAL PROFESSIONAL IV (TAXATION BUSINESS ANALYST) - DOWNTOWN, OAHU](https://jobright.ai/jobs/info/68a41e94e9f1c744da120fc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu County, HI | On Site | Aug 18 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/68a54bfeb6a3617d7fa7046d?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Aug 18 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a37cf637d3cc6b0d5776a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 18 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a3d87c37d3cc6b0d57a18c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
