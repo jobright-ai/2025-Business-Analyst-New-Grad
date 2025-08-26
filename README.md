@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ad43f5daf1431824c9bddc?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ad4380daf1431824c9bd14?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Aug 25 |
+| **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/68ad420edaf1431824c9bb40?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 25 |
 | **[LPL Financial](https://www.lpl.com)** | **[Associate Business Analyst - Forms (Non-IT)](https://jobright.ai/jobs/info/68acfa47d627244576e4a486?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68acf4ce758f2e4ac3009e2e?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Aug 25 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68acf35cdaf1431824c9948a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68acf172d627244576e4a0a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Aug 25 |
 | **[Marin Water ](https://www.marinwater.org)** | **[Business Systems Analyst I/II](https://jobright.ai/jobs/info/68acea7cd627244576e49d72?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | Hybrid | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ad09d2daf1431824c99f38?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | Hybrid | Aug 25 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/68a8707d758f2e4ac3ff255f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Aug 22 |
 | ↳ | **[Business Analyst, Amazon Fresh Grocery](https://jobright.ai/jobs/info/68a86f9c758f2e4ac3ff24f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Aug 22 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 22 |
-| **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/68a7c160758f2e4ac3fee271?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68a7fb5b758f2e4ac3fefabd?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 21 |
+| **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Delivery](https://jobright.ai/jobs/info/68a7c160758f2e4ac3fee271?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 21 |
 | **[Innout](https://innoutdesigner.com)** | **[Technical Business Analyst I](https://jobright.ai/jobs/info/68a7ce96d627244576e2eeed?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Aug 21 |
 | **[EliseAI](http://www.eliseai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a8d4b7d627244576e35d53?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fe0d783d13d1f5b6cba46?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[American Healthcare REIT](https://www.ahinvestors.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a64a86758f2e4ac3fe40c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Aug 20 |
 | **[Crowe](https://www.crowe.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a6057833dd7158bbc9d1c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68a5eaa033dd7158bbc9c821?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago IL USA | On Site | Aug 20 |
-| **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68a553b3758f2e4ac3fde0ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | Hybrid | Aug 19 |
 | **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a524b9758f2e4ac3fdc41b?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Aug 19 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/68a52460758f2e4ac3fdc3b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 19 |
 | **[Tawa Supermarket, Inc.](http://www.99ranch.com)** | **[Business Operations Specialist (BPO Specialist)](https://jobright.ai/jobs/info/68a5157c758f2e4ac3fdbc70?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Aug 19 |
