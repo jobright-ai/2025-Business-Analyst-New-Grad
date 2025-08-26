@@ -57,20 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INSXCloud Inc.](https://www.insxcloud.com/)** | **[Business Analyst - Hybrid](https://jobright.ai/jobs/info/68adf709daf1431824c9f543?utm_campaign=Business%20Analyst&utm_source=1103)** | Akron, OH | Hybrid | Aug 26 |
+| **[Cross River](http://crossriver.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/68adf32cd627244576e501d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ | Hybrid | Aug 26 |
+| **[Medtronic](https://www.medtronic.com)** | **[Associate IT Business Analyst - Hyperautomation](https://jobright.ai/jobs/info/68ade306daf1431824c9eb2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Mounds View, Minnesota, United States of America | On Site | Aug 26 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68addbfcd627244576e4f5ff?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ad43f5daf1431824c9bddc?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ad4380daf1431824c9bd14?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Aug 25 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/68ad420edaf1431824c9bb40?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 25 |
-| **[LPL Financial](https://www.lpl.com)** | **[Associate Business Analyst - Forms (Non-IT)](https://jobright.ai/jobs/info/68acfa47d627244576e4a486?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68acf4ce758f2e4ac3009e2e?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Aug 25 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68acf172d627244576e4a0a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Aug 25 |
 | **[Marin Water ](https://www.marinwater.org)** | **[Business Systems Analyst I/II](https://jobright.ai/jobs/info/68acea7cd627244576e49d72?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | Hybrid | Aug 25 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Business Systems Analyst -Associate, Technology & Digital](https://jobright.ai/jobs/info/68acf38edaf1431824c994c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boynton Beach, FL | On Site | Aug 25 |
 | ↳ | **[Business Systems Analyst -Associate, Technology & Digital, FT,08A-4:30P](https://jobright.ai/jobs/info/68acda45758f2e4ac3009462?utm_campaign=Business%20Analyst&utm_source=1103)** | Boynton Beach, FL | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/68acd3bfd627244576e496e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Aug 25 |
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Business Analyst I - Sales](https://jobright.ai/jobs/info/68acbd74daf1431824c97d9d?utm_campaign=Business%20Analyst&utm_source=1103)** | Diamond Bar, CA | On Site | Aug 25 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Business Systems Analyst -Associate, Technology & Digital, FT, 08A-4:30P](https://jobright.ai/jobs/info/68acb455d627244576e483ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Boynton Beach, FL | On Site | Aug 25 |
-| **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Business Analyst I - Sales](https://jobright.ai/jobs/info/68ac8465d627244576e46684?utm_campaign=Business%20Analyst&utm_source=1103)** | Corp-Main - Diamond Bar, CA | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ac1ccddaf1431824c93d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 24 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68ab0805758f2e4ac3ffeddb?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 24 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/6837ac8962b7fb21ca4ba047?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Aug 23 |
@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Crowe](https://www.crowe.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a6057833dd7158bbc9d1c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68a5eaa033dd7158bbc9c821?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago IL USA | On Site | Aug 20 |
 | **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a524b9758f2e4ac3fdc41b?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Aug 19 |
-| **[Optum](https://www.optum.com/)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/68a52460758f2e4ac3fdc3b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
