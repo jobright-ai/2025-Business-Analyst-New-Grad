@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Baptist Health](http://baptisthealth.net/)** | **[Business Systems Analyst -Associate, Technology & Digital, FT,08A-4:30P](https://jobright.ai/jobs/info/68acda45758f2e4ac3009462?utm_campaign=Business%20Analyst&utm_source=1103)** | Boynton Beach, FL | On Site | Aug 25 |
+| **[LPL Financial](https://www.lpl.com)** | **[Associate Business Analyst - Forms (Non-IT)](https://jobright.ai/jobs/info/68acfa47d627244576e4a486?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68acf5c1d627244576e4a2d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68acf4ce758f2e4ac3009e2e?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68acf35cdaf1431824c9948a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68acf172d627244576e4a0a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Aug 25 |
+| **[Marin Water ](https://www.marinwater.org)** | **[Business Systems Analyst I/II](https://jobright.ai/jobs/info/68acea7cd627244576e49d72?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | Hybrid | Aug 25 |
+| **[Baptist Health](http://baptisthealth.net/)** | **[Business Systems Analyst -Associate, Technology & Digital](https://jobright.ai/jobs/info/68acf38edaf1431824c994c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boynton Beach, FL | On Site | Aug 25 |
+| ↳ | **[Business Systems Analyst -Associate, Technology & Digital, FT,08A-4:30P](https://jobright.ai/jobs/info/68acda45758f2e4ac3009462?utm_campaign=Business%20Analyst&utm_source=1103)** | Boynton Beach, FL | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/68acd3bfd627244576e496e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Aug 25 |
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Business Analyst I - Sales](https://jobright.ai/jobs/info/68acbd74daf1431824c97d9d?utm_campaign=Business%20Analyst&utm_source=1103)** | Diamond Bar, CA | On Site | Aug 25 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Business Systems Analyst -Associate, Technology & Digital, FT, 08A-4:30P](https://jobright.ai/jobs/info/68acb455d627244576e483ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Boynton Beach, FL | On Site | Aug 25 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68aca28b758f2e4ac300746c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Aug 25 |
-| ↳ | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ac9a2f758f2e4ac3006d34?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ac9a2f758f2e4ac3006d34?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 25 |
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Business Analyst I - Sales](https://jobright.ai/jobs/info/68ac8465d627244576e46684?utm_campaign=Business%20Analyst&utm_source=1103)** | Corp-Main - Diamond Bar, CA | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ac1ccddaf1431824c93d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 24 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68ab0805758f2e4ac3ffeddb?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 24 |
@@ -114,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68880afa4174df41e0fa26de?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 19 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67f1bb7a23adf4fd68e22e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Aug 19 |
-| **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[GENERAL PROFESSIONAL IV (TAXATION BUSINESS ANALYST) - DOWNTOWN, OAHU](https://jobright.ai/jobs/info/68a41e94e9f1c744da120fc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu County, HI | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
