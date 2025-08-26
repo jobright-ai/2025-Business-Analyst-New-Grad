@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68addbfcd627244576e4f5ff?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ad43f5daf1431824c9bddc?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ad4380daf1431824c9bd14?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Aug 25 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/68ad420edaf1431824c9bb40?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 25 |
@@ -112,5 +113,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68a5eaa033dd7158bbc9c821?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago IL USA | On Site | Aug 20 |
 | **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/68a524b9758f2e4ac3fdc41b?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Aug 19 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Process Analyst](https://jobright.ai/jobs/info/68a52460758f2e4ac3fdc3b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 19 |
-| **[Tawa Supermarket, Inc.](http://www.99ranch.com)** | **[Business Operations Specialist (BPO Specialist)](https://jobright.ai/jobs/info/68a5157c758f2e4ac3fdbc70?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
