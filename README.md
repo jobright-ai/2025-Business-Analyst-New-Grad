@@ -57,17 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University - Process Improvement and Business Analyst](https://jobright.ai/jobs/info/68af263f7bcb7608b3d2b1fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 27 |
+| ↳ | **[University, Business Analyst and Process Improvement Specialist](https://jobright.ai/jobs/info/68af255e2daaba398441bd25?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 27 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68aeb5fe2daaba3984419966?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 26 |
 | **[EAB](https://www.eab.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68ae6c61daf1431824ca2e4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Aug 26 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68ae5e7ad627244576e53759?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ae46f9daf1431824ca1f95?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | Hybrid | Aug 26 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68ae3cb2daf1431824ca1b40?utm_campaign=Business%20Analyst&utm_source=1103)** | Chandler, AZ | Hybrid | Aug 26 |
 | **[Newell Brands](https://www.newellbrands.com/)** | **[Sr. Procurement COE Analyst](https://jobright.ai/jobs/info/68ae4cf5d627244576e52f64?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Aug 26 |
 | **[Formlabs](http://www.formlabs.com)** | **[Business Analytics Lead - Hybrid (Somerville, MA)](https://jobright.ai/jobs/info/68ae1392758f2e4ac3011109?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville, MA | Hybrid | Aug 26 |
 | ↳ | **[Business Analytics Lead - Hybrid (Boston, MA)](https://jobright.ai/jobs/info/68ae13c7758f2e4ac3011137?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Aug 26 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68ae0a89d627244576e50fc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | Hybrid | Aug 26 |
-| ↳ | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68ae0a35daf1431824ca0219?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 26 |
-| ↳ | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68ae099e758f2e4ac3010b0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Chandler, AZ | Hybrid | Aug 26 |
 | **[KeyBank](https://www.key.com)** | **[2026 Business Analyst Development Program- Chicago](https://jobright.ai/jobs/info/68a7769f758f2e4ac3fec6e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 26 |
 | **[Formlabs](http://www.formlabs.com)** | **[Business Analytics Lead - Hybrid (Somerville, MA)](https://jobright.ai/jobs/info/68ae0654daf1431824ca001b?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville, MA | Hybrid | Aug 26 |
 | ↳ | **[Business Analytics Lead - Hybrid (Boston, MA)](https://jobright.ai/jobs/info/68ae0531daf1431824c9fd6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Aug 26 |
@@ -87,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/68acd3bfd627244576e496e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Aug 25 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Business Systems Analyst -Associate, Technology & Digital, FT, 08A-4:30P](https://jobright.ai/jobs/info/68acb455d627244576e483ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Boynton Beach, FL | On Site | Aug 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ac1ccddaf1431824c93d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 24 |
+| **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/689aeb365574fd6bc0c87b50?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 24 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/6837ac8962b7fb21ca4ba047?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Aug 23 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68885534fbbf032d0007ae30?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Aug 23 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/68a973466acf96396f727b5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Aug 23 |
@@ -99,8 +98,7 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/68a8aa7bd627244576e3481d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 22 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a8cca7758f2e4ac3ff578f?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Aug 22 |
 | ↳ | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a8a809d627244576e344c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Remote | Aug 22 |
-| **[Effy Jewelry](https://www.effyjewelry.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/68a8925cd627244576e33a18?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Aug 22 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a87fb6758f2e4ac3ff2de3?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Aug 22 |
+| ↳ | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a87fb6758f2e4ac3ff2de3?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Aug 22 |
 | ↳ | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a87f36d627244576e33170?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MI | Remote | Aug 22 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 22 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/68a7c160758f2e4ac3fee271?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 22 |
