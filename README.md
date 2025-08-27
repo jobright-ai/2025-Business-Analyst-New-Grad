@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University - Process Improvement and Business Analyst](https://jobright.ai/jobs/info/68af263f7bcb7608b3d2b1fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 27 |
-| ↳ | **[University, Business Analyst and Process Improvement Specialist](https://jobright.ai/jobs/info/68af255e2daaba398441bd25?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 27 |
+| **[Santander México](http://www.santander.com.mx/)** | **[Specialist, Business Management](https://jobright.ai/jobs/info/68af45a47bcb7608b3d2c20e?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | On Site | Aug 27 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68af439c7bcb7608b3d2c085?utm_campaign=Business%20Analyst&utm_source=1103)** | Westerville, OH | Hybrid | Aug 27 |
+| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, Business Analyst and Process Improvement Specialist](https://jobright.ai/jobs/info/68af255e2daaba398441bd25?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 27 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68aeb5fe2daaba3984419966?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 26 |
 | **[EAB](https://www.eab.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68ae6c61daf1431824ca2e4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Aug 26 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68ae5e7ad627244576e53759?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 26 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[Business Analyst - (Family Support)](https://jobright.ai/jobs/info/68a8c6b8d627244576e356d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 22 |
 | **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a8c42c758f2e4ac3ff5156?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Aug 22 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/68a8aa7bd627244576e3481d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 22 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68831e63b54cac0f1e735ccf?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Aug 22 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a8cca7758f2e4ac3ff578f?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Aug 22 |
 | ↳ | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a8a809d627244576e344c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Remote | Aug 22 |
 | ↳ | **[Business Analyst I (Vendor)](https://jobright.ai/jobs/info/68a87fb6758f2e4ac3ff2de3?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Aug 22 |
@@ -110,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[2026 Business Analyst Development Program- Chicago](https://jobright.ai/jobs/info/68a74c04d627244576e2b195?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 21 |
 | ↳ | **[2026 Business Analyst Development Program- Cleveland](https://jobright.ai/jobs/info/689d35d383d13d1f5b6ae07d?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 21 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a74838d627244576e2afe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tontitown, AR | On Site | Aug 21 |
-| **[Jubilant Pharma Limited](http://www.jubilantpharma.com/)** | **[Associate, Business Solutions](https://jobright.ai/jobs/info/68a67959758f2e4ac3fe5022?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
