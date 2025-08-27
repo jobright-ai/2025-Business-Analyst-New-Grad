@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EAB](https://www.eab.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68ae5e7ad627244576e53759?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 26 |
 | **[Newell Brands](https://www.newellbrands.com/)** | **[Sr. Procurement COE Analyst](https://jobright.ai/jobs/info/68ae4cf5d627244576e52f64?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ae46f9daf1431824ca1f95?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | Hybrid | Aug 26 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68ae3cb2daf1431824ca1b40?utm_campaign=Business%20Analyst&utm_source=1103)** | Chandler, AZ | Hybrid | Aug 26 |
