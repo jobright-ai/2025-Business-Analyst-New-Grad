@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68aeb5fe2daaba3984419966?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Aug 26 |
 | **[EAB](https://www.eab.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68ae6c61daf1431824ca2e4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Aug 26 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68ae5e7ad627244576e53759?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ae46f9daf1431824ca1f95?utm_campaign=Business%20Analyst&utm_source=1103)** | Reno, NV | Hybrid | Aug 26 |
