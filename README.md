@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tradition Capital Bank](http://tradition.bank)** | **[Business Analyst](https://jobright.ai/jobs/info/68af79741f0a2a568a062026?utm_campaign=Business%20Analyst&utm_source=1103)** | Edina, MN | On Site | Aug 27 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst , Fulfillment by Amazon (FBA) Science](https://jobright.ai/jobs/info/68af6f1f962903596357caa1?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Aug 27 |
+| **[State of Ohio](http://ohio.gov/)** | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68af6e591f0a2a568a061a9a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Aug 27 |
+| ↳ | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68af6e44962903596357ca0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Children%26Youth N. High Complex246 North High Street | On Site | Aug 27 |
+| **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Business Systems Analyst [2026 EDGE Program]](https://jobright.ai/jobs/info/68af6db91f0a2a568a0619be?utm_campaign=Business%20Analyst&utm_source=1103)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | Hybrid | Aug 27 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Business Analyst (remote)](https://jobright.ai/jobs/info/68af5f082daaba398441daa6?utm_campaign=Business%20Analyst&utm_source=1103)** | Depew, NY | Remote | Aug 27 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/68af5e3f1f0a2a568a060fb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Aug 27 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68af439c7bcb7608b3d2c085?utm_campaign=Business%20Analyst&utm_source=1103)** | Westerville, OH | Hybrid | Aug 27 |
@@ -77,8 +82,7 @@ For a complete list, click the following sortable link below:
 | **[WGL Energy](http://wglenergy.com)** | **[WGL Energy - Business Analyst](https://jobright.ai/jobs/info/6891acd14c7e851b90ad16e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ad4380daf1431824c9bd14?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Aug 25 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/68ad420edaf1431824c9bb40?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 25 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ae9a8e2daaba3984418f2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Aug 25 |
-| ↳ | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ae8c99daf1431824ca40e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ae8c99daf1431824ca40e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68acf4ce758f2e4ac3009e2e?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Aug 25 |
 | **[Marin Water ](https://www.marinwater.org)** | **[Business Systems Analyst I/II](https://jobright.ai/jobs/info/68acea7cd627244576e49d72?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | Hybrid | Aug 25 |
 | **[Baptist Health](http://baptisthealth.net/)** | **[Business Systems Analyst -Associate, Technology & Digital](https://jobright.ai/jobs/info/68acf38edaf1431824c994c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boynton Beach, FL | On Site | Aug 25 |
