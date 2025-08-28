@@ -124,6 +124,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fe0d783d13d1f5b6cba46?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst - Model Risk Management](https://jobright.ai/jobs/info/68a73d35758f2e4ac3fea509?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 21 |
 | **[KeyBank](https://www.key.com)** | **[2026 Business Analyst Development Program- Chicago](https://jobright.ai/jobs/info/68a74c04d627244576e2b195?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 21 |
-| ↳ | **[2026 Business Analyst Development Program- Cleveland](https://jobright.ai/jobs/info/689d35d383d13d1f5b6ae07d?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 21 |
-| **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a74838d627244576e2afe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tontitown, AR | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
