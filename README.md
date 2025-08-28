@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68b092c3b47fb001d6893772?utm_campaign=Business%20Analyst&utm_source=1103)** | Hauppauge, NY | Hybrid | Aug 28 |
+| **[BPG Group](https://www.bpggroup.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68b08dedb47fb001d689358e?utm_campaign=Business%20Analyst&utm_source=1103)** | Berryville, VA | Hybrid | Aug 28 |
 | **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b075792d46f6396cae5957?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Aug 28 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68b04feab47fb001d689106b?utm_campaign=Business%20Analyst&utm_source=1103)** | US - NY - Hauppauge | Hybrid | Aug 28 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst , Fulfillment by Amazon (FBA) Science](https://jobright.ai/jobs/info/68af9ab31f0a2a568a062d64?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Aug 27 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68af6e591f0a2a568a061a9a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Aug 27 |
 | ↳ | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68af6e44962903596357ca0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Children%26Youth N. High Complex246 North High Street | On Site | Aug 27 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Business Systems Analyst [2026 EDGE Program]](https://jobright.ai/jobs/info/68af6db91f0a2a568a0619be?utm_campaign=Business%20Analyst&utm_source=1103)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | Hybrid | Aug 27 |
-| **[Tradition Capital Bank](http://tradition.bank)** | **[Business Analyst](https://jobright.ai/jobs/info/68af79741f0a2a568a062026?utm_campaign=Business%20Analyst&utm_source=1103)** | Edina, MN | On Site | Aug 27 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Business Analyst (remote)](https://jobright.ai/jobs/info/68af5f082daaba398441daa6?utm_campaign=Business%20Analyst&utm_source=1103)** | Depew, NY | Remote | Aug 27 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/68af5e3f1f0a2a568a060fb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Aug 27 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68af439c7bcb7608b3d2c085?utm_campaign=Business%20Analyst&utm_source=1103)** | Westerville, OH | Hybrid | Aug 27 |
@@ -116,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/68a7c160758f2e4ac3fee271?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68a7fb5b758f2e4ac3fefabd?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright.ai/jobs/info/68afe100e723db6c9b7b48ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | On Site | Aug 21 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Corporate Services](https://jobright.ai/jobs/info/68afc60be723db6c9b7b33da?utm_campaign=Business%20Analyst&utm_source=1103)** | Woonsocket, RI | Hybrid | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
