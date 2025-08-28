@@ -88,7 +88,8 @@ For a complete list, click the following sortable link below:
 | **[WGL Energy](http://wglenergy.com)** | **[WGL Energy - Business Analyst](https://jobright.ai/jobs/info/6891acd14c7e851b90ad16e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | Aug 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68ad4380daf1431824c9bd14?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Aug 25 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/68ad420edaf1431824c9bb40?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 25 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68afda84b47fb001d688deb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Aug 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68b0194bb47fb001d688f900?utm_campaign=Business%20Analyst&utm_source=1103)** | Belton, TX | Hybrid | Aug 25 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68afda84b47fb001d688deb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68afd5e613563e782a9f1ba7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/68afce04e723db6c9b7b3a90?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Aug 25 |
 | ↳ | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68afc83db47fb001d688d1b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | Hybrid | Aug 25 |
@@ -122,6 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Delivery](https://jobright.ai/jobs/info/68a7c160758f2e4ac3fee271?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 21 |
 | **[EliseAI](http://www.eliseai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a8d4b7d627244576e35d53?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fe0d783d13d1f5b6cba46?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
-| **[Capital One](http://www.capitalone.com)** | **[Business Analyst - Model Risk Management](https://jobright.ai/jobs/info/68a73d35758f2e4ac3fea509?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 21 |
-| **[KeyBank](https://www.key.com)** | **[2026 Business Analyst Development Program- Chicago](https://jobright.ai/jobs/info/68a74c04d627244576e2b195?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
