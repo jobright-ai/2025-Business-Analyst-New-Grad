@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b075792d46f6396cae5957?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Aug 28 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68b04feab47fb001d689106b?utm_campaign=Business%20Analyst&utm_source=1103)** | US - NY - Hauppauge | Hybrid | Aug 28 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst , Fulfillment by Amazon (FBA) Science](https://jobright.ai/jobs/info/68af9ab31f0a2a568a062d64?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Aug 27 |
 | **[TD](https://www.td.com)** | **[Business Insights Analyst I/Business Intelligence - Mt. Laurel, NJ](https://jobright.ai/jobs/info/68af99602daaba398441f5ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Aug 27 |
@@ -111,11 +112,9 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a8c42c758f2e4ac3ff5156?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Aug 22 |
 | **[Veritas HHS](https://www.veritas-hhs.com)** | **[Business Analyst (Full time in-person position)](https://jobright.ai/jobs/info/68afa699962903596357e0f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | On Site | Aug 22 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/68a8aa7bd627244576e3481d?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 22 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68831e63b54cac0f1e735ccf?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Aug 22 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 22 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/68a7c160758f2e4ac3fee271?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68a7fb5b758f2e4ac3fefabd?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright.ai/jobs/info/68afe100e723db6c9b7b48ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | On Site | Aug 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Corporate Services](https://jobright.ai/jobs/info/68afc60be723db6c9b7b33da?utm_campaign=Business%20Analyst&utm_source=1103)** | Woonsocket, RI | Hybrid | Aug 21 |
-| **[EliseAI](http://www.eliseai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68a8d4b7d627244576e35d53?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
