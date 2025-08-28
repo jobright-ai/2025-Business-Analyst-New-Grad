@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worldgate, llc](https://worldgatellc.com/)** | **[Business Analyst (Technical)](https://jobright.ai/jobs/info/68b0ae442d46f6396cae7a0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Aug 28 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68b092c3b47fb001d6893772?utm_campaign=Business%20Analyst&utm_source=1103)** | Hauppauge, NY | Hybrid | Aug 28 |
 | **[BPG Group](https://www.bpggroup.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68b08dedb47fb001d689358e?utm_campaign=Business%20Analyst&utm_source=1103)** | Berryville, VA | Hybrid | Aug 28 |
 | **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b075792d46f6396cae5957?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Aug 28 |
@@ -116,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6879d0c5ed63844c9449e6a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 22 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/68a7c160758f2e4ac3fee271?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Aug 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68a7fb5b758f2e4ac3fefabd?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 21 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I](https://jobright.ai/jobs/info/68afe100e723db6c9b7b48ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
