@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst - Winter 2025 Start](https://jobright.ai/jobs/info/68b0f67804557a6c207b8d92?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Aug 28 |
 | **[Surgical Product Solutions](https://www.shopsps.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b0cae72d46f6396cae8979?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | Hybrid | Aug 28 |
 | **[NASA Federal Credit Union](https://www.nasafcu.com/)** | **[Business System Analyst](https://jobright.ai/jobs/info/68b0c7c6b47fb001d68955c4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst - Summer 2026 Start](https://jobright.ai/jobs/info/68b0c1a5b47fb001d68953be?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Aug 28 |
