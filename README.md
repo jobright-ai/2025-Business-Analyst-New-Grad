@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Invenergy](https://invenergy.com)** | **[Analyst I, IT Business Administration](https://jobright.ai/jobs/info/68b1ca6a1ade4306aa631da6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 29 |
+| **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68b13f07e815524ae11fcc95?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 29 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 29 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b19f3c1ade4306aa630b82?utm_campaign=Business%20Analyst&utm_source=1103)** | Chandler, AZ | Hybrid | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst - Summer 2026 Start](https://jobright.ai/jobs/info/68b160dde815524ae11fe85e?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Aug 28 |
@@ -67,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst - Summer 2026 Start](https://jobright.ai/jobs/info/68b0c1a5b47fb001d68953be?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Aug 28 |
 | ↳ | **[Associate Business Analyst - Winter 2025 Start](https://jobright.ai/jobs/info/68b0c0f12d46f6396cae82f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Aug 28 |
 | **[Worldgate, llc](https://worldgatellc.com/)** | **[Business Analyst (Technical)](https://jobright.ai/jobs/info/68b0ae442d46f6396cae7a0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Aug 28 |
-| **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b075792d46f6396cae5957?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Aug 28 |
+| **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b1d0d9f4e41a61efd7feeb?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, New York, United States | On Site | Aug 28 |
 | **[Spellman High Voltage Electronics Corporation](http://www.spellmanhv.com)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68b04feab47fb001d689106b?utm_campaign=Business%20Analyst&utm_source=1103)** | US - NY - Hauppauge | Hybrid | Aug 28 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst , Fulfillment by Amazon (FBA) Science](https://jobright.ai/jobs/info/68af9ab31f0a2a568a062d64?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Aug 27 |
 | **[TD](https://www.td.com)** | **[Business Insights Analyst I/Business Intelligence - Mt. Laurel, NJ](https://jobright.ai/jobs/info/68af99602daaba398441f5ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | On Site | Aug 27 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Formlabs](http://www.formlabs.com)** | **[Business Analytics Lead - Hybrid (Somerville, MA)](https://jobright.ai/jobs/info/68ae0654daf1431824ca001b?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville, MA | Hybrid | Aug 26 |
 | ↳ | **[Business Analytics Lead - Hybrid (Boston, MA)](https://jobright.ai/jobs/info/68ae0531daf1431824c9fd6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Aug 26 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b1255304557a6c207ba1ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | Hybrid | Aug 26 |
-| ↳ | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b12396e815524ae11fb4c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 26 |
 | ↳ | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b11fe76fab621da7b0a0ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chandler, AZ | Hybrid | Aug 26 |
+| ↳ | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b12396e815524ae11fb4c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 26 |
 | **[INSXCloud Inc.](https://www.insxcloud.com/)** | **[Business Analyst - Hybrid](https://jobright.ai/jobs/info/68adf709daf1431824c9f543?utm_campaign=Business%20Analyst&utm_source=1103)** | Akron, OH | Hybrid | Aug 26 |
 | **[Cross River](http://crossriver.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/68adf32cd627244576e501d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ | Hybrid | Aug 26 |
 | **[Medtronic](https://www.medtronic.com)** | **[Associate IT Business Analyst - Hyperautomation](https://jobright.ai/jobs/info/68ade306daf1431824c9eb2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Mounds View, Minnesota, United States of America | On Site | Aug 26 |
@@ -117,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Razorfish](http://www.amnesia.com.au)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/6837ac8962b7fb21ca4ba047?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Aug 23 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68885534fbbf032d0007ae30?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Aug 23 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/68a973466acf96396f727b5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Aug 23 |
-| **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a8ffdb6acf96396f724165?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
