@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/68b24f6e1ade4306aa63589d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 29 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level – Top Secret Clearance Required](https://jobright.ai/jobs/info/68b240621ade4306aa6352bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Aug 29 |
-| **[OCT Consulting LLC](https://www.octconsulting.com)** | **[Business Analyst (15.31-DHA)](https://jobright.ai/jobs/info/68b23178bc187f64e1bd9b96?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Aug 29 |
+| **[OCT Consulting LLC](https://www.octconsulting.com)** | **[Business Analyst (15.31-DHA)](https://jobright.ai/jobs/info/68b2744ff4e41a61efd84bd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Aug 29 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (6073)](https://jobright.ai/jobs/info/68b21435bc187f64e1bd9310?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Aug 29 |
 | **[KeyBank](https://www.key.com)** | **[Business Analyst, CAA](https://jobright.ai/jobs/info/68b1f8341ade4306aa6332f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 29 |
 | **[Invenergy](https://invenergy.com)** | **[Analyst I, IT Business Administration](https://jobright.ai/jobs/info/68b1feb3bc187f64e1bd88b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 29 |
@@ -67,6 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Chase](https://www.chase.com/)** | **[Business Analyst- Portfolio Performance Analysis Group](https://jobright.ai/jobs/info/68b1fb9f1ade4306aa6338d9?utm_campaign=Business%20Analyst&utm_source=1103)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Aug 29 |
 | **[KeyBank](https://www.key.com)** | **[Business Analyst, CAA](https://jobright.ai/jobs/info/68b1fab61ade4306aa63375d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 29 |
 | ↳ | **[Business Analyst, CAA](https://jobright.ai/jobs/info/68b1f975bc187f64e1bd8472?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 29 |
+| ↳ | **[Business Analyst, CAA](https://jobright.ai/jobs/info/68b2711d1ade4306aa6367b8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 29 |
+| ↳ | **[Business Analyst, CAA](https://jobright.ai/jobs/info/68b273bff4e41a61efd84ab0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 29 |
 | ↳ | **[Business Analyst, CAA](https://jobright.ai/jobs/info/68b1f857f4e41a61efd811ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 29 |
 | **[Invenergy](https://invenergy.com)** | **[Analyst I, IT Business Administration](https://jobright.ai/jobs/info/68b1ca6a1ade4306aa631da6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 29 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68b13f07e815524ae11fcc95?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 29 |
