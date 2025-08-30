@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level – Top Secret Clearance Required](https://jobright.ai/jobs/info/68b240621ade4306aa6352bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Aug 29 |
+| **[OCT Consulting LLC](https://www.octconsulting.com)** | **[Business Analyst (15.31-DHA)](https://jobright.ai/jobs/info/68b23178bc187f64e1bd9b96?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Aug 29 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (6073)](https://jobright.ai/jobs/info/68b21435bc187f64e1bd9310?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Aug 29 |
 | **[KeyBank](https://www.key.com)** | **[Business Analyst, CAA](https://jobright.ai/jobs/info/68b1f8341ade4306aa6332f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 29 |
 | **[Invenergy](https://invenergy.com)** | **[Analyst I, IT Business Administration](https://jobright.ai/jobs/info/68b1feb3bc187f64e1bd88b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 29 |
@@ -96,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[2026 Business Analyst Development Program- Chicago](https://jobright.ai/jobs/info/68a7769f758f2e4ac3fec6e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 26 |
 | **[Formlabs](http://www.formlabs.com)** | **[Business Analytics Lead - Hybrid (Somerville, MA)](https://jobright.ai/jobs/info/68ae0654daf1431824ca001b?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville, MA | Hybrid | Aug 26 |
 | ↳ | **[Business Analytics Lead - Hybrid (Boston, MA)](https://jobright.ai/jobs/info/68ae0531daf1431824c9fd6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Aug 26 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b12396e815524ae11fb4c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 26 |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b11fe76fab621da7b0a0ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chandler, AZ | Hybrid | Aug 26 |
+| ↳ | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b12396e815524ae11fb4c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 26 |
 | ↳ | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b1255304557a6c207ba1ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | Hybrid | Aug 26 |
-| ↳ | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b11fe76fab621da7b0a0ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chandler, AZ | Hybrid | Aug 26 |
 | **[INSXCloud Inc.](https://www.insxcloud.com/)** | **[Business Analyst - Hybrid](https://jobright.ai/jobs/info/68adf709daf1431824c9f543?utm_campaign=Business%20Analyst&utm_source=1103)** | Akron, OH | Hybrid | Aug 26 |
 | **[Cross River](http://crossriver.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/68adf32cd627244576e501d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ | Hybrid | Aug 26 |
 | **[Medtronic](https://www.medtronic.com)** | **[Associate IT Business Analyst - Hyperautomation](https://jobright.ai/jobs/info/68ade306daf1431824c9eb2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Mounds View, Minnesota, United States of America | On Site | Aug 26 |
@@ -122,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/68ac1ccddaf1431824c93d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 24 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/689aeb365574fd6bc0c87b50?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Aug 24 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/6837ac8962b7fb21ca4ba047?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | Hybrid | Aug 23 |
-| **[SouthState Bank](https://southstatebank.com)** | **[Loan Closing Business Analyst - Remote](https://jobright.ai/jobs/info/68a973466acf96396f727b5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Haven, FL | Remote | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
