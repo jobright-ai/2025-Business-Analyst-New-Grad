@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tradition Capital Bank](http://tradition.bank)** | **[Business Analyst](https://jobright.ai/jobs/info/68b47d93bc187f64e1be3733?utm_campaign=Business%20Analyst&utm_source=1103)** | Edina, MN | On Site | Aug 31 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Associate - Wealth Management Solutions Technology Analyst](https://jobright.ai/jobs/info/68a6b6bd33dd7158bbca22a8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Aug 30 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Business Analyst - Utilities](https://jobright.ai/jobs/info/68b2de4bf4e41a61efd8824d?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Aug 30 |
 | **[HomeLight](https://www.homelight.com)** | **[AI Business Operations Analyst](https://jobright.ai/jobs/info/689f64f179a9f966625568d3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Aug 30 |
@@ -104,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[2026 Business Analyst Development Program- Chicago](https://jobright.ai/jobs/info/68a7769f758f2e4ac3fec6e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 26 |
 | **[Formlabs](http://www.formlabs.com)** | **[Business Analytics Lead - Hybrid (Somerville, MA)](https://jobright.ai/jobs/info/68ae0654daf1431824ca001b?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville, MA | Hybrid | Aug 26 |
 | ↳ | **[Business Analytics Lead - Hybrid (Boston, MA)](https://jobright.ai/jobs/info/68ae0531daf1431824c9fd6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Aug 26 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b12396e815524ae11fb4c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 26 |
-| ↳ | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b1255304557a6c207ba1ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | Hybrid | Aug 26 |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b1255304557a6c207ba1ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | Hybrid | Aug 26 |
+| ↳ | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b12396e815524ae11fb4c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Aug 26 |
 | ↳ | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b11fe76fab621da7b0a0ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chandler, AZ | Hybrid | Aug 26 |
 | **[INSXCloud Inc.](https://www.insxcloud.com/)** | **[Business Analyst - Hybrid](https://jobright.ai/jobs/info/68adf709daf1431824c9f543?utm_campaign=Business%20Analyst&utm_source=1103)** | Akron, OH | Hybrid | Aug 26 |
 | **[Cross River](http://crossriver.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/68adf32cd627244576e501d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ | Hybrid | Aug 26 |
