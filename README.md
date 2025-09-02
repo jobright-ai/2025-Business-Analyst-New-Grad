@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bozzuto](https://www.bozzuto.com/)** | **[Solutions Advisor -  Strategic Business Solutions](https://jobright.ai/jobs/info/68b71ea81ade4306aa647d2e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 02 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Aug 31 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68b50ce6bc187f64e1be44d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Aug 31 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/684229509f805e2c477b8313?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Aug 31 |
@@ -69,10 +70,8 @@ For a complete list, click the following sortable link below:
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (6073)](https://jobright.ai/jobs/info/68b21435bc187f64e1bd9310?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | Hybrid | Aug 29 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Business Analyst- Portfolio Performance Analysis Group](https://jobright.ai/jobs/info/68b1fbdf1ade4306aa633940?utm_campaign=Business%20Analyst&utm_source=1103)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Aug 29 |
 | **[Chase](https://www.chase.com/)** | **[Business Analyst- Portfolio Performance Analysis Group](https://jobright.ai/jobs/info/68b1fb9f1ade4306aa6338d9?utm_campaign=Business%20Analyst&utm_source=1103)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Aug 29 |
-| **[Invenergy](https://invenergy.com)** | **[Analyst I, IT Business Administration](https://jobright.ai/jobs/info/68b1ca86f4e41a61efd7fad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 29 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68b13f07e815524ae11fcc95?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 29 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 29 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Junior Business Analyst - Asset Management](https://jobright.ai/jobs/info/68b19f3c1ade4306aa630b82?utm_campaign=Business%20Analyst&utm_source=1103)** | Chandler, AZ | Hybrid | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst - Summer 2026 Start](https://jobright.ai/jobs/info/68b160dde815524ae11fe85e?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Aug 28 |
 | ↳ | **[Associate Business Analyst - Winter 2025 Start](https://jobright.ai/jobs/info/68b0f67804557a6c207b8d92?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Aug 28 |
 | **[Surgical Product Solutions](https://www.shopsps.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b0cae72d46f6396cae8979?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | Hybrid | Aug 28 |
