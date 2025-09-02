@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[IT BUSINESS OPERATIONS ANALYST - DIGITAL TECHNOLOGY SERVICES](https://jobright.ai/jobs/info/68b75c7b2124650c14022432?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ | On Site | Sep 02 |
 | **[Acentra Health](https://acentra.com/)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/68b74af0f4e41a61efd97ccb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 02 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst - Indianapolis Health](https://jobright.ai/jobs/info/68b748e41ade4306aa649ab3?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | Hybrid | Sep 02 |
 | **[Jack Link's Protein Snacks](https://jacklinks.com.au/)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/68b7437ff4e41a61efd975a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Sep 02 |
@@ -71,8 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/68b24f6e1ade4306aa63589d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 29 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level – Top Secret Clearance Required](https://jobright.ai/jobs/info/68b240621ade4306aa6352bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Aug 29 |
 | **[OCT Consulting LLC](https://www.octconsulting.com)** | **[Business Analyst (15.31-DHA)](https://jobright.ai/jobs/info/68b23178bc187f64e1bd9b96?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Aug 29 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[Business Analyst- Portfolio Performance Analysis Group](https://jobright.ai/jobs/info/68b1fbdf1ade4306aa633940?utm_campaign=Business%20Analyst&utm_source=1103)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Aug 29 |
-| **[Chase](https://www.chase.com/)** | **[Business Analyst- Portfolio Performance Analysis Group](https://jobright.ai/jobs/info/68b1fb9f1ade4306aa6338d9?utm_campaign=Business%20Analyst&utm_source=1103)** | 4 Chase Metrotech Ctr, Brooklyn, NY, 11245, US | On Site | Aug 29 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68b13f07e815524ae11fcc95?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 29 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst - Summer 2026 Start](https://jobright.ai/jobs/info/68b160dde815524ae11fe85e?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Aug 28 |
