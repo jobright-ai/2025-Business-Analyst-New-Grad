@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Business Analyst](https://jobright.ai/jobs/info/68b798371ade4306aa64c68a?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Sep 02 |
+| **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Business Analyst](https://jobright.ai/jobs/info/68b7a0781ade4306aa64cb53?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Sep 02 |
 | **[Jack Link's Protein Snacks](https://jacklinks.com.au/)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/68b77c022124650c140230bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Sep 02 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/68b779b2f4e41a61efd9936d?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Sep 02 |
 | **[QUALITY HEALTH PARTNERS](https://www.qualityhp.com)** | **[Operations Business Analyst](https://jobright.ai/jobs/info/68b79ff21ade4306aa64cadc?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Ana, CA | On Site | Sep 02 |
