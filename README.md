@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Business Analyst](https://jobright.ai/jobs/info/68b7a0781ade4306aa64cb53?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Sep 02 |
+| **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Business Analyst](https://jobright.ai/jobs/info/68b798371ade4306aa64c68a?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Sep 02 |
 | **[Jack Link's Protein Snacks](https://jacklinks.com.au/)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/68b77c022124650c140230bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Sep 02 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/68b779b2f4e41a61efd9936d?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Sep 02 |
 | **[QUALITY HEALTH PARTNERS](https://www.qualityhp.com)** | **[Operations Business Analyst](https://jobright.ai/jobs/info/68b79ff21ade4306aa64cadc?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Ana, CA | On Site | Sep 02 |
@@ -74,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[HomeLight](https://www.homelight.com)** | **[AI Business Operations Analyst](https://jobright.ai/jobs/info/689f64f179a9f966625568d3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Aug 30 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/68b24f6e1ade4306aa63589d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 29 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level – Top Secret Clearance Required](https://jobright.ai/jobs/info/68b240621ade4306aa6352bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Aug 29 |
-| **[OCT Consulting LLC](https://www.octconsulting.com)** | **[Business Analyst (15.31-DHA)](https://jobright.ai/jobs/info/68b23178bc187f64e1bd9b96?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Aug 29 |
+| **[OCT Consulting LLC](https://www.octconsulting.com)** | **[Business Analyst (15.31-DHA)](https://jobright.ai/jobs/info/68b2744ff4e41a61efd84bd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Aug 29 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68b13f07e815524ae11fcc95?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 29 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst - Summer 2026 Start](https://jobright.ai/jobs/info/68b160dde815524ae11fe85e?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Aug 28 |
@@ -90,6 +90,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst - BCG Vantage, Culture, Transformation, and Change Management](https://jobright.ai/jobs/info/68af92bd1f0a2a568a0629e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Aug 27 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst , Fulfillment by Amazon (FBA) Science](https://jobright.ai/jobs/info/68af6f1f962903596357caa1?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Aug 27 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Business Systems Analyst [2026 EDGE Program]](https://jobright.ai/jobs/info/68af6db91f0a2a568a0619be?utm_campaign=Business%20Analyst&utm_source=1103)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | Hybrid | Aug 27 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Business Analyst (remote)](https://jobright.ai/jobs/info/68af5f082daaba398441daa6?utm_campaign=Business%20Analyst&utm_source=1103)** | Depew, NY | Remote | Aug 27 |
-| **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/68af5e3f1f0a2a568a060fb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
