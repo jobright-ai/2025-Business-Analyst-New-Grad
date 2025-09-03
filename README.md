@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Business Analyst](https://jobright.ai/jobs/info/68b798371ade4306aa64c68a?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Sep 02 |
+| **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Business Analyst](https://jobright.ai/jobs/info/68b7a0781ade4306aa64cb53?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Sep 02 |
 | **[Jack Link's Protein Snacks](https://jacklinks.com.au/)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/68b77c022124650c140230bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Sep 02 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/68b779b2f4e41a61efd9936d?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Sep 02 |
 | **[QUALITY HEALTH PARTNERS](https://www.qualityhp.com)** | **[Operations Business Analyst](https://jobright.ai/jobs/info/68b79ff21ade4306aa64cadc?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Ana, CA | On Site | Sep 02 |
@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/68b24f6e1ade4306aa63589d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 29 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level – Top Secret Clearance Required](https://jobright.ai/jobs/info/68b240621ade4306aa6352bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Aug 29 |
 | **[OCT Consulting LLC](https://www.octconsulting.com)** | **[Business Analyst (15.31-DHA)](https://jobright.ai/jobs/info/68b2744ff4e41a61efd84bd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Aug 29 |
+| **[Invenergy](https://invenergy.com)** | **[Analyst I, IT Business Administration](https://jobright.ai/jobs/info/68b8700d07090163b6ba1ab4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 29 |
 | **[CGI](https://www.cgi.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68b13f07e815524ae11fcc95?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Aug 29 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst - Summer 2026 Start](https://jobright.ai/jobs/info/68b160dde815524ae11fe85e?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Aug 28 |
@@ -135,5 +136,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Business Analyst Development Program- Cleveland](https://jobright.ai/jobs/info/689d35d383d13d1f5b6ae07d?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Aug 21 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68a74838d627244576e2afe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tontitown, AR | On Site | Aug 21 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Insights & Analytics Associate - New York](https://jobright.ai/jobs/info/68b04b85b47fb001d6890aa2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Aug 21 |
-| **[Jubilant Pharma Limited](http://www.jubilantpharma.com/)** | **[Associate, Business Solutions](https://jobright.ai/jobs/info/68a67959758f2e4ac3fe5022?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
