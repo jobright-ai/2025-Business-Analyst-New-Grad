@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Advisor Desktop Business Analyst - Associate](https://jobright.ai/jobs/info/68bb055a5f3832749186b802?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York, United States of America | On Site | Sep 05 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68baf8768043103d4f2246db?utm_campaign=Business%20Analyst&utm_source=1103)** | USA DC Washington | Hybrid | Sep 05 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 05 |
 | **[DXC Technology](https://www.dxc.com)** | **[Analyst II Business Process Transactions / RR-0204184](https://jobright.ai/jobs/info/68baa1fa5f38327491868cad?utm_campaign=Business%20Analyst&utm_source=1103)** | Virginia, United States | Remote | Sep 04 |
 | ↳ | **[Analyst II Business Process Transactions / RR-0204184](https://jobright.ai/jobs/info/68ba5aef8043103d4f21fe52?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - VA - ANY CITY | On Site | Sep 04 |
@@ -95,10 +97,10 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst - Indianapolis Health](https://jobright.ai/jobs/info/68b748e41ade4306aa649ab3?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | Hybrid | Sep 02 |
 | **[Jack Link's Protein Snacks](https://jacklinks.com.au/)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/68b7437ff4e41a61efd975a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Sep 02 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b73eba1ade4306aa648f76?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, California, United States | On Site | Sep 02 |
-| ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b73c5ef4e41a61efd96c7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, Ohio, United States | On Site | Sep 02 |
 | ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b73f4ff4e41a61efd97028?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, California, United States | On Site | Sep 02 |
-| ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b74006f4e41a61efd970f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, Florida, United States | On Site | Sep 02 |
 | ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b73f2f1ade4306aa649082?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, United States | On Site | Sep 02 |
+| ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b73c5ef4e41a61efd96c7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, Ohio, United States | On Site | Sep 02 |
+| ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b74006f4e41a61efd970f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, Florida, United States | On Site | Sep 02 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Solutions Advisor -  Strategic Business Solutions](https://jobright.ai/jobs/info/68b71ea81ade4306aa647d2e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 02 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Aug 31 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68b50ce6bc187f64e1be44d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Aug 31 |
@@ -110,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[HomeLight](https://www.homelight.com)** | **[AI Business Operations Analyst](https://jobright.ai/jobs/info/689f64f179a9f966625568d3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Aug 30 |
 | **[Invenergy](https://invenergy.com)** | **[Analyst I, IT Business Administration](https://jobright.ai/jobs/info/68b91af85b42bc456282a78b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 29 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/68b24f6e1ade4306aa63589d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 29 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level – Top Secret Clearance Required](https://jobright.ai/jobs/info/68b240621ade4306aa6352bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
