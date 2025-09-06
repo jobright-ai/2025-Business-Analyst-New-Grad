@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paradigm](http://www.paradigmcorp.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68bcab473bf9eb44f8324664?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Sep 06 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst](https://jobright.ai/jobs/info/68bc7fe668300c452ca15b1b?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Sep 06 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Insights & Analytics Associate - New York](https://jobright.ai/jobs/info/68b04b85b47fb001d6890aa2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 06 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 06 |
@@ -102,11 +103,11 @@ For a complete list, click the following sortable link below:
 | **[Acentra Health](https://acentra.com/)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/68b74af0f4e41a61efd97ccb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 02 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst - Indianapolis Health](https://jobright.ai/jobs/info/68b748e41ade4306aa649ab3?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | Hybrid | Sep 02 |
 | **[Jack Link's Protein Snacks](https://jacklinks.com.au/)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/68b7437ff4e41a61efd975a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Sep 02 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b74006f4e41a61efd970f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, Florida, United States | On Site | Sep 02 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b73f4ff4e41a61efd97028?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, California, United States | On Site | Sep 02 |
 | ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b73c5ef4e41a61efd96c7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, Ohio, United States | On Site | Sep 02 |
-| ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b73eba1ade4306aa648f76?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, California, United States | On Site | Sep 02 |
-| ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b73f4ff4e41a61efd97028?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, California, United States | On Site | Sep 02 |
 | ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b73f2f1ade4306aa649082?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, United States | On Site | Sep 02 |
+| ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b74006f4e41a61efd970f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, Florida, United States | On Site | Sep 02 |
+| ↳ | **[Deloitte - Technology Enablement and Transformation Analyst](https://jobright.ai/jobs/info/68b73eba1ade4306aa648f76?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, California, United States | On Site | Sep 02 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Solutions Advisor -  Strategic Business Solutions](https://jobright.ai/jobs/info/68b71ea81ade4306aa647d2e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 02 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/68bbccba6105227d118a9ee1?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Aug 31 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b147?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Aug 31 |
