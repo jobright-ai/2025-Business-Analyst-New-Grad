@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Department of Transportation](https://www.transportation.gov/)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c0434e702aa35207aab877?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
 | **[Camping World](http://www.campingworld.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c02f915c5d5f14f46dbb9e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincolnshire, IL | Hybrid | Sep 09 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68bffe358e65e77df55be7a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | On Site | Sep 09 |
 | **[CLSA](https://www.clsa.com)** | **[IE - Business Manager](https://jobright.ai/jobs/info/68bf410d8e65e77df55b8bc0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 08 |
@@ -93,8 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Dallas County](https://www.dallascounty.org/)** | **[0000009188.BUSINESS ANALYST I.COUNTY CLERK-ADMINISTRATION](https://jobright.ai/jobs/info/68b8c38e07090163b6ba4b38?utm_campaign=Business%20Analyst&utm_source=1103)** | COUNTY CLERK'S OFFICE, Dallas, TX, 75202, US | On Site | Sep 03 |
 | **[Xogene](https://www.xogene.com/)** | **[AI/Technology Business Analyst](https://jobright.ai/jobs/info/68b89ce4ea901c0d269f81c9?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Sep 03 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Business Operations Analyst - Digital Technology Services](https://jobright.ai/jobs/info/68b89b815b42bc45628263c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ | On Site | Sep 03 |
+| **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Business Analyst](https://jobright.ai/jobs/info/68b798371ade4306aa64c68a?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Sep 02 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68ad24ea758f2e4ac300b40c?utm_campaign=Business%20Analyst&utm_source=1103)** | El Paso, TX | Hybrid | Sep 02 |
-| **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Business Analyst](https://jobright.ai/jobs/info/68b7a0781ade4306aa64cb53?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Sep 02 |
-| **[Jack Link's Protein Snacks](https://jacklinks.com.au/)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/68b77c022124650c140230bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Sep 02 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/68b779b2f4e41a61efd9936d?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
