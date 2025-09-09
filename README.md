@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransUnion](http://www.transunion.com)** | **[Business Implementation Analyst](https://jobright.ai/jobs/info/68c07d7a8e65e77df55c1bf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | Hybrid | Sep 09 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c069b58e65e77df55c0da8?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | Sep 09 |
 | **[City of New York](http://www1.nyc.gov)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c054318e65e77df55c0226?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Business Administrator](https://jobright.ai/jobs/info/68c05b198e65e77df55c04ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Wendell, NC | On Site | Sep 09 |
@@ -70,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Sep 07 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Associate Director, Rocket Motor Systems](https://jobright.ai/jobs/info/688472884174df41e0f9393e?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 07 |
 | **[Paradigm](http://www.paradigmcorp.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68bcab473bf9eb44f8324664?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Sep 06 |
+| **[Apple](https://www.apple.com)** | **[Procurement Business Analyst](https://jobright.ai/jobs/info/68c0795a5c5d5f14f46de00c?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunnyvale, California, United States | On Site | Sep 06 |
+| ↳ | **[Procurement Business Analyst](https://jobright.ai/jobs/info/68c07ce38e65e77df55c1ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Cupertino, California, United States | On Site | Sep 06 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Insights & Analytics Associate - New York](https://jobright.ai/jobs/info/68b04b85b47fb001d6890aa2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 06 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 06 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68bb776b5f3832749186f4f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 05 |
