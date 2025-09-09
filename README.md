@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[U.S. Department of Transportation](https://www.transportation.gov/)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c0434e702aa35207aab877?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c069b58e65e77df55c0da8?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | Sep 09 |
+| **[City of New York](http://www1.nyc.gov)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c054318e65e77df55c0226?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
+| **[Siemens](https://www.siemens.com/)** | **[Business Administrator](https://jobright.ai/jobs/info/68c05b198e65e77df55c04ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Wendell, NC | On Site | Sep 09 |
 | **[Camping World](http://www.campingworld.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c02f915c5d5f14f46dbb9e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincolnshire, IL | Hybrid | Sep 09 |
+| **[U.S. Department of Transportation](https://www.transportation.gov/)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c0434e702aa35207aab877?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 09 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68bffe358e65e77df55be7a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | On Site | Sep 09 |
 | **[CLSA](https://www.clsa.com)** | **[IE - Business Manager](https://jobright.ai/jobs/info/68bf410d8e65e77df55b8bc0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 08 |
 | **[D. E. Shaw Research](http://www.deshawresearch.com/)** | **[Business Operations Associate (Software Licensing)](https://jobright.ai/jobs/info/68beb8c58e65e77df55b3ec0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 08 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Advisor Desktop Business Analyst - Associate](https://jobright.ai/jobs/info/68bb055a5f3832749186b802?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York, United States of America | On Site | Sep 05 |
 | **[Hatch](https://www.hatch.com)** | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68bb146e6105227d118a2afb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 05 |
 | ↳ | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68bb15b16105227d118a2c4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Sep 05 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 05 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Business Support Analyst](https://jobright.ai/jobs/info/68ba3a068043103d4f21ecb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Georgia - Fulton - Atlanta | On Site | Sep 04 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68ba2d1d6105227d1189b75e?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Sep 04 |
 | **[Dignity Health Management Services Organization](https://dignityhealthmso.org)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/68ba1d2e5f3832749186406c?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Sep 04 |
@@ -94,6 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Dallas County](https://www.dallascounty.org/)** | **[0000009188.BUSINESS ANALYST I.COUNTY CLERK-ADMINISTRATION](https://jobright.ai/jobs/info/68b8c38e07090163b6ba4b38?utm_campaign=Business%20Analyst&utm_source=1103)** | COUNTY CLERK'S OFFICE, Dallas, TX, 75202, US | On Site | Sep 03 |
 | **[Xogene](https://www.xogene.com/)** | **[AI/Technology Business Analyst](https://jobright.ai/jobs/info/68b89ce4ea901c0d269f81c9?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | Hybrid | Sep 03 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Business Operations Analyst - Digital Technology Services](https://jobright.ai/jobs/info/68b89b815b42bc45628263c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ | On Site | Sep 03 |
-| **[VGM Group, Inc.](https://www.vgm.com)** | **[Software Business Analyst](https://jobright.ai/jobs/info/68b798371ade4306aa64c68a?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, IA | Hybrid | Sep 02 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68ad24ea758f2e4ac300b40c?utm_campaign=Business%20Analyst&utm_source=1103)** | El Paso, TX | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
