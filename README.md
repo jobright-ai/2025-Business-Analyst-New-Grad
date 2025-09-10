@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c0c3758e65e77df55c42f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Sep 09 |
+| **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c0c0498e65e77df55c42c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, MN | Hybrid | Sep 09 |
+| **[TransUnion](http://www.transunion.com)** | **[Business Implementation Analyst](https://jobright.ai/jobs/info/68c0bc125c5d5f14f46e0a61?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 09 |
+| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst (Walmart)](https://jobright.ai/jobs/info/68c0b6ce8e65e77df55c3bff?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Sep 09 |
 | **[TransUnion](http://www.transunion.com)** | **[Business Implementation Analyst](https://jobright.ai/jobs/info/68c07d7a8e65e77df55c1bf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | Hybrid | Sep 09 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c069b58e65e77df55c0da8?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | Sep 09 |
 | **[City of New York](http://www1.nyc.gov)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c054318e65e77df55c0226?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
@@ -77,12 +81,12 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 06 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68bb776b5f3832749186f4f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 05 |
 | **[OCT Consulting LLC](https://www.octconsulting.com)** | **[Business Analyst (15.31-DHA)](https://jobright.ai/jobs/info/68bb53d66105227d118a5498?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Sep 05 |
-| **[Hatch](https://www.hatch.com)** | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68bb42838043103d4f227449?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Sep 05 |
-| ↳ | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68bb3fc06105227d118a4728?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 05 |
+| **[Hatch](https://www.hatch.com)** | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68bb3fc06105227d118a4728?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 05 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Advisor Desktop Business Analyst - Associate](https://jobright.ai/jobs/info/68bb33296105227d118a3ff2?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, NY | On Site | Sep 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/6882cb6c835a903aa07f0c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Sep 05 |
-| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Advisor Desktop Business Analyst - Associate](https://jobright.ai/jobs/info/68bb056e8043103d4f224fb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York, United States of America | On Site | Sep 05 |
+| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Advisor Desktop Business Analyst - Associate](https://jobright.ai/jobs/info/68bb055a5f3832749186b802?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York, United States of America | On Site | Sep 05 |
 | **[Hatch](https://www.hatch.com)** | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68bb146e6105227d118a2afb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 05 |
+| ↳ | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68bb15b16105227d118a2c4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Sep 05 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Business Support Analyst](https://jobright.ai/jobs/info/68ba3a068043103d4f21ecb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Georgia - Fulton - Atlanta | On Site | Sep 04 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68ba2d1d6105227d1189b75e?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Sep 04 |
 | **[Dignity Health Management Services Organization](https://dignityhealthmso.org)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/68ba1d2e5f3832749186406c?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Sep 04 |
