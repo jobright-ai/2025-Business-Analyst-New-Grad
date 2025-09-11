@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Viasat](http://www.viasat.com)** | **[Business Process Analyst - GSS](https://jobright.ai/jobs/info/68c2a9705001f8077bf5d0c0?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/68c2881d8753a565272fa24b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 10 |
 | ↳ | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/68c28af603b99f6b342958f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Sep 10 |
 | ↳ | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/68c292aa8753a565272fbe58?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 10 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c20b0833864f172f9bc929?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Sep 10 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c204ad63b706703e110f54?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | Sep 10 |
 | **[Spire - Pay with Spire, Inc.](https://www.bimnetworks.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c203f733864f172f9bc518?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Sep 10 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c1e4b74d652f044775b754?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c1ee5e4d652f044775bcf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
 | **[Institutional Cash Distributors (ICD)](http://icdportal.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68c1e2a03fd8b059a20f3a29?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Sep 10 |
 | **[Emerson](http://www.emerson.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c1db1c3fd8b059a20f3585?utm_campaign=Business%20Analyst&utm_source=1103)** | Shakopee, MN | Hybrid | Sep 10 |
 | **[New York State Education Department](http://www.nysed.gov)** | **[Business Systems Analyst 1, Business Systems Analyst Trainee 1, Business Systems Analyst Trainee 2 (NY HELPS) Box OP-1926/20065, OP-1927/45228, OP-1928/43432](https://jobright.ai/jobs/info/68c1d2144d652f044775a91e?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Sep 10 |
@@ -114,7 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Business Support Analyst](https://jobright.ai/jobs/info/68ba3a068043103d4f21ecb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Georgia - Fulton - Atlanta | On Site | Sep 04 |
 | **[Dignity Health Management Services Organization](https://dignityhealthmso.org)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/68ba1d2e5f3832749186406c?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Sep 04 |
 | **[South Shore Bank](http://southshorebank.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/68ba04c88043103d4f21cda5?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters, KY | On Site | Sep 04 |
-| **[Axle](https://axleinfo.com/)** | **[Process Analyst](https://jobright.ai/jobs/info/68b9f1978043103d4f21c0cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Rockville, MD | On Site | Sep 04 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68bf5c8d5c5d5f14f46d63f4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Sep 04 |
-| **[State of Georgia](https://georgia.gov/)** | **[Business Support Analyst](https://jobright.ai/jobs/info/68b9f4ca6105227d11899a32?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
