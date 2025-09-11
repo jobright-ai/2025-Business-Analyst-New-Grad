@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c20b0833864f172f9bc929?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Sep 10 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c204ad63b706703e110f54?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | Sep 10 |
+| **[Spire - Pay with Spire, Inc.](https://www.bimnetworks.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c203f733864f172f9bc518?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Sep 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c1e4b74d652f044775b754?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
 | **[Institutional Cash Distributors (ICD)](http://icdportal.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68c1e2a03fd8b059a20f3a29?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Sep 10 |
 | **[Emerson](http://www.emerson.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c1db1c3fd8b059a20f3585?utm_campaign=Business%20Analyst&utm_source=1103)** | Shakopee, MN | Hybrid | Sep 10 |
@@ -69,11 +72,13 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 10 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/68c153c0233c7d3e64d01552?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Sep 10 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c11606702aa35207ab348c?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 09 |
-| **[TD](https://www.td.com)** | **[Business Insights Analyst I](https://jobright.ai/jobs/info/68c100ef5c5d5f14f46e316b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, South Carolina | Remote | Sep 09 |
+| **[TD](https://www.td.com)** | **[Business Insights Analyst I](https://jobright.ai/jobs/info/68c2061c63b706703e1110bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlton, NJ | On Site | Sep 09 |
+| ↳ | **[Business Insights Analyst I](https://jobright.ai/jobs/info/68c100ef5c5d5f14f46e316b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, South Carolina | Remote | Sep 09 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c0c3758e65e77df55c42f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Sep 09 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c0c0498e65e77df55c42c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, MN | Hybrid | Sep 09 |
 | **[TransUnion](http://www.transunion.com)** | **[Business Implementation Analyst](https://jobright.ai/jobs/info/68c0bc125c5d5f14f46e0a61?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 09 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst (Walmart)](https://jobright.ai/jobs/info/68c0b6ce8e65e77df55c3bff?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Sep 09 |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a37cf637d3cc6b0d5776a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 09 |
 | **[TransUnion](http://www.transunion.com)** | **[Business Implementation Analyst](https://jobright.ai/jobs/info/68c07d7a8e65e77df55c1bf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | Hybrid | Sep 09 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 09 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c069b58e65e77df55c0da8?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | Sep 09 |
@@ -83,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Transportation](https://www.transportation.gov/)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c0434e702aa35207aab877?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68880afa4174df41e0fa26de?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Sep 09 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68648a7584153b63ff401eb1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 09 |
-| **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68bffe358e65e77df55be7a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | On Site | Sep 09 |
 | **[CLSA](https://www.clsa.com)** | **[IE - Business Manager](https://jobright.ai/jobs/info/68bf410d8e65e77df55b8bc0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 08 |
 | **[D. E. Shaw Research](http://www.deshawresearch.com/)** | **[Business Operations Associate (Software Licensing)](https://jobright.ai/jobs/info/68beb8c58e65e77df55b3ec0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 08 |
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68be4cc8e57feb02eb0ad7f3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York County, NY | Hybrid | Sep 07 |
@@ -112,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[[Hybrid] Business Analyst 2 (15828-6)](https://jobright.ai/jobs/info/68b994108043103d4f21877c?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood Cliffs, NJ | Hybrid | Sep 04 |
 | **[Mizuho OSI](http://mizuhosi.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68b9867f6105227d11895401?utm_campaign=Business%20Analyst&utm_source=1103)** | Union City, CA | On Site | Sep 04 |
 | **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/689d2fccfaa4e875e826db5c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 04 |
-| **[Affinity Consulting Group](https://www.affinityconsulting.com/)** | **[Enterprise Business Analyst](https://jobright.ai/jobs/info/68b93fb807090163b6ba94d6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
