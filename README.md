@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KnitWell Group](https://knitwellgroup.com/)** | **[Inventory Planning Analyst - ATF](https://jobright.ai/jobs/info/68c43fde14bb275ce0191e3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Times Square Tower-ANN-New York, NY 10036 | On Site | Sep 12 |
+| **[LSEG](http://www.lseg.com)** | **[Business Graduate Programme (Data and Analytics) 2026](https://jobright.ai/jobs/info/68c435ade396b25cb5c661a8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 12 |
+| **[Fairfax County Economic Development Authority](http://www.fairfaxcountyeda.org)** | **[Business Research Analyst](https://jobright.ai/jobs/info/68c42a77e396b25cb5c65d97?utm_campaign=Business%20Analyst&utm_source=1103)** | Tysons Corner, VA | On Site | Sep 12 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c3b301b8c22d3828474b56?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 11 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst - Data Management](https://jobright.ai/jobs/info/68c37e5b6031587f8458b559?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Sep 11 |
 | **[Rain](https://www.rain.xyz)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c360606031587f8458a529?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 11 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c069b58e65e77df55c0da8?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | Sep 09 |
 | **[City of New York](http://www1.nyc.gov)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c054318e65e77df55c0226?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Business Administrator](https://jobright.ai/jobs/info/68c05b198e65e77df55c04ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Wendell, NC | On Site | Sep 09 |
-| **[Camping World](http://www.campingworld.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c02f915c5d5f14f46dbb9e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincolnshire, IL | Hybrid | Sep 09 |
 | **[U.S. Department of Transportation](https://www.transportation.gov/)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c0434e702aa35207aab877?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68880afa4174df41e0fa26de?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Sep 09 |
 | **[CLSA](https://www.clsa.com)** | **[IE - Business Manager](https://jobright.ai/jobs/info/68bf410d8e65e77df55b8bc0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 08 |
@@ -121,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Insights & Analytics Associate - New York](https://jobright.ai/jobs/info/68b04b85b47fb001d6890aa2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 06 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 06 |
 | **[Real Chemistry](https://www.realchemistry.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c397e96031587f8458c52a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68bb776b5f3832749186f4f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
