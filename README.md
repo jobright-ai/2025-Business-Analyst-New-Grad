@@ -127,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[OCT Consulting LLC](https://www.octconsulting.com)** | **[Business Analyst (15.31-DHA)](https://jobright.ai/jobs/info/68bb53d66105227d118a5498?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Sep 05 |
 | **[Hatch](https://www.hatch.com)** | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68bb3fc06105227d118a4728?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 05 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Advisor Desktop Business Analyst - Associate](https://jobright.ai/jobs/info/68bb33296105227d118a3ff2?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, NY | On Site | Sep 05 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/6882cb6c835a903aa07f0c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
