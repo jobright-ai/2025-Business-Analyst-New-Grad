@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c4dbac31e5763f188e429a?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 12 |
 | **[Gallagher Re](https://www.gallagherre.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68c4cdab7279451d6a037d69?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, Illinois | Hybrid | Sep 12 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/68c4c89731e5763f188e3956?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 12 |
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68c4c33f31e5763f188e3612?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Sep 12 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst 2](https://jobright.ai/jobs/info/68c2e2a85adaee6c9bda4fa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh | On Site | Sep 11 |
 | **[Viasat](http://www.viasat.com)** | **[Business Process Analyst - GSS](https://jobright.ai/jobs/info/68c2a9705001f8077bf5d0c0?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fe0d783d13d1f5b6cba46?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Sep 11 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c4e8ef7d0db4114272f042?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68c21bd44d652f044775d0ce?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 10 |
 | **[Lincoln Property Company](http://www.lpc.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c21aea4d652f044775cff5?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Sep 10 |
 | **[Rain](https://www.rain.xyz)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c331ad5001f8077bf61f8b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 10 |
@@ -110,7 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/68c153c0233c7d3e64d01552?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Sep 10 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c11606702aa35207ab348c?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 09 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68c39f6a80e77b1fa6fcb1cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 09 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/689586698c6d6b442677a89e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Sep 09 |
+| **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/68a54bfeb6a3617d7fa7046d?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Sep 09 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/689586698c6d6b442677a89e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Sep 09 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c0c3758e65e77df55c42f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Sep 09 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a37cf637d3cc6b0d5776a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 09 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 09 |
@@ -126,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Paradigm](http://www.paradigmcorp.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68bcab473bf9eb44f8324664?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Sep 06 |
 | **[Apple](https://www.apple.com)** | **[Procurement Business Analyst](https://jobright.ai/jobs/info/68c07ce38e65e77df55c1ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Cupertino, California, United States | On Site | Sep 06 |
 | ↳ | **[Procurement Business Analyst](https://jobright.ai/jobs/info/68c0795a5c5d5f14f46de00c?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunnyvale, California, United States | On Site | Sep 06 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/683e7366fcbaf603244a44d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
