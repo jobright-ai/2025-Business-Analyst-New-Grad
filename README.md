@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Optum](https://www.optum.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c514f5c96a22563ece7131?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | Hybrid | Sep 12 |
 | **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c4dbac31e5763f188e429a?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 12 |
 | **[Gallagher Re](https://www.gallagherre.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68c4cdab7279451d6a037d69?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, Illinois | Hybrid | Sep 12 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/68c4c89731e5763f188e3956?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 12 |
@@ -100,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fe0d783d13d1f5b6cba46?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Sep 11 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c4e8ef7d0db4114272f042?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
 | **[Tradeweb](http://www.tradeweb.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/68c21bd44d652f044775d0ce?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 10 |
-| **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c2189e33864f172f9bcea9?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Sep 10 |
+| **[Lincoln Property Company](http://www.lpc.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c21aea4d652f044775cff5?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Sep 10 |
 | **[Rain](https://www.rain.xyz)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c331ad5001f8077bf61f8b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 10 |
 | **[Spire - Pay with Spire, Inc.](https://www.bimnetworks.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c203f733864f172f9bc518?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Sep 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c1e4b74d652f044775b754?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
@@ -118,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c0c3758e65e77df55c42f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Sep 09 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst (Walmart)](https://jobright.ai/jobs/info/68c0b6ce8e65e77df55c3bff?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Sep 09 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a37cf637d3cc6b0d5776a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 09 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/682efb054b06715cb79f8db4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 09 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c069b58e65e77df55c0da8?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | Sep 09 |
 | **[City of New York](http://www1.nyc.gov)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c054318e65e77df55c0226?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Business Administrator](https://jobright.ai/jobs/info/68c05b198e65e77df55c04ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Wendell, NC | On Site | Sep 09 |
@@ -129,6 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68be4cc8e57feb02eb0ad7f3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York County, NY | Hybrid | Sep 07 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Sep 07 |
 | **[Paradigm](http://www.paradigmcorp.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68bcab473bf9eb44f8324664?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Sep 06 |
-| **[Apple](https://www.apple.com)** | **[Procurement Business Analyst](https://jobright.ai/jobs/info/68c0795a5c5d5f14f46de00c?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunnyvale, California, United States | On Site | Sep 06 |
-| ↳ | **[Procurement Business Analyst](https://jobright.ai/jobs/info/68c07ce38e65e77df55c1ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Cupertino, California, United States | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
