@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optum](https://www.optum.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c514f5c96a22563ece7131?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | Hybrid | Sep 12 |
 | **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c4dbac31e5763f188e429a?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 12 |
 | **[Gallagher Re](https://www.gallagherre.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68c4cdab7279451d6a037d69?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, Illinois | Hybrid | Sep 12 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/68c4c89731e5763f188e3956?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 12 |
