@@ -123,6 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68880afa4174df41e0fa26de?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Sep 09 |
 | **[CLSA](https://www.clsa.com)** | **[IE - Business Manager](https://jobright.ai/jobs/info/68bf410d8e65e77df55b8bc0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 08 |
 | **[D. E. Shaw Research](http://www.deshawresearch.com/)** | **[Business Operations Associate (Software Licensing)](https://jobright.ai/jobs/info/68beb8c58e65e77df55b3ec0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 08 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Associate Director, Rocket Motor Systems](https://jobright.ai/jobs/info/68c64a777d0db411427380d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Sep 07 |
-| **[Botrista, Inc.](https://www.botrista.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68be4cc8e57feb02eb0ad7f3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York County, NY | Hybrid | Sep 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
