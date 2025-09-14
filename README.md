@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68c482ace471ef3ce16d6ea7?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Sep 12 |
 | **[Real Chemistry](https://www.realchemistry.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c397e96031587f8458c52a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 12 |
 | **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c469f4e396b25cb5c67ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Sep 12 |
-| ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c464e1e471ef3ce16d5b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Sep 12 |
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c464a814bb275ce0192de5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Sep 12 |
+| ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c46494e471ef3ce16d5b2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Sep 12 |
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/68c45dc8e471ef3ce16d573c?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton | On Site | Sep 12 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68c45a56e471ef3ce16d5649?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton, FL | On Site | Sep 12 |
 | **[LSEG](http://www.lseg.com)** | **[Business Graduate Programme (Data and Analytics) 2026](https://jobright.ai/jobs/info/68c55134c96a22563ece868e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 12 |
