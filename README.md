@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worldgate, llc](https://worldgatellc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c869a0983e6768bc54d0f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 15 |
+| **[CoreLogic](https://www.corelogic.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68c86157983e6768bc54c44e?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City - 501-D NE 122nd Street | Hybrid | Sep 15 |
 | **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/68c8544df9c6ff7aedf0d10b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Sep 15 |
 | **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c848fe983e6768bc54b676?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Sep 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c843e4983e6768bc54b44e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Sep 15 |
@@ -114,6 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/689586698c6d6b442677a89e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Sep 09 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c0c3758e65e77df55c42f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Sep 09 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a37cf637d3cc6b0d5776a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 09 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68c8667cf9c6ff7aedf0e001?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 09 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c069b58e65e77df55c0da8?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | Sep 09 |
 | **[City of New York](http://www1.nyc.gov)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c054318e65e77df55c0226?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Business Administrator](https://jobright.ai/jobs/info/68c05b198e65e77df55c04ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Wendell, NC | On Site | Sep 09 |
