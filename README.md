@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Worldgate, llc](https://worldgatellc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c869a0983e6768bc54d0f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 15 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68c86157983e6768bc54c44e?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City - 501-D NE 122nd Street | Hybrid | Sep 15 |
+| **[Cotality](https://www.cotality.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68c87736983e6768bc54d979?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | Hybrid | Sep 15 |
+| **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68c876f0983e6768bc54d946?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 15 |
 | **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/68c8544df9c6ff7aedf0d10b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Sep 15 |
+| **[Worldgate, llc](https://worldgatellc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c869a0983e6768bc54d0f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 15 |
 | **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c848fe983e6768bc54b676?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Sep 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c843e4983e6768bc54b44e?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Sep 15 |
 | **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68c8345b95f5211cd2ce2901?utm_campaign=Business%20Analyst&utm_source=1103)** | New York New York United States | Hybrid | Sep 15 |
@@ -75,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68c7ae23db52c07d2884e352?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Sep 12 |
 | **[Fairfax County Economic Development Authority](http://www.fairfaxcountyeda.org)** | **[Business Research Analyst](https://jobright.ai/jobs/info/68c63e32c96a22563ecebf46?utm_campaign=Business%20Analyst&utm_source=1103)** | Tysons Corner, VA | On Site | Sep 12 |
 | **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c610c7db52c07d28844587?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 12 |
-| **[LSEG](http://www.lseg.com)** | **[Business Graduate Programme (Data and Analytics) 2026](https://jobright.ai/jobs/info/68c77e50c96a22563ecf1544?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 12 |
-| **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c49219e471ef3ce16d77a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ (US) | Hybrid | Sep 12 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68c49219e471ef3ce16d77a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ (US) | Hybrid | Sep 12 |
 | **[State of Ohio](http://ohio.gov/)** | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68c487a7e471ef3ce16d720b?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 12 |
 | ↳ | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68c48619e396b25cb5c68de4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Sep 12 |
 | ↳ | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68c48608e471ef3ce16d7127?utm_campaign=Business%20Analyst&utm_source=1103)** | Children%26Youth N. High Complex246 North High Street | On Site | Sep 12 |
@@ -101,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fe0d783d13d1f5b6cba46?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Sep 11 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68c7bed75c38e536d41a60c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c78cca7d0db4114273d4ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
-| **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c2189e33864f172f9bcea9?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Sep 10 |
+| **[Lincoln Property Company](http://www.lpc.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c21aea4d652f044775cff5?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Sep 10 |
 | **[Rain](https://www.rain.xyz)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c331ad5001f8077bf61f8b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 10 |
 | **[Spire - Pay with Spire, Inc.](https://www.bimnetworks.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c203f733864f172f9bc518?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Sep 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c1e4b74d652f044775b754?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
