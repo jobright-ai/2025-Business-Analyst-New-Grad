@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c464a814bb275ce0192de5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Sep 12 |
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/68c45dc8e471ef3ce16d573c?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton | On Site | Sep 12 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68c45a56e471ef3ce16d5649?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton, FL | On Site | Sep 12 |
-| **[LSEG](http://www.lseg.com)** | **[Business Graduate Programme (Data and Analytics) 2026](https://jobright.ai/jobs/info/68c55134c96a22563ece868e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 12 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c3b301b8c22d3828474b56?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 11 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst , Fulfillment by Amazon (FBA) Science](https://jobright.ai/jobs/info/68c654c0c96a22563eced623?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Sep 11 |
 | **[Rain](https://www.rain.xyz)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c654237d0db411427389a8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 11 |
