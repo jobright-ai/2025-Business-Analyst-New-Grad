@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst - Healthcare domain](https://jobright.ai/jobs/info/68c9669095f5211cd2cf0229?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Sep 16 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Corporate Banking](https://jobright.ai/jobs/info/68c8dbe5983e6768bc55273f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 15 |
 | **[Cohesity](https://www.cohesity.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c8b516983e6768bc550af8?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA - USA (Office) | On Site | Sep 15 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c8a803f9c6ff7aedf1124a?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 15 |
@@ -83,9 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68c904b3983e6768bc5553b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Sep 12 |
 | **[Crew](http://theboomlab.com)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/68c91408a0c52d598ea351e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Sep 12 |
 | **[Fairfax County Economic Development Authority](http://www.fairfaxcountyeda.org)** | **[Business Research Analyst](https://jobright.ai/jobs/info/68c63e32c96a22563ecebf46?utm_campaign=Business%20Analyst&utm_source=1103)** | Tysons Corner, VA | On Site | Sep 12 |
-| **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c610c7db52c07d28844587?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 12 |
 | **[LSEG](http://www.lseg.com)** | **[Business Graduate Programme (Data and Analytics) 2026](https://jobright.ai/jobs/info/68c8d702f9c6ff7aedf13306?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 12 |
-| **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c49219e471ef3ce16d77a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ (US) | Hybrid | Sep 12 |
 | **[State of Ohio](http://ohio.gov/)** | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68c487a7e471ef3ce16d720b?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 12 |
 | ↳ | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68c48619e396b25cb5c68de4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Sep 12 |
 | ↳ | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68c48608e471ef3ce16d7127?utm_campaign=Business%20Analyst&utm_source=1103)** | Children%26Youth N. High Complex246 North High Street | On Site | Sep 12 |
@@ -99,8 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst - Data Management](https://jobright.ai/jobs/info/68c37e5b6031587f8458b559?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Sep 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68c352a86031587f84589f83?utm_campaign=Business%20Analyst&utm_source=1103)** | 5510 Heritage Oaks Drive, Pensacola, FL, 32526, US | On Site | Sep 11 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/68b779b2f4e41a61efd9936d?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Sep 11 |
-| **[TE Connectivity](http://www.te.com)** | **[IT BUSINESS ANALYST I](https://jobright.ai/jobs/info/68c337cc5adaee6c9bda8513?utm_campaign=Business%20Analyst&utm_source=1103)** | Montgomery County, PA | On Site | Sep 11 |
-| ↳ | **[IT BUSINESS ANALYST I](https://jobright.ai/jobs/info/68c33fc85adaee6c9bda8ae7?utm_campaign=Business%20Analyst&utm_source=1103)** | PA | On Site | Sep 11 |
+| **[TE Connectivity](http://www.te.com)** | **[IT BUSINESS ANALYST I](https://jobright.ai/jobs/info/68c33fc85adaee6c9bda8ae7?utm_campaign=Business%20Analyst&utm_source=1103)** | PA | On Site | Sep 11 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst - Data Management](https://jobright.ai/jobs/info/68c31f515adaee6c9bda765f?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Sep 11 |
 | **[Pontera](http://www.pontera.com)** | **[Revenue Operations Business Analyst](https://jobright.ai/jobs/info/68c30ff863829b0a8a4ff46f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 11 |
 | ↳ | **[Revenue Operations Business Analyst](https://jobright.ai/jobs/info/68c2fe735001f8077bf6005c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | Sep 11 |
@@ -126,5 +124,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/689586698c6d6b442677a89e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Sep 09 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c0c3758e65e77df55c42f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Sep 09 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst (Walmart)](https://jobright.ai/jobs/info/68c0b6ce8e65e77df55c3bff?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Sep 09 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68a37cf637d3cc6b0d5776a7?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
