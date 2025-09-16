@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blueprint](https://bpcs.com/)** | **[Junior Business Analyst - SAP IBP](https://jobright.ai/jobs/info/68c9a03fa0c52d598ea391a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Sep 16 |
+| **[Beyondsoft](http://www.beyondsoft.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9b20cf9c6ff7aedf1c75b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-United States (Remote) | Remote | Sep 16 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68c9a55195f5211cd2cf2666?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Sep 16 |
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68c9a01895f5211cd2cf2347?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68c99f5b95f5211cd2cf222a?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 16 |
 | **[Blueprint](https://bpcs.com/)** | **[Junior Business Analyst - SAP IBP](https://jobright.ai/jobs/info/68c99b3af9c6ff7aedf1b6c5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
 | **[PECO](https://www.peco.com/Pages/Home.aspx)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68c9999c95f5211cd2cf1f95?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 16 |
+| **[Blueprint](https://bpcs.com/)** | **[Junior Business Analyst - SAP IBP](https://jobright.ai/jobs/info/68c9a03fa0c52d598ea391a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Sep 16 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst - Healthcare domain](https://jobright.ai/jobs/info/68c977ebf9c6ff7aedf1a1be?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Sep 16 |
 | ↳ | **[Business Analyst - Healthcare domain](https://jobright.ai/jobs/info/68c9669095f5211cd2cf0229?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Sep 16 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Corporate Banking](https://jobright.ai/jobs/info/68c8dbe5983e6768bc55273f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 15 |
@@ -110,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68c7bed75c38e536d41a60c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 10 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c8eba0983e6768bc553a45?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c78cca7d0db4114273d4ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
-| **[Lincoln Property Company](http://www.lpc.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c21aea4d652f044775cff5?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Sep 10 |
+| **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c2189e33864f172f9bcea9?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Sep 10 |
 | **[Rain](https://www.rain.xyz)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c331ad5001f8077bf61f8b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 10 |
 | **[Spire - Pay with Spire, Inc.](https://www.bimnetworks.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c203f733864f172f9bc518?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Sep 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c1e4b74d652f044775b754?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
@@ -121,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 10 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/68c153c0233c7d3e64d01552?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Sep 10 |
 | **[Roswell Park Comprehensive Cancer Center](https://www.RoswellPark.org)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/68c8ff2f983e6768bc554fff?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Sep 09 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68c64795db52c07d288464ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
