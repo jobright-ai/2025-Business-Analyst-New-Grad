@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Corporate Banking](https://jobright.ai/jobs/info/68c8dbe5983e6768bc55273f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 15 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c8b516983e6768bc550af8?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA - USA (Office) | On Site | Sep 15 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c8a803f9c6ff7aedf1124a?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Sep 15 |
+| **[Cohesity](https://www.cohesity.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c8ce7f983e6768bc551a68?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | On Site | Sep 15 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68c8c08795f5211cd2ce9032?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Sep 15 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c8bd9a95f5211cd2ce8c3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 15 |
-| **[Cohesity](https://www.cohesity.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c8b516983e6768bc550af8?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA - USA (Office) | On Site | Sep 15 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 15 |
+| ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 15 |
+| **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68c8db81983e6768bc552666?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 15 |
 | **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/68c8544df9c6ff7aedf0d10b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Sep 15 |
 | **[Worldgate, llc](https://worldgatellc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c869a0983e6768bc54d0f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 15 |
 | **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c848fe983e6768bc54b676?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Sep 15 |
@@ -79,7 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68c7ae23db52c07d2884e352?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Sep 12 |
 | **[Fairfax County Economic Development Authority](http://www.fairfaxcountyeda.org)** | **[Business Research Analyst](https://jobright.ai/jobs/info/68c63e32c96a22563ecebf46?utm_campaign=Business%20Analyst&utm_source=1103)** | Tysons Corner, VA | On Site | Sep 12 |
 | **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c610c7db52c07d28844587?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Sep 12 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/68c49219e471ef3ce16d77a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ (US) | Hybrid | Sep 12 |
+| **[LSEG](http://www.lseg.com)** | **[Business Graduate Programme (Data and Analytics) 2026](https://jobright.ai/jobs/info/68c8d702f9c6ff7aedf13306?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 12 |
+| **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c49219e471ef3ce16d77a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ (US) | Hybrid | Sep 12 |
 | **[State of Ohio](http://ohio.gov/)** | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68c487a7e471ef3ce16d720b?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 12 |
 | ↳ | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68c48619e396b25cb5c68de4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Sep 12 |
 | ↳ | **[Child Welfare Business Analyst](https://jobright.ai/jobs/info/68c48608e471ef3ce16d7127?utm_campaign=Business%20Analyst&utm_source=1103)** | Children%26Youth N. High Complex246 North High Street | On Site | Sep 12 |
@@ -114,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c1977a233c7d3e64d02779?utm_campaign=Business%20Analyst&utm_source=1103)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Sep 10 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Business Analyst](https://jobright.ai/jobs/info/68874dc9b651c92cb78b2aec?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 10 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/68c153c0233c7d3e64d01552?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Sep 10 |
-| **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c11606702aa35207ab348c?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 09 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68c64795db52c07d288464ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 09 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/689586698c6d6b442677a89e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Sep 09 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c0c3758e65e77df55c42f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Sep 09 |
@@ -123,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c069b58e65e77df55c0da8?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | Sep 09 |
 | **[City of New York](http://www1.nyc.gov)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c054318e65e77df55c0226?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
 | **[U.S. Department of Transportation](https://www.transportation.gov/)** | **[Junior IT Business Analyst](https://jobright.ai/jobs/info/68c0434e702aa35207aab877?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Sep 09 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68880afa4174df41e0fa26de?utm_campaign=Business%20Analyst&utm_source=1103)** | Norfolk, VA | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
