@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb07d7d905e25191d9e984?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 17 |
+| **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb1a1f9e3a822f5d2428b7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 17 |
+| ↳ | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb07d7d905e25191d9e984?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 17 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Inventory Planning Analyst - ATF](https://jobright.ai/jobs/info/68cafce7d905e25191d9e0c1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 17 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cade24efdec76df36b622e?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cad39c9e3a822f5d23f615?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 17 |
@@ -66,12 +67,11 @@ For a complete list, click the following sortable link below:
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9e65e84fc1901fd41a70a?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Sep 16 |
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68ca872c8b6593021a778bb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/68c9c5ff95f5211cd2cf41f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 16 |
-| **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68c9c3fef9c6ff7aedf1d8d0?utm_campaign=Business%20Analyst&utm_source=1103)** | PHILADELPHIA, Pennsylvania | Hybrid | Sep 16 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68cb2cb89e3a822f5d2436a6?utm_campaign=Business%20Analyst&utm_source=1103)** | PHILADELPHIA, Pennsylvania | Hybrid | Sep 16 |
 | **[QBE North America](https://www.qbe.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68c664af7d0db41142739942?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie Town, WI | Hybrid | Sep 16 |
 | **[Beyondsoft](http://www.beyondsoft.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9b20cf9c6ff7aedf1c75b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-United States (Remote) | Remote | Sep 16 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68cb2c949e3a822f5d243682?utm_campaign=Business%20Analyst&utm_source=1103)** | PHILADELPHIA, Pennsylvania | Hybrid | Sep 16 |
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68ca87bf4919f648366071f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68c99f5b95f5211cd2cf222a?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 16 |
-| **[PECO](https://www.peco.com/Pages/Home.aspx)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68c9999c95f5211cd2cf1f95?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 16 |
 | **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/68cacc5aefdec76df36b58ca?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 16 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Corporate Banking](https://jobright.ai/jobs/info/68cac725d905e25191d9c30b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 16 |
 | **[Cotality](https://www.cotality.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68ca6c7d5f9f0336447dd95f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | Hybrid | Sep 15 |
@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c2fbd05adaee6c9bda5f40?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Sep 11 |
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c2faee5adaee6c9bda5ea3?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fe0d783d13d1f5b6cba46?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Sep 11 |
-| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68c7bed75c38e536d41a60c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
