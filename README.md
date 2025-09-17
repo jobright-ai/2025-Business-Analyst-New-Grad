@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb07d7d905e25191d9e984?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 17 |
+| **[Ann Taylor](http://www.anntaylor.com)** | **[Inventory Planning Analyst - ATF](https://jobright.ai/jobs/info/68cafce7d905e25191d9e0c1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 17 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cade24efdec76df36b622e?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 17 |
 | ↳ | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cad39c9e3a822f5d23f615?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 17 |
 | **[Viasat](http://www.viasat.com)** | **[Business Process Analyst - GSS](https://jobright.ai/jobs/info/68ca1c28f16e3266d2822b20?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 16 |
@@ -107,14 +109,11 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst - Data Management](https://jobright.ai/jobs/info/68c37e5b6031587f8458b559?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Sep 11 |
 | **[TE Connectivity](http://www.te.com)** | **[IT BUSINESS ANALYST I](https://jobright.ai/jobs/info/68c33fc85adaee6c9bda8ae7?utm_campaign=Business%20Analyst&utm_source=1103)** | PA | On Site | Sep 11 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst - Data Management](https://jobright.ai/jobs/info/68c31f515adaee6c9bda765f?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Sep 11 |
-| **[Pontera](http://www.pontera.com)** | **[Revenue Operations Business Analyst](https://jobright.ai/jobs/info/68c30ff863829b0a8a4ff46f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 11 |
+| **[Pontera](http://www.pontera.com)** | **[Revenue Operations Business Analyst](https://jobright.ai/jobs/info/68cb037b9e3a822f5d241046?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 11 |
 | ↳ | **[Revenue Operations Business Analyst](https://jobright.ai/jobs/info/68c2fe735001f8077bf6005c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | Sep 11 |
 | **[Lincoln Property Company](http://www.lpc.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c2fc155adaee6c9bda5f90?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Sep 11 |
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c2fbd05adaee6c9bda5f40?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Sep 11 |
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c2faee5adaee6c9bda5ea3?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Sep 11 |
-| **[Emerson](http://www.emerson.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68caafb3d905e25191d9baa0?utm_campaign=Business%20Analyst&utm_source=1103)** | Shakopee, MN | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689fe0d783d13d1f5b6cba46?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Sep 11 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68c7bed75c38e536d41a60c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 10 |
-| **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c8eba0983e6768bc553a45?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 10 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c78cca7d0db4114273d4ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
