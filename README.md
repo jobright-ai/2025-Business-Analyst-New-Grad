@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cad39c9e3a822f5d23f615?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 17 |
 | **[Viasat](http://www.viasat.com)** | **[Business Process Analyst - GSS](https://jobright.ai/jobs/info/68ca1c28f16e3266d2822b20?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 16 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68ca0f07d4187c55157a5b14?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Sep 16 |
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9e65e84fc1901fd41a70a?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Sep 16 |
@@ -70,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Blueprint](https://bpcs.com/)** | **[Junior Business Analyst - SAP IBP](https://jobright.ai/jobs/info/68c99b3af9c6ff7aedf1b6c5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
 | **[PECO](https://www.peco.com/Pages/Home.aspx)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68c9999c95f5211cd2cf1f95?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 16 |
 | **[Blueprint](https://bpcs.com/)** | **[Junior Business Analyst - SAP IBP](https://jobright.ai/jobs/info/68c9a03fa0c52d598ea391a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Sep 16 |
+| **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/68cacc5aefdec76df36b58ca?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 16 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Corporate Banking](https://jobright.ai/jobs/info/68cac725d905e25191d9c30b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 16 |
 | **[Cotality](https://www.cotality.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68ca6c7d5f9f0336447dd95f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | Hybrid | Sep 15 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68c8c08795f5211cd2ce9032?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Sep 15 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c8bd9a95f5211cd2ce8c3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 15 |
@@ -96,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c469f4e396b25cb5c67ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Sep 12 |
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c464e1e471ef3ce16d5b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Sep 12 |
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c464a814bb275ce0192de5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Sep 12 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/68cadb639e3a822f5d23f9bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Sep 12 |
 | **[KnitWell Group](https://knitwellgroup.com/)** | **[Inventory Planning Analyst - ATF](https://jobright.ai/jobs/info/68c9d8bd84fc1901fd419b58?utm_campaign=Business%20Analyst&utm_source=1103)** | Times Square Tower-ANN-New York, NY 10036 | On Site | Sep 12 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68c3b301b8c22d3828474b56?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 11 |
 | **[Rain](https://www.rain.xyz)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c654237d0db411427389a8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 11 |
@@ -112,7 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68c7bed75c38e536d41a60c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 10 |
 | **[Arrow Electronics](https://www.arrow.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c8eba0983e6768bc553a45?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 10 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68c78cca7d0db4114273d4ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Sep 10 |
-| **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c2189e33864f172f9bcea9?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Sep 10 |
-| **[Rain](https://www.rain.xyz)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c331ad5001f8077bf61f8b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 10 |
-| **[Spire - Pay with Spire, Inc.](https://www.bimnetworks.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68c203f733864f172f9bc518?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
