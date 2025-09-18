@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Verista](https://www.verista.com/)** | **[5938 - Business Analyst - Standard / Business Analyst](https://jobright.ai/jobs/info/68cc46c4128dc347fd921d6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Sep 18 |
+| **[Verista](https://www.verista.com/)** | **[5938 - Business Analyst - Standard / Business Analyst](https://jobright.ai/jobs/info/68cc53d816d00d2beeb1d7e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Sep 18 |
 | ↳ | **[5938 - Business Analyst - Standard / Business Analyst](https://jobright.ai/jobs/info/68cc3d5e16d00d2beeb1c2b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Sep 18 |
+| **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cc538c128dc347fd922b61?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 18 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Business Intelligence Analyst](https://jobright.ai/jobs/info/68cc356e16d00d2beeb1bbe2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose | On Site | Sep 18 |
 | **[Physicians Rehab Solution](https://yourprs.com)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/68cc32ab128dc347fd920b39?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 18 |
 | **[Publix Super Markets](https://www.publix.com/)** | **[Business Systems Analyst - Payments Testing](https://jobright.ai/jobs/info/68cc0c7016d00d2beeb18e14?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakeland, FL | Hybrid | Sep 18 |
-| **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68cbbe4a9e3a822f5d24b652?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Sep 17 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68cb3a019e3a822f5d243f98?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 17 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cba2239e3a822f5d2496b8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 17 |
 | ↳ | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb07d7d905e25191d9e984?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 17 |
@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9e65e84fc1901fd41a70a?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Sep 16 |
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68ca872c8b6593021a778bb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 16 |
-| **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68cc17fc16d00d2beeb19abb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 16 |
 | **[Cotality](https://www.cotality.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68ca6c7d5f9f0336447dd95f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | Hybrid | Sep 15 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68c8c08795f5211cd2ce9032?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Sep 15 |
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9f9fbf61c922772a71a69?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Sep 15 |
