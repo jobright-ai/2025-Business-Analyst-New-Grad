@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SanMar](http://www.sanmar.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68cb3a019e3a822f5d243f98?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 17 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb1a1f9e3a822f5d2428b7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 17 |
 | ↳ | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb07d7d905e25191d9e984?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 17 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Inventory Planning Analyst - ATF](https://jobright.ai/jobs/info/68cafce7d905e25191d9e0c1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 17 |
@@ -67,10 +68,8 @@ For a complete list, click the following sortable link below:
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9e65e84fc1901fd41a70a?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Sep 16 |
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68ca872c8b6593021a778bb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/68c9c5ff95f5211cd2cf41f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 16 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68cb2cb89e3a822f5d2436a6?utm_campaign=Business%20Analyst&utm_source=1103)** | PHILADELPHIA, Pennsylvania | Hybrid | Sep 16 |
 | **[QBE North America](https://www.qbe.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68c664af7d0db41142739942?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie Town, WI | Hybrid | Sep 16 |
 | **[Beyondsoft](http://www.beyondsoft.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9b20cf9c6ff7aedf1c75b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-United States (Remote) | Remote | Sep 16 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/68cb2c949e3a822f5d243682?utm_campaign=Business%20Analyst&utm_source=1103)** | PHILADELPHIA, Pennsylvania | Hybrid | Sep 16 |
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68ca87bf4919f648366071f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
 | **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/68cacc5aefdec76df36b58ca?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 16 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Corporate Banking](https://jobright.ai/jobs/info/68cac725d905e25191d9c30b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 16 |
@@ -79,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c8bd9a95f5211cd2ce8c3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 15 |
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9f9fbf61c922772a71a69?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Sep 15 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 15 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68c9931b95f5211cd2cf1c1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City - 501-D NE 122nd Street | Hybrid | Sep 15 |
+| **[CoreLogic](https://www.corelogic.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68c992b1a0c52d598ea389ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City - 501-D NE 122nd Street | Hybrid | Sep 15 |
 | **[Worldgate, llc](https://worldgatellc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c869a0983e6768bc54d0f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 15 |
 | **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c848fe983e6768bc54b676?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Sep 15 |
 | **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68c8345b95f5211cd2ce2901?utm_campaign=Business%20Analyst&utm_source=1103)** | New York New York United States | Hybrid | Sep 15 |
