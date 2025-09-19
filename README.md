@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68cd0b521ad6b16f02893dec?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | Hybrid | Sep 18 |
 | **[Alfa Insurance](https://www.alfainsurance.com)** | **[Corporate Business Analyst I](https://jobright.ai/jobs/info/68ccb317128dc347fd928450?utm_campaign=Business%20Analyst&utm_source=1103)** | Montgomery, AL 36116 | Hybrid | Sep 18 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II - Device Financing](https://jobright.ai/jobs/info/68cc97e4128dc347fd927114?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Sep 18 |
 | **[Tokio Marine North America Services](https://tmnas.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68cc7d91128dc347fd925bd3?utm_campaign=Business%20Analyst&utm_source=1103)** | Bala Cynwyd, PA | On Site | Sep 18 |
@@ -68,9 +69,11 @@ For a complete list, click the following sortable link below:
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/68cc17cb16d00d2beeb19a5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Sep 18 |
 | **[Physicians Rehab Solution](https://yourprs.com)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/68cc32ab128dc347fd920b39?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 18 |
 | **[Publix Super Markets](https://www.publix.com/)** | **[Business Systems Analyst - Payments Testing](https://jobright.ai/jobs/info/68cc0c7016d00d2beeb18e14?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakeland, FL | Hybrid | Sep 18 |
+| **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68ccfca85954791a1d7023b8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 17 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68cb3a019e3a822f5d243f98?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 17 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb07d7d905e25191d9e984?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 17 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cad39c9e3a822f5d23f615?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 17 |
+| **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68cd0a84b2a74e1837ed12c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9e65e84fc1901fd41a70a?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Sep 16 |
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68ca872c8b6593021a778bb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 16 |
@@ -84,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68c8345b95f5211cd2ce2901?utm_campaign=Business%20Analyst&utm_source=1103)** | New York New York United States | Hybrid | Sep 15 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/68ba57178043103d4f21f9c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Sep 13 |
 | **[QBE Insurance](https://www.qbe.com.au)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68c653d37d0db411427388fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie, WI, USA | Hybrid | Sep 13 |
+| **[Heritage Christian Services](https://heritagechristianservices.org/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68ccf8ca5954791a1d7021d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY | On Site | Sep 13 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68c65d20db52c07d28847976?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Sep 13 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68b66a40bc187f64e1be9bb4?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | Hybrid | Sep 13 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68c813f195f5211cd2ce12d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Sep 13 |
@@ -94,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c469f4e396b25cb5c67ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Sep 12 |
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c464e1e471ef3ce16d5b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Beach, CA | On Site | Sep 12 |
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c464a814bb275ce0192de5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Sep 12 |
-| **[KnitWell Group](https://knitwellgroup.com/)** | **[Inventory Planning Analyst - ATF](https://jobright.ai/jobs/info/68c9d8bd84fc1901fd419b58?utm_campaign=Business%20Analyst&utm_source=1103)** | Times Square Tower-ANN-New York, NY 10036 | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
