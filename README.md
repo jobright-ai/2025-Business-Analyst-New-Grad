@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alfa Insurance](https://www.alfainsurance.com)** | **[Corporate Business Analyst I](https://jobright.ai/jobs/info/68ccb317128dc347fd928450?utm_campaign=Business%20Analyst&utm_source=1103)** | Montgomery, AL 36116 | Hybrid | Sep 18 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II - Device Financing](https://jobright.ai/jobs/info/68cc97e4128dc347fd927114?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Sep 18 |
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/68cc812f16d00d2beeb20b48?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | Hybrid | Sep 18 |
 | **[Tokio Marine North America Services](https://tmnas.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68cc7d91128dc347fd925bd3?utm_campaign=Business%20Analyst&utm_source=1103)** | Bala Cynwyd, PA | On Site | Sep 18 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb07d7d905e25191d9e984?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 17 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cad39c9e3a822f5d23f615?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 17 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/68cbfbec7342c7623ae5ce0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 17 |
-| **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68cba0379e3a822f5d2491dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
 | **[Viasat](http://www.viasat.com)** | **[Business Process Analyst - GSS](https://jobright.ai/jobs/info/68ca1c28f16e3266d2822b20?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 16 |
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9e65e84fc1901fd41a70a?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Sep 16 |
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68ca872c8b6593021a778bb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
