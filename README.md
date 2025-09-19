@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NJM Insurance Group](https://www.njm.com)** | **[CL Business Process Analyst Associate - Hybrid](https://jobright.ai/jobs/info/68cdb8e4b2a74e1837edb97b?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Sep 19 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Business Analyst-Slate](https://jobright.ai/jobs/info/68cdb2c01ad6b16f0289e014?utm_campaign=Business%20Analyst&utm_source=1103)** | UT MAIN CAMPUS | On Site | Sep 19 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[CL Business Process Analyst Associate - Hybrid](https://jobright.ai/jobs/info/68cdb2651ad6b16f0289df00?utm_campaign=Business%20Analyst&utm_source=1103)** | NJM - Trenton | Hybrid | Sep 19 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[Enterprise Cybersecurity Business Operations Analyst](https://jobright.ai/jobs/info/68cdb169e23def7af55be460?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 19 |
@@ -101,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[LSEG](http://www.lseg.com)** | **[Business Analyst Graduate Programme (Markets) 2026](https://jobright.ai/jobs/info/68cd6d8d1ad6b16f028996c1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 13 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68c813f195f5211cd2ce12d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Sep 13 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68cd3be71ad6b16f02896d8c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Sep 13 |
-| **[Mercury Marine](http://mercurymarine.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68c904b3983e6768bc5553b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
