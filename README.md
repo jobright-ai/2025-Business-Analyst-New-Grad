@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Business Analyst-Slate](https://jobright.ai/jobs/info/68cdf98ae23def7af55c0aa7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Sep 19 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Enterprise Cybersecurity Business Operations Analyst](https://jobright.ai/jobs/info/68cec586dbd9fb154ede2953?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 19 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[CL Business Process Analyst Associate - Hybrid](https://jobright.ai/jobs/info/68cdb8e4b2a74e1837edb97b?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Sep 19 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Business Analyst-Slate](https://jobright.ai/jobs/info/68cdb2c01ad6b16f0289e014?utm_campaign=Business%20Analyst&utm_source=1103)** | UT MAIN CAMPUS | On Site | Sep 19 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[CL Business Process Analyst Associate - Hybrid](https://jobright.ai/jobs/info/68cdb2651ad6b16f0289df00?utm_campaign=Business%20Analyst&utm_source=1103)** | NJM - Trenton | Hybrid | Sep 19 |
@@ -86,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68c8c08795f5211cd2ce9032?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Sep 15 |
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9f9fbf61c922772a71a69?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Sep 15 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 15 |
-| **[CoreLogic](https://www.corelogic.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68c992b1a0c52d598ea389ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City - 501-D NE 122nd Street | Hybrid | Sep 15 |
+| **[CoreLogic](https://www.corelogic.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68c9931b95f5211cd2cf1c1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City - 501-D NE 122nd Street | Hybrid | Sep 15 |
 | **[Worldgate, llc](https://worldgatellc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c869a0983e6768bc54d0f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 15 |
 | **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c848fe983e6768bc54b676?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Sep 15 |
 | **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68c8345b95f5211cd2ce2901?utm_campaign=Business%20Analyst&utm_source=1103)** | New York New York United States | Hybrid | Sep 15 |
