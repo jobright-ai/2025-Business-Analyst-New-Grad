@@ -92,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 16 |
 | **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/68d00128dbd9fb154edec9a0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 16 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business Analyst, Corporate Banking](https://jobright.ai/jobs/info/68ccd818d11b445e0bee2974?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 15 |
-| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/68c8c08795f5211cd2ce9032?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
