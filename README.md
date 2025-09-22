@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Business Analyst (Brownsburg, IN Hybrid)](https://jobright.ai/jobs/info/68d0fd8e17bd5d3415aa8498?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IN-Brownsburg | Hybrid | Sep 22 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Associate - Wealth Management Solutions Technology Analyst](https://jobright.ai/jobs/info/68cd23bc1ad6b16f02895a80?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 21 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Business Analyst-Slate](https://jobright.ai/jobs/info/68cdf98ae23def7af55c0aa7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Sep 19 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Enterprise Cybersecurity Business Operations Analyst](https://jobright.ai/jobs/info/68cec586dbd9fb154ede2953?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Sep 19 |
@@ -97,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[CoreLogic](https://www.corelogic.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68c9931b95f5211cd2cf1c1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City - 501-D NE 122nd Street | Hybrid | Sep 15 |
 | **[Worldgate, llc](https://worldgatellc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68c869a0983e6768bc54d0f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Sep 15 |
 | **[Lincoln Property Company](https://lpcretail.com)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/68c848fe983e6768bc54b676?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Sep 15 |
-| **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68c8345b95f5211cd2ce2901?utm_campaign=Business%20Analyst&utm_source=1103)** | New York New York United States | Hybrid | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
