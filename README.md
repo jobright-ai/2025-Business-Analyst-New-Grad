@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cee902dbd9fb154ede3991?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 22 |
-| **[Physicians Rehab Solution](https://yourprs.com)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/68d1be0617554c2d9eedf393?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 22 |
 | **[Real Chemistry](https://www.realchemistry.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d1ba738c62e63bc7fcf19f?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - USA | Remote | Sep 22 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68d1b457a54edb3bf3e1538b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 22 |
+| **[Physicians Rehab Solution](https://yourprs.com)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/68d1be0617554c2d9eedf393?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 22 |
 | **[CACI bv](https://www.caci.nl)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/68d1980f17554c2d9eedd207?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 22 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Sep 22 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Business Analyst (Brownsburg, IN Hybrid)](https://jobright.ai/jobs/info/68d0fd8e17bd5d3415aa8498?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IN-Brownsburg | Hybrid | Sep 22 |
@@ -93,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[QBE North America](https://www.qbe.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68cf5bec846f0b04af6818ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie Town, WI | Hybrid | Sep 16 |
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68c9e65e84fc1901fd41a70a?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Sep 16 |
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68ca872c8b6593021a778bb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
-| **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68cee64dfb49c96ca6ea430a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
