@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cee902dbd9fb154ede3991?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 22 |
 | **[Physicians Rehab Solution](https://yourprs.com)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/68d1be0617554c2d9eedf393?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 22 |
 | **[Real Chemistry](https://www.realchemistry.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d1ba738c62e63bc7fcf19f?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - USA | Remote | Sep 22 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68d1b457a54edb3bf3e1538b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 22 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II - Device Financing](https://jobright.ai/jobs/info/68cc97e4128dc347fd927114?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Sep 18 |
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/68cd337fe23def7af55b6c03?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Sep 18 |
 | **[Tokio Marine North America Services](https://tmnas.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68cc7d91128dc347fd925bd3?utm_campaign=Business%20Analyst&utm_source=1103)** | Bala Cynwyd, PA | On Site | Sep 18 |
-| **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cee902dbd9fb154ede3991?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 18 |
 | **[Verista](https://www.verista.com/)** | **[5938 - Business Analyst - Standard / Business Analyst](https://jobright.ai/jobs/info/68cc3d5e16d00d2beeb1c2b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Sep 18 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68ccfca85954791a1d7023b8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 17 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68cb3a019e3a822f5d243f98?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 17 |
@@ -95,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68ca872c8b6593021a778bb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
 | **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68cee64dfb49c96ca6ea430a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 16 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 16 |
-| **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/68d00128dbd9fb154edec9a0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
