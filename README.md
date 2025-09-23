@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adyen](http://www.adyen.com)** | **[Associate Business Demand Planner](https://jobright.ai/jobs/info/68a51d25758f2e4ac3fdc134?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 23 |
+| **[FICO](http://www.fico.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d2e18717554c2d9eeeb30f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 23 |
+| **[AIPSO](https://www.aipso.com)** | **[Business Test Assistant/Assistant Business Systems Analyst](https://jobright.ai/jobs/info/68d2e1098c62e63bc7fdb1f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Johnston, RI | On Site | Sep 23 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cee902dbd9fb154ede3991?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 22 |
 | **[Real Chemistry](https://www.realchemistry.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d1ba738c62e63bc7fcf19f?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - USA | Remote | Sep 22 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68d1b457a54edb3bf3e1538b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 22 |
