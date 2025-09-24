@@ -92,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Tokio Marine North America Services](https://tmnas.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68cc7d91128dc347fd925bd3?utm_campaign=Business%20Analyst&utm_source=1103)** | Bala Cynwyd, PA | On Site | Sep 18 |
 | **[Verista](https://www.verista.com/)** | **[5938 - Business Analyst - Standard / Business Analyst](https://jobright.ai/jobs/info/68cc3d5e16d00d2beeb1c2b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Sep 18 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68ccfca85954791a1d7023b8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Sep 17 |
-| **[SanMar](http://www.sanmar.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68cb3a019e3a822f5d243f98?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
