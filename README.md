@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68d328338c62e63bc7fde328?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 23 |
 | **[Adyen](http://www.adyen.com)** | **[Associate Business Demand Planner](https://jobright.ai/jobs/info/68a51d25758f2e4ac3fdc134?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 23 |
 | **[FICO](http://www.fico.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d2e18717554c2d9eeeb30f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 23 |
 | **[AIPSO](https://www.aipso.com)** | **[Business Test Assistant/Assistant Business Systems Analyst](https://jobright.ai/jobs/info/68d2e1098c62e63bc7fdb1f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Johnston, RI | On Site | Sep 23 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Real Chemistry](https://www.realchemistry.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d1ba738c62e63bc7fcf19f?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - USA | Remote | Sep 22 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68d1b457a54edb3bf3e1538b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 22 |
 | **[Physicians Rehab Solution](https://yourprs.com)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/68d1be0617554c2d9eedf393?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 22 |
-| **[Badger Creative Services, LLC](https://badgercreativeservices.com/?fbclid=IwAR1ag9GTG3kkf2Ym0Bqf1MnwqiWzbIh3clcj3WXUaIv4wcR8IJ8Y9Rwv6gI)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/68d29bfdf0d9af73038d9b02?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 22 |
 | **[CACI bv](https://www.caci.nl)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/68d1980f17554c2d9eedd207?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 22 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Sep 22 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Business Analyst (Brownsburg, IN Hybrid)](https://jobright.ai/jobs/info/68d0fd8e17bd5d3415aa8498?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IN-Brownsburg | Hybrid | Sep 22 |
@@ -94,5 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb07d7d905e25191d9e984?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 17 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cad39c9e3a822f5d23f615?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 17 |
 | **[Viasat](http://www.viasat.com)** | **[Business Process Analyst - GSS](https://jobright.ai/jobs/info/68ce7dd9dbd9fb154ede01fd?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | On Site | Sep 17 |
-| **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68cd0a84b2a74e1837ed12c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
