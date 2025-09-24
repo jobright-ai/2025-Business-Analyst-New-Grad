@@ -93,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/68d1b1d28c62e63bc7fce98c?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Sep 17 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb07d7d905e25191d9e984?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 17 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Business Analyst (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68cad39c9e3a822f5d23f615?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Sep 17 |
-| **[Viasat](http://www.viasat.com)** | **[Business Process Analyst - GSS](https://jobright.ai/jobs/info/68ce7dd9dbd9fb154ede01fd?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
