@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optum](https://www.optum.com/)** | **[Business Analyst and Project Coordinator - Remote](https://jobright.ai/jobs/info/68d6d155894705799a2edf5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | Sep 26 |
+| **[Cotality](https://www.cotality.com/)** | **[Assoc. Professional, Business Systems Analysis](https://jobright.ai/jobs/info/68d6c26ad3fe025a3015bc4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | Hybrid | Sep 26 |
 | **[NetApp](http://netapp.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d69e1a894705799a2ec776?utm_campaign=Business%20Analyst&utm_source=1103)** | Morrisville, NC | Hybrid | Sep 26 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68d65929ebcef82ef5cf9f98?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | Hybrid | Sep 26 |
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/68d62d894736ff202fdd0517?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton, FL | On Site | Sep 25 |
@@ -68,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/68d5d6502116ff37ee0909fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | Sep 25 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[Entry Level - GES Business Process Analyst](https://jobright.ai/jobs/info/68d5d4d92116ff37ee09090b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, California | On Site | Sep 25 |
 | **[GL Solutions- GL Suite Software & Services](https://glsolutions.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68d62f0f894705799a2e8703?utm_campaign=Business%20Analyst&utm_source=1103)** | Kalispell, MT | On Site | Sep 25 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Business Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/68d5b8f91f7fb2169ab13522?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Houston, TX | On Site | Sep 25 |
+| **[Boeing](https://www.boeing.co.uk)** | **[Business Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/68d5b8d663d77d6f6f3f1cd3?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Houston, TX | On Site | Sep 25 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68d5ab9363d77d6f6f3f16aa?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | Sep 25 |
 | **[Formosa Plastics Corporation, U.S.A.](https://www.fpcusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d59c8614935e31e231a526?utm_campaign=Business%20Analyst&utm_source=1103)** | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA | On Site | Sep 25 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68d5be932116ff37ee08fef8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
@@ -137,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Associate - Wealth Management Solutions Technology Analyst](https://jobright.ai/jobs/info/68cd23bc1ad6b16f02895a80?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 21 |
 | **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Sep 21 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst, Assoc](https://jobright.ai/jobs/info/68cd03784d568306aabd1791?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Sep 21 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Business Analyst-Slate](https://jobright.ai/jobs/info/68cdf98ae23def7af55c0aa7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
