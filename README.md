@@ -61,9 +61,9 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d80723295f8e37655e4d9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Morrisville, NC | Hybrid | Sep 27 |
 | **[Hatch](https://www.hatch.com)** | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68d7f1ac7a37c712687d732a?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 27 |
 | ↳ | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68cc463d128dc347fd921c00?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Sep 27 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/68d7e870295f8e37655e3ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Sep 27 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/68cf8fde846f0b04af682f45?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Sep 27 |
 | **[NTT DATA North America](https://us.nttdata.com)** | **[Junior Business Systems Analyst - ONSITE](https://jobright.ai/jobs/info/68c91befa0c52d598ea35dc5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 27 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/68d7d8b77796a83635f0c5e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Sep 27 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/68d4e3a7ffc1276de3fdf1bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Sep 27 |
 | **[Banner Health](https://www.bannerhealth.com)** | **[Business Analytics Assistant](https://jobright.ai/jobs/info/68d76c7e295f8e37655d8c33?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Sep 26 |
 | ↳ | **[Business Analytics Assistant](https://jobright.ai/jobs/info/68d7494de5293e3538af3a0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona, United States | Remote | Sep 26 |
@@ -114,8 +114,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d4506e8c62e63bc7fe833f?utm_campaign=Business%20Analyst&utm_source=1103)** | USA KY - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d450568c62e63bc7fe831a?utm_campaign=Business%20Analyst&utm_source=1103)** | USA KS - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d450428c62e63bc7fe82f8?utm_campaign=Business%20Analyst&utm_source=1103)** | USA VT - Remote | Remote | Sep 24 |
-| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d4503e17554c2d9eef84cd?utm_campaign=Business%20Analyst&utm_source=1103)** | USA AZ - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d4503e17554c2d9eef84ce?utm_campaign=Business%20Analyst&utm_source=1103)** | USA NJ - Remote | Remote | Sep 24 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d4503e17554c2d9eef84cd?utm_campaign=Business%20Analyst&utm_source=1103)** | USA AZ - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d4503617554c2d9eef84bf?utm_campaign=Business%20Analyst&utm_source=1103)** | USA TX - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d450358c62e63bc7fe82ea?utm_campaign=Business%20Analyst&utm_source=1103)** | USA RI - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d4501017554c2d9eef8486?utm_campaign=Business%20Analyst&utm_source=1103)** | USA CT - Remote | Remote | Sep 24 |
@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/68be6a473d31ec76b7e8a2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Sep 22 |
 | **[CACI bv](https://www.caci.nl)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/68d1980f17554c2d9eedd207?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 22 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Sep 22 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Business Analyst (Brownsburg, IN Hybrid)](https://jobright.ai/jobs/info/68d0fd8e17bd5d3415aa8498?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IN-Brownsburg | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
