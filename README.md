@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68db610f34f2c406da6d7590?utm_campaign=Business%20Analyst&utm_source=1103)** | Umatilla, OR | On Site | Sep 29 |
 | **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst - DER Interconnection](https://jobright.ai/jobs/info/68db43929f13662d20e490b4?utm_campaign=Business%20Analyst&utm_source=1103)** | OAKBROOK TERRACE, Illinois | Hybrid | Sep 29 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst - DER Interconnection](https://jobright.ai/jobs/info/68db403c34f2c406da6d5a1b?utm_campaign=Business%20Analyst&utm_source=1103)** | Villa Park, IL | Hybrid | Sep 29 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Analyst](https://jobright.ai/jobs/info/68db37c134f2c406da6d5622?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 29 |
@@ -77,9 +78,9 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d80723295f8e37655e4d9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Morrisville, NC | Hybrid | Sep 27 |
 | **[Hatch](https://www.hatch.com)** | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68d7f1ac7a37c712687d732a?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 27 |
 | ↳ | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68cc463d128dc347fd921c00?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | Hybrid | Sep 27 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/68d7e870295f8e37655e3ad5?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Sep 27 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ26516.1](https://jobright.ai/jobs/info/68cf8fde846f0b04af682f45?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Sep 27 |
 | **[NTT DATA North America](https://us.nttdata.com)** | **[Junior Business Systems Analyst - ONSITE](https://jobright.ai/jobs/info/68c91befa0c52d598ea35dc5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 27 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/68d7d8b77796a83635f0c5e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Sep 27 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/68d4e3a7ffc1276de3fdf1bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Sep 27 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6882f4bb835a903aa07f1ba4?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Sep 26 |
 | **[Wayfair](https://www.wayfair.com)** | **[Commercial Analyst Full-Time - Summer 2026](https://jobright.ai/jobs/info/68d71cc9894705799a2f0c01?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Sep 26 |
@@ -91,11 +92,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Architecture Business Analyst - 5933394](https://jobright.ai/jobs/info/68d6e273d3fe025a3015c9ff?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Sep 26 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68ce4993dbd9fb154eddda9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 26 |
 | **[NetApp](http://netapp.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d69e1a894705799a2ec776?utm_campaign=Business%20Analyst&utm_source=1103)** | Morrisville, NC | Hybrid | Sep 26 |
-| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Entry Level - GES Business Process Analyst](https://jobright.ai/jobs/info/68d613431f7fb2169ab16112?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Sep 26 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68d65929ebcef82ef5cf9f98?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | Hybrid | Sep 26 |
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/68d62d894736ff202fdd0517?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton, FL | On Site | Sep 25 |
+| **[Wayfair](https://www.wayfair.com)** | **[Commercial Analyst Full-Time - Summer 2026](https://jobright.ai/jobs/info/68db67fee19b9e63ba20bc4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Sep 25 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst - Data Management](https://jobright.ai/jobs/info/68cf2504846f0b04af67f931?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | On Site | Sep 25 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68d610f31f7fb2169ab15b35?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
+| **[Solar Turbines](https://www.solarturbines.com)** | **[Entry Level - GES Business Process Analyst](https://jobright.ai/jobs/info/68d613431f7fb2169ab16112?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Hybrid | Sep 25 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68cf54a0fb49c96ca6ea79c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Sep 25 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68d80c4b7a37c712687d7fba?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Sep 25 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/68d5d6502116ff37ee0909fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | Sep 25 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68d5cfe91f7fb2169ab13e53?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/68d53aa539247e3c807e932c?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Sep 25 |
 | **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68cf7f58846f0b04af68287f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
-| **[Invenergy](https://invenergy.com)** | **[IT Business Administration Analyst](https://jobright.ai/jobs/info/68d31723f0d9af73038df08f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 24 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d4844effc1276de3fdb8cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Sep 24 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68d47ba777769e778f509494?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | Sep 24 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d450e9ffc1276de3fd9ae9?utm_campaign=Business%20Analyst&utm_source=1103)** | USA NV - Remote | Remote | Sep 24 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d450358c62e63bc7fe82ea?utm_campaign=Business%20Analyst&utm_source=1103)** | USA RI - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d4501017554c2d9eef8486?utm_campaign=Business%20Analyst&utm_source=1103)** | USA CT - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44ffc17554c2d9eef8468?utm_campaign=Business%20Analyst&utm_source=1103)** | USA SD - Remote | Remote | Sep 24 |
-| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44ff917554c2d9eef8466?utm_campaign=Business%20Analyst&utm_source=1103)** | USA DE - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44ff917554c2d9eef8465?utm_campaign=Business%20Analyst&utm_source=1103)** | USA WV - Remote | Remote | Sep 24 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44ff917554c2d9eef8466?utm_campaign=Business%20Analyst&utm_source=1103)** | USA DE - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44ff617554c2d9eef845e?utm_campaign=Business%20Analyst&utm_source=1103)** | USA AL - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44fe017554c2d9eef8445?utm_campaign=Business%20Analyst&utm_source=1103)** | USA MS - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44fcd17554c2d9eef842f?utm_campaign=Business%20Analyst&utm_source=1103)** | USA MN - Remote | Remote | Sep 24 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44dadffc1276de3fd9904?utm_campaign=Business%20Analyst&utm_source=1103)** | USA OH - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d9effc1276de3fd98ed?utm_campaign=Business%20Analyst&utm_source=1103)** | USA DC - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d9a8c62e63bc7fe7fb4?utm_campaign=Business%20Analyst&utm_source=1103)** | USA MI - Remote | Remote | Sep 24 |
-| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d958c62e63bc7fe7fa7?utm_campaign=Business%20Analyst&utm_source=1103)** | USA SC - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d95ffc1276de3fd98e3?utm_campaign=Business%20Analyst&utm_source=1103)** | USA GA - Remote | Remote | Sep 24 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d958c62e63bc7fe7fa7?utm_campaign=Business%20Analyst&utm_source=1103)** | USA SC - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d8c8c62e63bc7fe7f9c?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d8bffc1276de3fd98dc?utm_campaign=Business%20Analyst&utm_source=1103)** | USA NM - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d6f8c62e63bc7fe7f53?utm_campaign=Business%20Analyst&utm_source=1103)** | USA NE - Remote | Remote | Sep 24 |
