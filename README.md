@@ -153,5 +153,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d50128e678d65ec7d8a713?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 24 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst - Indianapolis Health](https://jobright.ai/jobs/info/68cf041afb49c96ca6ea5137?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Sep 24 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68d328338c62e63bc7fde328?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 23 |
-| **[Adyen](http://www.adyen.com)** | **[Associate Business Demand Planner](https://jobright.ai/jobs/info/68a51d25758f2e4ac3fdc134?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
