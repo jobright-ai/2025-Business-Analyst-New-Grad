@@ -131,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d450358c62e63bc7fe82ea?utm_campaign=Business%20Analyst&utm_source=1103)** | USA RI - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d4501017554c2d9eef8486?utm_campaign=Business%20Analyst&utm_source=1103)** | USA CT - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44ffc17554c2d9eef8468?utm_campaign=Business%20Analyst&utm_source=1103)** | USA SD - Remote | Remote | Sep 24 |
-| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44ff917554c2d9eef8465?utm_campaign=Business%20Analyst&utm_source=1103)** | USA WV - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44ff917554c2d9eef8466?utm_campaign=Business%20Analyst&utm_source=1103)** | USA DE - Remote | Remote | Sep 24 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44ff917554c2d9eef8465?utm_campaign=Business%20Analyst&utm_source=1103)** | USA WV - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44ff617554c2d9eef845e?utm_campaign=Business%20Analyst&utm_source=1103)** | USA AL - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44fe017554c2d9eef8445?utm_campaign=Business%20Analyst&utm_source=1103)** | USA MS - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44fcd17554c2d9eef842f?utm_campaign=Business%20Analyst&utm_source=1103)** | USA MN - Remote | Remote | Sep 24 |
@@ -154,6 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Business Analyst - Indianapolis Health](https://jobright.ai/jobs/info/68cf041afb49c96ca6ea5137?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Sep 24 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager - Hybrid](https://jobright.ai/jobs/info/68d328338c62e63bc7fde328?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Sep 23 |
 | **[Adyen](http://www.adyen.com)** | **[Associate Business Demand Planner](https://jobright.ai/jobs/info/68a51d25758f2e4ac3fdc134?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 23 |
-| **[FICO](http://www.fico.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d2e18717554c2d9eeeb30f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 23 |
-| **[AIPSO](https://www.aipso.com)** | **[Business Test Assistant/Assistant Business Systems Analyst](https://jobright.ai/jobs/info/68d2e1098c62e63bc7fdb1f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Johnston, RI | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
