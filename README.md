@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cfc9dadbd9fb154edeaeb0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
+| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68cac5fbefdec76df36b54b4?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68db7c0de19b9e63ba20c81c?utm_campaign=Business%20Analyst&utm_source=1103)** | Town and Country, Missouri | On Site | Sep 29 |
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/68db7be634f2c406da6d8869?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas | On Site | Sep 29 |
@@ -94,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Mastercard](http://www.mastercard.com)** | **[Manager, Business Process Improvement](https://jobright.ai/jobs/info/68d5c6e32116ff37ee0902f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, Virginia | On Site | Sep 25 |
 | ↳ | **[Manager, Business Process Improvement](https://jobright.ai/jobs/info/68d5c5d61f7fb2169ab13a5f?utm_campaign=Business%20Analyst&utm_source=1103)** | O'Fallon, Missouri | On Site | Sep 25 |
 | ↳ | **[Manager, Business Process Improvement](https://jobright.ai/jobs/info/68d5c53463d77d6f6f3f223e?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York | On Site | Sep 25 |
-| **[Formosa Plastics Corporation, U.S.A.](https://www.fpcusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d59c8614935e31e231a526?utm_campaign=Business%20Analyst&utm_source=1103)** | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
