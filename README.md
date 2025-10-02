@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68cac5fbefdec76df36b54b4?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Oct 01 |
 | **[Spectrum](https://www.spectrum.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/68db7c0de19b9e63ba20c81c?utm_campaign=Business%20Analyst&utm_source=1103)** | Town and Country, Missouri | On Site | Sep 29 |
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/68db7be634f2c406da6d8869?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas | On Site | Sep 29 |
 | **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68db610f34f2c406da6d7590?utm_campaign=Business%20Analyst&utm_source=1103)** | Umatilla, OR | On Site | Sep 29 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Wayfair](https://www.wayfair.com)** | **[Commercial Analyst Full-Time - Summer 2026](https://jobright.ai/jobs/info/68d71cc9894705799a2f0c01?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Sep 26 |
 | **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68d71331894705799a2f068a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 26 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68cfa987dbd9fb154ede98e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Sep 26 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68ce4993dbd9fb154eddda9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 26 |
 | **[NetApp](http://netapp.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d69e1a894705799a2ec776?utm_campaign=Business%20Analyst&utm_source=1103)** | Morrisville, NC | Hybrid | Sep 26 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/68d65929ebcef82ef5cf9f98?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, IL | Hybrid | Sep 26 |
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/68d62d894736ff202fdd0517?utm_campaign=Business%20Analyst&utm_source=1103)** | Boca Raton, FL | On Site | Sep 25 |
@@ -95,5 +95,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Manager, Business Process Improvement](https://jobright.ai/jobs/info/68d5c5d61f7fb2169ab13a5f?utm_campaign=Business%20Analyst&utm_source=1103)** | O'Fallon, Missouri | On Site | Sep 25 |
 | ↳ | **[Manager, Business Process Improvement](https://jobright.ai/jobs/info/68d5c53463d77d6f6f3f223e?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York | On Site | Sep 25 |
 | **[Formosa Plastics Corporation, U.S.A.](https://www.fpcusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d59c8614935e31e231a526?utm_campaign=Business%20Analyst&utm_source=1103)** | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA | On Site | Sep 25 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/68d53aa539247e3c807e932c?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
