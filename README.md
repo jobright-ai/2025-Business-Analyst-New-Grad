@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Voya Financial](https://www.voya.com/)** | **[IM Entry Level Analyst Program: Business Management](https://jobright.ai/jobs/info/68da98c507c157682e56b4ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Sep 29 |
 | ↳ | **[IM Entry Level Analyst Program: Business Management](https://jobright.ai/jobs/info/68da98ae0b832179ca4aeacb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 29 |
 | **[Buckeye Corrugated, Inc. (BCI)](http://www.bcipkg.com)** | **[Business Trainee / Plattsburgh, NY](https://jobright.ai/jobs/info/68da45220b832179ca4ad014?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakeside, NY | On Site | Sep 29 |
-| **[Accenture](https://www.accenture.com)** | **[Business Architecture Business Analyst - 5933394](https://jobright.ai/jobs/info/68da080f0b832179ca4aa868?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Sep 28 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68db54ba34f2c406da6d6ceb?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Sep 28 |
 | **[NetApp](http://netapp.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d80723295f8e37655e4d9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Morrisville, NC | Hybrid | Sep 27 |
 | **[Hatch](https://www.hatch.com)** | **[New Graduate - Advisory Business Analyst](https://jobright.ai/jobs/info/68d7f1ac7a37c712687d732a?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Sep 27 |
@@ -97,5 +96,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Manager, Business Process Improvement](https://jobright.ai/jobs/info/68d5c53463d77d6f6f3f223e?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York | On Site | Sep 25 |
 | **[Formosa Plastics Corporation, U.S.A.](https://www.fpcusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d59c8614935e31e231a526?utm_campaign=Business%20Analyst&utm_source=1103)** | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA | On Site | Sep 25 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[IT Business Analyst, Associate](https://jobright.ai/jobs/info/68d53aa539247e3c807e932c?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | On Site | Sep 25 |
-| **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68cf7f58846f0b04af68287f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
