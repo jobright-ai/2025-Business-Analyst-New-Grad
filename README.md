@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68d8b4edeed6e340d9e1ce02?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Graduate (Creative and Brand Innovation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cfc9dadbd9fb154edeaeb0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Oct 02 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Technology Analyst - Business Analyst](https://jobright.ai/jobs/info/68cac5fbefdec76df36b54b4?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Oct 01 |
