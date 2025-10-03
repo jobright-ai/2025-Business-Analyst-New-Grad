@@ -152,6 +152,4 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst, Assoc](https://jobright.ai/jobs/info/68cd03784d568306aabd1791?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Sep 21 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst - Summer 2026 Start](https://jobright.ai/jobs/info/68d76392295f8e37655d71a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Sep 19 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Business Analyst-Slate](https://jobright.ai/jobs/info/68cdf98ae23def7af55c0aa7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Sep 19 |
-| ↳ | **[Business Analyst-Slate](https://jobright.ai/jobs/info/68cdb2c01ad6b16f0289e014?utm_campaign=Business%20Analyst&utm_source=1103)** | UT MAIN CAMPUS | On Site | Sep 19 |
-| **[CareSource](https://www.caresource.com/)** | **[Business Resiliency Specialist I](https://jobright.ai/jobs/info/68cda9701ad6b16f0289d5a8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
