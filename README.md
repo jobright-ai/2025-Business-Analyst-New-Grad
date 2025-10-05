@@ -129,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44dadffc1276de3fd9904?utm_campaign=Business%20Analyst&utm_source=1103)** | USA OH - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d9effc1276de3fd98ed?utm_campaign=Business%20Analyst&utm_source=1103)** | USA DC - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d9a8c62e63bc7fe7fb4?utm_campaign=Business%20Analyst&utm_source=1103)** | USA MI - Remote | Remote | Sep 24 |
-| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d958c62e63bc7fe7fa7?utm_campaign=Business%20Analyst&utm_source=1103)** | USA SC - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d95ffc1276de3fd98e3?utm_campaign=Business%20Analyst&utm_source=1103)** | USA GA - Remote | Remote | Sep 24 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d958c62e63bc7fe7fa7?utm_campaign=Business%20Analyst&utm_source=1103)** | USA SC - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d8c8c62e63bc7fe7f9c?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d8bffc1276de3fd98dc?utm_campaign=Business%20Analyst&utm_source=1103)** | USA NM - Remote | Remote | Sep 24 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/68d44d6f8c62e63bc7fe7f53?utm_campaign=Business%20Analyst&utm_source=1103)** | USA NE - Remote | Remote | Sep 24 |
@@ -144,7 +144,4 @@ For a complete list, click the following sortable link below:
 | **[CACI bv](https://www.caci.nl)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/68d1980f17554c2d9eedd207?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | On Site | Sep 22 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Sep 22 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Business Analyst (Brownsburg, IN Hybrid)](https://jobright.ai/jobs/info/68d0fd8e17bd5d3415aa8498?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IN-Brownsburg | Hybrid | Sep 22 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[Associate - Wealth Management Solutions Technology Analyst](https://jobright.ai/jobs/info/68cd23bc1ad6b16f02895a80?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 21 |
-| **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Sep 21 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst, Assoc](https://jobright.ai/jobs/info/68cd03784d568306aabd1791?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
