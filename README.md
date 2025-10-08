@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Analyst](https://jobright.ai/jobs/info/68daf14d0dffed6f83d2ae60?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Data Business Analyst](https://jobright.ai/jobs/info/68db02cf6df7b8311bb1559b?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Sep 29 |
 | **[Voya Investment Management](http://investments.voya.com)** | **[IM Entry Level Analyst Program: Business Management](https://jobright.ai/jobs/info/68daa55f6df7b8311bb10a0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Sep 29 |
-| ↳ | **[IM Entry Level Analyst Program: Business Management](https://jobright.ai/jobs/info/68daa5470b832179ca4af612?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 29 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/682fa577ba412533b5bb9a66?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Sep 29 |
 | **[Voya Financial](https://www.voya.com/)** | **[IM Entry Level Analyst Program: Business Management](https://jobright.ai/jobs/info/68da98c507c157682e56b4ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Sep 29 |
 | ↳ | **[IM Entry Level Analyst Program: Business Management](https://jobright.ai/jobs/info/68da98ae0b832179ca4aeacb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Sep 29 |
@@ -94,6 +93,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Manager, Business Process Improvement](https://jobright.ai/jobs/info/68d5c53463d77d6f6f3f223e?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York | On Site | Sep 25 |
 | **[Formosa Plastics Corporation, U.S.A.](https://www.fpcusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d59c8614935e31e231a526?utm_campaign=Business%20Analyst&utm_source=1103)** | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA | On Site | Sep 25 |
 | **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68cf7f58846f0b04af68287f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d4844effc1276de3fdb8cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Sep 24 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68d47ba777769e778f509494?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
