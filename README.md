@@ -89,5 +89,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Manager, Business Process Improvement](https://jobright.ai/jobs/info/68d5c5d61f7fb2169ab13a5f?utm_campaign=Business%20Analyst&utm_source=1103)** | O'Fallon, Missouri | On Site | Sep 25 |
 | ↳ | **[Manager, Business Process Improvement](https://jobright.ai/jobs/info/68d5c53463d77d6f6f3f223e?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York | On Site | Sep 25 |
 | **[Formosa Plastics Corporation, U.S.A.](https://www.fpcusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68d59c8614935e31e231a526?utm_campaign=Business%20Analyst&utm_source=1103)** | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA | On Site | Sep 25 |
-| **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/68cf7f58846f0b04af68287f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
