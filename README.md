@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68ccfca85954791a1d7023b8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Oct 09 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Oct 07 |
 | **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/68d00128dbd9fb154edec9a0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Oct 07 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/68d4b913fcd3367e8df173f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Oct 05 |
