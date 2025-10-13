@@ -145,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst, Jr.](https://jobright.ai/jobs/info/68ca872c8b6593021a778bb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Sep 16 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 15 |
 | **[Citi](https://www.citi.com)** | **[Business Analytics Lead Analyst](https://jobright.ai/jobs/info/68c8345b95f5211cd2ce2901?utm_campaign=Business%20Analyst&utm_source=1103)** | New York New York United States | Hybrid | Sep 15 |
-| **[QBE Insurance](http://www.qbe.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68c653d37d0db411427388fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie, WI, USA | Hybrid | Sep 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
