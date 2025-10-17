@@ -88,5 +88,4 @@ For a complete list, click the following sortable link below:
 | **[Alfa Insurance](https://www.alfainsurance.com)** | **[Corporate Business Analyst I](https://jobright.ai/jobs/info/68ccb317128dc347fd928450?utm_campaign=Business%20Analyst&utm_source=1103)** | Montgomery, AL 36116 | Hybrid | Sep 18 |
 | **[Verista](https://www.verista.com/)** | **[5938 - Business Analyst - Standard / Business Analyst](https://jobright.ai/jobs/info/68cc3d5e16d00d2beeb1c2b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Sep 18 |
 | **[QBE North America](https://www.qbe.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68d4dafb8c62e63bc7fed36d?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie Town, WI | Hybrid | Sep 17 |
-| **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/68cb07d7d905e25191d9e984?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
