@@ -85,5 +85,4 @@ For a complete list, click the following sortable link below:
 | **[Jack Henry](http://www.jackhenry.com)** | **[Business Analyst II: Symitar Hosted Automation (Opcon)](https://jobright.ai/jobs/info/68d3031a8c62e63bc7fdcd5a?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Sep 22 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Business Analyst-Slate](https://jobright.ai/jobs/info/68cdb2c01ad6b16f0289e014?utm_campaign=Business%20Analyst&utm_source=1103)** | UT MAIN CAMPUS | On Site | Sep 19 |
 | **[Alfa Insurance](https://www.alfainsurance.com)** | **[Corporate Business Analyst I](https://jobright.ai/jobs/info/68ccb317128dc347fd928450?utm_campaign=Business%20Analyst&utm_source=1103)** | Montgomery, AL 36116 | Hybrid | Sep 18 |
-| **[Verista](https://www.verista.com/)** | **[5938 - Business Analyst - Standard / Business Analyst](https://jobright.ai/jobs/info/68cc3d5e16d00d2beeb1c2b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
