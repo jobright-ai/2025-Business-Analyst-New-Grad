@@ -67,5 +67,4 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/68d4b913fcd3367e8df173f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Oct 05 |
 | **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/68db610f34f2c406da6d7590?utm_campaign=Business%20Analyst&utm_source=1103)** | Umatilla, OR | On Site | Sep 29 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Analyst](https://jobright.ai/jobs/info/68daf14d0dffed6f83d2ae60?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 29 |
-| **[Solar Turbines](https://www.solarturbines.com)** | **[Entry Level - GES Business Process Analyst](https://jobright.ai/jobs/info/68d5d4d92116ff37ee09090b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, California | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
