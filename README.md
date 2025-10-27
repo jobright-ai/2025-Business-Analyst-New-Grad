@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/68be6a473d31ec76b7e8a2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Oct 14 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Oct 13 |
 | **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Oct 12 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst, Assoc](https://jobright.ai/jobs/info/68cd03784d568306aabd1791?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Oct 12 |
 | **[Verista](https://www.verista.com/)** | **[5938 - Business Analyst - Standard / Business Analyst](https://jobright.ai/jobs/info/68cf6461fb49c96ca6ea84a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Oct 10 |
