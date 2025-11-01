@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/68be6a473d31ec76b7e8a2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Oct 14 |
 | **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Oct 12 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst, Assoc](https://jobright.ai/jobs/info/68cd03784d568306aabd1791?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
