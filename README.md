@@ -66,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Nov 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69099332bcccf20de59dc8f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909919c4a1b456627b01ce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098c32d046ab6061cd682a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909afd7bcccf20de59dd264?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098a2b4a1b456627b01879?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 03 |
