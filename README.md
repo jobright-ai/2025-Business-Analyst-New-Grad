@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EDSI](http://edsisolutions.com)** | **[Performance Analyst](https://jobright.ai/jobs/info/690bbf72d046ab6061ce72f9?utm_campaign=Business%20Analyst&utm_source=1103)** | PA CL Chester County | On Site | Nov 05 |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/690bb867221b890c277f7429?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Nov 05 |
 | **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/690baa95d046ab6061ce639a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Nov 05 |
 | **[Associated Insurance and Risk Management Advisors](https://assocagencies.com/)** | **[Business Analyst – Insurance](https://jobright.ai/jobs/info/690ba3714a1b456627b11243?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows,IL,US | Hybrid | Nov 05 |
 | **[Mercury Marine](http://mercurymarine.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/690b9e23221b890c277f63d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Nov 05 |
@@ -69,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Nov 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69099332bcccf20de59dc8f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909919c4a1b456627b01ce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098c32d046ab6061cd682a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909afd7bcccf20de59dd264?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098a2b4a1b456627b01879?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 03 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690988364a1b456627b017ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 03 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/69095f5ed046ab6061cd4b0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 03 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Full-time - Supplier Performance Analyst - Hybrid (MA)](https://jobright.ai/jobs/info/69095d8bbcccf20de59da6d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA | Hybrid | Nov 03 |
-| **[Stewart Title](https://www.stewart.com/)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/690941cd4a1b456627afea0e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 03 |
 | **[RTX](http://www.raytheon.com)** | **[2026 Full-time - Supplier Performance Analyst - Hybrid (MA)](https://jobright.ai/jobs/info/69093bf44a1b456627afe5cd?utm_campaign=Business%20Analyst&utm_source=1103)** | MA600: Andover, MA 366 Lowell St 366 Lowell Street  , Andover, MA, 01810-5423 USA | Hybrid | Nov 03 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6909470fd046ab6061cd3c88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 03 |
 | **[Advisor360°](https://www.advisor360.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/690923a34a1b456627afd153?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Nov 03 |
