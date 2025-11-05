@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/690b72af221b890c277f4faf?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Nov 05 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Analyst - Premises, Internal HR](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Nov 04 |
 | **[Crew](http://theboomlab.com)** | **[Salesforce Business Analyst /Admin](https://jobright.ai/jobs/info/690abd91bcccf20de59e5776?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Nov 04 |
 | **[RK](http://www.rkmi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/690aa7a34a1b456627b0a04a?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Island City, NY | Hybrid | Nov 04 |
@@ -67,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Nov 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69099332bcccf20de59dc8f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909919c4a1b456627b01ce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098c32d046ab6061cd682a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909afd7bcccf20de59dd264?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098a2b4a1b456627b01879?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 03 |
@@ -96,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst, Assoc](https://jobright.ai/jobs/info/68cd03784d568306aabd1791?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/69062ed5ff462851fe003df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Nov 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 01 |
-| **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II - Device Financing](https://jobright.ai/jobs/info/68e806fb09580a2fe57f2454?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Nov 01 |
 | **[San Francisco Department of Public Health](https://www.sfdph.org/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/69058b8cff462851feffe7ef?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Oct 31 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/69057a87122e8474c78d9511?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Oct 31 |
 | **[Commence](https://commence.ai/)** | **[IDR Business Analyst](https://jobright.ai/jobs/info/69053dd0ff462851feffc352?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 31 |
@@ -126,6 +124,5 @@ For a complete list, click the following sortable link below:
 | **[Alpha Omega](http://www.alphaomegaintegration.com/)** | **[Business Analyst - Document Imaging Specialist](https://jobright.ai/jobs/info/68e6800eae2b894b1d71acc2?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Oct 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/68e67f4ce8daec61499ab94a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Oct 30 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Inventory Planning Analyst - ATF](https://jobright.ai/jobs/info/68de5d48a125e75c422b3f15?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Oct 30 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/690329eb98707b2b0fe75cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, New Jersey | On Site | Oct 29 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
