@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690bfaf6221b890c277fa42d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Nov 05 |
 | **[EDSI](http://edsisolutions.com)** | **[Performance Analyst](https://jobright.ai/jobs/info/690bbf72d046ab6061ce72f9?utm_campaign=Business%20Analyst&utm_source=1103)** | PA CL Chester County | On Site | Nov 05 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/690bb867221b890c277f7429?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Nov 05 |
 | **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/690baa95d046ab6061ce639a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Nov 05 |
