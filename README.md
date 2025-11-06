@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/690cf6bb4a1b456627b1be72?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Nov 06 |
+| **[Optum](https://www.optum.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/690cfcb5221b890c27801938?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 06 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Graduate Business Associate](https://jobright.ai/jobs/info/690cdd13221b890c278007f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | On Site | Nov 06 |
 | **[Associated Insurance and Risk Management Advisors](https://assocagencies.com/)** | **[Business Analyst – Insurance](https://jobright.ai/jobs/info/690c5997d046ab6061cec893?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | Hybrid | Nov 06 |
 | **[Jack Henry](http://www.jackhenry.com)** | **[EASE - Business Analyst II (Projects)](https://jobright.ai/jobs/info/690c31a6221b890c277fc39c?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Hybrid | Nov 05 |
@@ -93,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Advisor360°](https://www.advisor360.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/690923a34a1b456627afd153?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Nov 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69090ba34a1b456627afbb57?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 03 |
 | **[Zachary Piper Solutions](http://zacharypiper.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/690909134a1b456627afb8a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Newington, VA | On Site | Nov 03 |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Business Systems Analyst Associate](https://jobright.ai/jobs/info/69090015bcccf20de59d5b6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | Hybrid | Nov 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68ec06318369791ef7828983?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68eab3ae2f64880ca0b53e2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Nov 02 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[Business Analyst to the Chief of Staff](https://jobright.ai/jobs/info/6878e8f6a7fc8904e395e449?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 02 |
@@ -111,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1, SG-18, Business Systems Analyst Tr 2, (SG-16), Business Systems Analyst Tr 1,( SG-14)(NYHELPS) Item# 08221(Multiple)](https://jobright.ai/jobs/info/6905f5b3122e8474c78dd5ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Oct 31 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69040393d64a22104aa95ef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Oct 31 |
 | **[LPL Financial](https://www.lpl.com)** | **[Associate Business Analyst - Forms (Non-IT)](https://jobright.ai/jobs/info/68e85b4b09580a2fe57f6b1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Oct 31 |
-| **[Cencora](http://www.cencora.com)** | **[Supply Chain Business Analyst I](https://jobright.ai/jobs/info/69043e24ff462851feff432b?utm_campaign=Business%20Analyst&utm_source=1103)** | Conshohocken, PA | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
