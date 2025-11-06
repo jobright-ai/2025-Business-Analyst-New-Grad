@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69040393d64a22104aa95ef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Oct 31 |
 | **[LPL Financial](https://www.lpl.com)** | **[Associate Business Analyst - Forms (Non-IT)](https://jobright.ai/jobs/info/68e85b4b09580a2fe57f6b1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Oct 31 |
 | **[Cencora](http://www.cencora.com)** | **[Supply Chain Business Analyst I](https://jobright.ai/jobs/info/69043e24ff462851feff432b?utm_campaign=Business%20Analyst&utm_source=1103)** | Conshohocken, PA | On Site | Oct 30 |
-| **[Compu-Vision Consulting Inc.](http://www.compuvis.com/)** | **[Business Analysts](https://jobright.ai/jobs/info/69042d6bff462851feff394c?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Island City, NY | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
