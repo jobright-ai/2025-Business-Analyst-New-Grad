@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690bfaf6221b890c277fa42d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Nov 05 |
+| **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690c05b64a1b456627b15489?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
+| ↳ | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690bfaf6221b890c277fa42d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Nov 05 |
 | **[EDSI](http://edsisolutions.com)** | **[Performance Analyst](https://jobright.ai/jobs/info/690bbf72d046ab6061ce72f9?utm_campaign=Business%20Analyst&utm_source=1103)** | PA CL Chester County | On Site | Nov 05 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/690bb867221b890c277f7429?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Nov 05 |
 | **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/690baa95d046ab6061ce639a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Nov 05 |
@@ -72,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Nov 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69099332bcccf20de59dc8f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098c32d046ab6061cd682a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909919c4a1b456627b01ce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909afd7bcccf20de59dd264?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098a2b4a1b456627b01879?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 03 |
@@ -124,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69061c76122e8474c78deeb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA, USA | On Site | Oct 30 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1, SG-18, Business Systems Analyst Tr 2, (SG-16), Business Systems Analyst Tr 1,( SG-14)(NYHELPS) Item# 07384](https://jobright.ai/jobs/info/6903cc2f63502c0aded6c966?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Oct 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/68e67f4ce8daec61499ab94a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Oct 30 |
-| **[Ann Taylor](http://www.anntaylor.com)** | **[Inventory Planning Analyst - ATF](https://jobright.ai/jobs/info/68de5d48a125e75c422b3f15?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
