@@ -57,17 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City and County of San Francisco](https://sf.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/690e3c09d046ab6061cfb7f1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | On Site | Nov 07 |
 | **[Syndigo](https://www.syndigo.com)** | **[Nutrition Business Analyst](https://jobright.ai/jobs/info/68f163aee6870116b1f580ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Nov 07 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6905c134ff462851fe000074?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Nov 07 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68f71d729a63986de7585042?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 07 |
 | **[Signal Advisors](https://signaladvisors.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/690dfa4b44146d3b6ec50b2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Nov 06 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d6fba4a1b456627b21523?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Nov 06 |
-| ↳ | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d6933221b890c278067b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | On Site | Nov 06 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/690d6099221b890c2780631c?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | Nov 06 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/68e67f4ce8daec61499ab94a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Nov 06 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/690d2cedd046ab6061cf3ca8?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 06 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d18ce4a1b456627b1da85?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MO | Remote | Nov 06 |
-| ↳ | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d198ed046ab6061cf2cb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Nov 06 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d198ed046ab6061cf2cb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Nov 06 |
 | **[San Francisco Department of Public Health](https://www.sfdph.org/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/690d22b6221b890c27803b92?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Nov 06 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/690d17d3d046ab6061cf2988?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ (Hybrid) | Hybrid | Nov 06 |
 | ↳ | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/690d0f38221b890c278028c5?utm_campaign=Business%20Analyst&utm_source=1103)** | 2801 W Durango St, Phoenix, AZ 85009 | Hybrid | Nov 06 |
@@ -91,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Nov 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69099332bcccf20de59dc8f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098c32d046ab6061cd682a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909919c4a1b456627b01ce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909afd7bcccf20de59dd264?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098a2b4a1b456627b01879?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 03 |
@@ -114,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68530ef5a44a5acf1cdde0e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago | On Site | Nov 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/69062ed5ff462851fe003df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Nov 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 01 |
-| **[City and County of San Francisco](https://sf.gov/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/69057a87122e8474c78d9511?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
