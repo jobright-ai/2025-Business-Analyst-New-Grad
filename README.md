@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/690d2cedd046ab6061cf3ca8?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 06 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d18ce4a1b456627b1da85?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MO | Remote | Nov 06 |
+| ↳ | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d198ed046ab6061cf2cb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Nov 06 |
+| **[San Francisco Department of Public Health](https://www.sfdph.org/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/690d22b6221b890c27803b92?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Nov 06 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/690d17d3d046ab6061cf2988?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ (Hybrid) | Hybrid | Nov 06 |
 | ↳ | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/690d0f38221b890c278028c5?utm_campaign=Business%20Analyst&utm_source=1103)** | 2801 W Durango St, Phoenix, AZ 85009 | Hybrid | Nov 06 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/690d0b93d046ab6061cf1f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | Nov 06 |
@@ -104,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst, Assoc](https://jobright.ai/jobs/info/68cd03784d568306aabd1791?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/69062ed5ff462851fe003df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Nov 01 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 01 |
-| **[San Francisco Department of Public Health](https://www.sfdph.org/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/69058b8cff462851feffe7ef?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Oct 31 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/69057a87122e8474c78d9511?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Oct 31 |
 | **[Commence](https://commence.ai/)** | **[IDR Business Analyst](https://jobright.ai/jobs/info/69053dd0ff462851feffc352?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 31 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/69051f6963502c0aded7852f?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | On Site | Oct 31 |
