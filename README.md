@@ -100,10 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690abec5d046ab6061cdfb3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Elk Grove Village, IL | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690988364a1b456627b017ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 03 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/69095f5ed046ab6061cd4b0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 03 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Full-time - Supplier Performance Analyst - Hybrid (MA)](https://jobright.ai/jobs/info/69095d8bbcccf20de59da6d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA | Hybrid | Nov 03 |
-| **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6909470fd046ab6061cd3c88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 03 |
+| ↳ | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6909470fd046ab6061cd3c88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 03 |
 | **[Advisor360°](https://www.advisor360.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/690923a34a1b456627afd153?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Nov 03 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69090ba34a1b456627afbb57?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 03 |
 | **[Zachary Piper Solutions](http://zacharypiper.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/690909134a1b456627afb8a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Newington, VA | On Site | Nov 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68ec06318369791ef7828983?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68eab3ae2f64880ca0b53e2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Nov 02 |
@@ -119,5 +117,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/69050c67ff462851feff9d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, United States | On Site | Oct 31 |
 | ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/69050b0963502c0aded77733?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, United States | On Site | Oct 31 |
 | ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/69050a2863502c0aded776ac?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Oct 31 |
-| **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1, SG-18, Business Systems Analyst Tr 2, (SG-16), Business Systems Analyst Tr 1,( SG-14)(NYHELPS) Item# 08221(Multiple)](https://jobright.ai/jobs/info/6905f5b3122e8474c78dd5ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
