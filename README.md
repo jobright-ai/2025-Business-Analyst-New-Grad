@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syndigo](https://www.syndigo.com)** | **[Nutrition Business Analyst](https://jobright.ai/jobs/info/68f163aee6870116b1f580ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Nov 07 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6905c134ff462851fe000074?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Nov 07 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68f71d729a63986de7585042?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 07 |
+| **[Signal Advisors](https://signaladvisors.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/690dfa4b44146d3b6ec50b2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Nov 06 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d6fba4a1b456627b21523?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Nov 06 |
 | ↳ | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d6933221b890c278067b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | On Site | Nov 06 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/690d6099221b890c2780631c?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | Nov 06 |
@@ -89,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Nov 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69099332bcccf20de59dc8f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098c32d046ab6061cd682a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909919c4a1b456627b01ce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909afd7bcccf20de59dd264?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098a2b4a1b456627b01879?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 03 |
