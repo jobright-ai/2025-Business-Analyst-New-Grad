@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d6933221b890c278067b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | On Site | Nov 06 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d6fba4a1b456627b21523?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Nov 06 |
+| ↳ | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d6933221b890c278067b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | On Site | Nov 06 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/690d6099221b890c2780631c?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | Nov 06 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/68e67f4ce8daec61499ab94a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Nov 06 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/690d2cedd046ab6061cf3ca8?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 06 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d18ce4a1b456627b1da85?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MO | Remote | Nov 06 |
 | ↳ | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d198ed046ab6061cf2cb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Nov 06 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690988364a1b456627b017ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 03 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/69095f5ed046ab6061cd4b0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 03 |
 | **[Raytheon](http://www.bbn.com)** | **[2026 Full-time - Supplier Performance Analyst - Hybrid (MA)](https://jobright.ai/jobs/info/69095d8bbcccf20de59da6d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA | Hybrid | Nov 03 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Full-time - Supplier Performance Analyst - Hybrid (MA)](https://jobright.ai/jobs/info/69093bf44a1b456627afe5cd?utm_campaign=Business%20Analyst&utm_source=1103)** | MA600: Andover, MA 366 Lowell St 366 Lowell Street  , Andover, MA, 01810-5423 USA | Hybrid | Nov 03 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6909470fd046ab6061cd3c88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 03 |
 | **[Advisor360°](https://www.advisor360.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/690923a34a1b456627afd153?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Nov 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69090ba34a1b456627afbb57?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 03 |
@@ -120,5 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/69050a2863502c0aded776ac?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Oct 31 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1, SG-18, Business Systems Analyst Tr 2, (SG-16), Business Systems Analyst Tr 1,( SG-14)(NYHELPS) Item# 08221(Multiple)](https://jobright.ai/jobs/info/6905f5b3122e8474c78dd5ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Oct 31 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69040393d64a22104aa95ef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Oct 31 |
-| **[LPL Financial](https://www.lpl.com)** | **[Associate Business Analyst - Forms (Non-IT)](https://jobright.ai/jobs/info/68e85b4b09580a2fe57f6b1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
