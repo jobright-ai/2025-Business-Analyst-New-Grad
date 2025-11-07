@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6905c134ff462851fe000074?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Nov 07 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68f71d729a63986de7585042?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 07 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d6fba4a1b456627b21523?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Nov 06 |
 | ↳ | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/690d6933221b890c278067b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | On Site | Nov 06 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/690d6099221b890c2780631c?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | Nov 06 |
@@ -112,9 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 01 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/69057a87122e8474c78d9511?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Oct 31 |
 | **[Commence](https://commence.ai/)** | **[IDR Business Analyst](https://jobright.ai/jobs/info/69053dd0ff462851feffc352?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 31 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/69051f6963502c0aded7852f?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | On Site | Oct 31 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/69050fdc122e8474c78d595a?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, United States | On Site | Oct 31 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/69050c67ff462851feff9d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, United States | On Site | Oct 31 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/69050b0963502c0aded77733?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, United States | On Site | Oct 31 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/69050a2863502c0aded776ac?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
