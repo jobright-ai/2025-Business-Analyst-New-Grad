@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arvento A](arventoa.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/690f74c1bb519377733e8ae3?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Nov 08 |
+| **[State Street](http://www.statestreet.com)** | **[Business Analysis, Off](https://jobright.ai/jobs/info/6906d60863502c0aded835fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Nov 08 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst Talent Community](https://jobright.ai/jobs/info/68f2837c76a51a4307bc46be?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Nov 08 |
 | **[Insurity](http://www.insurity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f7541aec6dbe7073fbd38e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 08 |
 | **[Four Corners Property Trust](https://fcpt.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/690e769644146d3b6ec54850?utm_campaign=Business%20Analyst&utm_source=1103)** | Mill Valley, CA | On Site | Nov 07 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/690cf6bb4a1b456627b1be72?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Nov 06 |
 | **[Optum](https://www.optum.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/690cfcb5221b890c27801938?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 06 |
 | ↳ | **[Business Operations Coordinator](https://jobright.ai/jobs/info/690d0549d046ab6061cf196d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 06 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/690f2794221b890c27814522?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Nov 06 |
 | **[Associated Insurance and Risk Management Advisors](https://assocagencies.com/)** | **[Business Analyst – Insurance](https://jobright.ai/jobs/info/690c5997d046ab6061cec893?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | Hybrid | Nov 06 |
 | **[Jack Henry](http://www.jackhenry.com)** | **[EASE - Business Analyst II (Projects)](https://jobright.ai/jobs/info/690c31a6221b890c277fc39c?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Hybrid | Nov 05 |
 | **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690c05b64a1b456627b15489?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
@@ -93,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/68ed48166335d33236127094?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Nov 04 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Nov 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098c32d046ab6061cd682a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909919c4a1b456627b01ce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909afd7bcccf20de59dd264?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 03 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098a2b4a1b456627b01879?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Nov 03 |
@@ -111,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68ec06318369791ef7828983?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 03 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[Business Analyst to the Chief of Staff](https://jobright.ai/jobs/info/6878e8f6a7fc8904e395e449?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 02 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst, Assoc](https://jobright.ai/jobs/info/68cd03784d568306aabd1791?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Nov 02 |
-| **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/68530ef5a44a5acf1cdde0e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
