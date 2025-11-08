@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Four Corners Property Trust](https://fcpt.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/690e769644146d3b6ec54850?utm_campaign=Business%20Analyst&utm_source=1103)** | Mill Valley, CA | On Site | Nov 07 |
+| **[RBC](https://www.rbc.com)** | **[Analyst, Operations II](https://jobright.ai/jobs/info/6903ef84d64a22104aa95047?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Nov 07 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/690e6809d046ab6061cfd28a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 07 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/690e3c09d046ab6061cfb7f1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | On Site | Nov 07 |
 | **[Syndigo](https://www.syndigo.com)** | **[Nutrition Business Analyst](https://jobright.ai/jobs/info/68f163aee6870116b1f580ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Nov 07 |
