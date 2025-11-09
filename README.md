@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/69095f5ed046ab6061cd4b0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 03 |
 | ↳ | **[Business Analyst, Claims](https://jobright.ai/jobs/info/6909470fd046ab6061cd3c88?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/68ec06318369791ef7828983?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 03 |
-| **[Schonfeld](http://www.schonfeld.com/)** | **[Business Analyst to the Chief of Staff](https://jobright.ai/jobs/info/6878e8f6a7fc8904e395e449?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
