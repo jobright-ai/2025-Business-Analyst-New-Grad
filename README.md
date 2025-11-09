@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[VertoTech](vertotech.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691098aebb519377733ecb0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Nov 09 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68f6fed29a63986de75841fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 09 |
 | **[University of Tennessee, Knoxville](http://alumni.utk.edu)** | **[HCM Business Analyst (Level 1-4), Department of Technology Solutions – UT System Administration](https://jobright.ai/jobs/info/690f9033988c2b7b4ec4e822?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Nov 08 |
 | **[State Street](http://www.statestreet.com)** | **[Business Analysis, Off](https://jobright.ai/jobs/info/6906d60863502c0aded835fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Nov 08 |
