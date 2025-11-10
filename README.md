@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Signal Advisors](https://signaladvisors.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/690dfa4b44146d3b6ec50b2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Nov 06 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/690d6099221b890c2780631c?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | Nov 06 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/68e67f4ce8daec61499ab94a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Nov 06 |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6912188ec98948514c47894b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Nov 06 |
 | **[San Francisco Department of Public Health](https://www.sfdph.org/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/690d22b6221b890c27803b92?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Nov 06 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/69120750c98948514c47831f?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Nov 06 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/690d0b93d046ab6061cf1f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | Nov 06 |
@@ -108,5 +109,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909885bd046ab6061cd6614?utm_campaign=Business%20Analyst&utm_source=1103)** | Matthews, NC | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690abec5d046ab6061cdfb3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Elk Grove Village, IL | On Site | Nov 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690988364a1b456627b017ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 03 |
-| **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/69095f5ed046ab6061cd4b0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
