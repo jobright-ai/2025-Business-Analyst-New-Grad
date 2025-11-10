@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f6926d76a51a4307bdbc5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Nov 10 |
 | **[D. E. Shaw Research](http://www.deshawresearch.com/)** | **[Business Operations Associate (Software Licensing)](https://jobright.ai/jobs/info/6911e04b6018ad4956aabcde?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 10 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Nov 10 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68f6fed29a63986de75841fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 09 |
 | **[University of Tennessee, Knoxville](http://alumni.utk.edu)** | **[HCM Business Analyst (Level 1-4), Department of Technology Solutions – UT System Administration](https://jobright.ai/jobs/info/690f9033988c2b7b4ec4e822?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Nov 08 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst Talent Community](https://jobright.ai/jobs/info/68f2837c76a51a4307bc46be?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Nov 08 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/690d6099221b890c2780631c?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | Nov 06 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/68e67f4ce8daec61499ab94a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Nov 06 |
 | **[San Francisco Department of Public Health](https://www.sfdph.org/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/690d22b6221b890c27803b92?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Nov 06 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Healthcare Analytics](https://jobright.ai/jobs/info/69120750c98948514c47831f?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Nov 06 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/690d0b93d046ab6061cf1f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | Nov 06 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/690cf6bb4a1b456627b1be72?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Nov 06 |
 | **[Optum](https://www.optum.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/690cfcb5221b890c27801938?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 06 |
