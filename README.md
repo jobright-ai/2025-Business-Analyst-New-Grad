@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6912b6efc98948514c47d983?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Nov 10 |
+| **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6912b53ed1047e3565cfe423?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Nov 10 |
 | **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6912aab8ea9ab01b82bf4055?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 10 |
 | **[Health Net](https://www.healthnet.com)** | **[Business Analyst I Claims, FWA](https://jobright.ai/jobs/info/69125f89ea9ab01b82bf1f80?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Remote | Nov 10 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/691259ced1047e3565cfb9e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, NY | On Site | Nov 10 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[D. E. Shaw Research](http://www.deshawresearch.com/)** | **[Business Operations Associate (Software Licensing)](https://jobright.ai/jobs/info/6911e04b6018ad4956aabcde?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Nov 10 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/68f6fed29a63986de75841fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 09 |
+| **[State Street](http://www.statestreet.com)** | **[Business Analysis, Off](https://jobright.ai/jobs/info/6912d012d1047e3565cfef3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Nov 08 |
 | **[University of Tennessee, Knoxville](http://alumni.utk.edu)** | **[HCM Business Analyst (Level 1-4), Department of Technology Solutions – UT System Administration](https://jobright.ai/jobs/info/690f9033988c2b7b4ec4e822?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Nov 08 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst Talent Community](https://jobright.ai/jobs/info/68f2837c76a51a4307bc46be?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Nov 08 |
 | **[Insurity](http://www.insurity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f7541aec6dbe7073fbd38e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 08 |
