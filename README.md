@@ -57,10 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/69093768d046ab6061cd2fa0?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Remote | Nov 11 |
+| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/69093738d046ab6061cd2e75?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 11 |
+| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/69093717d046ab6061cd2e0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado, United States | Remote | Nov 11 |
+| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/69093738d046ab6061cd2e74?utm_campaign=Business%20Analyst&utm_source=1103)** | Utah, United States | Remote | Nov 11 |
+| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/690935674a1b456627afde98?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Remote | Nov 11 |
+| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/690935bf4a1b456627afdff6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona, United States | Remote | Nov 11 |
+| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/69093745d046ab6061cd2eb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Montana, United States | Remote | Nov 11 |
+| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/6909372cbcccf20de59d8bf4?utm_campaign=Business%20Analyst&utm_source=1103)** | New Mexico, United States | Remote | Nov 11 |
+| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/690936dfbcccf20de59d8aa2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nevada, United States | Remote | Nov 11 |
+| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/690936debcccf20de59d8aa0?utm_campaign=Business%20Analyst&utm_source=1103)** | Idaho, United States | Remote | Nov 11 |
+| **[Valorantum](valorantum.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6913103fd1047e3565d01339?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Nov 11 |
 | **[Ascend Group](http://www.ascendcorp.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6912fab6d1047e3565d00b54?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 10 |
 | **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6912b6efc98948514c47d983?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Nov 10 |
 | **[Cisco](http://www.cisco.com)** | **[Global Supplier Management Business Analyst](https://jobright.ai/jobs/info/6912dc6bd1047e3565cffb1a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Nov 10 |
-| **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6912b53ed1047e3565cfe423?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Nov 10 |
 | **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6912aab8ea9ab01b82bf4055?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 10 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/691259ced1047e3565cfb9e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, NY | On Site | Nov 10 |
 | **[Acrisure](http://acrisure.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69125924c98948514c47acb5?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Nov 10 |
@@ -68,11 +78,11 @@ For a complete list, click the following sortable link below:
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Regional Analyst](https://jobright.ai/jobs/info/69124314ea9ab01b82bf0d51?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York, United States of America | On Site | Nov 10 |
 | **[Acrisure](http://acrisure.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6912ac3eea9ab01b82bf40c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Grandview Heights, OH | On Site | Nov 10 |
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/691265f4c98948514c47b586?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Nov 10 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69123447d1047e3565cfa42a?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Florida | Remote | Nov 10 |
-| **[Acrisure](http://acrisure.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69122f4dc98948514c479487?utm_campaign=Business%20Analyst&utm_source=1103)** | 955 Yard St, Ste 225 - GRANDVIEW HEIGHTS, OH | Hybrid | Nov 10 |
+| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69122f4dc98948514c479487?utm_campaign=Business%20Analyst&utm_source=1103)** | 955 Yard St, Ste 225 - GRANDVIEW HEIGHTS, OH | Hybrid | Nov 10 |
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69122e0dd1047e3565cfa112?utm_campaign=Business%20Analyst&utm_source=1103)** | BOSTON, MA | Hybrid | Nov 10 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/691249eaea9ab01b82bf10c0?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | On Site | Nov 10 |
 | **[Acrisure](http://acrisure.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69123a38ea9ab01b82bf08d9?utm_campaign=Business%20Analyst&utm_source=1103)** | AUSTIN, TX | Hybrid | Nov 10 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69123a1fd1047e3565cfa736?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Florida | Remote | Nov 10 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f6926d76a51a4307bdbc5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Nov 10 |
 | **[D. E. Shaw Research](http://www.deshawresearch.com/)** | **[Business Operations Associate (Software Licensing)](https://jobright.ai/jobs/info/6911e04b6018ad4956aabcde?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Nov 10 |
@@ -96,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6912188ec98948514c47894b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Nov 06 |
 | **[San Francisco Department of Public Health](https://www.sfdph.org/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/690d22b6221b890c27803b92?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Nov 06 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/690d0b93d046ab6061cf1f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | Nov 06 |
-| **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/69127e24ea9ab01b82bf3226?utm_campaign=Business%20Analyst&utm_source=1103)** | 2801 W Durango St, Phoenix, AZ 85009 | Hybrid | Nov 06 |
-| ↳ | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/69128bcdc98948514c47c7a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ (Hybrid) | Hybrid | Nov 06 |
+| **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/69128bcdc98948514c47c7a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ (Hybrid) | Hybrid | Nov 06 |
+| ↳ | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/69127e24ea9ab01b82bf3226?utm_campaign=Business%20Analyst&utm_source=1103)** | 2801 W Durango St, Phoenix, AZ 85009 | Hybrid | Nov 06 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/690cf6bb4a1b456627b1be72?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Nov 06 |
 | **[Optum](https://www.optum.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/690cfcb5221b890c27801938?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 06 |
 | ↳ | **[Business Operations Coordinator](https://jobright.ai/jobs/info/690d0549d046ab6061cf196d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 06 |
