@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascend Group](http://www.ascendcorp.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6912fab6d1047e3565d00b54?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 10 |
 | **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6912b6efc98948514c47d983?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Nov 10 |
 | **[Cisco](http://www.cisco.com)** | **[Global Supplier Management Business Analyst](https://jobright.ai/jobs/info/6912dc6bd1047e3565cffb1a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Nov 10 |
 | **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6912b53ed1047e3565cfe423?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Nov 10 |
 | **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6912aab8ea9ab01b82bf4055?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 10 |
-| **[Health Net](https://www.healthnet.com)** | **[Business Analyst I Claims, FWA](https://jobright.ai/jobs/info/69125f89ea9ab01b82bf1f80?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Remote | Nov 10 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/691259ced1047e3565cfb9e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, NY | On Site | Nov 10 |
 | **[Acrisure](http://acrisure.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69125924c98948514c47acb5?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Nov 10 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/691254afd1047e3565cfb653?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Nov 10 |
