@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tech World Networking](techworldnetworking.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691466116f36db06ef04713d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Nov 12 |
+| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 12 |
+| **[PGIM](https://www.pgim.com)** | **[Business Systems Analyst - PGIM PGS (Hybrid - Newark, NJ or Tampa, FL)](https://jobright.ai/jobs/info/68f7cb94ec6dbe7073fcbd30?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Nov 12 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/69140838d1047e3565d08355?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 11 |
 | **[Osaic](https://osaic.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137d2e1465e02904e9504e?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakdale, MN | Hybrid | Nov 11 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137b60d1047e3565d03779?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vista | Hybrid | Nov 11 |
