@@ -113,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Associated Insurance and Risk Management Advisors](https://assocagencies.com/)** | **[Business Analyst – Insurance](https://jobright.ai/jobs/info/690c5997d046ab6061cec893?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | Hybrid | Nov 06 |
 | **[Jack Henry](http://www.jackhenry.com)** | **[EASE - Business Analyst II (Projects)](https://jobright.ai/jobs/info/690c31a6221b890c277fc39c?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Hybrid | Nov 05 |
 | **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690c05b64a1b456627b15489?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
-| ↳ | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690bfaf6221b890c277fa42d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
