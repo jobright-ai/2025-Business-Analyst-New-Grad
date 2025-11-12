@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/69140838d1047e3565d08355?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 11 |
 | **[Osaic](https://osaic.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137d2e1465e02904e9504e?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakdale, MN | Hybrid | Nov 11 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137b60d1047e3565d03779?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vista | Hybrid | Nov 11 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137771d1047e3565d03567?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Nov 11 |
