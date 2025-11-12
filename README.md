@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691466116f36db06ef04713d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Nov 12 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/69140838d1047e3565d08355?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 11 |
 | **[Osaic](https://osaic.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137d2e1465e02904e9504e?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakdale, MN | Hybrid | Nov 11 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137b60d1047e3565d03779?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vista | Hybrid | Nov 11 |
@@ -81,8 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/691254afd1047e3565cfb653?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Nov 10 |
 | **[Switchfast Technologies (Acquired by Ascend Technologies)](http://www.switchfast.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6913aff5e344172248f733e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 10 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Regional Analyst](https://jobright.ai/jobs/info/69124314ea9ab01b82bf0d51?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York, United States of America | On Site | Nov 10 |
-| **[Acrisure](http://acrisure.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6912ac3eea9ab01b82bf40c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Grandview Heights, OH | On Site | Nov 10 |
-| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/691265f4c98948514c47b586?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Nov 10 |
+| **[Acrisure](http://acrisure.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/691265f4c98948514c47b586?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Nov 10 |
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69122f4dc98948514c479487?utm_campaign=Business%20Analyst&utm_source=1103)** | 955 Yard St, Ste 225 - GRANDVIEW HEIGHTS, OH | Hybrid | Nov 10 |
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69122e0dd1047e3565cfa112?utm_campaign=Business%20Analyst&utm_source=1103)** | BOSTON, MA | Hybrid | Nov 10 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/691249eaea9ab01b82bf10c0?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | On Site | Nov 10 |
@@ -113,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Jack Henry](http://www.jackhenry.com)** | **[EASE - Business Analyst II (Projects)](https://jobright.ai/jobs/info/690c31a6221b890c277fc39c?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Hybrid | Nov 05 |
 | **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690c05b64a1b456627b15489?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 05 |
 | ↳ | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690bfaf6221b890c277fa42d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Nov 05 |
-| **[EDSI](http://edsisolutions.com)** | **[Performance Analyst](https://jobright.ai/jobs/info/690bbf72d046ab6061ce72f9?utm_campaign=Business%20Analyst&utm_source=1103)** | PA CL Chester County | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
