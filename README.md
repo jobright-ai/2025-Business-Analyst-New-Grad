@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cast & Crew](http://www.castandcrew.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/69151a02286ccf0a1512b407?utm_campaign=Business%20Analyst&utm_source=1103)** | Burbank, CA | Hybrid | Nov 12 |
+| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6915067f286ccf0a1512a6e7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Hybrid | Nov 12 |
 | **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6914f7d09c388539cbdef015?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Nov 12 |
+| **[Alliant Energy](http://alliantenergy.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69151b7e9c388539cbdf0961?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | On Site | Nov 12 |
+| **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/69151c799c388539cbdf0a3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Nov 12 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6914fdae286ccf0a1512a144?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Nov 12 |
 | **[Alliant Energy](http://alliantenergy.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6914f3e3286ccf0a15129877?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | On Site | Nov 12 |
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6914e9cb6f36db06ef049a69?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | Hybrid | Nov 12 |
@@ -82,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/6909374cbcccf20de59d8c29?utm_campaign=Business%20Analyst&utm_source=1103)** | Wyoming, United States | Remote | Nov 11 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/691259ced1047e3565cfb9e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, NY | On Site | Nov 10 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/691254afd1047e3565cfb653?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Nov 10 |
-| **[Switchfast Technologies (Acquired by Ascend Technologies)](http://www.switchfast.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6913aff5e344172248f733e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 10 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Regional Analyst](https://jobright.ai/jobs/info/69124314ea9ab01b82bf0d51?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York, United States of America | On Site | Nov 10 |
 | **[Acrisure](http://acrisure.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/691265f4c98948514c47b586?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Nov 10 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69123447d1047e3565cfa42a?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Florida | Remote | Nov 10 |
@@ -110,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6912188ec98948514c47894b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Nov 06 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/690d0b93d046ab6061cf1f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | Nov 06 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/690cf6bb4a1b456627b1be72?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Nov 06 |
-| **[Associated Insurance and Risk Management Advisors](https://assocagencies.com/)** | **[Business Analyst – Insurance](https://jobright.ai/jobs/info/690c5997d046ab6061cec893?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
