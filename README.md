@@ -74,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/69151c799c388539cbdf0a3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Nov 12 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6914fdae286ccf0a1512a144?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Nov 12 |
 | **[Alliant Energy](http://alliantenergy.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6914f3e3286ccf0a15129877?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | On Site | Nov 12 |
-| **[Fidelity Bank](http://www.LionBank.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6914ed6e286ccf0a151295a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Smithfield, RI | Hybrid | Nov 12 |
-| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/6914e9cb6f36db06ef049a69?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | Hybrid | Nov 12 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6914e9cb6f36db06ef049a69?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | Hybrid | Nov 12 |
+| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/6914ed6e286ccf0a151295a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Smithfield, RI | Hybrid | Nov 12 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 12 |
 | **[PGIM](https://www.pgim.com)** | **[Business Systems Analyst - PGIM PGS (Hybrid - Newark, NJ or Tampa, FL)](https://jobright.ai/jobs/info/68f7cb94ec6dbe7073fcbd30?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Nov 12 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/69140838d1047e3565d08355?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 11 |
@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/68e67f4ce8daec61499ab94a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Nov 06 |
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6912188ec98948514c47894b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Nov 06 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/690d0b93d046ab6061cf1f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | Nov 06 |
-| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/690cf6bb4a1b456627b1be72?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
