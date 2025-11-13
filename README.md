@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cast & Crew](http://www.castandcrew.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/69151a02286ccf0a1512b407?utm_campaign=Business%20Analyst&utm_source=1103)** | Burbank, CA | Hybrid | Nov 12 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69153a4c286ccf0a1512c75d?utm_campaign=Business%20Analyst&utm_source=1103)** | Smithfield, RI | Hybrid | Nov 12 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst Associate / Level 1](https://jobright.ai/jobs/info/69153154286ccf0a1512c17d?utm_campaign=Business%20Analyst&utm_source=1103)** | Possible | Remote | Nov 12 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst (Large Law)](https://jobright.ai/jobs/info/691522106f36db06ef04bfdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Nov 12 |
+| **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69152a9b9c388539cbdf12bf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 12 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6915067f286ccf0a1512a6e7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Hybrid | Nov 12 |
+| **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Nov 12 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691531246f36db06ef04c884?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | Hybrid | Nov 12 |
 | **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6914f7d09c388539cbdef015?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Nov 12 |
 | **[Alliant Energy](http://alliantenergy.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69151b7e9c388539cbdf0961?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | On Site | Nov 12 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/69151c799c388539cbdf0a3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Nov 12 |
@@ -88,11 +93,10 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/691254afd1047e3565cfb653?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Nov 10 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Regional Analyst](https://jobright.ai/jobs/info/69124314ea9ab01b82bf0d51?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, New York, United States of America | On Site | Nov 10 |
 | **[Acrisure](http://acrisure.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/691265f4c98948514c47b586?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Nov 10 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69123447d1047e3565cfa42a?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Florida | Remote | Nov 10 |
-| **[Acrisure](http://acrisure.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69122f4dc98948514c479487?utm_campaign=Business%20Analyst&utm_source=1103)** | 955 Yard St, Ste 225 - GRANDVIEW HEIGHTS, OH | Hybrid | Nov 10 |
+| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69122f4dc98948514c479487?utm_campaign=Business%20Analyst&utm_source=1103)** | 955 Yard St, Ste 225 - GRANDVIEW HEIGHTS, OH | Hybrid | Nov 10 |
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69122e0dd1047e3565cfa112?utm_campaign=Business%20Analyst&utm_source=1103)** | BOSTON, MA | Hybrid | Nov 10 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/691249eaea9ab01b82bf10c0?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | On Site | Nov 10 |
-| **[Acrisure](http://acrisure.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69123a38ea9ab01b82bf08d9?utm_campaign=Business%20Analyst&utm_source=1103)** | AUSTIN, TX | Hybrid | Nov 10 |
+| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69123a38ea9ab01b82bf08d9?utm_campaign=Business%20Analyst&utm_source=1103)** | AUSTIN, TX | Hybrid | Nov 10 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69123a1fd1047e3565cfa736?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Florida | Remote | Nov 10 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f6926d76a51a4307bdbc5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Nov 10 |
 | **[D. E. Shaw Research](http://www.deshawresearch.com/)** | **[Business Operations Associate (Software Licensing)](https://jobright.ai/jobs/info/6911e04b6018ad4956aabcde?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Nov 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Nov 10 |
