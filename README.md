@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Associate Business Analysts](https://jobright.ai/jobs/info/6915fd966f36db06ef0522a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | On Site | Nov 13 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[New Business Analyst](https://jobright.ai/jobs/info/68dda3eeddc10244dd6825d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethlehem, PA | On Site | Nov 13 |
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Business Analyst (Government Markets)](https://jobright.ai/jobs/info/691546269c388539cbdf20ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Miamisburg, OH | On Site | Nov 12 |
 | ↳ | **[Business Analyst (Large Law)](https://jobright.ai/jobs/info/69154375286ccf0a1512cb80?utm_campaign=Business%20Analyst&utm_source=1103)** | Miamisburg, OH | On Site | Nov 12 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69153c799c388539cbdf1b68?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 12 |
@@ -121,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Signal Advisors](https://signaladvisors.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/690dfa4b44146d3b6ec50b2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Nov 06 |
 | **[California Department of Health Care Services](https://www.dhcs.ca.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/690d6099221b890c2780631c?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo, CA | Hybrid | Nov 06 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/68e67f4ce8daec61499ab94a?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Nov 06 |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6912188ec98948514c47894b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
