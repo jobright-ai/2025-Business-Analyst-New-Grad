@@ -70,16 +70,15 @@ For a complete list, click the following sortable link below:
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Business Systems Analyst I - Workday](https://jobright.ai/jobs/info/691632659c388539cbdf8936?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Nov 13 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69162bec6f36db06ef053722?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | On Site | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69168164286ccf0a15136c0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Hybrid | Nov 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691642966f36db06ef054548?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | Hybrid | Nov 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69166e059c388539cbdfb202?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916448e6f36db06ef0546c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69164ca6286ccf0a1513436c?utm_campaign=Business%20Analyst&utm_source=1103)** | New Jersey, United States | Hybrid | Nov 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69166e059c388539cbdfb202?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado, United States | Hybrid | Nov 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691642966f36db06ef054548?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691668789c388539cbdfaede?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916632a9c388539cbdfa993?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Nov 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916431d6f36db06ef0545a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69164bbe6f36db06ef054ba3?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Hybrid | Nov 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916431d6f36db06ef0545a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691640f86f36db06ef054411?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Hybrid | Nov 13 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69163b8c286ccf0a1513399b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Nov 13 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97ceb6de2db04dc3e9771?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Nov 13 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Associate Business Analysts](https://jobright.ai/jobs/info/6915fd966f36db06ef0522a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | On Site | Nov 13 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97b696de2db04dc3e96b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD | Hybrid | Nov 13 |
@@ -127,6 +126,5 @@ For a complete list, click the following sortable link below:
 | **[Insurity](http://www.insurity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f7541aec6dbe7073fbd38e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 08 |
 | **[University of Tennessee System](http://www.tennessee.edu)** | **[HCM Business Analyst (Level 1-4), Department of Technology Solutions – UT System Administration](https://jobright.ai/jobs/info/690fb7bebb519377733e9b46?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | Hybrid | Nov 07 |
 | **[RBC](https://www.rbc.com)** | **[Analyst, Operations II](https://jobright.ai/jobs/info/6903ef84d64a22104aa95047?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Nov 07 |
-| **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/690e6809d046ab6061cfd28a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 07 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/690e3c09d046ab6061cfb7f1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
