@@ -82,14 +82,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69163a58286ccf0a151338d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ohio, United States | Hybrid | Nov 13 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Business Systems Analyst I - Workday](https://jobright.ai/jobs/info/691632659c388539cbdf8936?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Nov 13 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69162bec6f36db06ef053722?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | On Site | Nov 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916448e6f36db06ef0546c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | Hybrid | Nov 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69164ca6286ccf0a1513436c?utm_campaign=Business%20Analyst&utm_source=1103)** | New Jersey, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691642966f36db06ef054548?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69168164286ccf0a15136c0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Hybrid | Nov 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69164ca6286ccf0a1513436c?utm_campaign=Business%20Analyst&utm_source=1103)** | New Jersey, United States | Hybrid | Nov 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916448e6f36db06ef0546c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69166e059c388539cbdfb202?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado, United States | Hybrid | Nov 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69171dcd370fde633d07d824?utm_campaign=Business%20Analyst&utm_source=1103)** | South Carolina, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691668789c388539cbdfaede?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916632a9c388539cbdfa993?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Nov 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69171dcd370fde633d07d824?utm_campaign=Business%20Analyst&utm_source=1103)** | South Carolina, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916431d6f36db06ef0545a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691640f86f36db06ef054411?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69164bbe6f36db06ef054ba3?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Hybrid | Nov 13 |
@@ -103,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst Associate / Level 1](https://jobright.ai/jobs/info/69153154286ccf0a1512c17d?utm_campaign=Business%20Analyst&utm_source=1103)** | Possible | Remote | Nov 12 |
 | **[Cincinnati Children's Office of Academic Affairs and Career Development](https://www.cincinnatichildrens.org/research/support/academic-affairs-career-development/career-development)** | **[Business Systems Analyst I - Workday](https://jobright.ai/jobs/info/69167d799c388539cbdfbd9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Nov 12 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst (Large Law)](https://jobright.ai/jobs/info/691522106f36db06ef04bfdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Nov 12 |
+| **[Switchfast Technologies (Acquired by Ascend Technologies)](http://www.switchfast.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6919109b15b41563671843a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 12 |
 | **[Ascend Group](http://www.ascendcorp.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/691545bd6f36db06ef04d361?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 12 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst (Government Markets)](https://jobright.ai/jobs/info/69153eea9c388539cbdf1c88?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Nov 12 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69152a9b9c388539cbdf12bf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 12 |
