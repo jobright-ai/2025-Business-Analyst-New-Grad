@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/68d4b913fcd3367e8df173f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Remote | Nov 17 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/691b1d7622a2cb4b9bd103a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Nov 17 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1, SG-18, Business Systems Analyst Tr 2, (SG-16), Business Systems Analyst Tr 1,( SG-14)(NYHELPS) Item# 08221(Multiple)](https://jobright.ai/jobs/info/6905f5b3122e8474c78dd5ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Nov 15 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68cd3be71ad6b16f02896d8c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Nov 15 |
@@ -87,12 +88,12 @@ For a complete list, click the following sortable link below:
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69162bec6f36db06ef053722?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | On Site | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69164ca6286ccf0a1513436c?utm_campaign=Business%20Analyst&utm_source=1103)** | New Jersey, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69166e059c388539cbdfb202?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado, United States | Hybrid | Nov 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691642966f36db06ef054548?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | Hybrid | Nov 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69168164286ccf0a15136c0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916448e6f36db06ef0546c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | Hybrid | Nov 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691668789c388539cbdfaede?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | Hybrid | Nov 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69168164286ccf0a15136c0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Hybrid | Nov 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691642966f36db06ef054548?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69171dcd370fde633d07d824?utm_campaign=Business%20Analyst&utm_source=1103)** | South Carolina, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916632a9c388539cbdfa993?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Nov 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691668789c388539cbdfaede?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/691640f86f36db06ef054411?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916431d6f36db06ef0545a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Michigan, United States | Hybrid | Nov 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69164bbe6f36db06ef054ba3?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Hybrid | Nov 13 |
@@ -115,20 +116,14 @@ For a complete list, click the following sortable link below:
 | **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6914f7d09c388539cbdef015?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Nov 12 |
 | **[Alliant Energy](http://alliantenergy.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69151b7e9c388539cbdf0961?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | On Site | Nov 12 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/69151c799c388539cbdf0a3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Nov 12 |
-| **[Steampunk, Inc.](https://steampunk.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6914fdae286ccf0a1512a144?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Nov 12 |
 | **[Alliant Energy](http://alliantenergy.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6914f3e3286ccf0a15129877?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | On Site | Nov 12 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 12 |
 | **[Osaic](https://osaic.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137d2e1465e02904e9504e?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakdale, MN | Hybrid | Nov 11 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137b60d1047e3565d03779?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vista | Hybrid | Nov 11 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137771d1047e3565d03567?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Nov 11 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/69093768d046ab6061cd2fa0?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon, United States | Remote | Nov 11 |
-| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/69093738d046ab6061cd2e75?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 11 |
-| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/69093717d046ab6061cd2e0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado, United States | Remote | Nov 11 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/69093717d046ab6061cd2e0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado, United States | Remote | Nov 11 |
 | ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/69093738d046ab6061cd2e74?utm_campaign=Business%20Analyst&utm_source=1103)** | Utah, United States | Remote | Nov 11 |
-| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/690935674a1b456627afde98?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Remote | Nov 11 |
-| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/690935bf4a1b456627afdff6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona, United States | Remote | Nov 11 |
 | ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/69093745d046ab6061cd2eb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Montana, United States | Remote | Nov 11 |
-| ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/6909372cbcccf20de59d8bf4?utm_campaign=Business%20Analyst&utm_source=1103)** | New Mexico, United States | Remote | Nov 11 |
 | ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/690936dfbcccf20de59d8aa2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nevada, United States | Remote | Nov 11 |
 | ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/690936debcccf20de59d8aa0?utm_campaign=Business%20Analyst&utm_source=1103)** | Idaho, United States | Remote | Nov 11 |
 | ↳ | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/6909374cbcccf20de59d8c29?utm_campaign=Business%20Analyst&utm_source=1103)** | Wyoming, United States | Remote | Nov 11 |
