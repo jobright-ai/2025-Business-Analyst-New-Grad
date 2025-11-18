@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 17 |
+| **[Fullridge Advisors](https://fullridgeadvisors.com/)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/691becafbcdbf3560c9e401b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 17 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Operational Forecasting Analyst](https://jobright.ai/jobs/info/691bd820bcdbf3560c9e32f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Kitchener, Ontario, Canada | Hybrid | Nov 17 |
 | **[One80 Intermediaries](https://www.one80intermediaries.com/)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/691bd1b322a2cb4b9bd166f9?utm_campaign=Business%20Analyst&utm_source=1103)** | IL | On Site | Nov 17 |
 | **[San Francisco Department of Public Health](https://www.sfdph.org/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/691bb04e22a2cb4b9bd14fce?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Nov 17 |
 | **[Crane Company](http://www.craneco.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691b823415b415636718f9da?utm_campaign=Business%20Analyst&utm_source=1103)** | Jurupa Valley, California | On Site | Nov 17 |
@@ -86,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Business Systems Analyst I - Workday](https://jobright.ai/jobs/info/6916440d286ccf0a15133e75?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 13 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68f71d729a63986de7585042?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 13 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Business Systems Analyst I - Workday](https://jobright.ai/jobs/info/691632659c388539cbdf8936?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Nov 13 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691642966f36db06ef054548?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | Hybrid | Nov 13 |
 | **[Harvard Developments](http://harvard.ca/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6918658d45fb6f5ead8a5215?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | On Site | Nov 13 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97ceb6de2db04dc3e9771?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Nov 13 |
 | ↳ | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97b696de2db04dc3e96b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD | Hybrid | Nov 13 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Business Analyst (Government Markets)](https://jobright.ai/jobs/info/691546269c388539cbdf20ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Miamisburg, OH | On Site | Nov 12 |
 | ↳ | **[Business Analyst (Large Law)](https://jobright.ai/jobs/info/69154375286ccf0a1512cb80?utm_campaign=Business%20Analyst&utm_source=1103)** | Miamisburg, OH | On Site | Nov 12 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69153c799c388539cbdf1b68?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 12 |
-| **[Steampunk, Inc.](https://steampunk.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691b9b60bcdbf3560c9e0ae5?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Nov 12 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst Associate / Level 1](https://jobright.ai/jobs/info/69153154286ccf0a1512c17d?utm_campaign=Business%20Analyst&utm_source=1103)** | Possible | Remote | Nov 12 |
 | **[Cincinnati Children's Office of Academic Affairs and Career Development](https://www.cincinnatichildrens.org/research/support/academic-affairs-career-development/career-development)** | **[Business Systems Analyst I - Workday](https://jobright.ai/jobs/info/69167d799c388539cbdfbd9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Nov 12 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst (Large Law)](https://jobright.ai/jobs/info/691522106f36db06ef04bfdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Nov 12 |
