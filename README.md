@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[One80 Intermediaries](https://www.one80intermediaries.com/)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/691bd1b322a2cb4b9bd166f9?utm_campaign=Business%20Analyst&utm_source=1103)** | IL | On Site | Nov 17 |
 | **[San Francisco Department of Public Health](https://www.sfdph.org/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/691bb04e22a2cb4b9bd14fce?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Nov 17 |
 | **[Crane Company](http://www.craneco.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691b823415b415636718f9da?utm_campaign=Business%20Analyst&utm_source=1103)** | Jurupa Valley, California | On Site | Nov 17 |
 | **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/691ba4cbbcdbf3560c9e10b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Illinois | Remote | Nov 17 |
+| **[Crane Company](http://www.craneco.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691bb6a9bcdbf3560c9e1d3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jurupa Valley, CA | On Site | Nov 17 |
+| **[City and County of San Francisco](https://sf.gov/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/691bb91915b41563671921c9?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Nov 17 |
+| **[CTG](http://www.ctg.com)** | **[Business Analyst - ADM](https://jobright.ai/jobs/info/691bbdd515b4156367192399?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 17 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[1052-IS Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/691b9a6515b4156367190c02?utm_campaign=Business%20Analyst&utm_source=1103)** | 101 Grove St, San Francisco, CA 94102, USA | On Site | Nov 17 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/68d4b913fcd3367e8df173f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Remote | Nov 17 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1, SG-18, Business Systems Analyst Tr 2, (SG-16), Business Systems Analyst Tr 1,( SG-14)(NYHELPS) Item# 08221(Multiple)](https://jobright.ai/jobs/info/6905f5b3122e8474c78dd5ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Nov 15 |
@@ -83,8 +87,6 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/68f71d729a63986de7585042?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 13 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Business Systems Analyst I - Workday](https://jobright.ai/jobs/info/691632659c388539cbdf8936?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Nov 13 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691642966f36db06ef054548?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | Hybrid | Nov 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916448e6f36db06ef0546c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | Hybrid | Nov 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6916632a9c388539cbdfa993?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Hybrid | Nov 13 |
 | **[Harvard Developments](http://harvard.ca/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6918658d45fb6f5ead8a5215?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | On Site | Nov 13 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97ceb6de2db04dc3e9771?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Nov 13 |
 | ↳ | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97b696de2db04dc3e96b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD | Hybrid | Nov 13 |
@@ -110,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Osaic](https://osaic.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137d2e1465e02904e9504e?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakdale, MN | Hybrid | Nov 11 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137b60d1047e3565d03779?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vista | Hybrid | Nov 11 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69137771d1047e3565d03567?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Hybrid | Nov 11 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Business Resilience Analyst (Remote - MT or PT)](https://jobright.ai/jobs/info/6909374cbcccf20de59d8c29?utm_campaign=Business%20Analyst&utm_source=1103)** | Wyoming, United States | Remote | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
