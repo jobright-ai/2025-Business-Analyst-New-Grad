@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ebenezer](https://www.ebenezercares.org/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/691e17a609cc522e87736242?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota | On Site | Nov 19 |
 | **[Panduit](http://www.panduit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/691e03b53f782d2f1afafc44?utm_campaign=Business%20Analyst&utm_source=1103)** | USA IL Tinley Park WHQ | Hybrid | Nov 19 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69153c799c388539cbdf1b68?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 19 |
 | **[Scottish Water](https://www.scottishwater.co.uk/)** | **[Business Analyst](https://jobright.ai/jobs/info/691dc226748c4e1301ec856a?utm_campaign=Business%20Analyst&utm_source=1103)** | Forth House | On Site | Nov 19 |
