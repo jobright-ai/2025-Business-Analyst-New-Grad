@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d3401bcdbf3560c9ee1b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Nov 18 |
+| **[The AES Corporation](http://www.aes.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/691d2a1e7481340785ed4633?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Nov 18 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/691d1165bcdbf3560c9ecec0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 18 |
 | **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 17 |
 | **[Fullridge Advisors](https://fullridgeadvisors.com/)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/691becafbcdbf3560c9e401b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 17 |
@@ -106,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Alliant Energy](http://alliantenergy.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69151b7e9c388539cbdf0961?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | On Site | Nov 12 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/69151c799c388539cbdf0a3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Nov 12 |
 | **[Alliant Energy](http://alliantenergy.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6914f3e3286ccf0a15129877?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | On Site | Nov 12 |
-| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
