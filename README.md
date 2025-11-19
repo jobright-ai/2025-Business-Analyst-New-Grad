@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ServiceNow](http://www.servicenow.com)** | **[Business Operations Analyst - New Grad](https://jobright.ai/jobs/info/691d55370b7dff7341502a6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | Hybrid | Nov 18 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 18 |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691d430b7481340785ed5a83?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas Metropolitan Area | Hybrid | Nov 18 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d3401bcdbf3560c9ee1b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Nov 18 |
 | **[The AES Corporation](http://www.aes.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/691d2a1e7481340785ed4633?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Nov 18 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4c9c0b7dff73415022cc?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 18 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/691d1165bcdbf3560c9ecec0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 18 |
 | **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 17 |
 | **[Fullridge Advisors](https://fullridgeadvisors.com/)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/691becafbcdbf3560c9e401b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 17 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Ensono](https://www.ensono.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68fbd7844129dd33cd13559e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 15 |
 | **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[Business Analyst - Junior (Junior analyst corporate access)](https://jobright.ai/jobs/info/6918701415b415636718249b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Nov 15 |
 | **[The MIL Corporation](https://www.milcorp.com/)** | **[Business Analysis, Junior Analyst](https://jobright.ai/jobs/info/691ad55145fb6f5ead8adfcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Nov 14 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6917ef8e45fb6f5ead8a0045?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 14 |
 | **[New Mexico Courts](https://www.nmcourts.gov/careers/)** | **[AOC IT Business Analyst #10111073-21800 & #00044815-21800, Full-Time, Perm, Statewide, NM](https://jobright.ai/jobs/info/6917d644bcdbf3560c9cbe0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New Mexico, United States | Hybrid | Nov 14 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - User Acceptance Testing](https://jobright.ai/jobs/info/6917c29045fb6f5ead89e5cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 14 |
