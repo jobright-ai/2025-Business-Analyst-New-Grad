@@ -103,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis](http://www.lexisnexis.com)** | **[Business Analyst (Government Markets)](https://jobright.ai/jobs/info/691546269c388539cbdf20ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Miamisburg, OH | On Site | Nov 12 |
 | ↳ | **[Business Analyst (Large Law)](https://jobright.ai/jobs/info/69154375286ccf0a1512cb80?utm_campaign=Business%20Analyst&utm_source=1103)** | Miamisburg, OH | On Site | Nov 12 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69153c799c388539cbdf1b68?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 12 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst Associate / Level 1](https://jobright.ai/jobs/info/69153154286ccf0a1512c17d?utm_campaign=Business%20Analyst&utm_source=1103)** | Possible | Remote | Nov 12 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst (Large Law)](https://jobright.ai/jobs/info/691522106f36db06ef04bfdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
