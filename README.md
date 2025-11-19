@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d7ec7bcdbf3560c9f17b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Nov 19 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Business Operations Analyst - New Grad](https://jobright.ai/jobs/info/691d55370b7dff7341502a6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | Hybrid | Nov 18 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 18 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d3401bcdbf3560c9ee1b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Nov 18 |
 | **[The AES Corporation](http://www.aes.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/691d2a1e7481340785ed4633?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Nov 18 |
-| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4c9c0b7dff73415022cc?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 18 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/691d1165bcdbf3560c9ecec0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 18 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Nov 18 |
 | **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 17 |
@@ -103,11 +104,9 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst (Large Law)](https://jobright.ai/jobs/info/691522106f36db06ef04bfdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Nov 12 |
 | **[Ascend Group](http://www.ascendcorp.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/691545bd6f36db06ef04d361?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 12 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst (Government Markets)](https://jobright.ai/jobs/info/69153eea9c388539cbdf1c88?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Nov 12 |
-| **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69152a9b9c388539cbdf12bf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 12 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6915067f286ccf0a1512a6e7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Hybrid | Nov 12 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Nov 12 |
 | **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6914f7d09c388539cbdef015?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Nov 12 |
 | **[Alliant Energy](http://alliantenergy.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69151b7e9c388539cbdf0961?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | On Site | Nov 12 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/69151c799c388539cbdf0a3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Nov 12 |
-| **[Alliant Energy](http://alliantenergy.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6914f3e3286ccf0a15129877?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
