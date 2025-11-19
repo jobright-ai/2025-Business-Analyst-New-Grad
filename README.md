@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Lane](horizonlane.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691d03f5ff7024498416cf30?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Nov 18 |
 | **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 17 |
 | **[Fullridge Advisors](https://fullridgeadvisors.com/)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/691becafbcdbf3560c9e401b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 17 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Operational Forecasting Analyst](https://jobright.ai/jobs/info/691bf10815b415636719465d?utm_campaign=Business%20Analyst&utm_source=1103)** | North York, Ontario, Canada | Hybrid | Nov 17 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[Business Analyst - Junior (Junior analyst corporate access)](https://jobright.ai/jobs/info/6918701415b415636718249b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Nov 15 |
 | **[The MIL Corporation](https://www.milcorp.com/)** | **[Business Analysis, Junior Analyst](https://jobright.ai/jobs/info/691ad55145fb6f5ead8adfcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Nov 14 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6917ef8e45fb6f5ead8a0045?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 14 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Technical Business Analyst - Wealth Management](https://jobright.ai/jobs/info/6917e47045fb6f5ead89f949?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Nov 14 |
 | **[New Mexico Courts](https://www.nmcourts.gov/careers/)** | **[AOC IT Business Analyst #10111073-21800 & #00044815-21800, Full-Time, Perm, Statewide, NM](https://jobright.ai/jobs/info/6917d644bcdbf3560c9cbe0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New Mexico, United States | Hybrid | Nov 14 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - User Acceptance Testing](https://jobright.ai/jobs/info/6917c29045fb6f5ead89e5cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 14 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 14 |
