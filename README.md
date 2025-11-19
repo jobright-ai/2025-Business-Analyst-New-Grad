@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Panduit](http://www.panduit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/691e03b53f782d2f1afafc44?utm_campaign=Business%20Analyst&utm_source=1103)** | USA IL Tinley Park WHQ | Hybrid | Nov 19 |
+| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69153c799c388539cbdf1b68?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 19 |
 | **[Scottish Water](https://www.scottishwater.co.uk/)** | **[Business Analyst](https://jobright.ai/jobs/info/691dc226748c4e1301ec856a?utm_campaign=Business%20Analyst&utm_source=1103)** | Forth House | On Site | Nov 19 |
 | **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/691503ad286ccf0a1512a459?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Nov 19 |
 | **[Academia.edu](https://www.academia.edu/)** | **[Manager, Business Analytics](https://jobright.ai/jobs/info/691563dd6f36db06ef04e543?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 19 |
@@ -100,7 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97ceb6de2db04dc3e9771?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Nov 13 |
 | ↳ | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97b696de2db04dc3e96b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD | Hybrid | Nov 13 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[New Business Analyst](https://jobright.ai/jobs/info/68dda3eeddc10244dd6825d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethlehem, PA | On Site | Nov 13 |
-| **[LexisNexis](http://www.lexisnexis.com)** | **[Business Analyst (Government Markets)](https://jobright.ai/jobs/info/691546269c388539cbdf20ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Miamisburg, OH | On Site | Nov 12 |
-| ↳ | **[Business Analyst (Large Law)](https://jobright.ai/jobs/info/69154375286ccf0a1512cb80?utm_campaign=Business%20Analyst&utm_source=1103)** | Miamisburg, OH | On Site | Nov 12 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69153c799c388539cbdf1b68?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
