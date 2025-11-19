@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Panduit](http://www.panduit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/691e2eb109cc522e877370ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Tinley Park, IL | Hybrid | Nov 19 |
+| **[Wallaby Search & Placement](http://www.wallabysearch.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/691e27ff09cc522e87736e11?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Nov 19 |
 | **[Ebenezer](https://www.ebenezercares.org/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/691e17a609cc522e87736242?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota | On Site | Nov 19 |
+| **[Environmental Allies, Inc.](http://www.environmentalallies.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/691e348a09cc522e8773778f?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Nov 19 |
 | **[Panduit](http://www.panduit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/691e03b53f782d2f1afafc44?utm_campaign=Business%20Analyst&utm_source=1103)** | USA IL Tinley Park WHQ | Hybrid | Nov 19 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69153c799c388539cbdf1b68?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 19 |
 | **[Scottish Water](https://www.scottishwater.co.uk/)** | **[Business Analyst](https://jobright.ai/jobs/info/691dc226748c4e1301ec856a?utm_campaign=Business%20Analyst&utm_source=1103)** | Forth House | On Site | Nov 19 |
