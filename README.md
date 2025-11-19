@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Horizon Lane](horizonlane.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691d03f5ff7024498416cf30?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Nov 18 |
+| **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/691d1165bcdbf3560c9ecec0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 18 |
 | **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 17 |
 | **[Fullridge Advisors](https://fullridgeadvisors.com/)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/691becafbcdbf3560c9e401b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 17 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Operational Forecasting Analyst](https://jobright.ai/jobs/info/691bf10815b415636719465d?utm_campaign=Business%20Analyst&utm_source=1103)** | North York, Ontario, Canada | Hybrid | Nov 17 |
@@ -96,7 +96,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Large Law)](https://jobright.ai/jobs/info/69154375286ccf0a1512cb80?utm_campaign=Business%20Analyst&utm_source=1103)** | Miamisburg, OH | On Site | Nov 12 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69153c799c388539cbdf1b68?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 12 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst Associate / Level 1](https://jobright.ai/jobs/info/69153154286ccf0a1512c17d?utm_campaign=Business%20Analyst&utm_source=1103)** | Possible | Remote | Nov 12 |
-| **[Cincinnati Children's Office of Academic Affairs and Career Development](https://www.cincinnatichildrens.org/research/support/academic-affairs-career-development/career-development)** | **[Business Systems Analyst I - Workday](https://jobright.ai/jobs/info/69167d799c388539cbdfbd9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Nov 12 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst (Large Law)](https://jobright.ai/jobs/info/691522106f36db06ef04bfdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Nov 12 |
 | **[Ascend Group](http://www.ascendcorp.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/691545bd6f36db06ef04d361?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 12 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst (Government Markets)](https://jobright.ai/jobs/info/69153eea9c388539cbdf1c88?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Nov 12 |
