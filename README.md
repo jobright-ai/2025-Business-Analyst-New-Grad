@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69040393d64a22104aa95ef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Nov 21 |
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad, Austin](https://jobright.ai/jobs/info/69208773a49a885af9a3c4cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Nov 21 |
 | **[LPL Financial](https://www.lpl.com)** | **[Associate Business Analyst - Forms (Non-IT)](https://jobright.ai/jobs/info/68e85b4b09580a2fe57f6b1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Nov 21 |
-| **[Arvento A](arventoa.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/6920a5b03f782d2f1afc9bd1?utm_campaign=Business%20Analyst&utm_source=1103)** | Texarkana, TX | Remote | Nov 21 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/691d453ebcdbf3560c9ef358?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Nov 21 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691fb7143f782d2f1afbf8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/691fb25e3f782d2f1afbf5ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
