@@ -58,10 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/691d453ebcdbf3560c9ef358?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Nov 21 |
-| **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[IT Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/691fcaf93f782d2f1afc03cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Nov 20 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691fb7143f782d2f1afbf8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/691f9e7c3f782d2f1afbea2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Nov 20 |
-| **[Optum](https://www.optum.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691fb25e3f782d2f1afbf5ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
+| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/691fb25e3f782d2f1afbf5ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f9174a49a885af9a31e7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | On Site | Nov 20 |
 | **[DAWSON](http://www.dawsonohana.com)** | **[Junior Analyst](https://jobright.ai/jobs/info/691f905109cc522e87743014?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Nov 20 |
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/691f5fdc09cc522e8774043b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Nov 20 |
