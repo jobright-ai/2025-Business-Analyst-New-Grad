@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/691d453ebcdbf3560c9ef358?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Nov 21 |
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[IT Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/691fcaf93f782d2f1afc03cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Nov 20 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691fb7143f782d2f1afbf8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/691f9e7c3f782d2f1afbea2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Nov 20 |
@@ -69,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/691f63c13f782d2f1afbb4c0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 20 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Business Analyst](https://jobright.ai/jobs/info/691f333d3f782d2f1afb919b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | On Site | Nov 20 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691f47f9a49a885af9a2db4b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 20 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/691f2be5a49a885af9a2cbae?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Nov 20 |
 | **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 19 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/691ec2e3a49a885af9a2aab2?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Nov 19 |
 | **[Panduit](http://www.panduit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/691e2eb109cc522e877370ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Tinley Park, IL | Hybrid | Nov 19 |
 | **[Wallaby Search & Placement](http://www.wallabysearch.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/691e27ff09cc522e87736e11?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Nov 19 |
 | **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690c05b64a1b456627b15489?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 19 |
@@ -99,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Ensono](https://www.ensono.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68fbd7844129dd33cd13559e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 15 |
 | **[The MIL Corporation](https://www.milcorp.com/)** | **[Business Analysis, Junior Analyst](https://jobright.ai/jobs/info/691ad55145fb6f5ead8adfcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Nov 14 |
 | **[New Mexico Courts](https://www.nmcourts.gov/careers/)** | **[AOC IT Business Analyst #10111073-21800 & #00044815-21800, Full-Time, Perm, Statewide, NM](https://jobright.ai/jobs/info/6917d644bcdbf3560c9cbe0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New Mexico, United States | Hybrid | Nov 14 |
-| **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - User Acceptance Testing](https://jobright.ai/jobs/info/6917c29045fb6f5ead89e5cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
