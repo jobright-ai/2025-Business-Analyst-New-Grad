@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad, Austin](https://jobright.ai/jobs/info/69208773a49a885af9a3c4cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Nov 21 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/691d453ebcdbf3560c9ef358?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Nov 21 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/692073163f782d2f1afc7334?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Nov 20 |
 | **[Optum](https://www.optum.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691fb7143f782d2f1afbf8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/691fb25e3f782d2f1afbf5ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f9174a49a885af9a31e7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | On Site | Nov 20 |
@@ -66,10 +68,9 @@ For a complete list, click the following sortable link below:
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/691f5b6009cc522e87740059?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Nov 20 |
 | **[Fabric](https://www.fabrichealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/691f444f09cc522e8773ecdb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 20 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/691f63c13f782d2f1afbb4c0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 20 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Business Analyst](https://jobright.ai/jobs/info/691f333d3f782d2f1afb919b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | On Site | Nov 20 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691f47f9a49a885af9a2db4b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 20 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/691f2be5a49a885af9a2cbae?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Nov 20 |
 | **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 19 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/691ec2e3a49a885af9a2aab2?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Nov 19 |
 | **[Panduit](http://www.panduit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/691e2eb109cc522e877370ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Tinley Park, IL | Hybrid | Nov 19 |
 | **[Wallaby Search & Placement](http://www.wallabysearch.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/691e27ff09cc522e87736e11?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Nov 19 |
 | **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690c05b64a1b456627b15489?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 19 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Academia.edu](https://www.academia.edu/)** | **[Manager, Business Analytics](https://jobright.ai/jobs/info/691563dd6f36db06ef04e543?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 19 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d7ec7bcdbf3560c9f17b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Nov 19 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Business Operations Analyst - New Grad](https://jobright.ai/jobs/info/691d55370b7dff7341502a6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | Hybrid | Nov 18 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 18 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d3401bcdbf3560c9ee1b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Nov 18 |
-| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4c9c0b7dff73415022cc?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 18 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/691d1165bcdbf3560c9ecec0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 18 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Nov 18 |
 | **[Fullridge Advisors](https://fullridgeadvisors.com/)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/691becafbcdbf3560c9e401b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 17 |
@@ -97,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[CME Group](http://www.cmegroup.com)** | **[Energy Business Analyst](https://jobright.ai/jobs/info/68e0fc1c1852e62f007f0ed4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 15 |
 | **[Ensono](https://www.ensono.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68fbd7844129dd33cd13559e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 15 |
 | **[The MIL Corporation](https://www.milcorp.com/)** | **[Business Analysis, Junior Analyst](https://jobright.ai/jobs/info/691ad55145fb6f5ead8adfcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Nov 14 |
-| **[New Mexico Courts](https://www.nmcourts.gov/careers/)** | **[AOC IT Business Analyst #10111073-21800 & #00044815-21800, Full-Time, Perm, Statewide, NM](https://jobright.ai/jobs/info/6917d644bcdbf3560c9cbe0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New Mexico, United States | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
