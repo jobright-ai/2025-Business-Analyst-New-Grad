@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optum](https://www.optum.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/691fb7143f782d2f1afbf8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
+| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/691fb25e3f782d2f1afbf5ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Nov 20 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/691f9e7c3f782d2f1afbea2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Nov 20 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f9174a49a885af9a31e7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | On Site | Nov 20 |
 | **[DAWSON](http://www.dawsonohana.com)** | **[Junior Analyst](https://jobright.ai/jobs/info/691f905109cc522e87743014?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Nov 20 |
@@ -78,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Academia.edu](https://www.academia.edu/)** | **[Manager, Business Analytics](https://jobright.ai/jobs/info/691563dd6f36db06ef04e543?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 19 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d7ec7bcdbf3560c9f17b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Nov 19 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Business Operations Analyst - New Grad](https://jobright.ai/jobs/info/691d55370b7dff7341502a6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | Hybrid | Nov 18 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 18 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d3401bcdbf3560c9ee1b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Nov 18 |
-| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4c9c0b7dff73415022cc?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 18 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/691d1165bcdbf3560c9ecec0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 18 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Nov 18 |
 | **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 17 |
