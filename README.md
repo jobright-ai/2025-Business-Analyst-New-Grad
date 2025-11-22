@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Washington Trust Bank](http://www.watrust.com)** | **[Associate Solutions Analyst](https://jobright.ai/jobs/info/69210de73f782d2f1afcea21?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | Hybrid | Nov 21 |
+| **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/6921288c00c9ee50eaecc556?utm_campaign=Business%20Analyst&utm_source=1103)** | Holyoke, MA | Hybrid | Nov 21 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Business Systems Analyst I (EDI/Insurance Application)](https://jobright.ai/jobs/info/6921287e00c9ee50eaecc548?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Nov 21 |
+| ↳ | **[Business Systems Analyst I (EDI/Insurance Application)](https://jobright.ai/jobs/info/692126ec3f782d2f1afcfc6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Remote | Nov 21 |
+| **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/69211d0b00c9ee50eaecbc53?utm_campaign=Business%20Analyst&utm_source=1103)** | ISO New England Inc., One Sullivan Road, Holyoke, Massachusetts, United States of America | Hybrid | Nov 21 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6920f7dea49a885af9a4179b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Accenture Tower, Corp | On Site | Nov 21 |
+| **[Washington Trust Bank](http://www.watrust.com)** | **[Associate Solutions Analyst](https://jobright.ai/jobs/info/69210de73f782d2f1afcea21?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | Hybrid | Nov 21 |
 | **[State of Ohio](http://ohio.gov/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6920f91c3f782d2f1afcdb04?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 21 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6920e5ada49a885af9a40690?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Nov 21 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/6920fc403f782d2f1afcdf83?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Nov 21 |
@@ -75,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Fabric](https://www.fabrichealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/691f444f09cc522e8773ecdb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 20 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/691f63c13f782d2f1afbb4c0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 20 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691f47f9a49a885af9a2db4b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 20 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/691f2be5a49a885af9a2cbae?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Nov 20 |
 | **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 19 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/691ec2e3a49a885af9a2aab2?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Nov 19 |
 | **[Panduit](http://www.panduit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/691e2eb109cc522e877370ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Tinley Park, IL | Hybrid | Nov 19 |
 | **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690c05b64a1b456627b15489?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 19 |
 | **[Environmental Allies, Inc.](http://www.environmentalallies.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/691e348a09cc522e8773778f?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Nov 19 |
@@ -100,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/68d4b913fcd3367e8df173f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Remote | Nov 17 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68cd3be71ad6b16f02896d8c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Nov 15 |
 | **[CME Group](http://www.cmegroup.com)** | **[Energy Business Analyst](https://jobright.ai/jobs/info/68e0fc1c1852e62f007f0ed4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 15 |
-| **[Ensono](https://www.ensono.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68fbd7844129dd33cd13559e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
