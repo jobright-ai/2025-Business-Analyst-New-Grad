@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington Trust Bank](http://www.watrust.com)** | **[Associate Solutions Analyst](https://jobright.ai/jobs/info/69210de73f782d2f1afcea21?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA | Hybrid | Nov 21 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6920f7dea49a885af9a4179b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Accenture Tower, Corp | On Site | Nov 21 |
-| **[Valorantum](valorantum.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6920f646a49a885af9a41562?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Nov 21 |
 | **[State of Ohio](http://ohio.gov/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6920f91c3f782d2f1afcdb04?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 21 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6920e5ada49a885af9a40690?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Nov 21 |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/6920fc403f782d2f1afcdf83?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Nov 21 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69040393d64a22104aa95ef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Nov 21 |
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad, Austin](https://jobright.ai/jobs/info/69208773a49a885af9a3c4cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Nov 21 |
 | **[LPL Financial](https://www.lpl.com)** | **[Associate Business Analyst - Forms (Non-IT)](https://jobright.ai/jobs/info/68e85b4b09580a2fe57f6b1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Nov 21 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Business Operations Analyst - New Grad](https://jobright.ai/jobs/info/691d55370b7dff7341502a6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | Hybrid | Nov 18 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 18 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d3401bcdbf3560c9ee1b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Nov 18 |
-| **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/691d1165bcdbf3560c9ecec0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 18 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Nov 18 |
 | **[Fullridge Advisors](https://fullridgeadvisors.com/)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/691becafbcdbf3560c9e401b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 17 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Operational Forecasting Analyst](https://jobright.ai/jobs/info/691bf10815b415636719465d?utm_campaign=Business%20Analyst&utm_source=1103)** | North York, Ontario, Canada | Hybrid | Nov 17 |
