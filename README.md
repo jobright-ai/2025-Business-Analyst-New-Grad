@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/692326f87795cd460c838220?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Nov 23 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/692341c138cd5478a8d564d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Nov 23 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[Business Analyst to the Chief of Staff](https://jobright.ai/jobs/info/6878e8f6a7fc8904e395e449?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 23 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 22 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/6921288c00c9ee50eaecc556?utm_campaign=Business%20Analyst&utm_source=1103)** | Holyoke, MA | Hybrid | Nov 21 |
@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/691f5b6009cc522e87740059?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Nov 20 |
 | **[Fabric](https://www.fabrichealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/691f444f09cc522e8773ecdb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 20 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/691f63c13f782d2f1afbb4c0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 20 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/691f2be5a49a885af9a2cbae?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Nov 20 |
 | **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 19 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/691ec2e3a49a885af9a2aab2?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Nov 19 |
 | **[Panduit](http://www.panduit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/691e2eb109cc522e877370ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Tinley Park, IL | Hybrid | Nov 19 |
 | **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/690c05b64a1b456627b15489?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 19 |
 | **[Environmental Allies, Inc.](http://www.environmentalallies.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/691e348a09cc522e8773778f?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Nov 19 |
