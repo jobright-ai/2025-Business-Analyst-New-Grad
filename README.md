@@ -98,7 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Fullridge Advisors](https://fullridgeadvisors.com/)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/691becafbcdbf3560c9e401b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 17 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Operational Forecasting Analyst](https://jobright.ai/jobs/info/691bf10815b415636719465d?utm_campaign=Business%20Analyst&utm_source=1103)** | North York, Ontario, Canada | Hybrid | Nov 17 |
 | ↳ | **[Operational Forecasting Analyst](https://jobright.ai/jobs/info/691bd820bcdbf3560c9e32f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Kitchener, Ontario, Canada | Hybrid | Nov 17 |
-| **[Crane Company](http://www.craneco.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691b823415b415636718f9da?utm_campaign=Business%20Analyst&utm_source=1103)** | Jurupa Valley, California | On Site | Nov 17 |
-| **[Risk Strategies Company](http://www.risk-strategies.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/691ba4cbbcdbf3560c9e10b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Illinois | Remote | Nov 17 |
-| **[Crane Company](http://www.craneco.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691bb6a9bcdbf3560c9e1d3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jurupa Valley, CA | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
