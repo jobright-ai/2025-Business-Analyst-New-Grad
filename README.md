@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6925003738cd5478a8d6135f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Nov 24 |
 | **[Managed Health Services (MHS)](http://www.mhsindiana.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6924d6ec38cd5478a8d5e686?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | Remote | Nov 24 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6924ce70c0cefa13343e22f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | On Site | Nov 24 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f9174a49a885af9a31e7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Nov 24 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://governor.ohio.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6920f91c3f782d2f1afcdb04?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
 | **[Knowledgent](http://www.knowledgent.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6923e0d4c0cefa13343dbf4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, New York Metropolitan Area | Hybrid | Nov 23 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6923dc3738cd5478a8d57b5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 23 |
+| **[Navien, Inc.](https://www.navieninc.com/)** | **[SCM and Business Analyst](https://jobright.ai/jobs/info/6924f32b38cd5478a8d606b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Nov 23 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[Business Analyst to the Chief of Staff](https://jobright.ai/jobs/info/6878e8f6a7fc8904e395e449?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 23 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Nov 22 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/6921288c00c9ee50eaecc556?utm_campaign=Business%20Analyst&utm_source=1103)** | Holyoke, MA | Hybrid | Nov 21 |
