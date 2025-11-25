@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/691570696f36db06ef04eb1d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 25 |
+| **[Legend Biotech](https://www.legendbiotech.com)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/68ed48166335d33236127094?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Nov 25 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/692550e127bf2f41a2c3e0f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Nov 25 |
 | **[Managed Health Services (MHS)](http://www.mhsindiana.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/692529a127bf2f41a2c3caa6?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | Remote | Nov 24 |
 | **[Miami-Dade County](http://miamidade.gov)** | **[ERP Business Analyst 1 (Strategic Procurement)](https://jobright.ai/jobs/info/6925257ef0beb0723261b158?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | On Site | Nov 24 |
-| **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6925003738cd5478a8d6135f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Nov 24 |
 | **[Managed Health Services (MHS)](http://www.mhsindiana.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6924d6ec38cd5478a8d5e686?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | Remote | Nov 24 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6924ce70c0cefa13343e22f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | On Site | Nov 24 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f9174a49a885af9a31e7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Nov 24 |
@@ -72,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Drillbit (YC S24)](https://www.drillbit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6924b301c0cefa13343e0e2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, US | On Site | Nov 24 |
 | **[Cimarron Inc.](http://www.cimarroninc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6924b257c0cefa13343e0d88?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX 78226 US (Primary) | On Site | Nov 24 |
 | **[Fabric](https://www.fabrichealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/691f444f09cc522e8773ecdb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 24 |
-| **[State of Ohio](http://governor.ohio.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6920f91c3f782d2f1afcdb04?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6920f91c3f782d2f1afcdb04?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
 | **[Knowledgent](http://www.knowledgent.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6923e0d4c0cefa13343dbf4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, New York Metropolitan Area | Hybrid | Nov 23 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6923dc3738cd5478a8d57b5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 23 |
 | **[Navien, Inc.](https://www.navieninc.com/)** | **[SCM and Business Analyst](https://jobright.ai/jobs/info/6924f32b38cd5478a8d606b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Nov 23 |
