@@ -57,23 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Transamerica](http://www.transamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6926063ad47de4798ecd3a95?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Nov 25 |
+| **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Business Analyst [2026 EDGE Program]](https://jobright.ai/jobs/info/6926207d27bf2f41a2c43934?utm_campaign=Business%20Analyst&utm_source=1103)** | 570 Washington Blvd, Jersey City, NJ, 07310, US | Hybrid | Nov 25 |
+| **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/6926206a27bf2f41a2c43928?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Nov 25 |
+| ↳ | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/69260f5327bf2f41a2c42f25?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, Massachusetts, United States | Hybrid | Nov 25 |
+| **[Transamerica](http://www.transamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69260f2ef0beb07232621b3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Nov 25 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6926063ad47de4798ecd3a95?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Nov 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69260447d47de4798ecd3963?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69260415f0beb07232621283?utm_campaign=Business%20Analyst&utm_source=1103)** | Cedar Rapids, IA | Hybrid | Nov 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6925ed5327bf2f41a2c41a0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, Maryland | Hybrid | Nov 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6925ebd3d47de4798ecd2d30?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, Pennsylvania | Hybrid | Nov 25 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6925eda927bf2f41a2c41a62?utm_campaign=Business%20Analyst&utm_source=1103)** | Cedar Rapids, IA | Hybrid | Nov 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6925f44af0beb072326209d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado | Hybrid | Nov 25 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69100d51988c2b7b4ec4fd3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Nov 25 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Nov 25 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909919c4a1b456627b01ce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 25 |
-| ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 25 |
+| **[Transamerica](http://www.transamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6925eda927bf2f41a2c41a62?utm_campaign=Business%20Analyst&utm_source=1103)** | Cedar Rapids, IA | Hybrid | Nov 25 |
+| **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 25 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68f717009a65fd3458599aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Nov 25 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/691fe1303f782d2f1afc1061?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Nov 25 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6925d0aff0beb0723261f6bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909885bd046ab6061cd6614?utm_campaign=Business%20Analyst&utm_source=1103)** | Matthews, NC | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690988364a1b456627b017ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 25 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098c32d046ab6061cd682a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690989e8d046ab6061cd66de?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690a6f714a1b456627b07b25?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Nov 25 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/691570696f36db06ef04eb1d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 25 |
