@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Transamerica](http://www.transamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6925eda927bf2f41a2c41a62?utm_campaign=Business%20Analyst&utm_source=1103)** | Cedar Rapids, IA | Hybrid | Nov 25 |
+| **[Transamerica](http://www.transamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6926063ad47de4798ecd3a95?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Nov 25 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69260447d47de4798ecd3963?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 25 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69260415f0beb07232621283?utm_campaign=Business%20Analyst&utm_source=1103)** | Cedar Rapids, IA | Hybrid | Nov 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6925ed5327bf2f41a2c41a0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, Maryland | Hybrid | Nov 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6925ebd3d47de4798ecd2d30?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, Pennsylvania | Hybrid | Nov 25 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6925eda927bf2f41a2c41a62?utm_campaign=Business%20Analyst&utm_source=1103)** | Cedar Rapids, IA | Hybrid | Nov 25 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6925f44af0beb072326209d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado | Hybrid | Nov 25 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69100d51988c2b7b4ec4fd3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Nov 25 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909919c4a1b456627b01ce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 25 |
@@ -76,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/68ed48166335d33236127094?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Nov 25 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/692550e127bf2f41a2c3e0f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Nov 25 |
 | **[Miami-Dade County](http://miamidade.gov)** | **[ERP Business Analyst 1 (Strategic Procurement)](https://jobright.ai/jobs/info/6925257ef0beb0723261b158?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | On Site | Nov 24 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6925ec14f0beb072326205d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-IN | Remote | Nov 24 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f9174a49a885af9a31e7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Nov 24 |
 | **[Wisconsin Public Service](http://www.wisconsinpublicservice.com)** | **[PG Associate Business Process Analyst](https://jobright.ai/jobs/info/6924c48b38cd5478a8d5d853?utm_campaign=Business%20Analyst&utm_source=1103)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 24 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/6924e4dbec574f4265bb893f?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
@@ -114,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/691503ad286ccf0a1512a459?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Nov 19 |
 | **[Academia.edu](https://www.academia.edu/)** | **[Manager, Business Analytics](https://jobright.ai/jobs/info/691563dd6f36db06ef04e543?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Nov 19 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d7ec7bcdbf3560c9f17b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Nov 19 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Business Operations Analyst - New Grad](https://jobright.ai/jobs/info/691d55370b7dff7341502a6d?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
