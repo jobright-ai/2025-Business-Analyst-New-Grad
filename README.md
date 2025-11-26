@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Analyst - Premises](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Nov 26 |
+| **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Nov 26 |
 | **[Aegon](https://www.aegon.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6926633527bf2f41a2c45bfe?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 25 |
 | **[Ally](http://www.ally.com/)** | **[Analyst, Advanced Business Analytics](https://jobright.ai/jobs/info/69265400d47de4798ecd6696?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 25 |
 | **[Ohio Department of Rehabilitation and Correction (ODRC)](https://drc.ohio.gov/orw)** | **[Business Process Analyst 1- 20022425](https://jobright.ai/jobs/info/69262aadf0beb07232622b3e?utm_campaign=Business%20Analyst&utm_source=1103)** | London, OH | On Site | Nov 25 |
