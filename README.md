@@ -57,17 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[Business Analyst - Software Subscriptions](https://jobright.ai/jobs/info/69275ad3f0beb072326294fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Nov 26 |
+| **[GRAYCE](https://grayce.co.uk/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6927468091ceeb2e8a53dbcf?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Nov 26 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Analyst - Premises](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Nov 26 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Nov 26 |
 | **[Aegon](https://www.aegon.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6926633527bf2f41a2c45bfe?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 25 |
-| **[Ally](http://www.ally.com/)** | **[Analyst, Advanced Business Analytics](https://jobright.ai/jobs/info/6927284091ceeb2e8a53cefc?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Nov 25 |
 | **[Ohio Department of Rehabilitation and Correction (ODRC)](https://drc.ohio.gov/orw)** | **[Business Process Analyst 1- 20022425](https://jobright.ai/jobs/info/69262aadf0beb07232622b3e?utm_campaign=Business%20Analyst&utm_source=1103)** | London, OH | On Site | Nov 25 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Business Analyst [2026 EDGE Program]](https://jobright.ai/jobs/info/6926207d27bf2f41a2c43934?utm_campaign=Business%20Analyst&utm_source=1103)** | 570 Washington Blvd, Jersey City, NJ, 07310, US | Hybrid | Nov 25 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/6926206a27bf2f41a2c43928?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Nov 25 |
 | ↳ | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/69260f5327bf2f41a2c42f25?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, Massachusetts, United States | Hybrid | Nov 25 |
-| **[Transamerica](http://www.transamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69260f2ef0beb07232621b3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Nov 25 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f24e209cc522e8773dd11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 25 |
-| **[Transamerica](http://www.transamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6926063ad47de4798ecd3a95?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Nov 25 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69100d51988c2b7b4ec4fd3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Nov 25 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Nov 25 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 25 |
@@ -109,6 +108,5 @@ For a complete list, click the following sortable link below:
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/691f5fdc09cc522e8774043b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Nov 20 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/691f5b6009cc522e87740059?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Nov 20 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/691f63c13f782d2f1afbb4c0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 20 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/691f2be5a49a885af9a2cbae?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Nov 20 |
 | **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
