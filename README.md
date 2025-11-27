@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/691f5fdc09cc522e8774043b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Nov 20 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/691f5b6009cc522e87740059?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Nov 20 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/691f63c13f782d2f1afbb4c0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 20 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/691f2be5a49a885af9a2cbae?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
