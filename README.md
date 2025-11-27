@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accenture](https://www.accenture.com)** | **[Business Analyst – Healthcare](https://jobright.ai/jobs/info/6928afcc91ceeb2e8a5461fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, 510 W. Georgia, Corp | On Site | Nov 27 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/691f5b6009cc522e87740059?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Nov 27 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69281500f0beb0723262f561?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 27 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692864ecf0beb0723263047f?utm_campaign=Business%20Analyst&utm_source=1103)** | Cedar Rapids, IA | Hybrid | Nov 27 |
