@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69281500f0beb0723262f561?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 27 |
+| **[Adelaide](https://www.adelaidemetrics.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/692803f591ceeb2e8a54427c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 26 |
 | **[State of Nevada](http://dpbh.nv.gov/)** | **[BUSINESS PROCESS ANALYST 1](https://jobright.ai/jobs/info/6927e15bd47de4798ece1288?utm_campaign=Business%20Analyst&utm_source=1103)** | NV | On Site | Nov 26 |
 | **[VARITE INC](http://www.varite.com)** | **[ITS Business Analyst](https://jobright.ai/jobs/info/6927dc6ef0beb0723262e94a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 26 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Business Analyst - Software Subscriptions](https://jobright.ai/jobs/info/69275ad3f0beb072326294fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Nov 26 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f24e209cc522e8773dd11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 25 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69100d51988c2b7b4ec4fd3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Nov 25 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Nov 25 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909919c4a1b456627b01ce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 25 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 25 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68f717009a65fd3458599aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Nov 25 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/691fe1303f782d2f1afc1061?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Nov 25 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909885bd046ab6061cd6614?utm_campaign=Business%20Analyst&utm_source=1103)** | Matthews, NC | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690988364a1b456627b017ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 25 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098c32d046ab6061cd682a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690989e8d046ab6061cd66de?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 25 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/691570696f36db06ef04eb1d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 25 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/68ed48166335d33236127094?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Nov 25 |
@@ -106,6 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad, Austin](https://jobright.ai/jobs/info/69208773a49a885af9a3c4cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Nov 21 |
 | **[LPL Financial](https://www.lpl.com)** | **[Associate Business Analyst - Forms (Non-IT)](https://jobright.ai/jobs/info/68e85b4b09580a2fe57f6b1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Nov 21 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/691d453ebcdbf3560c9ef358?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Nov 21 |
-| **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/691f5fdc09cc522e8774043b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Nov 20 |
-| **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/691f5b6009cc522e87740059?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
