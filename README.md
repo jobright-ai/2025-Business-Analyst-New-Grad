@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69281500f0beb0723262f561?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 27 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69282a4bf0beb0723262f961?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Nov 27 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69281500f0beb0723262f561?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Nov 27 |
 | **[Adelaide](https://www.adelaidemetrics.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/692803f591ceeb2e8a54427c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 26 |
 | **[State of Nevada](http://dpbh.nv.gov/)** | **[BUSINESS PROCESS ANALYST 1](https://jobright.ai/jobs/info/6927e15bd47de4798ece1288?utm_campaign=Business%20Analyst&utm_source=1103)** | NV | On Site | Nov 26 |
 | **[VARITE INC](http://www.varite.com)** | **[ITS Business Analyst](https://jobright.ai/jobs/info/6927dc6ef0beb0723262e94a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 26 |
