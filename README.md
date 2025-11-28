@@ -109,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/6920fc403f782d2f1afcdf83?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Nov 21 |
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst - New College Grad, Austin](https://jobright.ai/jobs/info/69208773a49a885af9a3c4cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Nov 21 |
 | **[LPL Financial](https://www.lpl.com)** | **[Associate Business Analyst - Forms (Non-IT)](https://jobright.ai/jobs/info/68e85b4b09580a2fe57f6b1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Mill, SC | On Site | Nov 21 |
-| **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/691d453ebcdbf3560c9ef358?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
