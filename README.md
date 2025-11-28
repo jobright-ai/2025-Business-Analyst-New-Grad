@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6929e1bafa28370be269593c?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Nov 28 |
-| **[Stratify Edge](stratifyedge.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/6929e0574c474121999ca984?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | On Site | Nov 28 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Web Development Process Analyst (Business Process Analyst 1)- 20067120](https://jobright.ai/jobs/info/6929dcd0fa28370be2695813?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Nov 28 |
 | ↳ | **[Web Development Process Analyst (Business Process Analyst 1)- 20067120](https://jobright.ai/jobs/info/6929d2cf66796e3028f8d2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | William Green Building30 West Spring Street | On Site | Nov 28 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/691ab56715b415636718a1fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Nov 28 |
@@ -67,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6905c134ff462851fe000074?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Nov 28 |
 | **[Accenture](https://www.accenture.com)** | **[Business Analyst – Healthcare](https://jobright.ai/jobs/info/6928afcc91ceeb2e8a5461fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, 510 W. Georgia, Corp | On Site | Nov 27 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/691f5b6009cc522e87740059?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Nov 27 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/692864ecf0beb0723263047f?utm_campaign=Business%20Analyst&utm_source=1103)** | Cedar Rapids, IA | Hybrid | Nov 27 |
 | **[Adelaide](https://www.adelaidemetrics.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/692803f591ceeb2e8a54427c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 26 |
 | **[State of Nevada](http://dpbh.nv.gov/)** | **[BUSINESS PROCESS ANALYST 1](https://jobright.ai/jobs/info/6927e15bd47de4798ece1288?utm_campaign=Business%20Analyst&utm_source=1103)** | NV | On Site | Nov 26 |
 | **[VARITE INC](http://www.varite.com)** | **[ITS Business Analyst](https://jobright.ai/jobs/info/6927dc6ef0beb0723262e94a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 26 |
