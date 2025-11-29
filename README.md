@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wisconsin Public Service](http://www.wisconsinpublicservice.com)** | **[PG Associate Business Process Analyst](https://jobright.ai/jobs/info/6924c48b38cd5478a8d5d853?utm_campaign=Business%20Analyst&utm_source=1103)** | Green Bay, Wisconsin Metropolitan Area | Hybrid | Nov 28 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Web Development Process Analyst (Business Process Analyst 1)- 20067120](https://jobright.ai/jobs/info/6929dcd0fa28370be2695813?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Nov 28 |
 | ↳ | **[Web Development Process Analyst (Business Process Analyst 1)- 20067120](https://jobright.ai/jobs/info/6929d2cf66796e3028f8d2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | William Green Building30 West Spring Street | On Site | Nov 28 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/691ab56715b415636718a1fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Nov 28 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f24e209cc522e8773dd11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 25 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69100d51988c2b7b4ec4fd3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Nov 25 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Nov 25 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909919c4a1b456627b01ce3?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 25 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Nov 25 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68f717009a65fd3458599aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | Hybrid | Nov 25 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/691fe1303f782d2f1afc1061?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Nov 25 |
@@ -88,13 +88,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6909885bd046ab6061cd6614?utm_campaign=Business%20Analyst&utm_source=1103)** | Matthews, NC | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690988364a1b456627b017ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Nov 25 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098c32d046ab6061cd682a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690989e8d046ab6061cd66de?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 25 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/691570696f36db06ef04eb1d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 25 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/68ed48166335d33236127094?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Nov 25 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/692550e127bf2f41a2c3e0f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Nov 25 |
 | **[Miami-Dade County](http://miamidade.gov)** | **[ERP Business Analyst 1 (Strategic Procurement)](https://jobright.ai/jobs/info/6925257ef0beb0723261b158?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | On Site | Nov 24 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f9174a49a885af9a31e7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Nov 24 |
-| **[Wisconsin Public Service](http://www.wisconsinpublicservice.com)** | **[PG Associate Business Process Analyst](https://jobright.ai/jobs/info/6924c48b38cd5478a8d5d853?utm_campaign=Business%20Analyst&utm_source=1103)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 24 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/6924e4dbec574f4265bb893f?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/692002c709cc522e877472a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
 | **[Drillbit (YC S24)](https://www.drillbit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6924b301c0cefa13343e0e2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, US | On Site | Nov 24 |
