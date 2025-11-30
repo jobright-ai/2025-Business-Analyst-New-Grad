@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6922793a7795cd460c835b39?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 30 |
 | **[Insurity](http://www.insurity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f7541aec6dbe7073fbd38e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 29 |
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst Talent Community](https://jobright.ai/jobs/info/692aecb566796e3028f8fba3?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Nov 29 |
 | **[Wisconsin Public Service](http://www.wisconsinpublicservice.com)** | **[PG Associate Business Process Analyst](https://jobright.ai/jobs/info/6924c48b38cd5478a8d5d853?utm_campaign=Business%20Analyst&utm_source=1103)** | Green Bay, Wisconsin Metropolitan Area | Hybrid | Nov 28 |
-| **[State of Ohio](http://www.ong.ohio.gov)** | **[Web Development Process Analyst (Business Process Analyst 1)- 20067120](https://jobright.ai/jobs/info/6929dcd0fa28370be2695813?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Nov 28 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Web Development Process Analyst (Business Process Analyst 1)- 20067120](https://jobright.ai/jobs/info/6929dcd0fa28370be2695813?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Nov 28 |
 | ↳ | **[Web Development Process Analyst (Business Process Analyst 1)- 20067120](https://jobright.ai/jobs/info/6929d2cf66796e3028f8d2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | William Green Building30 West Spring Street | On Site | Nov 28 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/691ab56715b415636718a1fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Nov 28 |
 | **[Crane Company](http://www.craneco.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691bb6a9bcdbf3560c9e1d3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jurupa Valley, CA | On Site | Nov 28 |
@@ -101,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/692002c709cc522e877472a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
 | **[Drillbit (YC S24)](https://www.drillbit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6924b301c0cefa13343e0e2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, US | On Site | Nov 24 |
 | **[Fabric](https://www.fabrichealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/691f444f09cc522e8773ecdb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 24 |
-| **[State of Ohio](http://www.ong.ohio.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6920f91c3f782d2f1afcdb04?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6920f91c3f782d2f1afcdb04?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
 | **[Knowledgent](http://www.knowledgent.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6923e0d4c0cefa13343dbf4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, New York Metropolitan Area | Hybrid | Nov 23 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6923dc3738cd5478a8d57b5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
