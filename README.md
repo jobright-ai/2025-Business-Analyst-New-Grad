@@ -99,7 +99,5 @@ For a complete list, click the following sortable link below:
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/692550e127bf2f41a2c3e0f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Nov 25 |
 | **[Miami-Dade County](http://miamidade.gov)** | **[ERP Business Analyst 1 (Strategic Procurement)](https://jobright.ai/jobs/info/6925257ef0beb0723261b158?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | On Site | Nov 24 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/6924e4dbec574f4265bb893f?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/692002c709cc522e877472a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
 | **[Drillbit (YC S24)](https://www.drillbit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6924b301c0cefa13343e0e2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, US | On Site | Nov 24 |
-| **[Fabric](https://www.fabrichealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/691f444f09cc522e8773ecdb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
