@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst-Campus](https://jobright.ai/jobs/info/692002c709cc522e877472a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
 | **[Drillbit (YC S24)](https://www.drillbit.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6924b301c0cefa13343e0e2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, US | On Site | Nov 24 |
 | **[Fabric](https://www.fabrichealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/691f444f09cc522e8773ecdb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 24 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6920f91c3f782d2f1afcdb04?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
