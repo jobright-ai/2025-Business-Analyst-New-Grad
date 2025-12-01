@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f6926d76a51a4307bdbc5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Dec 01 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Digital Experience Business Analyst](https://jobright.ai/jobs/info/692dd4ed4c474121999d3ab1?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, NJ, 07095, United States | On Site | Dec 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/692db09afa28370be269dcf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 01 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Web Development Process Analyst (Business Process Analyst 1)- 20067120](https://jobright.ai/jobs/info/6929dcd0fa28370be2695813?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Nov 28 |
 | ↳ | **[Web Development Process Analyst (Business Process Analyst 1)- 20067120](https://jobright.ai/jobs/info/6929d2cf66796e3028f8d2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | William Green Building30 West Spring Street | On Site | Nov 28 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/691ab56715b415636718a1fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Nov 28 |
-| **[Crane Company](http://www.craneco.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691bb6a9bcdbf3560c9e1d3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jurupa Valley, CA | On Site | Nov 28 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6905c134ff462851fe000074?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Nov 28 |
 | **[Accenture](https://www.accenture.com)** | **[Business Analyst – Healthcare](https://jobright.ai/jobs/info/6928afcc91ceeb2e8a5461fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, 510 W. Georgia, Corp | On Site | Nov 27 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/691f5b6009cc522e87740059?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Nov 27 |
