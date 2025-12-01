@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Digital Experience Business Analyst](https://jobright.ai/jobs/info/692dd4ed4c474121999d3ab1?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, NJ, 07095, United States | On Site | Dec 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/692db09afa28370be269dcf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 01 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/692d583c66796e3028f9460e?utm_campaign=Business%20Analyst&utm_source=1103)** | Riffe Tower 2477 South High Street | On Site | Dec 01 |
@@ -100,5 +101,4 @@ For a complete list, click the following sortable link below:
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/691570696f36db06ef04eb1d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 25 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/68ed48166335d33236127094?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Nov 25 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/692550e127bf2f41a2c3e0f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Nov 25 |
-| **[Miami-Dade County](http://miamidade.gov)** | **[ERP Business Analyst 1 (Strategic Procurement)](https://jobright.ai/jobs/info/6925257ef0beb0723261b158?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
