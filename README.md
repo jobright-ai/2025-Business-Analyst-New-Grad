@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles Schwab](https://www.schwab.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/692e4209ef4b48533d13e0d1?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Austin | On Site | Dec 01 |
+| **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/692e35aefa28370be26a24a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | On Site | Dec 01 |
+| **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/692e2740ef4b48533d13d1a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | Hybrid | Dec 01 |
 | **[Gong](https://www.gong.io)** | **[Business Analyst](https://jobright.ai/jobs/info/692e0ef94c474121999d5ae9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 01 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e0697ef4b48533d13bc12?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 01 |
 | **[Gong](https://www.gong.io)** | **[Business Analyst](https://jobright.ai/jobs/info/692e05b1ef4b48533d13bb4e?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Dec 01 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/692e239cfa28370be26a1a4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | Hybrid | Dec 01 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/692dfe68fa28370be26a0142?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Dec 01 |
+| **[Fastenal](http://www.fastenal.com/web/home)** | **[Data Business Analyst](https://jobright.ai/jobs/info/692e2fd5fa28370be26a2285?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Dec 01 |
 | **[Gong](https://www.gong.io)** | **[Business Analyst](https://jobright.ai/jobs/info/692e13dffa28370be26a0ef0?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e13c14c474121999d5e0a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e1788fa28370be26a1266?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 01 |
+| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e37a9fa28370be26a2653?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Dec 01 |
 | **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst II](https://jobright.ai/jobs/info/692e2035ef4b48533d13cd15?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | Dec 01 |
 | ↳ | **[Commercial Business Analyst II](https://jobright.ai/jobs/info/692e17bb4c474121999d61a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | Hybrid | Dec 01 |
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f6926d76a51a4307bdbc5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Dec 01 |
