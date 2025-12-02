@@ -57,22 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/692ef154ef4b48533d141d01?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 02 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/692e8c7e4c474121999da06c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 01 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/692e6fd4fa28370be26a4966?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 01 |
 | **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/692e4c33fa28370be26a342d?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | On Site | Dec 01 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/692e4209ef4b48533d13e0d1?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Austin | On Site | Dec 01 |
 | **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/692e35aefa28370be26a24a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | On Site | Dec 01 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/692e2740ef4b48533d13d1a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | Hybrid | Dec 01 |
-| **[Gong](https://www.gong.io)** | **[Business Analyst](https://jobright.ai/jobs/info/692e0ef94c474121999d5ae9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 01 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e0697ef4b48533d13bc12?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 01 |
-| **[Gong](https://www.gong.io)** | **[Business Analyst](https://jobright.ai/jobs/info/692e05b1ef4b48533d13bb4e?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Dec 01 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/692e239cfa28370be26a1a4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | Hybrid | Dec 01 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/692dfe68fa28370be26a0142?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Dec 01 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Data Business Analyst](https://jobright.ai/jobs/info/692e2fd5fa28370be26a2285?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Dec 01 |
-| **[Gong](https://www.gong.io)** | **[Business Analyst](https://jobright.ai/jobs/info/692e13dffa28370be26a0ef0?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 01 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e13c14c474121999d5e0a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 01 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e1788fa28370be26a1266?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 01 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e37a9fa28370be26a2653?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Dec 01 |
 | **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst II](https://jobright.ai/jobs/info/692e2035ef4b48533d13cd15?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | Dec 01 |
 | ↳ | **[Commercial Business Analyst II](https://jobright.ai/jobs/info/692e17bb4c474121999d61a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | Hybrid | Dec 01 |
@@ -81,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Digital Experience Business Analyst](https://jobright.ai/jobs/info/692dd4ed4c474121999d3ab1?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, NJ, 07095, United States | On Site | Dec 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/692db09afa28370be269dcf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 01 |
-| **[State of Ohio](http://ohio.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/692e8016ef4b48533d140431?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 01 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e82c04c474121999d9e82?utm_campaign=Business%20Analyst&utm_source=1103)** | Riffe Tower 2477 South High Street | On Site | Dec 01 |
+| **[State of Ohio](http://ohio.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/692e82c04c474121999d9e82?utm_campaign=Business%20Analyst&utm_source=1103)** | Riffe Tower 2477 South High Street | On Site | Dec 01 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e8016ef4b48533d140431?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e834dfa28370be26a5065?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Dec 01 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6922793a7795cd460c835b39?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 30 |
 | **[Insurity](http://www.insurity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f7541aec6dbe7073fbd38e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 29 |
