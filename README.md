@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insurity](http://www.insurity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/692e5908ef4b48533d13f0c2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 01 |
+| **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/692e4c33fa28370be26a342d?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | On Site | Dec 01 |
 | **[Charles Schwab](https://www.schwab.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/692e4209ef4b48533d13e0d1?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Austin | On Site | Dec 01 |
 | **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/692e35aefa28370be26a24a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | On Site | Dec 01 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/692e2740ef4b48533d13d1a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | Hybrid | Dec 01 |
@@ -114,5 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69098c32d046ab6061cd682a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lewisville, TX | On Site | Nov 25 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690989e8d046ab6061cd66de?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Nov 25 |
 | **[VNS Health](https://www.vnshealth.org)** | **[Business Analyst, Claims](https://jobright.ai/jobs/info/691570696f36db06ef04eb1d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Nov 25 |
-| **[Legend Biotech](https://www.legendbiotech.com)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/68ed48166335d33236127094?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
