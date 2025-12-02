@@ -58,6 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Lansing Board of Water & Light](http://lbwl.com)** | **[Business Analyst I-III, Strategic Planning](https://jobright.ai/jobs/info/692f3e17ef4b48533d143976?utm_campaign=Business%20Analyst&utm_source=1103)** | Lansing, MI | Hybrid | Dec 02 |
+| **[Wallaby Search & Placement](http://www.wallabysearch.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/692f5d884c474121999de2f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 02 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5635fa28370be26a90a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 02 |
+| ↳ | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5bba4c474121999de1d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Westlake, TX | Hybrid | Dec 02 |
 | **[MMIT (Managed Markets Insight & Technology)](http://www.mmitnetwork.com)** | **[Business Analyst](https://jobright.ai/jobs/info/692f3b7fef4b48533d143858?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 02 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/691259ced1047e3565cfb9e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, NY | On Site | Dec 02 |
 | **[AARATECH](https://aaratechinc.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/692f229d4c474121999dc845?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Dec 02 |
