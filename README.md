@@ -57,15 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/692fa9dbef4b48533d147f10?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Dec 02 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/692fa1144c474121999e133b?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | On Site | Dec 02 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/692fb18e4c474121999e1d1b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 02 |
 | **[Lansing Board of Water & Light](http://lbwl.com)** | **[Business Analyst I-III, Strategic Planning](https://jobright.ai/jobs/info/692f8abbfa28370be26ab534?utm_campaign=Business%20Analyst&utm_source=1103)** | Lansing, MI | On Site | Dec 02 |
 | ↳ | **[Business Analyst I-III, Strategic Planning](https://jobright.ai/jobs/info/692f3e17ef4b48533d143976?utm_campaign=Business%20Analyst&utm_source=1103)** | Lansing, MI | Hybrid | Dec 02 |
 | **[DAWSON](http://www.dawsonohana.com)** | **[Junior Analyst](https://jobright.ai/jobs/info/692f7423ef4b48533d1458d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Dec 02 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/692f80adfa28370be26aaf26?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | Hybrid | Dec 02 |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[RCM Business Analyst - Remote](https://jobright.ai/jobs/info/692fa5dcfa28370be26ac758?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | Remote | Dec 02 |
 | **[Wallaby Search & Placement](http://www.wallabysearch.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/692f5d884c474121999de2f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/692f76e6fa28370be26aa732?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | On Site | Dec 02 |
 | **[Zachary Piper Solutions](http://zacharypiper.com/)** | **[Business System Analyst- TS/SCI Clearance](https://jobright.ai/jobs/info/692f71024c474121999df114?utm_campaign=Business%20Analyst&utm_source=1103)** | Newington, VA | On Site | Dec 02 |
-| **[Fidelity Bank](http://www.LionBank.com)** | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5635fa28370be26a90a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 02 |
-| ↳ | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5bba4c474121999de1d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Westlake, TX | Hybrid | Dec 02 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5bba4c474121999de1d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Westlake, TX | Hybrid | Dec 02 |
+| ↳ | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5635fa28370be26a90a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 02 |
 | **[MMIT (Managed Markets Insight & Technology)](http://www.mmitnetwork.com)** | **[Business Analyst](https://jobright.ai/jobs/info/692f3b7fef4b48533d143858?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 02 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/691259ced1047e3565cfb9e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, NY | On Site | Dec 02 |
 | **[AARATECH](https://aaratechinc.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/692f229d4c474121999dc845?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Dec 02 |
@@ -87,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Digital Experience Business Analyst](https://jobright.ai/jobs/info/692dd4ed4c474121999d3ab1?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, NJ, 07095, United States | On Site | Dec 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/692db09afa28370be269dcf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 01 |
-| **[State of Ohio](http://ohio.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/692e82c04c474121999d9e82?utm_campaign=Business%20Analyst&utm_source=1103)** | Riffe Tower 2477 South High Street | On Site | Dec 01 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e8016ef4b48533d140431?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 01 |
+| **[State of Ohio](http://ohio.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/692e8016ef4b48533d140431?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 01 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e82c04c474121999d9e82?utm_campaign=Business%20Analyst&utm_source=1103)** | Riffe Tower 2477 South High Street | On Site | Dec 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e834dfa28370be26a5065?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Dec 01 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6922793a7795cd460c835b39?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 30 |
 | **[Insurity](http://www.insurity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f7541aec6dbe7073fbd38e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 29 |
@@ -103,6 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Small Business Consulting Corporation (SBCC)](https://www.smallbcc.com)** | **[Business Operations Specialist](https://jobright.ai/jobs/info/692b4b6bfa28370be26988d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Shreveport, LA | On Site | Nov 26 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6927468091ceeb2e8a53dbcf?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Nov 26 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Business Analyst - Premises](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Nov 26 |
-| **[Ohio Department of Rehabilitation and Correction (ODRC)](https://drc.ohio.gov/orw)** | **[Business Process Analyst 1- 20022425](https://jobright.ai/jobs/info/692ee6d5fa28370be26a6478?utm_campaign=Business%20Analyst&utm_source=1103)** | London, OH | On Site | Nov 26 |
-| **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
