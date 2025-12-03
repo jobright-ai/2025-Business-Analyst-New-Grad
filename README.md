@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Digital Experience Business Analyst](https://jobright.ai/jobs/info/692dd4ed4c474121999d3ab1?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, NJ, 07095, United States | On Site | Dec 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Integrated Business Planning Analyst](https://jobright.ai/jobs/info/692db09afa28370be269dcf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, NJ | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 01 |
-| **[State of Ohio](http://ohio.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/692e82c04c474121999d9e82?utm_campaign=Business%20Analyst&utm_source=1103)** | Riffe Tower 2477 South High Street | On Site | Dec 01 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e8016ef4b48533d140431?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 01 |
+| **[State of Ohio](http://ohio.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/692e8016ef4b48533d140431?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 01 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e82c04c474121999d9e82?utm_campaign=Business%20Analyst&utm_source=1103)** | Riffe Tower 2477 South High Street | On Site | Dec 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e834dfa28370be26a5065?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Dec 01 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6922793a7795cd460c835b39?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 30 |
 | **[Insurity](http://www.insurity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f7541aec6dbe7073fbd38e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 29 |
@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6905c134ff462851fe000074?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Nov 28 |
 | **[Adelaide](https://www.adelaidemetrics.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/692803f591ceeb2e8a54427c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 26 |
 | **[VARITE INC](http://www.varite.com)** | **[ITS Business Analyst](https://jobright.ai/jobs/info/6927dc6ef0beb0723262e94a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 26 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[Business Analyst - Software Subscriptions](https://jobright.ai/jobs/info/69275ad3f0beb072326294fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
