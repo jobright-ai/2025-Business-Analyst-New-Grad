@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/692fa9dbef4b48533d147f10?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Dec 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/692fa1144c474121999e133b?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | On Site | Dec 02 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/692fe6da4c474121999e31a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Dec 02 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/692fb18e4c474121999e1d1b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 02 |
 | **[Lansing Board of Water & Light](http://lbwl.com)** | **[Business Analyst I-III, Strategic Planning](https://jobright.ai/jobs/info/692f8abbfa28370be26ab534?utm_campaign=Business%20Analyst&utm_source=1103)** | Lansing, MI | On Site | Dec 02 |
 | ↳ | **[Business Analyst I-III, Strategic Planning](https://jobright.ai/jobs/info/692f3e17ef4b48533d143976?utm_campaign=Business%20Analyst&utm_source=1103)** | Lansing, MI | Hybrid | Dec 02 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Wallaby Search & Placement](http://www.wallabysearch.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/692f5d884c474121999de2f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/692f76e6fa28370be26aa732?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | On Site | Dec 02 |
 | **[Zachary Piper Solutions](http://zacharypiper.com/)** | **[Business System Analyst- TS/SCI Clearance](https://jobright.ai/jobs/info/692f71024c474121999df114?utm_campaign=Business%20Analyst&utm_source=1103)** | Newington, VA | On Site | Dec 02 |
-| **[Fidelity Bank](http://www.LionBank.com)** | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5635fa28370be26a90a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 02 |
-| ↳ | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5bba4c474121999de1d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Westlake, TX | Hybrid | Dec 02 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5bba4c474121999de1d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Westlake, TX | Hybrid | Dec 02 |
+| ↳ | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5635fa28370be26a90a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 02 |
 | **[MMIT (Managed Markets Insight & Technology)](http://www.mmitnetwork.com)** | **[Business Analyst](https://jobright.ai/jobs/info/692f3b7fef4b48533d143858?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 02 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/691259ced1047e3565cfb9e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, NY | On Site | Dec 02 |
 | **[AARATECH](https://aaratechinc.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/692f229d4c474121999dc845?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Dec 02 |
