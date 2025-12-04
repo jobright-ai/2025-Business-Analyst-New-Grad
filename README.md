@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Nelson Miller Group](https://nelsonmillergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6930a6a6fa28370be26b1fc0?utm_campaign=Business%20Analyst&utm_source=1103)** | City of Industry, CA | On Site | Dec 03 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69309bb2fa28370be26b15df?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | Dec 03 |
+| **[Arizona Complete Health](https://www.azcompletehealth.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6930bca5ef4b48533d14e8c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona, United States | Remote | Dec 03 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6930cb984c474121999e8f73?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-AZ | Remote | Dec 03 |
 | **[AARATECH](https://aaratechinc.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69305a884c474121999e4f66?utm_campaign=Business%20Analyst&utm_source=1103)** | DC-Baltimore Area | On Site | Dec 03 |
 | **[TE Connectivity](http://www.te.com)** | **[IT BUSINESS ANALYST I](https://jobright.ai/jobs/info/6930551b4c474121999e4e38?utm_campaign=Business%20Analyst&utm_source=1103)** | Middletown, PA | On Site | Dec 03 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/692fa9dbef4b48533d147f10?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Dec 02 |
@@ -102,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://governor.ohio.gov)** | **[Web Development Process Analyst (Business Process Analyst 1)- 20067120](https://jobright.ai/jobs/info/6929dcd0fa28370be2695813?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Nov 28 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/691ab56715b415636718a1fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Nov 28 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6905c134ff462851fe000074?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY | On Site | Nov 28 |
-| **[Adelaide](https://www.adelaidemetrics.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/692803f591ceeb2e8a54427c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
