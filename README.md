@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 06 |
+| **[CME Group](http://www.cmegroup.com)** | **[Energy Business Analyst](https://jobright.ai/jobs/info/6933ef3bf131d96e48468571?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 06 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/693447b3764507023d1bc944?utm_campaign=Business%20Analyst&utm_source=1103)** | Elk Grove Village, IL | On Site | Dec 06 |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68c813f195f5211cd2ce12d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Dec 06 |
+| **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/6934406cf131d96e4846a1f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | Remote | Dec 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933b143764507023d1b8616?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Dec 05 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6933a6cfa0dde7020e2f0279?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933a4bda0dde7020e2f00ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 05 |
@@ -112,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/69342728a0dde7020e2f485b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 02 |
 | **[Zachary Piper Solutions](http://zacharypiper.com/)** | **[Business System Analyst- TS/SCI Clearance](https://jobright.ai/jobs/info/692f71024c474121999df114?utm_campaign=Business%20Analyst&utm_source=1103)** | Newington, VA | On Site | Dec 02 |
 | **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/69334b3cf131d96e48461801?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | On Site | Dec 02 |
-| **[Fidelity Bank](http://www.LionBank.com)** | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5bba4c474121999de1d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Westlake, TX | Hybrid | Dec 02 |
-| ↳ | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5635fa28370be26a90a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 02 |
+| **[Fidelity Bank](http://www.LionBank.com)** | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5635fa28370be26a90a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 02 |
+| ↳ | **[Senior Analyst, Business Architecture](https://jobright.ai/jobs/info/692f5bba4c474121999de1d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Westlake, TX | Hybrid | Dec 02 |
 | **[MMIT (Managed Markets Insight & Technology)](http://www.mmitnetwork.com)** | **[Business Analyst](https://jobright.ai/jobs/info/692f3b7fef4b48533d143858?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 02 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/693068a3fa28370be26b01c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, NY | On Site | Dec 02 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/692e6fd4fa28370be26a4966?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 01 |
@@ -129,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f6926d76a51a4307bdbc5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Dec 01 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Digital Experience Business Analyst](https://jobright.ai/jobs/info/692dd4ed4c474121999d3ab1?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, NJ, 07095, United States | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 01 |
-| **[State of Ohio](http://ohio.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/692e8016ef4b48533d140431?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 01 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e82c04c474121999d9e82?utm_campaign=Business%20Analyst&utm_source=1103)** | Riffe Tower 2477 South High Street | On Site | Dec 01 |
+| **[State of Ohio](http://ohio.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/692e82c04c474121999d9e82?utm_campaign=Business%20Analyst&utm_source=1103)** | Riffe Tower 2477 South High Street | On Site | Dec 01 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e8016ef4b48533d140431?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e834dfa28370be26a5065?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Dec 01 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6922793a7795cd460c835b39?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
