@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933b143764507023d1b8616?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Dec 05 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6933a6cfa0dde7020e2f0279?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933a4bda0dde7020e2f00ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 05 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69339503a0dde7020e2ef5d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Dec 05 |
+| **[FPC International, Inc.](https://www.fpcintl.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6933b4d0f131d96e48466263?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH | On Site | Dec 05 |
 | **[Optum](https://www.optum.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/693382fd764507023d1b652f?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Dec 05 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/693364e7f131d96e48462ce7?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 05 |
 | **[Optum](https://www.optum.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6933825cf131d96e48463f0d?utm_campaign=Business%20Analyst&utm_source=1103)** | West Hills, CA | Hybrid | Dec 05 |
@@ -97,8 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Circana](https://www.circana.com)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/6931964cd0010831497ba6dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Dec 04 |
 | **[DRW](http://drw.com/)** | **[Business Analyst - Regulatory Technology](https://jobright.ai/jobs/info/6930fdcb4c474121999eb0a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 03 |
 | ↳ | **[Business Analyst - Regulatory Technology](https://jobright.ai/jobs/info/6930f2fafa28370be26b588f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago | On Site | Dec 03 |
-| **[Effectual](https://www.effectual.ai)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6930e7e1fa28370be26b51d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | Remote | Dec 03 |
-| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/6930e2a74c474121999e9f56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 03 |
+| **[Effectual](https://www.effectual.ai)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6930e2a74c474121999e9f56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 03 |
 | **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6914f7d09c388539cbdef015?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Dec 03 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Business Analyst - Digital Experience](https://jobright.ai/jobs/info/6930cfa5fa28370be26b419d?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, NJ | On Site | Dec 03 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69309bb2fa28370be26b15df?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | Dec 03 |
