@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[State of Ohio](http://ohio.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/692e8016ef4b48533d140431?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Dec 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e82c04c474121999d9e82?utm_campaign=Business%20Analyst&utm_source=1103)** | Riffe Tower 2477 South High Street | On Site | Dec 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/692e834dfa28370be26a5065?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Dec 01 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6922793a7795cd460c835b39?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
