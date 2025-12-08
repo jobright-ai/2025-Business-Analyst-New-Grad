@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69370edba0dde7020e2feae7?utm_campaign=Business%20Analyst&utm_source=1103)** | Utah, United States | On Site | Dec 08 |
+| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371d12a0dde7020e2ff0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371cdea0dde7020e2ff0e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371925aabec14a727c408a?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/693718d41c1c2161c13f0870?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/693716d9a0dde7020e2fee6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta Metro | On Site | Dec 08 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/693713b7aabec14a727c3eac?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Dec 08 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/693713ac1c1c2161c13f06b3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 08 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69370edba0dde7020e2feae7?utm_campaign=Business%20Analyst&utm_source=1103)** | Utah, United States | On Site | Dec 08 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69372be9a0dde7020e2ff8de?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | On Site | Dec 08 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69372d1da0dde7020e2ff9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Seattle Area | On Site | Dec 08 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69371e62aabec14a727c42d4?utm_campaign=Business%20Analyst&utm_source=1103)** | DFW Metroplex | On Site | Dec 08 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/68d4b913fcd3367e8df173f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Remote | Dec 08 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/68cd3be71ad6b16f02896d8c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Dec 07 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Business Process Analyst (Associate or Experienced)](https://jobright.ai/jobs/info/69354506a0dde7020e2f83e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Dec 07 |
@@ -108,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Ascend Technologies](https://teamascend.com/)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6914f7d09c388539cbdef015?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Dec 03 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Business Analyst - Digital Experience](https://jobright.ai/jobs/info/6930cfa5fa28370be26b419d?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, NJ | On Site | Dec 03 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69309bb2fa28370be26b15df?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | Hybrid | Dec 03 |
+| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69372370aabec14a727c4571?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 03 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/692fa1144c474121999e133b?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | On Site | Dec 02 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/692fe6da4c474121999e31a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Dec 02 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Business Analytics Manager -Walmart](https://jobright.ai/jobs/info/693703a2aabec14a727c37ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, Arkansas, United States | Hybrid | Dec 02 |
@@ -117,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/69334b3cf131d96e48461801?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | On Site | Dec 02 |
 | **[MMIT (Managed Markets Insight & Technology)](http://www.mmitnetwork.com)** | **[Business Analyst](https://jobright.ai/jobs/info/692f3b7fef4b48533d143858?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 02 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Regional Analyst](https://jobright.ai/jobs/info/693068a3fa28370be26b01c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Purchase, NY | On Site | Dec 02 |
-| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/692e6fd4fa28370be26a4966?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
