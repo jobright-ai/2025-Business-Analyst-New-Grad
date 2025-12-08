@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e37a9fa28370be26a2653?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Dec 01 |
 | **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst II](https://jobright.ai/jobs/info/692e2035ef4b48533d13cd15?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | Dec 01 |
 | ↳ | **[Commercial Business Analyst II](https://jobright.ai/jobs/info/692e17bb4c474121999d61a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | Hybrid | Dec 01 |
-| **[HCVT](http://www.hcvt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68f6926d76a51a4307bdbc5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
