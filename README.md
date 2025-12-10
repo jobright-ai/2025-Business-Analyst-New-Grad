@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/6920fc403f782d2f1afcdf83?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Dec 09 |
 | **[Framatome](http://www.framatome.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6938cebab95c305f206e00ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Onsite | On Site | Dec 09 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6938d781aabec14a727dc132?utm_campaign=Business%20Analyst&utm_source=1103)** | US-VA-Lynchburg | On Site | Dec 09 |
 | **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6938d3daaabec14a727dbb07?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Dec 09 |
@@ -67,12 +66,11 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/69387dbcb95c305f206db243?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Dec 09 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Business Operations and Data Management Analyst - Management Analyst 2](https://jobright.ai/jobs/info/6938419fa0dde7020e30d087?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | On Site | Dec 09 |
-| **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69379b6eaabec14a727c9bc4?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | Dec 08 |
 | **[KellyConnect | Contact Center Solutions](https://www.kellyconnect.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69377b621c1c2161c13f4f31?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN | Remote | Dec 08 |
+| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69373e731c1c2161c13f1e98?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f24e209cc522e8773dd11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 08 |
 | **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/693759c1a0dde7020e301ab7?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
-| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69375316aabec14a727c673a?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
-| ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371d12a0dde7020e2ff0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371d12a0dde7020e2ff0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371cdea0dde7020e2ff0e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371925aabec14a727c408a?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/693718d41c1c2161c13f0870?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
@@ -103,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[New York State Technology Enterprise Corporation (NYSTEC)](https://www.nystec.com)** | **[Business Analyst Talent Community](https://jobright.ai/jobs/info/692aecb566796e3028f8fba3?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Dec 05 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/6933f3ada0dde7020e2f3428?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Dec 05 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/69327f02764507023d1af01b?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Dec 04 |
-| **[City of Detroit](https://detroitmi.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/69327eb1f131d96e4845caec?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | On Site | Dec 04 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69326107f131d96e4845bb2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Dec 04 |
 | **[CBRE](https://www.cbre.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69324179f131d96e4845a339?utm_campaign=Business%20Analyst&utm_source=1103)** | Menlo Park, CA | On Site | Dec 04 |
 | **[CloudMasonry](https://cloudmasonry.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6932112cd0010831497bf020?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Dec 04 |
