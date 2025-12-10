@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d7ec7bcdbf3560c9f17b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Dec 10 |
 | **[Academia.edu](https://www.academia.edu/)** | **[Manager, Business Analytics](https://jobright.ai/jobs/info/691563dd6f36db06ef04e543?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 10 |
 | **[Intelliswift - An LTTS Company](https://www.intelliswift.com)** | **[Business Analyst - Junior (Junior analyst corporate access)](https://jobright.ai/jobs/info/69394d39ac80bb5492bbedc8?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 10 |
 | **[Framatome](http://www.framatome.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6938cebab95c305f206e00ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Onsite | On Site | Dec 09 |
@@ -66,13 +67,13 @@ For a complete list, click the following sortable link below:
 | **[University of California, Davis](http://ucdavis.edu)** | **[Business Operations Coordinator (BLANK AST 3)](https://jobright.ai/jobs/info/69388e50aabec14a727d6f6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Davis, CA | Hybrid | Dec 09 |
 | **[KMM Technologies, Inc.](http://kmmtechnologies.com)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/6938a8c9b95c305f206de845?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Dec 09 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/69387dbcb95c305f206db243?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Dec 09 |
-| **[McCain Foods](https://www.mccain.com/)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 09 |
+| **[McCain Foods](http://www.mccain.com)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Business Operations and Data Management Analyst - Management Analyst 2](https://jobright.ai/jobs/info/6938419fa0dde7020e30d087?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | On Site | Dec 09 |
 | **[KellyConnect | Contact Center Solutions](https://www.kellyconnect.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69377b621c1c2161c13f4f31?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN | Remote | Dec 08 |
-| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69373e731c1c2161c13f1e98?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f24e209cc522e8773dd11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 08 |
-| **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/693759c1a0dde7020e301ab7?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
-| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371d12a0dde7020e2ff0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69376d98aabec14a727c7e89?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69375316aabec14a727c673a?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371d12a0dde7020e2ff0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371cdea0dde7020e2ff0e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371925aabec14a727c408a?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/693718d41c1c2161c13f0870?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
@@ -114,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Educe](https://educegroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6937b9d1aabec14a727cc99a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 03 |
 | **[DRW](http://drw.com/)** | **[Business Analyst - Regulatory Technology](https://jobright.ai/jobs/info/6930fdcb4c474121999eb0a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 03 |
 | ↳ | **[Business Analyst - Regulatory Technology](https://jobright.ai/jobs/info/6930f2fafa28370be26b588f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago | On Site | Dec 03 |
-| **[Effectual](https://www.effectual.ai)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6930e2a74c474121999e9f56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
