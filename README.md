@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wyld](https://wyldcanna.com)** | **[Business Analyst](https://jobright.ai/jobs/info/693a196cac80bb5492bc993f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon - Clackamas | Hybrid | Dec 10 |
+| **[Wyld](https://wyldcanna.com)** | **[Business Analyst](https://jobright.ai/jobs/info/693a397248a8ce22990e34c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Clackamas, OR | Hybrid | Dec 10 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/693a196cac80bb5492bc993f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon - Clackamas | Hybrid | Dec 10 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/693a2f7e56b68f3dc4e780df?utm_campaign=Business%20Analyst&utm_source=1103)** | Clackamas, OR | Hybrid | Dec 10 |
 | **[KeyBank](https://www.key.com)** | **[Associate Business Analyst, Commercial Delivery - Key Navigator](https://jobright.ai/jobs/info/693a0c2056b68f3dc4e76b2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | On Site | Dec 10 |
 | ↳ | **[Associate Business Analyst, Commercial Delivery - Key Navigator](https://jobright.ai/jobs/info/6939ff1356b68f3dc4e75167?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | Hybrid | Dec 10 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Associate Business Analyst (6258)](https://jobright.ai/jobs/info/6939c3a9ac80bb5492bc49c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hybrid - Reston, VA | Hybrid | Dec 10 |
@@ -79,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[KellyConnect | Contact Center Solutions](https://www.kellyconnect.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69377b621c1c2161c13f4f31?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN | Remote | Dec 08 |
 | **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69373e731c1c2161c13f1e98?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f24e209cc522e8773dd11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 08 |
-| **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69376d98aabec14a727c7e89?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/693759c1a0dde7020e301ab7?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371d12a0dde7020e2ff0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371cdea0dde7020e2ff0e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371925aabec14a727c408a?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
@@ -113,6 +115,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69323dfcbc6af7687d9f4155?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, Indiana, United States | On Site | Dec 04 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/6931fc424c474121999f537d?utm_campaign=Business%20Analyst&utm_source=1103)** | 600 Community Drive, Manhasset, NY, 11030, US | On Site | Dec 04 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97b696de2db04dc3e96b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD | Hybrid | Dec 04 |
-| **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 04 |
-| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
