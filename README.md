@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/691503ad286ccf0a1512a459?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Dec 11 |
 | **[Wyld](https://wyldcanna.com)** | **[Business Analyst](https://jobright.ai/jobs/info/693a397248a8ce22990e34c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Clackamas, OR | Hybrid | Dec 10 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/693a196cac80bb5492bc993f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon - Clackamas | Hybrid | Dec 10 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/693a2f7e56b68f3dc4e780df?utm_campaign=Business%20Analyst&utm_source=1103)** | Clackamas, OR | Hybrid | Dec 10 |
@@ -110,7 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/6933f3ada0dde7020e2f3428?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Dec 05 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/69327f02764507023d1af01b?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Dec 04 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69326107f131d96e4845bb2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Dec 04 |
-| **[CBRE](https://www.cbre.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69324179f131d96e4845a339?utm_campaign=Business%20Analyst&utm_source=1103)** | Menlo Park, CA | On Site | Dec 04 |
-| **[CloudMasonry](https://cloudmasonry.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6932112cd0010831497bf020?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | Dec 04 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69323dfcbc6af7687d9f4155?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, Indiana, United States | On Site | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
