@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Best Job Tool](https://www.bestjobtool.com)** | **[Business Analyst](https://jobright.ai/jobs/info/693ae731d4054a2bc024d62d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 11 |
 | **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/691503ad286ccf0a1512a459?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Dec 11 |
 | **[Wyld](https://wyldcanna.com)** | **[Business Analyst](https://jobright.ai/jobs/info/693a397248a8ce22990e34c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Clackamas, OR | Hybrid | Dec 10 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/693a196cac80bb5492bc993f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oregon - Clackamas | Hybrid | Dec 10 |
@@ -80,10 +81,10 @@ For a complete list, click the following sortable link below:
 | **[McCain Foods](https://www.mccain.com/)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Business Operations and Data Management Analyst - Management Analyst 2](https://jobright.ai/jobs/info/6938419fa0dde7020e30d087?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | On Site | Dec 09 |
 | **[KellyConnect | Contact Center Solutions](https://www.kellyconnect.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69377b621c1c2161c13f4f31?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN | Remote | Dec 08 |
+| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69373e731c1c2161c13f1e98?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f24e209cc522e8773dd11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 08 |
-| **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69376d98aabec14a727c7e89?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
-| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69375316aabec14a727c673a?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
-| ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371d12a0dde7020e2ff0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/693759c1a0dde7020e301ab7?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371d12a0dde7020e2ff0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371cdea0dde7020e2ff0e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371925aabec14a727c408a?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/693718d41c1c2161c13f0870?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
@@ -100,10 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/693382fd764507023d1b652f?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Dec 05 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/693356cdf131d96e484622b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/69330afca0dde7020e2ea166?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | Dec 05 |
-| **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/69335627764507023d1b4653?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Dec 05 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6933589c764507023d1b48e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Garden Grove, CA | On Site | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/693311a6f131d96e4845f91b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, USA | On Site | Dec 05 |
-| **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6932fc9ea0dde7020e2e9b96?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA (Headquarters) | Hybrid | Dec 05 |
 | **[Altarum](http://www.altarum.org)** | **[Technical Business Analyst (Entry-Level)](https://jobright.ai/jobs/info/6932f9f4f131d96e4845ef1f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 05 |
 | ↳ | **[Technical Business Analyst (Entry-Level)](https://jobright.ai/jobs/info/6932f1ae764507023d1b1383?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 05 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6916e0c39c388539cbdff523?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 05 |
