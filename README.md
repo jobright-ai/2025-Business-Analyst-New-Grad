@@ -57,12 +57,36 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693c8a2350bbaf76504fc11a?utm_campaign=Business%20Analyst&utm_source=1103)** | TN - Knoxville | Hybrid | Dec 12 |
+| ↳ | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693c896049a7695fbd034678?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Dec 12 |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c877c50bbaf76504fbf0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c86e2aa598a08c3ed5cf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c846caa598a08c3ed5b79?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c83d7aa598a08c3ed5b1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c83c8aa598a08c3ed5b11?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c83b650bbaf76504fbc52?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c839eaa598a08c3ed5aee?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c837050bbaf76504fbc10?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c832949a7695fbd0342ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c831250bbaf76504fbb9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c82bcaa598a08c3ed5a15?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c81d650bbaf76504fba7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c81ca50bbaf76504fba6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c805a49a7695fbd034067?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7c42aa598a08c3ed5560?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7c25aa598a08c3ed5542?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7be3aa598a08c3ed550f?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 12 |
+| **[Best Job Tool](https://www.bestjobtool.com)** | **[Business Analyst](https://jobright.ai/jobs/info/693c7b3249a7695fbd033cf3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7a40aa598a08c3ed53e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7a3649a7695fbd033c47?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c896250bbaf76504fc079?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Dec 12 |
 | **[Thousand Hills Lifetime Grazed](https://thousandhillslifetimegrazed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/693c3d3750bbaf76504f818f?utm_campaign=Business%20Analyst&utm_source=1103)** | Becker, MN | On Site | Dec 12 |
 | **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - ATL](https://jobright.ai/jobs/info/693c385e50bbaf76504f7efa?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 12 |
 | ↳ | **[Business Analyst, Analytics & Benchmarking](https://jobright.ai/jobs/info/693c2d9150bbaf76504f7b19?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | ↳ | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/693c2ab949a7695fbd030261?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 12 |
 | ↳ | **[BUSINESS ANALYST - CHI](https://jobright.ai/jobs/info/693c386549a7695fbd0306a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analyst - Healthcare](https://jobright.ai/jobs/info/693c18ca50bbaf76504f6984?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
+| **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[GENERAL PROFESSIONAL IV (HEALTHCARE BUSINESS ANALYST) - EWA, OAHU](https://jobright.ai/jobs/info/693c7f21aa598a08c3ed5732?utm_campaign=Business%20Analyst&utm_source=1103)** | Oahu Island, HI | On Site | Dec 11 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/693bb7d049a7695fbd02a4d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp | On Site | Dec 11 |
 | **[Maimonides Medical Center](https://maimo.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/693b85a1b309e37800873238?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Dec 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analyst - Healthcare](https://jobright.ai/jobs/info/693b5106d4054a2bc025464e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States, Multiple Locations, Multiple Locations | Remote | Dec 11 |
@@ -90,10 +114,10 @@ For a complete list, click the following sortable link below:
 | **[McCain Foods](https://www.mccain.com/)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Business Operations and Data Management Analyst - Management Analyst 2](https://jobright.ai/jobs/info/6938419fa0dde7020e30d087?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | On Site | Dec 09 |
 | **[KellyConnect | Contact Center Solutions](https://www.kellyconnect.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69377b621c1c2161c13f4f31?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN | Remote | Dec 08 |
-| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69373e731c1c2161c13f1e98?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f24e209cc522e8773dd11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 08 |
-| **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/693759c1a0dde7020e301ab7?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
-| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371d12a0dde7020e2ff0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69376d98aabec14a727c7e89?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69375316aabec14a727c673a?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371d12a0dde7020e2ff0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371cdea0dde7020e2ff0e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371925aabec14a727c408a?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/693718d41c1c2161c13f0870?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
