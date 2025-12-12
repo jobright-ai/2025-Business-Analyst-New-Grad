@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thousand Hills Lifetime Grazed](https://thousandhillslifetimegrazed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/693c3d3750bbaf76504f818f?utm_campaign=Business%20Analyst&utm_source=1103)** | Becker, MN | On Site | Dec 12 |
 | **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - ATL](https://jobright.ai/jobs/info/693c385e50bbaf76504f7efa?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 12 |
 | ↳ | **[Business Analyst, Analytics & Benchmarking](https://jobright.ai/jobs/info/693c2d9150bbaf76504f7b19?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | ↳ | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/693c2ab949a7695fbd030261?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 12 |
@@ -93,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[KellyConnect | Contact Center Solutions](https://www.kellyconnect.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69377b621c1c2161c13f4f31?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN | Remote | Dec 08 |
 | **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69373e731c1c2161c13f1e98?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/691f24e209cc522e8773dd11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 08 |
-| **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/693759c1a0dde7020e301ab7?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
+| **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69376d98aabec14a727c7e89?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371d12a0dde7020e2ff0f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | ↳ | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371cdea0dde7020e2ff0e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/69371925aabec14a727c408a?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Dec 08 |
@@ -104,7 +105,4 @@ For a complete list, click the following sortable link below:
 | **[CME Group](http://www.cmegroup.com)** | **[Energy Business Analyst](https://jobright.ai/jobs/info/6933ef3bf131d96e48468571?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 06 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68c813f195f5211cd2ce12d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Dec 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933b143764507023d1b8616?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Dec 05 |
-| ↳ | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933a4bda0dde7020e2f00ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 05 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69339503a0dde7020e2ef5d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Dec 05 |
-| **[FPC International, Inc.](https://www.fpcintl.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6933b4d0f131d96e48466263?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
