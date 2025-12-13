@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/6921288c00c9ee50eaecc556?utm_campaign=Business%20Analyst&utm_source=1103)** | Holyoke, MA | Hybrid | Dec 13 |
+| **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/691d453ebcdbf3560c9ef358?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Dec 13 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/693cfda250bbaf7650502fde?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Bossier City | Hybrid | Dec 12 |
 | **[Invenergy](https://invenergy.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/693ce53849a7695fbd0392b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693cd944aa598a08c3eda21a?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Dec 12 |
