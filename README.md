@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[symplr](http://www.symplr.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/693c9d1f49a7695fbd036c05?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693c8a2350bbaf76504fc11a?utm_campaign=Business%20Analyst&utm_source=1103)** | TN - Knoxville | Hybrid | Dec 12 |
 | ↳ | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693c896049a7695fbd034678?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Dec 12 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c877c50bbaf76504fbf0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Dec 12 |
@@ -76,8 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7c42aa598a08c3ed5560?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Dec 12 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7c25aa598a08c3ed5542?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Dec 12 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7be3aa598a08c3ed550f?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 12 |
-| **[Best Job Tool](https://www.bestjobtool.com)** | **[Business Analyst](https://jobright.ai/jobs/info/693c7b3249a7695fbd033cf3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 12 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7a40aa598a08c3ed53e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 12 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7a40aa598a08c3ed53e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 12 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7a3649a7695fbd033c47?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Dec 12 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c896250bbaf76504fc079?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Dec 12 |
 | **[Thousand Hills Lifetime Grazed](https://thousandhillslifetimegrazed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/693c3d3750bbaf76504f818f?utm_campaign=Business%20Analyst&utm_source=1103)** | Becker, MN | On Site | Dec 12 |
