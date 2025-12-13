@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/692bdf504c474121999cf1e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Dec 13 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/693d851aaa598a08c3ee25ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA | Hybrid | Dec 13 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6920e5ada49a885af9a40690?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Dec 13 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/6921288c00c9ee50eaecc556?utm_campaign=Business%20Analyst&utm_source=1103)** | Holyoke, MA | Hybrid | Dec 13 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/691d453ebcdbf3560c9ef358?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Dec 13 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/693bb7d049a7695fbd02a4d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp | On Site | Dec 11 |
 | **[Maimonides Medical Center](https://maimo.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/693b85a1b309e37800873238?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Dec 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analyst - Healthcare](https://jobright.ai/jobs/info/693b5106d4054a2bc025464e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States, Multiple Locations, Multiple Locations | Remote | Dec 11 |
-| **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/693b6a19b309e37800872780?utm_campaign=Business%20Analyst&utm_source=1103)** | Portland, OR | On Site | Dec 11 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Analyst](https://jobright.ai/jobs/info/693b3706d4054a2bc0252468?utm_campaign=Business%20Analyst&utm_source=1103)** | Montpelier, VT, US | On Site | Dec 11 |
 | **[Maimonides Medical Center](https://maimo.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/693b5c73b309e37800871f1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Dec 11 |
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/693b39c7d4054a2bc025265e?utm_campaign=Business%20Analyst&utm_source=1103)** | Driveway Finance Corporation, Tigard, OR 97223 | Hybrid | Dec 11 |
