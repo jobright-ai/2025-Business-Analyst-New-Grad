@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Business Systems Analyst I (EDI/Insurance Application)](https://jobright.ai/jobs/info/6921287e00c9ee50eaecc548?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Dec 13 |
+| ↳ | **[Business Systems Analyst I (EDI/Insurance Application)](https://jobright.ai/jobs/info/692126ec3f782d2f1afcfc6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Remote | Dec 13 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/692bdf504c474121999cf1e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Dec 13 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/693d851aaa598a08c3ee25ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA | Hybrid | Dec 13 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6920e5ada49a885af9a40690?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Dec 13 |
