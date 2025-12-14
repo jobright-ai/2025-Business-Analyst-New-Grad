@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/693ee2ea50bbaf7650515ad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 14 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Dec 14 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Business Systems Analyst I (EDI/Insurance Application)](https://jobright.ai/jobs/info/6921287e00c9ee50eaecc548?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Dec 13 |
 | ↳ | **[Business Systems Analyst I (EDI/Insurance Application)](https://jobright.ai/jobs/info/692126ec3f782d2f1afcfc6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC | Remote | Dec 13 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/692bdf504c474121999cf1e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Dec 13 |
