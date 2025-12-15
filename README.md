@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axon US Corporation](https://www.axonuscorp.com/)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/69406043aa598a08c3f001fb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Dec 15 |
 | **[Jefferson County Government](https://www.linkedin.com/company/4368417)** | **[IT Business Analyst (SO)](https://jobright.ai/jobs/info/693fbf2849a7695fbd056b7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Golden | On Site | Dec 14 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Mgmt Analyst I - Retail KYC Enhanced Due Diligence Review](https://jobright.ai/jobs/info/693fac1a49a7695fbd056281?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Dec 14 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Dec 14 |
