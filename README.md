@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69333150764507023d1b2dfe?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Dec 16 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/6940ee5a49a7695fbd068579?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Dec 15 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69409a9249a7695fbd0628c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 15 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst](https://jobright.ai/jobs/info/69406f0049a7695fbd05f06f?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Dec 15 |
-| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089f950bbaf7650529a21?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | Hybrid | Dec 15 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089cb49a7695fbd061aa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota | Hybrid | Dec 15 |
+| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089cb49a7695fbd061aa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota | Hybrid | Dec 15 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089f950bbaf7650529a21?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | Hybrid | Dec 15 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6940895d50bbaf7650529898?utm_campaign=Business%20Analyst&utm_source=1103)** | Alexandria, VA | Hybrid | Dec 15 |
 | **[Jefferson County Government](https://www.linkedin.com/company/4368417)** | **[IT Business Analyst (SO)](https://jobright.ai/jobs/info/693fbf2849a7695fbd056b7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Golden | On Site | Dec 14 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Mgmt Analyst I - Retail KYC Enhanced Due Diligence Review](https://jobright.ai/jobs/info/693fac1a49a7695fbd056281?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Dec 14 |
@@ -72,9 +73,11 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6920e5ada49a885af9a40690?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Dec 13 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/6921288c00c9ee50eaecc556?utm_campaign=Business%20Analyst&utm_source=1103)** | Holyoke, MA | Hybrid | Dec 13 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/691d453ebcdbf3560c9ef358?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Dec 13 |
+| **[symplr](http://www.symplr.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69414887bdcf884a5add1ceb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69412e64bdcf884a5add18ae?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Dec 13 |
 | **[Invenergy](https://invenergy.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/693ce53849a7695fbd0392b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693cd944aa598a08c3eda21a?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Dec 12 |
-| **[Invenergy](https://invenergy.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/693cae2049a7695fbd0375ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
+| **[Invenergy](https://invenergy.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/693caf84aa598a08c3ed8e18?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693c8a2350bbaf76504fc11a?utm_campaign=Business%20Analyst&utm_source=1103)** | TN - Knoxville | Hybrid | Dec 12 |
 | ↳ | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693c896049a7695fbd034678?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Dec 12 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c877c50bbaf76504fbf0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Dec 12 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7a40aa598a08c3ed53e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 12 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7a3649a7695fbd033c47?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Dec 12 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c896250bbaf76504fc079?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Dec 12 |
-| **[Microsoft](https://www.microsoft.com)** | **[Business Analyst - Healthcare](https://jobright.ai/jobs/info/69412aeebdcf884a5add180a?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Dec 12 |
 | **[Thousand Hills Lifetime Grazed](https://thousandhillslifetimegrazed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/693c3d3750bbaf76504f818f?utm_campaign=Business%20Analyst&utm_source=1103)** | Becker, MN | On Site | Dec 12 |
 | **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - ATL](https://jobright.ai/jobs/info/693c385e50bbaf76504f7efa?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 12 |
 | ↳ | **[Business Analyst, Analytics & Benchmarking](https://jobright.ai/jobs/info/693c2d9150bbaf76504f7b19?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
@@ -120,7 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 10 |
 | **[Framatome](http://www.framatome.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6938cebab95c305f206e00ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Onsite | On Site | Dec 09 |
 | **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6938d3daaabec14a727dbb07?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Dec 09 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/69388ebbb95c305f206dbd73?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Dec 09 |
-| **[KMM Technologies, Inc.](http://kmmtechnologies.com)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/6938a8c9b95c305f206de845?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Hybrid | Dec 09 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/69387dbcb95c305f206db243?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
