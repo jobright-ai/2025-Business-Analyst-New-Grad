@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Taylor Corporation](https://taylor.taylor.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6941a778bdcf884a5add6828?utm_campaign=Business%20Analyst&utm_source=1103)** | MN-Remote | Remote | Dec 16 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Digital Business Analyst](https://jobright.ai/jobs/info/694187d650bbaf7650535e0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Home Office/Remote, PA #0688 | Remote | Dec 16 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69333150764507023d1b2dfe?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Dec 16 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/6940ee5a49a7695fbd068579?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Dec 15 |
