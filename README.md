@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/69426c59bdcf884a5ade48c0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 17 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/694266d1bdcf884a5ade43c8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69425d2614ee092a6900a4d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Dec 16 |
 | **[84.51˚](http://8451.com/)** | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/6941f7df14ee092a69001840?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Dec 16 |
 | **[Exemplis LLC](http://www.exemplis.com/)** | **[Business Analyst Jr](https://jobright.ai/jobs/info/6941f76150bbaf765053ca8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cypress, CA | Hybrid | Dec 16 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | Hybrid | Dec 15 |
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6941873450bbaf7650535da8?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Dec 15 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69409a9249a7695fbd0628c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 15 |
-| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089f950bbaf7650529a21?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | Hybrid | Dec 15 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089cb49a7695fbd061aa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota | Hybrid | Dec 15 |
+| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089cb49a7695fbd061aa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota | Hybrid | Dec 15 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089f950bbaf7650529a21?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | Hybrid | Dec 15 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst](https://jobright.ai/jobs/info/69406f0049a7695fbd05f06f?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Dec 15 |
 | **[Jefferson County Government](https://www.linkedin.com/company/4368417)** | **[IT Business Analyst (SO)](https://jobright.ai/jobs/info/693fbf2849a7695fbd056b7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Golden | On Site | Dec 14 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Mgmt Analyst I - Retail KYC Enhanced Due Diligence Review](https://jobright.ai/jobs/info/693fac1a49a7695fbd056281?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Dec 14 |
@@ -124,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/693b39c7d4054a2bc025265e?utm_campaign=Business%20Analyst&utm_source=1103)** | Driveway Finance Corporation, Tigard, OR 97223 | Hybrid | Dec 11 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Business Systems Administrator](https://jobright.ai/jobs/info/691f2be5a49a885af9a2cbae?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | Hybrid | Dec 11 |
 | **[Lazard](http://www.lazard.com)** | **[Healthcare Business Coordinator](https://jobright.ai/jobs/info/691503ad286ccf0a1512a459?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Dec 11 |
-| **[Slalom](http://www.slalom.com)** | **[Workday Business Analyst / Remote](https://jobright.ai/jobs/info/691be92d22a2cb4b9bd176ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Remote | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
