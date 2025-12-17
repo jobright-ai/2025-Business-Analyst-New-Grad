@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/694266d1bdcf884a5ade43c8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6909885bd046ab6061cd6614?utm_campaign=Business%20Analyst&utm_source=1103)** | Matthews, NC | On Site | Dec 17 |
+| **[Transamerica](http://www.transamerica.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6939ed2556b68f3dc4e73d7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | Hybrid | Dec 17 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/693c7fb550bbaf76504fb8c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Cedar Rapids, IA | Hybrid | Dec 17 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69332936a0dde7020e2eaeaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 17 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6933428fa0dde7020e2ebea0?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Dec 17 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/69426c59bdcf884a5ade48c0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 17 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69425d2614ee092a6900a4d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Dec 16 |
 | **[84.51˚](http://8451.com/)** | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/69428744dd382f5f56689c43?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 16 |
 | ↳ | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/6941f7df14ee092a69001840?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Dec 16 |
