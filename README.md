@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nelson Miller Group](https://nelsonmillergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6943ba9650bbaf765055b54c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fitchburg, MA | On Site | Dec 18 |
+| **[Odoo](http://www.odoo.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/6943cc7f50bbaf765055d302?utm_campaign=Business%20Analyst&utm_source=1103)** | Brisbane, CA | Hybrid | Dec 17 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 17 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69438b77dd382f5f5669af82?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 17 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/6943871c94730b739876a3a2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | Hybrid | Dec 17 |
@@ -65,13 +67,12 @@ For a complete list, click the following sortable link below:
 | **[Alliant Insurance Services](https://alliant.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69430abc50bbaf765054e460?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE, USA | On Site | Dec 17 |
 | **[ExtraHop](http://www.extrahop.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69431fd250bbaf765054f7ec?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 17 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/6942ccc4dd382f5f5668c845?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Dec 17 |
-| **[Aegon](https://www.aegon.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6926633527bf2f41a2c45bfe?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 17 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6909885bd046ab6061cd6614?utm_campaign=Business%20Analyst&utm_source=1103)** | Matthews, NC | On Site | Dec 17 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Dec 17 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Dec 17 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 17 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/6926206a27bf2f41a2c43928?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Dec 17 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/694266d1bdcf884a5ade43c8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/69426c59bdcf884a5ade48c0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 17 |
 | **[ThinkTek](https://www.thinktekllc.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6943592e50bbaf76505538da?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | On Site | Dec 16 |
 | **[84.51˚](http://8451.com/)** | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/69428744dd382f5f56689c43?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 16 |
 | ↳ | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/6941f7df14ee092a69001840?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Dec 16 |
@@ -80,8 +81,7 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Digital Business Analyst](https://jobright.ai/jobs/info/694187d650bbaf7650535e0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Home Office/Remote, PA #0688 | Remote | Dec 16 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69420225bdcf884a5addbafd?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Dec 16 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69333150764507023d1b2dfe?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Dec 16 |
-| **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/6940ee5a49a7695fbd068579?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Dec 15 |
-| ↳ | **[IT Rotational Development Program](https://jobright.ai/jobs/info/6941ed8914ee092a6900074f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Dec 15 |
+| **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/6941ed8914ee092a6900074f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Dec 15 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | Hybrid | Dec 15 |
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6941873450bbaf7650535da8?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Dec 15 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69409a9249a7695fbd0628c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 15 |
@@ -133,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Maimonides Medical Center](https://maimo.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/693b85a1b309e37800873238?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Dec 11 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Analyst](https://jobright.ai/jobs/info/693b3706d4054a2bc0252468?utm_campaign=Business%20Analyst&utm_source=1103)** | Montpelier, VT, US | On Site | Dec 11 |
 | **[Maimonides Medical Center](https://maimo.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/693b5c73b309e37800871f1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Dec 11 |
-| **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/693b39c7d4054a2bc025265e?utm_campaign=Business%20Analyst&utm_source=1103)** | Driveway Finance Corporation, Tigard, OR 97223 | Hybrid | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
