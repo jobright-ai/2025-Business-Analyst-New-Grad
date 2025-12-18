@@ -57,19 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Street](http://www.statestreet.com)** | **[IAM IGA Business Analyst](https://jobright.ai/jobs/info/69441ef4dd382f5f566a3380?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Dec 18 |
+| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 18 |
+| **[Nelson Miller Group](https://nelsonmillergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/694416a7dd382f5f566a2ff8?utm_campaign=Business%20Analyst&utm_source=1103)** | Fitchburg, MA | On Site | Dec 18 |
+| **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Experienced Business Analyst - Premises](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Dec 18 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Assistant Analyst – Business Solutions & Analytics](https://jobright.ai/jobs/info/6944052c50bbaf7650560819?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Dec 18 |
+| **[Minnesota Department of Corrections](https://mn.gov/doc)** | **[Business Analyst & Information Liaison - Project Specialist](https://jobright.ai/jobs/info/6944136194730b7398773e87?utm_campaign=Business%20Analyst&utm_source=1103)** | St Paul, MN | On Site | Dec 18 |
 | **[DISH TV](https://www.dish.com)** | **[Business Operations Analyst II](https://jobright.ai/jobs/info/68cb8f0aba798c1a501d1a81?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Dec 18 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6944041f94730b73987734db?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Dec 18 |
-| **[Nelson Miller Group](https://nelsonmillergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6943ba9650bbaf765055b54c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fitchburg, MA | On Site | Dec 18 |
 | **[Odoo](http://www.odoo.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/6943cc7f50bbaf765055d302?utm_campaign=Business%20Analyst&utm_source=1103)** | Brisbane, CA | Hybrid | Dec 17 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 17 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69438b77dd382f5f5669af82?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 17 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/6943871c94730b739876a3a2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | Hybrid | Dec 17 |
 | **[Natixis Corporate & Investment Banking](https://cib.natixis.com)** | **[Front Office and Regulatory IT Business Analysts](https://jobright.ai/jobs/info/694316da94730b7398761960?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 17 |
 | **[ExtraHop](http://www.extrahop.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69432d0550bbaf76505504a3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 17 |
-| **[Alliant Insurance Services](https://alliant.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69430abc50bbaf765054e460?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE, USA | On Site | Dec 17 |
-| **[ExtraHop](http://www.extrahop.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69431fd250bbaf765054f7ec?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 17 |
-| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/6942ccc4dd382f5f5668c845?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Dec 17 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69431fd250bbaf765054f7ec?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 17 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6909885bd046ab6061cd6614?utm_campaign=Business%20Analyst&utm_source=1103)** | Matthews, NC | On Site | Dec 17 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/690991babcccf20de59dc7e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Dec 17 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Dec 17 |
@@ -131,7 +133,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/693c2ab949a7695fbd030261?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 12 |
 | ↳ | **[BUSINESS ANALYST - CHI](https://jobright.ai/jobs/info/693c386549a7695fbd0306a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6943d35cdd382f5f5669f831?utm_campaign=Business%20Analyst&utm_source=1103)** | Portland, OR | On Site | Dec 12 |
-| **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[GENERAL PROFESSIONAL IV (HEALTHCARE BUSINESS ANALYST) - EWA, OAHU](https://jobright.ai/jobs/info/693c7f21aa598a08c3ed5732?utm_campaign=Business%20Analyst&utm_source=1103)** | Oahu Island, HI | On Site | Dec 11 |
-| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/693bb7d049a7695fbd02a4d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp | On Site | Dec 11 |
-| **[Maimonides Medical Center](https://maimo.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/693b85a1b309e37800873238?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
