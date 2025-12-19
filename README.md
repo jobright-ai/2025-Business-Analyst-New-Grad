@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - ATL](https://jobright.ai/jobs/info/693c385e50bbaf76504f7efa?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 12 |
 | ↳ | **[Business Analyst, Analytics & Benchmarking](https://jobright.ai/jobs/info/693c2d9150bbaf76504f7b19?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | ↳ | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/693c2ab949a7695fbd030261?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 12 |
-| ↳ | **[BUSINESS ANALYST - CHI](https://jobright.ai/jobs/info/693c386549a7695fbd0306a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
