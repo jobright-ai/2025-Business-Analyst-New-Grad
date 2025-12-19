@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst -  Strategy & Corporate Finance](https://jobright.ai/jobs/info/6944adb650bbaf765056c54f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Dec 18 |
+| **[Simon Fraser University](https://www.sfu.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6944a43750bbaf765056be77?utm_campaign=Business%20Analyst&utm_source=1103)** | Burnaby, British Columbia, Canada | Hybrid | Dec 18 |
+| **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst (Enterprise Systems)](https://jobright.ai/jobs/info/6944a128a7227b3ece66393d?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Dec 18 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[Business Process Analyst, I](https://jobright.ai/jobs/info/6944870494730b739877c168?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo Grove, IL | On Site | Dec 18 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6944841a50bbaf76505693c5?utm_campaign=Business%20Analyst&utm_source=1103)** | USA NY Menands | Hybrid | Dec 18 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/69447a3d94730b739877b403?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Dec 18 |
