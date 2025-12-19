@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6944c17e94730b739878048b?utm_campaign=Business%20Analyst&utm_source=1103)** | Menands, NY | Hybrid | Dec 18 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst -  Strategy & Corporate Finance](https://jobright.ai/jobs/info/6944adb650bbaf765056c54f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Dec 18 |
 | **[Simon Fraser University](https://www.sfu.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6944a43750bbaf765056be77?utm_campaign=Business%20Analyst&utm_source=1103)** | Burnaby, British Columbia, Canada | Hybrid | Dec 18 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst (Enterprise Systems)](https://jobright.ai/jobs/info/6944a128a7227b3ece66393d?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Dec 18 |
@@ -83,7 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Dec 17 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 17 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/6926206a27bf2f41a2c43928?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Dec 17 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/69426c59bdcf884a5ade48c0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 17 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/694266d1bdcf884a5ade43c8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
 | **[84.51˚](http://8451.com/)** | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/69428744dd382f5f56689c43?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 16 |
 | ↳ | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/6941f7df14ee092a69001840?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Dec 16 |
 | **[Regal Medical Group](https://www.regalmed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941cead14ee092a69ffe311?utm_campaign=Business%20Analyst&utm_source=1103)** | West Hills, CA | On Site | Dec 16 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | Hybrid | Dec 15 |
 | **[IMT Insurance](http://imtins.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6941873450bbaf7650535da8?utm_campaign=Business%20Analyst&utm_source=1103)** | West Des Moines, IA | Hybrid | Dec 15 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69409a9249a7695fbd0628c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 15 |
-| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089cb49a7695fbd061aa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota | Hybrid | Dec 15 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089f950bbaf7650529a21?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | Hybrid | Dec 15 |
+| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089f950bbaf7650529a21?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | Hybrid | Dec 15 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089cb49a7695fbd061aa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota | Hybrid | Dec 15 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Mgmt Analyst I - Retail KYC Enhanced Due Diligence Review](https://jobright.ai/jobs/info/693fac1a49a7695fbd056281?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Dec 14 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Dec 14 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/694476ec94730b739877ab24?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA | Hybrid | Dec 13 |
@@ -108,7 +109,7 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/694473a150bbaf7650567937?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Bossier City | Hybrid | Dec 12 |
 | **[Invenergy](https://invenergy.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/693ce53849a7695fbd0392b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693cd944aa598a08c3eda21a?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Dec 12 |
-| **[Invenergy](https://invenergy.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/693cae2049a7695fbd0375ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
+| **[Invenergy](https://invenergy.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/693caf84aa598a08c3ed8e18?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693c8a2350bbaf76504fc11a?utm_campaign=Business%20Analyst&utm_source=1103)** | TN - Knoxville | Hybrid | Dec 12 |
 | ↳ | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693c896049a7695fbd034678?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Dec 12 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c877c50bbaf76504fbf0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Dec 12 |
@@ -133,6 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c896250bbaf76504fc079?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Dec 12 |
 | **[Thousand Hills Lifetime Grazed](https://thousandhillslifetimegrazed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/693c3d3750bbaf76504f818f?utm_campaign=Business%20Analyst&utm_source=1103)** | Becker, MN | On Site | Dec 12 |
 | **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - ATL](https://jobright.ai/jobs/info/693c385e50bbaf76504f7efa?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 12 |
-| ↳ | **[Business Analyst, Analytics & Benchmarking](https://jobright.ai/jobs/info/693c2d9150bbaf76504f7b19?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
-| ↳ | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/693c2ab949a7695fbd030261?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
