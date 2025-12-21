@@ -95,7 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Dec 17 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 17 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/6926206a27bf2f41a2c43928?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Dec 17 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/69426c59bdcf884a5ade48c0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 17 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/694266d1bdcf884a5ade43c8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
 | **[84.51˚](http://8451.com/)** | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/69428744dd382f5f56689c43?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 16 |
 | ↳ | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/6941f7df14ee092a69001840?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Dec 16 |
 | **[Regal Medical Group](https://www.regalmed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941cead14ee092a69ffe311?utm_campaign=Business%20Analyst&utm_source=1103)** | West Hills, CA | On Site | Dec 16 |
