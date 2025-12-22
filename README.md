@@ -100,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/6941f7df14ee092a69001840?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Dec 16 |
 | **[Regal Medical Group](https://www.regalmed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941cead14ee092a69ffe311?utm_campaign=Business%20Analyst&utm_source=1103)** | West Hills, CA | On Site | Dec 16 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Digital Business Analyst](https://jobright.ai/jobs/info/694187d650bbaf7650535e0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Home Office/Remote, PA #0688 | Remote | Dec 16 |
+| **[ThinkTek](https://www.thinktekllc.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/694971237d506e3808f48f3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | On Site | Dec 16 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69420225bdcf884a5addbafd?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Dec 16 |
-| **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/6941ed8914ee092a6900074f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Dec 15 |
-| **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | Hybrid | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
