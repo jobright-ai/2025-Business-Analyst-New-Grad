@@ -108,4 +108,5 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69409a9249a7695fbd0628c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 15 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089cb49a7695fbd061aa4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota | Hybrid | Dec 15 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/694089f950bbaf7650529a21?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina | Hybrid | Dec 15 |
+| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Business Analyst](https://jobright.ai/jobs/info/69406f0049a7695fbd05f06f?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
