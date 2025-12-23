@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Energy Transport Logistics](https://energytransportlogistics.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/694a4ce931c12007d3b90d75?utm_campaign=Business%20Analyst&utm_source=1103)** | Corporate - Tolleson, AZ 85353 | On Site | Dec 23 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/694a2a10c6f0e2546cef3b95?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Dec 22 |
 | **[ASCD](http://www.ascd.org)** | **[Business Analyst](https://jobright.ai/jobs/info/694a1c5663141d188459cc9b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2111 WILSON BLVD SUITE 300 - ARLINGTON, VA 22201 | Hybrid | Dec 22 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/6949f5f87d506e3808f5058b?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | On Site | Dec 22 |
@@ -103,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/694266d1bdcf884a5ade43c8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
 | **[84.51˚](http://8451.com/)** | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/69428744dd382f5f56689c43?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 16 |
 | ↳ | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/6941f7df14ee092a69001840?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Dec 16 |
-| **[Regal Medical Group](https://www.regalmed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941cead14ee092a69ffe311?utm_campaign=Business%20Analyst&utm_source=1103)** | West Hills, CA | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
