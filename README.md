@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Generation Reshaping/Very Large Customer](https://jobright.ai/jobs/info/6946097c63141d188455b90b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Dec 19 |
 | ↳ | **[Business Analyst - Generation Reshaping/Very Large Customer](https://jobright.ai/jobs/info/694603dd7d506e3808f1541f?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Dec 19 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/694603bfd1953b5d11bf1de9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 19 |
-| **[Gold Coast Health Plan](https://www.goldcoasthealthplan.org/)** | **[Operations Business Analyst I](https://jobright.ai/jobs/info/6945ff977d506e3808f1498a?utm_campaign=Business%20Analyst&utm_source=1103)** | Camarillo, CA | On Site | Dec 19 |
-| ↳ | **[Operations Business Analyst I](https://jobright.ai/jobs/info/6945ffba7d506e3808f149e1?utm_campaign=Business%20Analyst&utm_source=1103)** | CA | On Site | Dec 19 |
+| **[Gold Coast Health Plan](https://www.goldcoasthealthplan.org/)** | **[Operations Business Analyst I](https://jobright.ai/jobs/info/6945ffba7d506e3808f149e1?utm_campaign=Business%20Analyst&utm_source=1103)** | CA | On Site | Dec 19 |
+| ↳ | **[Operations Business Analyst I](https://jobright.ai/jobs/info/6945ff977d506e3808f1498a?utm_campaign=Business%20Analyst&utm_source=1103)** | Camarillo, CA | On Site | Dec 19 |
 | **[State of Arizona](https://az.gov/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6945fd47d1953b5d11bf0efe?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Dec 19 |
 | **[RWI Logistics LLC](https://www.rwilogistics.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/6945ca2f951654073537e77f?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati Metro | On Site | Dec 19 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Analyst, Demand Planning](https://jobright.ai/jobs/info/6945c213951654073537df78?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hanover, New Jersey, United States | Hybrid | Dec 19 |
@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[84.51˚](http://8451.com/)** | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/69428744dd382f5f56689c43?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 16 |
 | ↳ | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/6941f7df14ee092a69001840?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Dec 16 |
 | **[Regal Medical Group](https://www.regalmed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941cead14ee092a69ffe311?utm_campaign=Business%20Analyst&utm_source=1103)** | West Hills, CA | On Site | Dec 16 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Digital Business Analyst](https://jobright.ai/jobs/info/694187d650bbaf7650535e0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Home Office/Remote, PA #0688 | Remote | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
