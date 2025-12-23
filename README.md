@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GRAYCE](https://grayce.co.uk/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6927468091ceeb2e8a53dbcf?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Dec 23 |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e0697ef4b48533d13bc12?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 23 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 23 |
 | **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/69334b3cf131d96e48461801?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | Hybrid | Dec 23 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/694a67a6187e565c6bfa61c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 23 |
 | **[Energy Transport Logistics](https://energytransportlogistics.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/694a4ce931c12007d3b90d75?utm_campaign=Business%20Analyst&utm_source=1103)** | Corporate - Tolleson, AZ 85353 | On Site | Dec 23 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/694a2a10c6f0e2546cef3b95?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Dec 22 |
 | **[ASCD](http://www.ascd.org)** | **[Business Analyst](https://jobright.ai/jobs/info/694a1c5663141d188459cc9b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2111 WILSON BLVD SUITE 300 - ARLINGTON, VA 22201 | Hybrid | Dec 22 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/69499a9663141d1884593881?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Dec 22 |
 | ↳ | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/694990b27d506e3808f4b68d?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Dec 22 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6922793a7795cd460c835b39?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Dec 22 |
-| **[Valorantum](valorantum.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/6948d826d1953b5d11c1f0b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Dec 21 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Analyst, Demand Planning](https://jobright.ai/jobs/info/6946af367d506e3808f2157c?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hanover, NJ | On Site | Dec 20 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/691ab56715b415636718a1fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Dec 20 |
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Generation Reshaping/Very Large Customer](https://jobright.ai/jobs/info/6946097c63141d188455b90b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Dec 19 |
@@ -104,6 +105,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Dec 17 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/6926206a27bf2f41a2c43928?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Dec 17 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/694266d1bdcf884a5ade43c8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 16 |
-| **[84.51˚](http://8451.com/)** | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/69428744dd382f5f56689c43?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 16 |
-| ↳ | **[Business Analyst (P3445)](https://jobright.ai/jobs/info/6941f7df14ee092a69001840?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
