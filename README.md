@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694aff8667a69734cac6120c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 23 |
 | **[IBM](http://www.ibm.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/694afee33019f50a4fe60679?utm_campaign=Business%20Analyst&utm_source=1103)** | Armonk, NY | Hybrid | Dec 23 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst - Energy Supply](https://jobright.ai/jobs/info/694b02b33019f50a4fe609f3?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, 80202 | On Site | Dec 23 |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Business Analyst - RPA](https://jobright.ai/jobs/info/694b9a77d64ebf28d8215aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunnyvale, CA | On Site | Dec 23 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Administrator](https://jobright.ai/jobs/info/694aa1021224705e9001c976?utm_campaign=Business%20Analyst&utm_source=1103)** | Redmond, WA | On Site | Dec 23 |
 | **[GRAYCE](https://grayce.co.uk/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6927468091ceeb2e8a53dbcf?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Dec 23 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e0697ef4b48533d13bc12?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 23 |
@@ -75,8 +74,7 @@ For a complete list, click the following sortable link below:
 | **[ASCD](http://www.ascd.org)** | **[Business Analyst](https://jobright.ai/jobs/info/694a1c5663141d188459cc9b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2111 WILSON BLVD SUITE 300 - ARLINGTON, VA 22201 | Hybrid | Dec 22 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/6949f5f87d506e3808f5058b?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | On Site | Dec 22 |
 | ↳ | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/6949fcd9c6f0e2546ceed68d?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Dec 22 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6949c4fb63141d18845967fc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 22 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/694a1127c6f0e2546cef0e2e?utm_campaign=Business%20Analyst&utm_source=1103)** | NJM - Trenton | On Site | Dec 22 |
+| ↳ | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/694a1127c6f0e2546cef0e2e?utm_campaign=Business%20Analyst&utm_source=1103)** | NJM - Trenton | On Site | Dec 22 |
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/69499a9663141d1884593881?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Dec 22 |
 | ↳ | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/694990b27d506e3808f4b68d?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Dec 22 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6922793a7795cd460c835b39?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Dec 22 |
@@ -106,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/6943871c94730b739876a3a2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | Hybrid | Dec 17 |
 | **[Natixis Corporate & Investment Banking](https://cib.natixis.com)** | **[Front Office and Regulatory IT Business Analysts](https://jobright.ai/jobs/info/694316da94730b7398761960?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 17 |
 | **[ExtraHop](http://www.extrahop.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69432d0550bbaf76505504a3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 17 |
-| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69431fd250bbaf765054f7ec?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
