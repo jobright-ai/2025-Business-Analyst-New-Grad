@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/692f76e6fa28370be26aa732?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | Hybrid | Dec 24 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/6941ed8914ee092a6900074f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Dec 23 |
-| **[State Street](http://www.statestreet.com)** | **[IAM IGA Business Analyst](https://jobright.ai/jobs/info/694b4f415d731211346fdc12?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Dec 23 |
+| **[State Street](https://www.statestreet.com/)** | **[IAM IGA Business Analyst](https://jobright.ai/jobs/info/694b4f415d731211346fdc12?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Dec 23 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst - Energy Supply](https://jobright.ai/jobs/info/694b49f21224705e90027211?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Dec 23 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694b11704b53a1551f94c4e3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 23 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694aff8667a69734cac6120c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 23 |
@@ -102,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 17 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69438b77dd382f5f5669af82?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Dec 17 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/6943871c94730b739876a3a2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | Hybrid | Dec 17 |
-| **[Natixis Corporate & Investment Banking](https://cib.natixis.com)** | **[Front Office and Regulatory IT Business Analysts](https://jobright.ai/jobs/info/694316da94730b7398761960?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 17 |
-| **[ExtraHop](http://www.extrahop.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69432d0550bbaf76505504a3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
