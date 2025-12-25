@@ -57,9 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arvento A](arventoa.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/694d72b2f5bef51c96eb097b?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | On Site | Dec 25 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694d967fd4a7df7a067297c7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 25 |
 | **[DRW](http://drw.com/)** | **[Business Analyst - Regulatory Technology](https://jobright.ai/jobs/info/6930fdcb4c474121999eb0a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 25 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694d4e9e29655e4dd657571f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 25 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/694c8c771a572a617ddeaf1f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 24 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Business Analyst](https://jobright.ai/jobs/info/694c6e365d7312113470d9d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Dec 24 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/694c53e65d7312113470c80c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States Work at Home | Remote | Dec 24 |
