@@ -91,7 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6922793a7795cd460c835b39?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Dec 22 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Analyst, Demand Planning](https://jobright.ai/jobs/info/6946af367d506e3808f2157c?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hanover, NJ | On Site | Dec 20 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/691ab56715b415636718a1fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | On Site | Dec 20 |
-| **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Generation Reshaping/Very Large Customer](https://jobright.ai/jobs/info/6946097c63141d188455b90b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Dec 19 |
-| ↳ | **[Business Analyst - Generation Reshaping/Very Large Customer](https://jobright.ai/jobs/info/694603dd7d506e3808f1541f?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Dec 19 |
-| **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/694603bfd1953b5d11bf1de9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
