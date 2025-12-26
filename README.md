@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 26 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694d967fd4a7df7a067297c7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 25 |
 | **[DRW](http://drw.com/)** | **[Business Analyst - Regulatory Technology](https://jobright.ai/jobs/info/6930fdcb4c474121999eb0a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 25 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/694c8c771a572a617ddeaf1f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 24 |
@@ -93,6 +94,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Business Analyst I](https://jobright.ai/jobs/info/6945ff977d506e3808f1498a?utm_campaign=Business%20Analyst&utm_source=1103)** | Camarillo, CA | On Site | Dec 19 |
 | **[State of Arizona](https://az.gov/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6945fd47d1953b5d11bf0efe?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Dec 19 |
 | **[RWI Logistics LLC](https://www.rwilogistics.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/6945ca2f951654073537e77f?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati Metro | On Site | Dec 19 |
-| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Analyst, Demand Planning](https://jobright.ai/jobs/info/6945c213951654073537df78?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hanover, New Jersey, United States | Hybrid | Dec 19 |
-| **[RWI Logistics LLC](https://www.rwilogistics.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/6945cea463141d1884555f05?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Thomas, KY | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
