@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BETA TECHNOLOGIES](https://www.beta.team)** | **[Sustainability Analyst / Business Operations](https://jobright.ai/jobs/info/694f63cda2668b7f54528aae?utm_campaign=Business%20Analyst&utm_source=1103)** | South Burlington, VT | On Site | Dec 26 |
+| **[Stratify Edge](stratifyedge.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/694f92eda2668b7f5452bc1b?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | On Site | Dec 27 |
+| **[BETA TECHNOLOGIES](https://www.beta.team)** | **[Sustainability Analyst / Business Operations](https://jobright.ai/jobs/info/694f8c61ce13cd105657b34d?utm_campaign=Business%20Analyst&utm_source=1103)** | South Burlington, VT | On Site | Dec 26 |
 | **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/694f2ed629655e4dd658b3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Dec 26 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694efddc29655e4dd658922a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 26 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/694603bfd1953b5d11bf1de9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Dec 26 |
