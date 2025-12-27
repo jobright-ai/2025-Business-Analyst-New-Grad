@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/694f2ed629655e4dd658b3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Dec 26 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694efddc29655e4dd658922a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 26 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/694603bfd1953b5d11bf1de9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Dec 26 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/694ee85b29655e4dd65873c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Dec 26 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Research IS Business Systems Analyst](https://jobright.ai/jobs/info/694edd1fa2668b7f5452222c?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Dec 26 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694e8fd2a2668b7f5451f61b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 26 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97b696de2db04dc3e96b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD | Hybrid | Dec 26 |
 | ↳ | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/6933f3ada0dde7020e2f3428?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Dec 26 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 26 |
