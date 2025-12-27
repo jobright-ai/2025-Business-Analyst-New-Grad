@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BETA TECHNOLOGIES](https://www.beta.team)** | **[Sustainability Analyst / Business Operations](https://jobright.ai/jobs/info/694f63cda2668b7f54528aae?utm_campaign=Business%20Analyst&utm_source=1103)** | South Burlington, VT | On Site | Dec 26 |
 | **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/694f2ed629655e4dd658b3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Dec 26 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694efddc29655e4dd658922a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 26 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/694603bfd1953b5d11bf1de9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Dec 26 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/6933f3ada0dde7020e2f3428?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Dec 26 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 26 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 26 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694d967fd4a7df7a067297c7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 25 |
 | **[DRW](http://drw.com/)** | **[Business Analyst - Regulatory Technology](https://jobright.ai/jobs/info/6930fdcb4c474121999eb0a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 25 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/694c8c771a572a617ddeaf1f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 24 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Business Analyst](https://jobright.ai/jobs/info/694c6e365d7312113470d9d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Dec 24 |
@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/69499a9663141d1884593881?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Dec 22 |
 | ↳ | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/694990b27d506e3808f4b68d?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Dec 22 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6922793a7795cd460c835b39?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Dec 22 |
-| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Analyst, Demand Planning](https://jobright.ai/jobs/info/6946af367d506e3808f2157c?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hanover, NJ | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
