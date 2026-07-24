@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Personal Lines - Business Analyst I-lll](https://jobright.ai/jobs/info/6a63b75a8d53603449603dd0?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfield, OH, United States | On Site | Jul 24 |
+| **[Marshall+Sterling](https://www.marshallsterling.com/)** | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a63b21887cef057612ca0ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY, United States | Hybrid | Jul 24 |
 | **[First American](http://www.firstam.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a63acb30c8e2b4f36dcf223?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, District of Columbia, United States | Remote | Jul 24 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Business Operations Assistant Analyst](https://jobright.ai/jobs/info/6a63a32e8d53603449603731?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA, United States | On Site | Jul 24 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Operations Assistant Analyst](https://jobright.ai/jobs/info/6a639e17e8d8d22e32929c86?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA, United States | On Site | Jul 24 |
@@ -81,11 +83,11 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6a61c7fceaa37f43e758a02f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 22 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a54e04a81744f383a313937?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 22 |
 | **[Link Snacks](www.LinkSnacks.com)** | **[Business Process Control Analyst - 3nd Shift](https://jobright.ai/jobs/info/6a5fda1fb0f20036bc6337fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA, United States | On Site | Jul 22 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Jul 22 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Jul 22 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Jul 22 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Jul 22 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Jul 22 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Jul 22 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Jul 22 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Jul 22 |
 | **[Mercer Valve Co., Inc.](https://www.mercervalve.net)** | **[PROCESS WRITER TIER 2](https://jobright.ai/jobs/info/6a60baf0193c4d692385f302?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK, United States | On Site | Jul 22 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[(TCap) Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a60b740a0dbef49469b89bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 22 |
 | **[Kearney](https://www.jp.kearney.com/)** | **[Kearney Business Analyst 2027](https://jobright.ai/jobs/info/6a609b2671c79e639619bdc1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 22 |
@@ -141,6 +143,5 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a3eedc078237a036d5e604c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, United States | On Site | Jul 18 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 18 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a06020f320bff2205ea6fe8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Jul 18 |
-| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53dad891d7b11cfd00467?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Jul 18 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[Business Process Analyst - Level 1](https://jobright.ai/jobs/info/6a5940de63a8f619507c13be?utm_campaign=Business%20Analyst&utm_source=1103)** | Redondo Beach, CA, United States | On Site | Jul 17 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d9e366bb95ba554360b?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
