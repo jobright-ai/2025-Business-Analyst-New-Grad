@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Jul 26 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a31550ec477a5075f48c62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Jul 26 |
 | **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[(BA-JR) Junior Business Analyst](https://jobright.ai/jobs/info/6a538776e726ec56126a71b8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 26 |
 | **[Insurify](http://insurify.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a5a74e04da96a42cfd9600e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA, United States | Hybrid | Jul 25 |
@@ -85,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Jul 24 |
 | **[PNC](http://www.sterlingfi.com/)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/6a6260d5f805ef6ff4232815?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Jul 24 |
 | **[CGI](https://www.cgi.com/)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a62eaa0426d415f66360f51?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | Hybrid | Jul 23 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a488f3af9cbb100d1ab2b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, US | Hybrid | Jul 23 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a488f293dbab558e29acf73?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, US | Hybrid | Jul 23 |
 | **[goeasy Ltd.](http://www.goeasy.com)** | **[Insights Analyst (Operations & Analytics)](https://jobright.ai/jobs/info/6a62e40a7c70964cbb054a3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Hybrid | Jul 23 |
 | **[Rainbow Greenhouses Inc](https://www.rainbow.ca)** | **[Business Analyst & Programs Student](https://jobright.ai/jobs/info/6a54f095ae07d60a8d00ddd1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chilliwack, BC, Canada | On Site | Jul 23 |
 | **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3c23d9d261407de97fc8f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Benicia, CA, United States | Hybrid | Jul 23 |
@@ -96,10 +97,10 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6a61c7fceaa37f43e758a02f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 22 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a54e04a81744f383a313937?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 22 |
 | **[Link Snacks](www.LinkSnacks.com)** | **[Business Process Control Analyst - 3nd Shift](https://jobright.ai/jobs/info/6a5fda1fb0f20036bc6337fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA, United States | On Site | Jul 22 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Jul 22 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Jul 22 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Jul 22 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Jul 22 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Jul 22 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Jul 22 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Jul 22 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Jul 22 |
 | **[Mercer Valve Co., Inc.](https://www.mercervalve.net)** | **[PROCESS WRITER TIER 2](https://jobright.ai/jobs/info/6a60baf0193c4d692385f302?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK, United States | On Site | Jul 22 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[(TCap) Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a60b740a0dbef49469b89bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 22 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a281d2140ac8e329329ef1b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 21 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a56844ef7517b519ad56452?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 21 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a5fa54a6e0c3c7c7d3d80cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, United States | On Site | Jul 21 |
-| **[Covista](https://covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568bd5e9b77f668bd641ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 21 |
-| ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568b43f7517b519ad566d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | Hybrid | Jul 21 |
+| **[Covista](https://covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568b43f7517b519ad566d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | Hybrid | Jul 21 |
+| ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568bd5e9b77f668bd641ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 21 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Business Process & CI Analyst – Finance](https://jobright.ai/jobs/info/6a4b2b1bc2d11a6a46677513?utm_campaign=Business%20Analyst&utm_source=1103)** | Montréal, QC, Canada | Hybrid | Jul 21 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-cko_test3_10272020](https://jobright.ai/jobs/info/6a5f8ea7193b51130967935c?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA, United States | On Site | Jul 21 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a09cf3a8f3e371eb61861a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jul 21 |
@@ -138,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a648c2c5c7e2d715ebb0473?utm_campaign=Business%20Analyst&utm_source=1103)** | Montpelier, VT, United States | On Site | Jul 20 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a51d1fabf63b66c7997d70d?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, United States | On Site | Jul 19 |
 | **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/6a5d3aad4da96a42cfd9e080?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Jul 19 |
-| **[Infinity Air Group](https://www.infinityair.com)** | **[Business Analyst - Tarzana](https://jobright.ai/jobs/info/6a5d8b1bc8e3a473cb8b47b3?utm_campaign=Business%20Analyst&utm_source=1103)** | 18321 VENTURA BLVD SUITE 400 - TARZANA, CA 91356 | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
