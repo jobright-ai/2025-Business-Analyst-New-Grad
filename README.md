@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a67cdf25d2a117fb9ced5ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL, United States | Hybrid | Jul 27 |
+| **[Link Snacks](www.LinkSnacks.com)** | **[Business Process Control Analyst - 3nd Shift](https://jobright.ai/jobs/info/6a5fda1fb0f20036bc6337fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA, United States | On Site | Jul 27 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Business Analyst 2027](https://jobright.ai/jobs/info/6a609b1da4b66100689cbc82?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/6a67b5a25d2a117fb9cecdc3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Jul 27 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Amazon](https://jobright.ai/jobs/info/6a67b5345d2a117fb9cecdb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ, United States | Hybrid | Jul 27 |
@@ -65,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/6a6012f4f68dd368023ea504?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE, United States | On Site | Jul 27 |
 | **[The Dorne Region](http://thedorneregion.com)** | **[Entry-Level Business Associate](https://jobright.ai/jobs/info/6a67752a5d2a117fb9ceb7eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV, United States | On Site | Jul 27 |
 | **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a63f1105c7e2d715ebaed22?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | Remote | Jul 27 |
-| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a613584d51f6101c8fba428?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
 | ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a63ebc18d53603449605108?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | Hybrid | Jul 27 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a613584d51f6101c8fba428?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Private Capital](https://jobright.ai/jobs/info/6a4dcfd20209ea6fd6853322?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jul 27 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Jul 26 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a2c54827cd40a338fae5df3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 26 |
@@ -104,11 +106,10 @@ For a complete list, click the following sortable link below:
 | **[Conduent](https://www.conduent.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a613774ab9bd4676324a005?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, NJ, United States | Remote | Jul 22 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6a61c7fceaa37f43e758a02f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 22 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a54e04a81744f383a313937?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 22 |
-| **[Link Snacks](www.LinkSnacks.com)** | **[Business Process Control Analyst - 3nd Shift](https://jobright.ai/jobs/info/6a5fda1fb0f20036bc6337fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA, United States | On Site | Jul 22 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Jul 22 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Jul 22 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Jul 22 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Jul 22 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Jul 22 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Jul 22 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Jul 22 |
 | **[Mercer Valve Co., Inc.](https://www.mercervalve.net)** | **[PROCESS WRITER TIER 2](https://jobright.ai/jobs/info/6a60baf0193c4d692385f302?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK, United States | On Site | Jul 22 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[(TCap) Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a60b740a0dbef49469b89bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 22 |
