@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[IT Analyst - Business Operations](https://jobright.ai/jobs/info/6a68de0705bae84301b59025?utm_campaign=Business%20Analyst&utm_source=1103)** | Mayfield Heights, OH, United States | On Site | Jul 28 |
+| ↳ | **[IT Analyst - Business Operations](https://jobright.ai/jobs/info/6a68dde25d01972698ee4f1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Annapolis, Illinois, United States | Remote | Jul 28 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[IT Business Systems Analyst I](https://jobright.ai/jobs/info/6a68d48bb22f1b56a6028dd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Jul 28 |
 | **[Robins Kaplan LLP](http://robinskaplan.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a626cccf805ef6ff4232ce1?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | Hybrid | Jul 28 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 28 |
@@ -118,11 +120,11 @@ For a complete list, click the following sortable link below:
 | **[Conduent](https://www.conduent.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a613774ab9bd4676324a005?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, NJ, United States | Remote | Jul 22 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6a61c7fceaa37f43e758a02f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 22 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a54e04a81744f383a313937?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 22 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Jul 22 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Jul 22 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Jul 22 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Jul 22 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Jul 22 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Jul 22 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Jul 22 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Jul 22 |
 | **[Mercer Valve Co., Inc.](https://www.mercervalve.net)** | **[PROCESS WRITER TIER 2](https://jobright.ai/jobs/info/6a60baf0193c4d692385f302?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK, United States | On Site | Jul 22 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[(TCap) Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a60b740a0dbef49469b89bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 22 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Business Analyst 2027](https://jobright.ai/jobs/info/6a609b2671c79e639619bdc1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 22 |
