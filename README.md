@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Covista](https://covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568b43f7517b519ad566d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | Hybrid | Jul 29 |
+| ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a69fbea48355b3f12bee63d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL, United States | Hybrid | Jul 29 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Jul 29 |
 | **[Insurify](http://insurify.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a5a74e04da96a42cfd9600e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA, United States | Hybrid | Jul 28 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Analyst, Sales Operations](https://jobright.ai/jobs/info/6a6938c75d01972698ee71f5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 28 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[PARR](https://www.parr.com)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/6a67dfa72bda4d28428562e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Hillsboro, OR, United States | On Site | Jul 27 |
 | **[The Giant Bullseye](www.thegiantbullseye.com)** | **[Job Title: Junior Business Analyst](https://jobright.ai/jobs/info/6a559d1d78611229b823d55f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/6a67b5a25d2a117fb9cecdc3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Jul 27 |
-| **[Covista](https://covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568b43f7517b519ad566d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | Hybrid | Jul 27 |
 | **[Link Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst - 3nd Shift](https://jobright.ai/jobs/info/6a5fda1fb0f20036bc6337fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA, United States | On Site | Jul 27 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Business Analyst 2027](https://jobright.ai/jobs/info/6a609b1da4b66100689cbc82?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a6805825d2a117fb9cee61a?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Hybrid | Jul 27 |
