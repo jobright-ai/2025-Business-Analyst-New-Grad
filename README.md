@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insurify](http://insurify.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a5a74e04da96a42cfd9600e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA, United States | Hybrid | Jul 28 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Analyst, Sales Operations](https://jobright.ai/jobs/info/6a6938c75d01972698ee71f5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 28 |
 | ↳ | **[Business Analyst, Sales Operations](https://jobright.ai/jobs/info/6a6938c6ceb2691dfb20807e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 28 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[IT Analyst - Business Operations](https://jobright.ai/jobs/info/6a69380e3b549b0b531d4919?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland, United States | Remote | Jul 28 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Private Capital](https://jobright.ai/jobs/info/6a4dcfd20209ea6fd6853322?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jul 27 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Jul 26 |
 | **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[(BA-JR) Junior Business Analyst](https://jobright.ai/jobs/info/6a538776e726ec56126a71b8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 26 |
-| **[Insurify](http://insurify.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a5a74e04da96a42cfd9600e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA, United States | Hybrid | Jul 25 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a404a93d528ac2915f967c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Jul 25 |
 | **[Powerex](https://powerex.com)** | **[Junior to Intermediate IT Business Analyst](https://jobright.ai/jobs/info/6a63d2fa0c8e2b4f36dd019a?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | On Site | Jul 25 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a54e019b361d54aceab796b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 25 |
@@ -127,5 +127,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Jul 22 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Jul 22 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Jul 22 |
-| **[Mercer Valve Co., Inc.](https://www.mercervalve.net)** | **[PROCESS WRITER TIER 2](https://jobright.ai/jobs/info/6a60baf0193c4d692385f302?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK, United States | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
