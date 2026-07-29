@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Jul 29 |
 | **[Insurify](http://insurify.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a5a74e04da96a42cfd9600e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA, United States | Hybrid | Jul 28 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Analyst, Sales Operations](https://jobright.ai/jobs/info/6a6938c75d01972698ee71f5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 28 |
 | ↳ | **[Business Analyst, Sales Operations](https://jobright.ai/jobs/info/6a6938c6ceb2691dfb20807e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 28 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a6759a2d0fb4c3df393c785?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Jul 27 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/6a6012f4f68dd368023ea504?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE, United States | On Site | Jul 27 |
 | **[The Dorne Region](http://thedorneregion.com)** | **[Entry-Level Business Associate](https://jobright.ai/jobs/info/6a67752a5d2a117fb9ceb7eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV, United States | On Site | Jul 27 |
-| **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a4710428204a812e98caeab?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | Remote | Jul 27 |
-| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a613584d51f6101c8fba428?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
+| **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a613584d51f6101c8fba428?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a4710428204a812e98caeab?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | Remote | Jul 27 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Private Capital](https://jobright.ai/jobs/info/6a4dcfd20209ea6fd6853322?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jul 27 |
 | **[Fresho](http://fresho.com)** | **[Business Analyst - Revenue Operations System Admin (B2B SaaS / Tech)](https://jobright.ai/jobs/info/6a61def07196365a6f00cd0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melbourne, Victoria, Australia | Hybrid | Jul 26 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Jul 26 |
