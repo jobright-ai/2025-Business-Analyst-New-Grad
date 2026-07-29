@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University Health Network](https://www.uhn.ca/)** | **[Business Process & Data Analyst](https://jobright.ai/jobs/info/6a58f0bc63a8f619507bf544?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Jul 29 |
+| **[SUEZ](https://www.suez.com/)** | **[Apprentice Business Administrator](https://jobright.ai/jobs/info/6a6a4edcc63ba56308f52704?utm_campaign=Business%20Analyst&utm_source=1103)** | Southend-on-Sea, England, United Kingdom | On Site | Jul 29 |
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Business Operations Analyst I (Junior)](https://jobright.ai/jobs/info/6a57a9b310c4d945d864f8b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Business Systems Analyst I-III (Depending on Experience)](https://jobright.ai/jobs/info/6a6a28b348355b3f12bef544?utm_campaign=Business%20Analyst&utm_source=1103)** | Ephrata, WA, United States | Hybrid | Jul 29 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a6a235216c69119640fc8a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Jul 29 |
