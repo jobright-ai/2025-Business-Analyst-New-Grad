@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SanMar](http://www.sanmar.com)** | **[Business Analyst, Sales Operations](https://jobright.ai/jobs/info/6a6938c75d01972698ee71f5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 28 |
+| ↳ | **[Business Analyst, Sales Operations](https://jobright.ai/jobs/info/6a6938c6ceb2691dfb20807e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 28 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[IT Analyst - Business Operations](https://jobright.ai/jobs/info/6a69380e3b549b0b531d4919?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland, United States | Remote | Jul 28 |
 | **[Penguin Random House UK](https://www.penguin.co.uk)** | **[Business Manager](https://jobright.ai/jobs/info/6a692711ceb2691dfb207965?utm_campaign=Business%20Analyst&utm_source=1103)** | Redmond, WA, United States | On Site | Jul 28 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a690c2c05bae84301b5a22e?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, IL, United States | Hybrid | Jul 28 |
 | **[Portfolio Aid Inc.](http://portfolioaid.com)** | **[Business System Analyst I](https://jobright.ai/jobs/info/6a68f40905bae84301b59887?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Jul 28 |
@@ -86,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a6759a2d0fb4c3df393c785?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Jul 27 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/6a6012f4f68dd368023ea504?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE, United States | On Site | Jul 27 |
 | **[The Dorne Region](http://thedorneregion.com)** | **[Entry-Level Business Associate](https://jobright.ai/jobs/info/6a67752a5d2a117fb9ceb7eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV, United States | On Site | Jul 27 |
-| **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a613584d51f6101c8fba428?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
-| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a4710428204a812e98caeab?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | Remote | Jul 27 |
+| **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a4710428204a812e98caeab?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | Remote | Jul 27 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a613584d51f6101c8fba428?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Private Capital](https://jobright.ai/jobs/info/6a4dcfd20209ea6fd6853322?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jul 27 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Jul 26 |
 | **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[(BA-JR) Junior Business Analyst](https://jobright.ai/jobs/info/6a538776e726ec56126a71b8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 26 |
