@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Company](http://www.southerncompany.com)** | **[EEP IT Business Analyst I, II, III](https://jobright.ai/jobs/info/6a6bb520acb0a61f9dbc26b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Naperville, IL, United States | On Site | Jul 30 |
+| **[AM Pierce & Associates, Inc.](http://www.ampierce.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a6bb40257120971bf3a85fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, OR, United States | Remote | Jul 30 |
+| **[City of Austin](https://www.austintexas.gov)** | **[Austin Aviation - Business Process Specialist](https://jobright.ai/jobs/info/6a6baedcca1f9338465fbcbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | On Site | Jul 30 |
 | **[First American](http://www.firstam.com)** | **[Entry-Level Process Improvement Analyst - REMOTE](https://jobright.ai/jobs/info/6a6a79fd48355b3f12bf12ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ, United States | Remote | Jul 30 |
 | **[Change Grow Live](https://www.changegrowlive.org/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a6b97625c54bc4752ce9de6?utm_campaign=Business%20Analyst&utm_source=1103)** | West Yorkshire, United Kingdom | Hybrid | Jul 30 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/6a6b6e2357120971bf3a6bdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN, United States | On Site | Jul 30 |
@@ -73,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[SUEZ](https://www.suez.com/)** | **[Apprentice Business Administrator](https://jobright.ai/jobs/info/6a6a4edcc63ba56308f52704?utm_campaign=Business%20Analyst&utm_source=1103)** | Southend-on-Sea, England, United Kingdom | On Site | Jul 29 |
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Business Operations Analyst I (Junior)](https://jobright.ai/jobs/info/6a57a9b310c4d945d864f8b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a6a235216c69119640fc8a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Jul 29 |
-| **[Covista](https://covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a69fbea48355b3f12bee63d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL, United States | Hybrid | Jul 29 |
-| ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568b43f7517b519ad566d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | Hybrid | Jul 29 |
+| **[Covista](https://covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568b43f7517b519ad566d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | Hybrid | Jul 29 |
+| ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a69fbea48355b3f12bee63d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL, United States | Hybrid | Jul 29 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Jul 29 |
 | **[Insurify](http://insurify.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a5a74e04da96a42cfd9600e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA, United States | Hybrid | Jul 28 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Analyst, Sales Operations](https://jobright.ai/jobs/info/6a6938c75d01972698ee71f5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 28 |
@@ -127,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Benda Infotech](https://www.bendainfotech.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a625df3d5caab4af8bad74e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Jul 24 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/6a6260d5f805ef6ff4232815?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Jul 24 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a62eaa0426d415f66360f51?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
