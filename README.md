@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fastenal](http://www.fastenal.com/web/home)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/6a6b6e2357120971bf3a6bdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN, United States | On Site | Jul 30 |
+| **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 30 |
+| **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Business Analyst [2027 EDGE Program]](https://jobright.ai/jobs/info/6a5b7148686b4755d1e19935?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | On Site | Jul 30 |
 | **[Nokia](http://www.nokia.com)** | **[Business Operations Analyst Coop](https://jobright.ai/jobs/info/6a5ad145856af468ab009ab5?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunnyvale, CA, United States | On Site | Jul 30 |
 | **[Sharp Solutions, Inc.](https://www.sharpsolutionsinc.com)** | **[Junior Business Management Analyst](https://jobright.ai/jobs/info/6a6b28f2ca1f9338465f8fbf?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 30 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a6b2647c00ae03109f82634?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Jul 30 |
@@ -79,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a690c2c05bae84301b5a22e?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, IL, United States | Hybrid | Jul 28 |
 | **[Portfolio Aid Inc.](http://portfolioaid.com)** | **[Business System Analyst I](https://jobright.ai/jobs/info/6a68f40905bae84301b59887?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Jul 28 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[IT Business Systems Analyst I](https://jobright.ai/jobs/info/6a68d48bb22f1b56a6028dd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Jul 28 |
+| **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - ATL](https://jobright.ai/jobs/info/6a58db6463a8f619507bec27?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | On Site | Jul 28 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jul 28 |
 | **[Robins Kaplan LLP](http://robinskaplan.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a626cccf805ef6ff4232ce1?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | Hybrid | Jul 28 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Jul 28 |
@@ -123,6 +127,6 @@ For a complete list, click the following sortable link below:
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Jul 24 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/6a6260d5f805ef6ff4232815?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Jul 24 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a62eaa0426d415f66360f51?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | Hybrid | Jul 23 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a488f293dbab558e29acf73?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, US | Hybrid | Jul 23 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a488f3af9cbb100d1ab2b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, US | Hybrid | Jul 23 |
 | **[goeasy Ltd.](http://www.goeasy.com)** | **[Insights Analyst (Operations & Analytics)](https://jobright.ai/jobs/info/6a62e40a7c70964cbb054a3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
