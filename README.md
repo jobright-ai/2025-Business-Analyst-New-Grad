@@ -127,6 +127,6 @@ For a complete list, click the following sortable link below:
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Jul 24 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist](https://jobright.ai/jobs/info/6a6260d5f805ef6ff4232815?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Jul 24 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a62eaa0426d415f66360f51?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | Hybrid | Jul 23 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a488f293dbab558e29acf73?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, US | Hybrid | Jul 23 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a488f3af9cbb100d1ab2b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, US | Hybrid | Jul 23 |
 | **[goeasy Ltd.](http://www.goeasy.com)** | **[Insights Analyst (Operations & Analytics)](https://jobright.ai/jobs/info/6a62e40a7c70964cbb054a3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
