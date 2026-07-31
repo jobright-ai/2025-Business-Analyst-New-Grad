@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a52a36d8a74e077472f5679?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 31 |
+| **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](https://www.fafltd.com)** | **[Entry-Level Process Improvement Analyst - REMOTE](https://jobright.ai/jobs/info/6a6cfd07ca1f933846601d33?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ, United States | Remote | Jul 31 |
 | **[Hertz](http://www.hertz.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/6a6ca69facb0a61f9dbc63fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Estero, FL, United States | On Site | Jul 31 |
 | **[Effy Jewelry](https://www.effyjewelry.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a6ce67132f9300c3a3e5e0f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City metropolitan area, United States | Hybrid | Jul 31 |
 | **[Pilgrim's](https://www.pilgrims.com/)** | **[Sales Business Analyst](https://jobright.ai/jobs/info/6a6ce42932f9300c3a3e5cee?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 31 |
@@ -132,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jul 25 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a57b104a791c6211bf00394?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, United States | On Site | Jul 25 |
 | **[Military Spouse Jobs](https://militaryspousejobs.org)** | **[Business Process Analyst - Level 1 - Redondo Beach CA](https://jobright.ai/jobs/info/6a64adc30c8e2b4f36dd2550?utm_campaign=Business%20Analyst&utm_source=1103)** | Redondo Beach, CA, United States | On Site | Jul 25 |
-| **[AmTrust Financial Services, Inc.](https://amtrustgroup.com/warranty-special-risk/extended-warranty-administration)** | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a51c8be8d7d3e6cf1cc2e17?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
