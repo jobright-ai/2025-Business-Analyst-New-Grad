@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nicor Gas](https://nicorgas.com)** | **[EEP IT Business Analyst I, II, III](https://jobright.ai/jobs/info/6a6bdcdb5c54bc4752ceb623?utm_campaign=Business%20Analyst&utm_source=1103)** | Naperville, IL, United States | On Site | Jul 30 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a6a235216c69119640fc8a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Jul 30 |
 | **[Covista](https://covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568b43f7517b519ad566d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | Hybrid | Jul 30 |
 | **[Hatch](https://www.hatch.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a6bbb4532f9300c3a3e0a06?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 30 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a678ab12bda4d284285466f?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento County, United States | Hybrid | Jul 27 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Systems Analyst - IT](https://jobright.ai/jobs/info/6a6012f4f68dd368023ea504?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE, United States | On Site | Jul 27 |
 | **[The Dorne Region](http://thedorneregion.com)** | **[Entry-Level Business Associate](https://jobright.ai/jobs/info/6a67752a5d2a117fb9ceb7eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV, United States | On Site | Jul 27 |
-| **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a4710428204a812e98caeab?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | Remote | Jul 27 |
-| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a613584d51f6101c8fba428?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
+| **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a613584d51f6101c8fba428?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 27 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a4710428204a812e98caeab?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | Remote | Jul 27 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Private Capital](https://jobright.ai/jobs/info/6a4dcfd20209ea6fd6853322?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jul 27 |
 | **[Mercury Computing](https://mercurycomputing.io)** | **[Business Administrator](https://jobright.ai/jobs/info/6a6b0ba3acb0a61f9dbbe609?utm_campaign=Business%20Analyst&utm_source=1103)** | Boulder, CO, United States | On Site | Jul 27 |
 | **[Fresho](http://fresho.com)** | **[Business Analyst - Revenue Operations System Admin (B2B SaaS / Tech)](https://jobright.ai/jobs/info/6a61def07196365a6f00cd0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melbourne, Victoria, Australia | Hybrid | Jul 26 |
