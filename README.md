@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eurofins DiscoverX](http://www.discoverx.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a6d134fba7efe79c2f68559?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA, United States | On Site | Jul 31 |
 | **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a52a36d8a74e077472f5679?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 31 |
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](https://www.fafltd.com)** | **[Entry-Level Process Improvement Analyst - REMOTE](https://jobright.ai/jobs/info/6a6cfd07ca1f933846601d33?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ, United States | Remote | Jul 31 |
 | **[Hertz](http://www.hertz.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/6a6ca69facb0a61f9dbc63fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Estero, FL, United States | On Site | Jul 31 |
