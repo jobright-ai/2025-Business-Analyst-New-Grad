@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Taiv](https://www.taiv.tv)** | **[Business Generalist](https://jobright.ai/jobs/info/6a5ae461686b4755d1e17369?utm_campaign=Business%20Analyst&utm_source=1103)** | Winnipeg, MB, Canada | Hybrid | Jul 31 |
+| **[Hertz](http://www.hertz.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/6a6ca69facb0a61f9dbc63fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Estero, FL, United States | On Site | Jul 31 |
 | **[Camping World](https://investor.campingworld.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4ffeb3fc327f422fef74f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States of America | Hybrid | Jul 31 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a58be443ac7627fe9ffb185?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, United States | On Site | Jul 31 |
 | **[Blue Castle Agency (North America)](https://bluecastle.agency/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a6c56aaca1f9338465fee88?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | On Site | Jul 31 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Change Grow Live](https://www.changegrowlive.org/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a6b97625c54bc4752ce9de6?utm_campaign=Business%20Analyst&utm_source=1103)** | West Yorkshire, United Kingdom | Hybrid | Jul 30 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/6a6b6e2357120971bf3a6bdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN, United States | On Site | Jul 30 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 30 |
-| **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Business Analyst [2027 EDGE Program]](https://jobright.ai/jobs/info/6a5b7148686b4755d1e19935?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | On Site | Jul 30 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a6b2647c00ae03109f82634?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Jul 30 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Business Analyst 2027](https://jobright.ai/jobs/info/6a609b2671c79e639619bdc1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 29 |
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Business Systems Analyst I-III (Depending on Experience)](https://jobright.ai/jobs/info/6a6a28b348355b3f12bef544?utm_campaign=Business%20Analyst&utm_source=1103)** | Ephrata, WA, United States | Hybrid | Jul 29 |
