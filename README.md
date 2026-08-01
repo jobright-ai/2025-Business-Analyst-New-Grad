@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pilgrim's](https://www.pilgrims.com/)** | **[Sales Business Analyst](https://jobright.ai/jobs/info/6a6ce42932f9300c3a3e5cee?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 31 |
 | **[Insurify](http://insurify.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6a5a74e04da96a42cfd9600e?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA, United States | Hybrid | Jul 31 |
 | **[Taiv](https://www.taiv.tv)** | **[Business Generalist](https://jobright.ai/jobs/info/6a5ae461686b4755d1e17369?utm_campaign=Business%20Analyst&utm_source=1103)** | Winnipeg, MB, Canada | Hybrid | Jul 31 |
 | **[Eurofins](http://eurofins.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a6d1a8832f9300c3a3e7167?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA, United States | On Site | Jul 31 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](https://www.fafltd.com)** | **[Entry-Level Process Improvement Analyst - REMOTE](https://jobright.ai/jobs/info/6a6cfd07ca1f933846601d33?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ, United States | Remote | Jul 31 |
 | **[Hertz](http://www.hertz.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/6a6ca69facb0a61f9dbc63fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Estero, FL, United States | On Site | Jul 31 |
 | **[Effy Jewelry](https://www.effyjewelry.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a6ce67132f9300c3a3e5e0f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City metropolitan area, United States | Hybrid | Jul 31 |
-| **[Pilgrim's](https://www.pilgrims.com/)** | **[Sales Business Analyst](https://jobright.ai/jobs/info/6a6ce42932f9300c3a3e5cee?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 31 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[Sales Business Analyst](https://jobright.ai/jobs/info/6a6ce41f57120971bf3adc48?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 31 |
 | **[Camping World](https://investor.campingworld.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4ffeb3fc327f422fef74f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States of America | Hybrid | Jul 31 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a58be443ac7627fe9ffb185?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, United States | On Site | Jul 31 |
