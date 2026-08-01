@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Fresho](http://fresho.com)** | **[Business Analyst - Revenue Operations System Admin (B2B SaaS / Tech)](https://jobright.ai/jobs/info/6a61def07196365a6f00cd0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melbourne, Victoria, Australia | Hybrid | Jul 26 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Jul 26 |
 | **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[(BA-JR) Junior Business Analyst](https://jobright.ai/jobs/info/6a538776e726ec56126a71b8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 26 |
-| **[Powerex](https://powerex.com)** | **[Junior to Intermediate IT Business Analyst](https://jobright.ai/jobs/info/6a63d2fa0c8e2b4f36dd019a?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
