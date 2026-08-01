@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Taiv](https://www.taiv.tv)** | **[Business Generalist](https://jobright.ai/jobs/info/6a5ae461686b4755d1e17369?utm_campaign=Business%20Analyst&utm_source=1103)** | Winnipeg, MB, Canada | Hybrid | Jul 31 |
 | **[Eurofins](http://eurofins.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a6d1a8832f9300c3a3e7167?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA, United States | On Site | Jul 31 |
 | **[Eurofins DiscoverX](http://www.discoverx.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a6d134fba7efe79c2f68559?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA, United States | On Site | Jul 31 |
 | **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a52a36d8a74e077472f5679?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 31 |
