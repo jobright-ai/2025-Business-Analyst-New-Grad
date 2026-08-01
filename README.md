@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SanMar](http://www.sanmar.com)** | **[Business Analyst, Sales Operations](https://jobright.ai/jobs/info/6a6938c6ceb2691dfb20807e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 01 |
 | **[Change Grow Live](https://www.changegrowlive.org/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a6b97625c54bc4752ce9de6?utm_campaign=Business%20Analyst&utm_source=1103)** | West Yorkshire, United Kingdom | Hybrid | Jul 31 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[20234 - Business Administrator Part Time](https://jobright.ai/jobs/info/6a6d97315c54bc4752cf2b1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Usk, Wales, United Kingdom | On Site | Jul 31 |
 | ↳ | **[20433 - Business Administrator - Programmes - Part-Time - HMP / YOI Norwich](https://jobright.ai/jobs/info/6a6d9711020ee9240900a9e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Norwich, England, United Kingdom | On Site | Jul 31 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Business Operations Analyst I (Junior)](https://jobright.ai/jobs/info/6a57a9b310c4d945d864f8b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 29 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Jul 29 |
 | **[Sharp Solutions, Inc.](https://www.sharpsolutionsinc.com)** | **[Junior Business Management Analyst](https://jobright.ai/jobs/info/6a6bedd1ca1f9338465fd16f?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 28 |
-| **[SanMar](http://www.sanmar.com)** | **[Business Analyst, Sales Operations](https://jobright.ai/jobs/info/6a6938c6ceb2691dfb20807e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 28 |
 | **[Penguin Random House UK](https://www.penguinrandomhouse.com/)** | **[Business Manager](https://jobright.ai/jobs/info/6a692711ceb2691dfb207965?utm_campaign=Business%20Analyst&utm_source=1103)** | Redmond, WA, United States | On Site | Jul 28 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a690c2c05bae84301b5a22e?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, IL, United States | Hybrid | Jul 28 |
 | **[Portfolio Aid Inc.](http://portfolioaid.com)** | **[Business System Analyst I](https://jobright.ai/jobs/info/6a68f40905bae84301b59887?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Jul 28 |
@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Jul 26 |
 | **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[(BA-JR) Junior Business Analyst](https://jobright.ai/jobs/info/6a538776e726ec56126a71b8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 26 |
 | **[Powerex](https://powerex.com)** | **[Junior to Intermediate IT Business Analyst](https://jobright.ai/jobs/info/6a63d2fa0c8e2b4f36dd019a?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | On Site | Jul 25 |
-| **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a54e019b361d54aceab796b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
