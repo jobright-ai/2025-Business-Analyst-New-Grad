@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Aug 01 |
-| **[Midland Credit Management](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b625dc1ade4306aa643e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Aug 01 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a57efc668d16a30e24109c5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States | On Site | Aug 01 |
+| **[Midland Credit Management](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a57efc668d16a30e24109c5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States | On Site | Aug 01 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68b625dc1ade4306aa643e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Aug 01 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Analyst, Sales Operations](https://jobright.ai/jobs/info/6a6938c6ceb2691dfb20807e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 01 |
 | **[Change Grow Live](https://www.changegrowlive.org/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a6b97625c54bc4752ce9de6?utm_campaign=Business%20Analyst&utm_source=1103)** | West Yorkshire, United Kingdom | Hybrid | Jul 31 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[20234 - Business Administrator Part Time](https://jobright.ai/jobs/info/6a6d97315c54bc4752cf2b1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Usk, Wales, United Kingdom | On Site | Jul 31 |
