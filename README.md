@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Mercury Computing](https://mercurycomputing.io)** | **[Business Administrator](https://jobright.ai/jobs/info/6a6b0ba3acb0a61f9dbbe609?utm_campaign=Business%20Analyst&utm_source=1103)** | Boulder, CO, United States | On Site | Jul 27 |
 | **[Fresho](http://fresho.com)** | **[Business Analyst - Revenue Operations System Admin (B2B SaaS / Tech)](https://jobright.ai/jobs/info/6a61def07196365a6f00cd0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melbourne, Victoria, Australia | Hybrid | Jul 26 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Jul 26 |
-| **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[(BA-JR) Junior Business Analyst](https://jobright.ai/jobs/info/6a538776e726ec56126a71b8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
