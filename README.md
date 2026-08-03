@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Aug 03 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[HRIS Business Analyst 1](https://jobright.ai/jobs/info/6a70fd2fcb96192a36846fbe?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI, United States | On Site | Aug 03 |
 | **[Williams](https://www.williams.com)** | **[Business Analyst I (Early Career)](https://jobright.ai/jobs/info/6a70d46dcb96192a36845d09?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK, United States | On Site | Aug 03 |
 | **[Etio](https://www.i-graduate.org/)** | **[Business Administrator Apprentice- Level 3](https://jobright.ai/jobs/info/6a70b7a771acd469eed9f25e?utm_campaign=Business%20Analyst&utm_source=1103)** | United Kingdom | Remote | Aug 03 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a1a13ac2b206f3955eb295f?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Head Office | On Site | Aug 02 |
 | ↳ | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Aug 02 |
 | ↳ | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a56039ef7517b519ad52d2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 02 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Aug 01 |
 | **[Midland Credit Management](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b625dc1ade4306aa643e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Aug 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a57efc668d16a30e24109c5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States | On Site | Aug 01 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[20234 - Business Administrator Part Time](https://jobright.ai/jobs/info/6a6d97315c54bc4752cf2b1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Usk, Wales, United Kingdom | On Site | Jul 31 |
