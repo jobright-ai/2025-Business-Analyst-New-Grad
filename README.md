@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hertz](http://www.hertz.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/6a6ca69facb0a61f9dbc63fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Estero, FL, United States | On Site | Aug 03 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 03 |
 | ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6a569acf53b3962b910b1462?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Remote | Aug 03 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a433283b0f2553559ecef52?utm_campaign=Business%20Analyst&utm_source=1103)** | Rock Island, Illinois, United States | Hybrid | Aug 03 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[20743 - Business Administrator - Activity Hub](https://jobright.ai/jobs/info/6a7055f4d4735b7dbbccde12?utm_campaign=Business%20Analyst&utm_source=1103)** | Market Drayton, England, United Kingdom | On Site | Aug 03 |
 | **[Change Grow Live](https://www.changegrowlive.org/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a6b97625c54bc4752ce9de6?utm_campaign=Business%20Analyst&utm_source=1103)** | West Yorkshire | Hybrid | Aug 03 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a51d1fabf63b66c7997d70d?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, United States | On Site | Aug 02 |
-| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a56039ef7517b519ad52d2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 02 |
+| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a1a13ac2b206f3955eb295f?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Head Office | On Site | Aug 02 |
 | ↳ | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Aug 02 |
-| ↳ | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a1a13ac2b206f3955eb295f?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Head Office | On Site | Aug 02 |
+| ↳ | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a56039ef7517b519ad52d2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 02 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Aug 01 |
 | **[Midland Credit Management](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a57efc668d16a30e24109c5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States | On Site | Aug 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68b625dc1ade4306aa643e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Aug 01 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Eurofins](http://eurofins.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a6d1a8832f9300c3a3e7167?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA, United States | On Site | Jul 31 |
 | **[Eurofins DiscoverX](http://www.discoverx.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a6d134fba7efe79c2f68559?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA, United States | On Site | Jul 31 |
 | **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a52a36d8a74e077472f5679?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 31 |
-| **[Hertz](http://www.hertz.com)** | **[Operations Research Analyst](https://jobright.ai/jobs/info/6a6ca69facb0a61f9dbc63fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Estero, FL, United States | On Site | Jul 31 |
 | **[Effy Jewelry](https://www.effyjewelry.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a6ce67132f9300c3a3e5e0f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City metropolitan area, United States | Hybrid | Jul 31 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[Sales Business Analyst](https://jobright.ai/jobs/info/6a6ce41f57120971bf3adc48?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 31 |
 | **[Camping World](https://investor.campingworld.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4ffeb3fc327f422fef74f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States of America | Hybrid | Jul 31 |
