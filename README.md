@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BTS](https://www.bts.com/)** | **[Business Analyst, Strategy & Business Modeling](https://jobright.ai/jobs/info/6a5ed631270e3033b045fe69?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Aug 03 |
 | **[Centrica](http://www.centrica.com)** | **[Business Assurance Apprentice](https://jobright.ai/jobs/info/6a712266ee751e0c79342aa0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hessle, England, United Kingdom | On Site | Aug 03 |
 | **[Pacific Health Group](https://mypacifichealth.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a71393fee751e0c79342fb7?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Remote | Aug 03 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[IT Business Analyst 1 (PCN 064949)](https://jobright.ai/jobs/info/6a7132aa02d93145bf88e9da?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairbanks, AK, United States | On Site | Aug 03 |
@@ -72,10 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Change Grow Live](https://www.changegrowlive.org/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a6b97625c54bc4752ce9de6?utm_campaign=Business%20Analyst&utm_source=1103)** | West Yorkshire | Hybrid | Aug 03 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a51d1fabf63b66c7997d70d?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, United States | On Site | Aug 02 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a1a13ac2b206f3955eb295f?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Head Office | On Site | Aug 02 |
-| ↳ | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Aug 02 |
 | ↳ | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a56039ef7517b519ad52d2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 02 |
-| **[Midland Credit Management](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a57efc668d16a30e24109c5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States | On Site | Aug 01 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/68b625dc1ade4306aa643e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Aug 01 |
+| ↳ | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Aug 02 |
+| **[Midland Credit Management](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b625dc1ade4306aa643e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Aug 01 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a57efc668d16a30e24109c5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States | On Site | Aug 01 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[20234 - Business Administrator Part Time](https://jobright.ai/jobs/info/6a6d97315c54bc4752cf2b1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Usk, Wales, United Kingdom | On Site | Jul 31 |
 | ↳ | **[20433 - Business Administrator - Programmes - Part-Time - HMP / YOI Norwich](https://jobright.ai/jobs/info/6a6d9711020ee9240900a9e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Norwich, England, United Kingdom | On Site | Jul 31 |
 | **[Pilgrim's](https://www.pilgrims.com/)** | **[Sales Business Analyst](https://jobright.ai/jobs/info/6a6ce42932f9300c3a3e5cee?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 31 |
@@ -122,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Robins Kaplan LLP](http://robinskaplan.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a626cccf805ef6ff4232ce1?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | Hybrid | Jul 28 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Jul 28 |
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 28 |
-| **[IP Consulting, Inc.](http://www.ipconsultinginc.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a55f14b21f64463ad350f02?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
