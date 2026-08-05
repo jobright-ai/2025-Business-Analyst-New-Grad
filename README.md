@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tadano Pan America](https://tadanoamericas.com/en/)** | **[Associate Regional Business Manager](https://jobright.ai/jobs/info/6a726bf171acd469eeda8146?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX, United States | Remote | Aug 04 |
 | **[PNC](http://www.pnc.com)** | **[Data, Modeling, and Analytics Development Program Analyst/Associate](https://jobright.ai/jobs/info/6a71dbe3cb96192a3684a4fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Aug 04 |
 | **[Stafford](http://www.staffordequipment.com)** | **[IT Business Analyst- Hybrid- Columbus, OH- Contract to Hire](https://jobright.ai/jobs/info/6a724ef602d93145bf893f34?utm_campaign=Business%20Analyst&utm_source=1103)** | Westerville, OH, United States | Hybrid | Aug 04 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[ASSET BUSINESS ANALYST](https://jobright.ai/jobs/info/6a720e16cb96192a3684bacd?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Aug 04 |
 | **[Aegon](https://www.aegon.com/)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6a72431d71acd469eeda6f20?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA, United States | Hybrid | Aug 04 |
 | **[PNC](http://www.pnc.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a723fa045b6af1c30dbd8a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Aug 04 |
-| **[Change Grow Live](https://www.changegrowlive.org/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a6b97625c54bc4752ce9de6?utm_campaign=Business%20Analyst&utm_source=1103)** | West Yorkshire | Hybrid | Aug 04 |
-| ↳ | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a71d4f2ee751e0c7934504c?utm_campaign=Business%20Analyst&utm_source=1103)** | West Yorkshire, United Kingdom | Hybrid | Aug 04 |
+| **[Change Grow Live](https://www.changegrowlive.org/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a71d4f2ee751e0c7934504c?utm_campaign=Business%20Analyst&utm_source=1103)** | West Yorkshire, United Kingdom | Hybrid | Aug 04 |
+| ↳ | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a6b97625c54bc4752ce9de6?utm_campaign=Business%20Analyst&utm_source=1103)** | West Yorkshire | Hybrid | Aug 04 |
 | **[Transamerica](http://www.transamerica.com)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6a72055a02d93145bf89200b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Aug 04 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a72349aee751e0c79347855?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 04 |
 | ↳ | **[IT Business Analyst](https://jobright.ai/jobs/info/6a7231fe45b6af1c30dbd2ff?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 04 |
