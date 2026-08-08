@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kearney](https://www.kearney.com/)** | **[Kearney Business Analyst 2027](https://jobright.ai/jobs/info/6a609b1da4b66100689cbc82?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 08 |
 | **[PartnerRe](http://www.partnerre.com/)** | **[Business Data Analyst - Retro Administration Job Details / PartnerRE Ltd.](https://jobright.ai/jobs/info/6a767e63b17cba569035e724?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Aug 07 |
 | ↳ | **[Business Data Analyst Student Job Details / PartnerRE Ltd.](https://jobright.ai/jobs/info/6a767df267a1ad0bc53ca981?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Aug 07 |
 | **[OMERS](http://www.omers.com)** | **[Business Analyst, Data Integration & Performance Platform (12-Month Contract)](https://jobright.ai/jobs/info/6a7646764817aa43070479b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Aug 07 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Medavie](https://www.medavie.ca/en/)** | **[Business Configuration Analyst](https://jobright.ai/jobs/info/6a6a67ec48355b3f12bf0d64?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, Canada | Remote | Aug 03 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[HRIS Business Analyst 1](https://jobright.ai/jobs/info/6a70fd2fcb96192a36846fbe?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI, United States | On Site | Aug 03 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 03 |
-| ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 03 |
 | ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6a569acf53b3962b910b1462?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Remote | Aug 03 |
+| ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 03 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a433283b0f2553559ecef52?utm_campaign=Business%20Analyst&utm_source=1103)** | Rock Island, Illinois, United States | Hybrid | Aug 03 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[20743 - Business Administrator - Activity Hub](https://jobright.ai/jobs/info/6a7055f4d4735b7dbbccde12?utm_campaign=Business%20Analyst&utm_source=1103)** | Market Drayton, England, United Kingdom | On Site | Aug 03 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a51d1fabf63b66c7997d70d?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, United States | On Site | Aug 02 |
