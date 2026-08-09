@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d96706f771673ba16f8?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Aug 08 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a77c7dd4817aa430704adc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Olathe, KS, United States | Hybrid | Aug 08 |
 | ↳ | **[Business Management Associate 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a776ddda26ccc369f83766f?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, KS, United States | Hybrid | Aug 08 |
 | ↳ | **[Business Management Associate 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a776d6f7b3417772adea61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Amarillo, TX, United States | Hybrid | Aug 08 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Aug 08 |
-| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a51237778e364789ca593b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 08 |
 | ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a529667e726ec56126a3b59?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 08 |
+| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a51237778e364789ca593b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 08 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Business Analyst 2027](https://jobright.ai/jobs/info/6a609b1da4b66100689cbc82?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 08 |
 | **[PartnerRe](http://www.partnerre.com/)** | **[Business Data Analyst - Retro Administration Job Details / PartnerRE Ltd.](https://jobright.ai/jobs/info/6a767e63b17cba569035e724?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Aug 07 |
 | ↳ | **[Business Data Analyst Student Job Details / PartnerRE Ltd.](https://jobright.ai/jobs/info/6a767df267a1ad0bc53ca981?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Aug 07 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Insights Co-op](https://jobright.ai/jobs/info/6a73adbf8dc3d52d8eda0f58?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Vancouver Metropolitan Area, Canada | Hybrid | Aug 05 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst – Strategy & Analytics](https://jobright.ai/jobs/info/6a4fed909469c0662034f782?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Aug 05 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Loan Origination Business System Analyst](https://jobright.ai/jobs/info/6a5c3597c8e3a473cb8b1a8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Aug 05 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Aug 05 |
-| ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Aug 05 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Aug 05 |
+| ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Aug 05 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a734a0b1ce9647cdbca721c?utm_campaign=Business%20Analyst&utm_source=1103)** | Tysons, VA, United States | Remote | Aug 05 |
 | **[Fitch Group, Inc.](https://www.fitch.group/)** | **[Sustainability Analyst - Foreign Language Required (New York) Job Details / Fitch Group](https://jobright.ai/jobs/info/6a73311d32ebbc14ffb4d72d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Aug 05 |
 | **[Marshall+Sterling](https://www.marshallsterling.com/)** | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a179ce3b091c7417c5001f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY, United States | On Site | Aug 05 |
