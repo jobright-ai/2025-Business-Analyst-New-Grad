@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d96706f771673ba16f8?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Aug 08 |
+| **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d9e366bb95ba554360b?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Aug 08 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a77c7dd4817aa430704adc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Olathe, KS, United States | Hybrid | Aug 08 |
 | ↳ | **[Business Management Associate 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a776ddda26ccc369f83766f?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, KS, United States | Hybrid | Aug 08 |
 | ↳ | **[Business Management Associate 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a776d6f7b3417772adea61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Amarillo, TX, United States | Hybrid | Aug 08 |
@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a734a0b1ce9647cdbca721c?utm_campaign=Business%20Analyst&utm_source=1103)** | Tysons, VA, United States | Remote | Aug 05 |
 | **[Fitch Group, Inc.](https://www.fitch.group/)** | **[Sustainability Analyst - Foreign Language Required (New York) Job Details / Fitch Group](https://jobright.ai/jobs/info/6a73311d32ebbc14ffb4d72d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Aug 05 |
 | **[Marshall+Sterling](https://www.marshallsterling.com/)** | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a179ce3b091c7417c5001f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY, United States | On Site | Aug 05 |
-| ↳ | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a63b21887cef057612ca0ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY, United States | Hybrid | Aug 05 |
 | ↳ | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a55cb31fdf4fa71202b5241?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY, United States | Hybrid | Aug 05 |
+| ↳ | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a63b21887cef057612ca0ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY, United States | Hybrid | Aug 05 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a71be95ee751e0c79344c0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | Hybrid | Aug 05 |
 | **[JBS CARRIERS INC](http://jbscarriers.com/)** | **[ASSET BUSINESS ANALYST](https://jobright.ai/jobs/info/6a731460e55c73319eb15778?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Aug 05 |
 | **[BAE Systems](http://www.baesystems.com)** | **[IT Business Systems Analyst I](https://jobright.ai/jobs/info/6a75542d37da8525e8cdd031?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO, United States | Hybrid | Aug 04 |
@@ -137,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Medavie](https://www.medavie.ca/en/)** | **[Business Configuration Analyst](https://jobright.ai/jobs/info/6a6a67ec48355b3f12bf0d64?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, Canada | Remote | Aug 03 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[HRIS Business Analyst 1](https://jobright.ai/jobs/info/6a70fd2fcb96192a36846fbe?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI, United States | On Site | Aug 03 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 03 |
-| ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6a569acf53b3962b910b1462?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Remote | Aug 03 |
 | ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 03 |
+| ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6a569acf53b3962b910b1462?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Remote | Aug 03 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a433283b0f2553559ecef52?utm_campaign=Business%20Analyst&utm_source=1103)** | Rock Island, Illinois, United States | Hybrid | Aug 03 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[20743 - Business Administrator - Activity Hub](https://jobright.ai/jobs/info/6a7055f4d4735b7dbbccde12?utm_campaign=Business%20Analyst&utm_source=1103)** | Market Drayton, England, United Kingdom | On Site | Aug 03 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a51d1fabf63b66c7997d70d?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, United States | On Site | Aug 02 |
