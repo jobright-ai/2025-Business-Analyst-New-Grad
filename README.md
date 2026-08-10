@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Austin](https://www.austintexas.gov)** | **[Business Process Specialist - Records Information Management (Austin City Clerk's Office)](https://jobright.ai/jobs/info/6a795b82b17cba5690362b54?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, United States | On Site | Aug 09 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 09 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Aug 09 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a51237778e364789ca593b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 09 |
 | ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a529667e726ec56126a3b59?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 09 |
-| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a51237778e364789ca593b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 09 |
+| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Aug 09 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Aug 09 |
-| **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d96706f771673ba16f8?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Aug 08 |
+| **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d9e366bb95ba554360b?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Aug 08 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a77c7dd4817aa430704adc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Olathe, KS, United States | Hybrid | Aug 08 |
 | ↳ | **[Business Management Associate 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a776ddda26ccc369f83766f?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, KS, United States | Hybrid | Aug 08 |
 | ↳ | **[Business Management Associate 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a776d6f7b3417772adea61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Amarillo, TX, United States | Hybrid | Aug 08 |
@@ -139,6 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Medavie](https://www.medavie.ca/en/)** | **[Business Configuration Analyst](https://jobright.ai/jobs/info/6a6a67ec48355b3f12bf0d64?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, Canada | Remote | Aug 03 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[HRIS Business Analyst 1](https://jobright.ai/jobs/info/6a70fd2fcb96192a36846fbe?utm_campaign=Business%20Analyst&utm_source=1103)** | La Crosse, WI, United States | On Site | Aug 03 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Aug 03 |
-| ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 03 |
-| ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6a569acf53b3962b910b1462?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Remote | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
