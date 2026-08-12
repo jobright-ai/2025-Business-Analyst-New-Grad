@@ -59,24 +59,24 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Administrator - SCHIE](https://jobright.ai/jobs/info/6a7bb951bc05d77f2bde0a5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Aug 11 |
 | **[Liebherr USA](http://www.liebherr.us)** | **[Business Intelligence & Development Analyst](https://jobright.ai/jobs/info/6a7ba87cecf5194164fbf7df?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport News, VA, United States | On Site | Aug 11 |
-| **[Centene Corporation](http://centene.com)** | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7baba83b399d106e4d7f53?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | Remote | Aug 11 |
-| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba711b933773d16be8c99?utm_campaign=Business%20Analyst&utm_source=1103)** | UT, United States | Remote | Aug 11 |
-| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba70abc05d77f2bde06ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland, United States | Remote | Aug 11 |
-| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6f4ecfd29770753a69a?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Aug 11 |
+| **[Centene Corporation](http://centene.com)** | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba711b933773d16be8c99?utm_campaign=Business%20Analyst&utm_source=1103)** | UT, United States | Remote | Aug 11 |
 | ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7bac67b933773d16be8dd6?utm_campaign=Business%20Analyst&utm_source=1103)** | South Carolina, United States | Remote | Aug 11 |
+| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7baba83b399d106e4d7f53?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois, United States | Remote | Aug 11 |
+| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6f4ecfd29770753a69a?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Aug 11 |
+| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba70abc05d77f2bde06ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland, United States | Remote | Aug 11 |
+| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6e977e6b569c61c1fe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Aug 11 |
 | ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba70c77e6b569c61c1ffb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 11 |
 | ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba70b77e6b569c61c1ff8?utm_campaign=Business%20Analyst&utm_source=1103)** | New Jersey, United States | Remote | Aug 11 |
-| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba77fecfd29770753a6d3?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ, United States | Remote | Aug 11 |
-| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6e8ecf5194164fbf771?utm_campaign=Business%20Analyst&utm_source=1103)** | West Virginia, United States | Remote | Aug 11 |
-| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6e977e6b569c61c1fe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Aug 11 |
 | ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba710bc05d77f2bde06f3?utm_campaign=Business%20Analyst&utm_source=1103)** | Massachusetts, United States | Remote | Aug 11 |
-| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6f377e6b569c61c1fef?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Aug 11 |
-| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6f83b399d106e4d7e4f?utm_campaign=Business%20Analyst&utm_source=1103)** | AR, United States | Remote | Aug 11 |
-| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6fbbc05d77f2bde06e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Remote | Aug 11 |
-| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba763b933773d16be8cbf?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Remote | Aug 11 |
+| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6e8ecf5194164fbf771?utm_campaign=Business%20Analyst&utm_source=1103)** | West Virginia, United States | Remote | Aug 11 |
+| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba77fecfd29770753a6d3?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ, United States | Remote | Aug 11 |
 | ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba72677e6b569c61c2002?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee, United States | Remote | Aug 11 |
-| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba70eb933773d16be8c98?utm_campaign=Business%20Analyst&utm_source=1103)** | Virginia, United States | Remote | Aug 11 |
+| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6fbbc05d77f2bde06e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Remote | Aug 11 |
 | ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba70fbc05d77f2bde06f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Montana, United States | Remote | Aug 11 |
+| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6f83b399d106e4d7e4f?utm_campaign=Business%20Analyst&utm_source=1103)** | AR, United States | Remote | Aug 11 |
+| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba70eb933773d16be8c98?utm_campaign=Business%20Analyst&utm_source=1103)** | Virginia, United States | Remote | Aug 11 |
+| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba763b933773d16be8cbf?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Remote | Aug 11 |
+| ↳ | **[QAI Business Analyst I](https://jobright.ai/jobs/info/6a7ba6f377e6b569c61c1fef?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Aug 11 |
 | **[American Electric Power](http://aep.com)** | **[Commercial Analyst (capacity planning) / COMMERCIAL OPERATIONS](https://jobright.ai/jobs/info/6a7b845becfd29770753994c?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Aug 11 |
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Generation Reshaping/Very Large Customer](https://jobright.ai/jobs/info/6a7b50b4ecfd2977075381fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI, United States | Hybrid | Aug 11 |
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a39b70e1232144fb156d020?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 11 |
@@ -139,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[NYCM Insurance](https://www.nycm.com)** | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/6a737c8d8cd88e7ccbf58b66?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmeston, NY, United States | Hybrid | Aug 05 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst 1/2 (02-4122/02-4123)](https://jobright.ai/jobs/info/6a73c79a8cd88e7ccbf5a748?utm_campaign=Business%20Analyst&utm_source=1103)** | Juneau, AK, United States | Hybrid | Aug 05 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Insights Co-op](https://jobright.ai/jobs/info/6a73adbf8dc3d52d8eda0f58?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Vancouver Metropolitan Area, Canada | Hybrid | Aug 05 |
-| **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Loan Origination Business System Analyst](https://jobright.ai/jobs/info/6a5c3597c8e3a473cb8b1a8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
