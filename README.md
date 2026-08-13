@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6a7d48e0d77e8156a8e361c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA, United States | Remote | Aug 12 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6a7d48e0d77e8156a8e361c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA, United States | Remote | Aug 13 |
 | **[Liebherr USA](http://www.liebherr.us)** | **[Business Intelligence & Data Analyst](https://jobright.ai/jobs/info/6a7ca5bca346cb6c8d5eefbd?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport News, VA, United States | On Site | Aug 12 |
 | **[Red Ventures](http://www.redventures.com)** | **[We're Planning Ahead - Join the Talent Pipeline for our 2027 Business Analyst](https://jobright.ai/jobs/info/6a5f8029f68dd368023e6d86?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, United States | On Site | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7c7578dc3dff2d1c0c6c85?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX, United States | On Site | Aug 12 |
