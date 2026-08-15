@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst, Supply Chain (Starlink Aviation)](https://jobright.ai/jobs/info/6a6370e08d5360344960247b?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodinville, WA, United States | On Site | Aug 15 |
 | **[Charter](https://charter.ca/)** | **[Junior Business Architect](https://jobright.ai/jobs/info/6a66711be8d8d22e3293016a?utm_campaign=Business%20Analyst&utm_source=1103)** | Victoria, BC, Canada | Remote | Aug 15 |
 | **[CodeVertex System](https://codevertexinnovations.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a806f02e2030208f27748f0?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Aug 15 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Aug 15 |
@@ -75,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a621119c28982326de9491c?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, NY, United States | On Site | Aug 14 |
 | **[CFS](https://www.flycfs.co.za )** | **[Business Systems Specialist](https://jobright.ai/jobs/info/6a7ea1d819ce4e6e9d933d75?utm_campaign=Business%20Analyst&utm_source=1103)** | Romeoville, IL, United States | Remote | Aug 13 |
 | **[Crown Fine Art](https://www.crownfineart.com)** | **[Business Administrator Apprentice](https://jobright.ai/jobs/info/6a7f80ee927c79391ad09f3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Stockwell, England, United Kingdom | On Site | Aug 13 |
-| **[Janicki](http://www.janicki.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6a67940c2bda4d28428549c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, WA, United States | On Site | Aug 13 |
+| **[Janicki](http://www.janicki.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6a678f742bda4d28428548a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, WA, United States | On Site | Aug 13 |
 | **[Esri](https://www.esri.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a7e1516e2030208f2767899?utm_campaign=Business%20Analyst&utm_source=1103)** | Redlands, CA, United States | On Site | Aug 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a6a235216c69119640fc8a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Aug 13 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 13 |
@@ -119,5 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a529667e726ec56126a3b59?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 09 |
 | ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Aug 09 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Aug 09 |
-| **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a06020f320bff2205ea6fe8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
