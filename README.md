@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a172962f45c6530ce9a97e9?utm_campaign=Business%20Analyst&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ), US | Hybrid | Aug 16 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a52638ae726ec56126a2d49?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Aug 16 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a52638ae726ec56126a2d49?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Aug 16 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a172962f45c6530ce9a97e9?utm_campaign=Business%20Analyst&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ), US | Hybrid | Aug 16 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst, Supply Chain (Starlink Aviation)](https://jobright.ai/jobs/info/6a6370e08d5360344960247b?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodinville, WA, United States | On Site | Aug 15 |
 | **[Charter](https://charter.ca/)** | **[Junior Business Architect](https://jobright.ai/jobs/info/6a66711be8d8d22e3293016a?utm_campaign=Business%20Analyst&utm_source=1103)** | Victoria, BC, Canada | Remote | Aug 15 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Aug 15 |
@@ -72,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Florida Blue](https://www.floridablue.com)** | **[Associate Health Business Analyst - Nautilus Program](https://jobright.ai/jobs/info/6a7f70a9e2030208f276e153?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | On Site | Aug 14 |
 | **[GuideWell Source](https://www.guidewellsource.com/)** | **[Associate Health Business Analyst - Nautilus Program](https://jobright.ai/jobs/info/6a7f688aad9ff00c26bae07a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Aug 14 |
 | **[WebTPA](http://webtpa.com)** | **[Associate Health Business Analyst - Nautilus Program](https://jobright.ai/jobs/info/6a7f685c927c79391ad08b4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Aug 14 |
-| **[Norsat International](http://www.norsat.com)** | **[Business Analyst - Digital Transformation](https://jobright.ai/jobs/info/6a4ef6c90ea38951a6ff4f7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, BC, Canada | On Site | Aug 14 |
+| **[Norsat International](http://www.norsat.com)** | **[Business Analyst - Digital Transformation](https://jobright.ai/jobs/info/6a63141a99515267a6f012b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, BC, Canada | On Site | Aug 14 |
 | **[Blackstone](http://blackstone.com)** | **[2027 Blackstone Real Estate Sustainability Summer Analyst](https://jobright.ai/jobs/info/6a7f34ee927c79391ad07005?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Aug 14 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a621119c28982326de9491c?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, NY, United States | On Site | Aug 14 |
 | **[CFS](https://www.flycfs.co.za )** | **[Business Systems Specialist](https://jobright.ai/jobs/info/6a7ea1d819ce4e6e9d933d75?utm_campaign=Business%20Analyst&utm_source=1103)** | Romeoville, IL, United States | Remote | Aug 13 |
