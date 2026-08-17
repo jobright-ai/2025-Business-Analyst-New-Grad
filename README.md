@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Aug 17 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Aug 17 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Aug 17 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Aug 17 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Aug 17 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Aug 17 |
 | **[Department for Education](https://www.gov.uk/government/organisations/department-for-education)** | **[HEO Business Analyst](https://jobright.ai/jobs/info/6a8300efb5a0ac0e84a22d12?utm_campaign=Business%20Analyst&utm_source=1103)** | Darlington, England, United Kingdom | Hybrid | Aug 17 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 16 |
@@ -87,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Business Analyst 2027](https://jobright.ai/jobs/info/6a609b2671c79e639619bdc1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 13 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6a7d48e0d77e8156a8e361c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA, United States | Remote | Aug 13 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6a7f129be51a1e18a24101d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA, United States | Remote | Aug 12 |
-| **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a7dc3d10cd4a0703257bcd8?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | Remote | Aug 12 |
-| ↳ | **[Jr. Technical Business Analyst](https://jobright.ai/jobs/info/6a7dc3e8ad9ff00c26ba8a28?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA, United States | Remote | Aug 12 |
+| **[ICF](https://www.icf.com)** | **[Jr. Technical Business Analyst](https://jobright.ai/jobs/info/6a7dc3e8ad9ff00c26ba8a28?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA, United States | Remote | Aug 12 |
+| ↳ | **[IT Business Analyst](https://jobright.ai/jobs/info/6a7dc3d10cd4a0703257bcd8?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | Remote | Aug 12 |
 | **[Liebherr USA](http://www.liebherr.us)** | **[Business Intelligence & Data Analyst](https://jobright.ai/jobs/info/6a7ca5bca346cb6c8d5eefbd?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport News, VA, United States | On Site | Aug 12 |
 | **[Red Ventures](http://www.redventures.com)** | **[We're Planning Ahead - Join the Talent Pipeline for our 2027 Business Analyst](https://jobright.ai/jobs/info/6a5f8029f68dd368023e6d86?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, United States | On Site | Aug 12 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7c7578dc3dff2d1c0c6c85?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX, United States | On Site | Aug 12 |
@@ -105,6 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Pontoon Solutions](http://www.pontoonsolutions.com)** | **[Junior Business Operations Analyst](https://jobright.ai/jobs/info/6a7b0b55b933773d16be4ee9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chester, England, United Kingdom | Hybrid | Aug 11 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a690c2c05bae84301b5a22e?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, IL, United States | Hybrid | Aug 11 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[20985 - Generic Business Administrator](https://jobright.ai/jobs/info/6a7acd7867a1ad0bc53d4637?utm_campaign=Business%20Analyst&utm_source=1103)** | Ashbourne, England, United Kingdom | On Site | Aug 11 |
-| **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7a261c9ee17f276dbf17e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA, United States | Hybrid | Aug 10 |
-| **[Liebherr Group](http://www.liebherr.com)** | **[Business Intelligence & Development Analyst](https://jobright.ai/jobs/info/6a7bc40eecf5194164fbfe5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport News, VA, United States | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
