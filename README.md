@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Park Services](https://urbanparkservices.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8655c9d34f700f87fc173f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 19 |
+| **[Sparkbit 360](https://sparkbit360.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8655c72f4f0014cae29673?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 19 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a865469cc81eb647e9f282a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 19 |
+| ↳ | **[Business Research Analyst](https://jobright.ai/jobs/info/6a865461d34f700f87fc1714?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 19 |
+| **[Nexxaworks](https://nexxaworks.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8654584afae74a0834491c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 19 |
+| **[Novra Corp](https://novracorp.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a865457e459fa3baa8671ee?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 19 |
 | **[SpaceXAI](https://x.ai)** | **[Human Data - Business Operations Analyst](https://jobright.ai/jobs/info/6a8642184afae74a083445c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA, United States | On Site | Aug 19 |
 | **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a861bf2e459fa3baa866268?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ, United States | On Site | Aug 19 |
 | **[American Electric Power](http://aep.com)** | **[Commercial Analyst (capacity planning) / COMMERCIAL OPERATIONS](https://jobright.ai/jobs/info/6a7b845becfd29770753994c?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Aug 19 |
@@ -83,11 +89,11 @@ For a complete list, click the following sortable link below:
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Business Analyst - SAP & Supply Chain](https://jobright.ai/jobs/info/6a84ca2b2f4f0014cae23079?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA, United States | On Site | Aug 17 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Aug 17 |
 | **[Network Rail](http://www.networkrail.co.uk)** | **[Performance Knowledge Advisor](https://jobright.ai/jobs/info/6a839c703eeac101cfaa0f7d?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | On Site | Aug 17 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Aug 17 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Aug 17 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Aug 17 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Aug 17 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Aug 17 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Aug 17 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Aug 17 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Aug 17 |
 | **[Department for Education](https://www.gov.uk/government/organisations/department-for-education)** | **[HEO Business Analyst](https://jobright.ai/jobs/info/6a8300efb5a0ac0e84a22d12?utm_campaign=Business%20Analyst&utm_source=1103)** | Darlington, England, United Kingdom | Hybrid | Aug 17 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 16 |
@@ -110,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a6a235216c69119640fc8a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Aug 13 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 13 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Business Analyst 2027](https://jobright.ai/jobs/info/6a609b2671c79e639619bdc1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 13 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6a7d48e0d77e8156a8e361c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA, United States | Remote | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
