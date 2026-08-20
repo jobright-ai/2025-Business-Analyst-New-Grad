@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Analyst, Chicago](https://jobright.ai/jobs/info/6a86cadf74e02153f145c71c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Aug 20 |
+| **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Analyst, Toronto](https://jobright.ai/jobs/info/6a86d0f0392e3905d571bbaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Aug 20 |
+| ↳ | **[Business Analyst, Chicago](https://jobright.ai/jobs/info/6a86cadf74e02153f145c71c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Aug 20 |
 | ↳ | **[Business Analyst, New York](https://jobright.ai/jobs/info/6a86cad425fc4e7ae3daa150?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Aug 20 |
+| **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Aug 20 |
 | **[Park 6 Logistics](https://elevation.ac)** | **[Business Analyst](https://jobright.ai/jobs/info/6a86ba132f4f0014cae2a217?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 20 |
 | **[Sparkbit 360](https://sparkbit360.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a86ba0b25fc4e7ae3da9f5e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 20 |
 | **[Nexxaworks](https://nexxaworks.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a86b7d42f4f0014cae2a1f6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 20 |
@@ -114,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Florida Blue](https://www.floridablue.com)** | **[Associate Health Business Analyst - Nautilus Program](https://jobright.ai/jobs/info/6a7f70a9e2030208f276e153?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | On Site | Aug 14 |
 | **[GuideWell Source](https://www.guidewellsource.com/)** | **[Associate Health Business Analyst - Nautilus Program](https://jobright.ai/jobs/info/6a7f688aad9ff00c26bae07a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Aug 14 |
 | **[WebTPA](http://webtpa.com)** | **[Associate Health Business Analyst - Nautilus Program](https://jobright.ai/jobs/info/6a7f685c927c79391ad08b4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Aug 14 |
-| **[Norsat International](http://www.norsat.com)** | **[Business Analyst - Digital Transformation](https://jobright.ai/jobs/info/6a63141a99515267a6f012b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, BC, Canada | On Site | Aug 14 |
+| **[Norsat International](http://www.norsat.com)** | **[Business Analyst - Digital Transformation](https://jobright.ai/jobs/info/6a4ef6c90ea38951a6ff4f7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, BC, Canada | On Site | Aug 14 |
 | **[Blackstone](http://blackstone.com)** | **[2027 Blackstone Real Estate Sustainability Summer Analyst](https://jobright.ai/jobs/info/6a7f34ee927c79391ad07005?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Aug 14 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a621119c28982326de9491c?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, NY, United States | On Site | Aug 14 |
 | **[CFS](https://www.flycfs.co.za )** | **[Business Systems Specialist](https://jobright.ai/jobs/info/6a7ea1d819ce4e6e9d933d75?utm_campaign=Business%20Analyst&utm_source=1103)** | Romeoville, IL, United States | Remote | Aug 13 |
