@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Analyst, Chicago](https://jobright.ai/jobs/info/6a86cadf74e02153f145c71c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Aug 20 |
+| ↳ | **[Business Analyst, New York](https://jobright.ai/jobs/info/6a86cad425fc4e7ae3daa150?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Aug 20 |
 | **[Park 6 Logistics](https://elevation.ac)** | **[Business Analyst](https://jobright.ai/jobs/info/6a86ba132f4f0014cae2a217?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 20 |
 | **[Sparkbit 360](https://sparkbit360.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a86ba0b25fc4e7ae3da9f5e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 20 |
 | **[Nexxaworks](https://nexxaworks.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a86b7d42f4f0014cae2a1f6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 20 |
@@ -95,10 +97,10 @@ For a complete list, click the following sortable link below:
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Aug 17 |
 | **[Network Rail](http://www.networkrail.co.uk)** | **[Performance Knowledge Advisor](https://jobright.ai/jobs/info/6a839c703eeac101cfaa0f7d?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | On Site | Aug 17 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Aug 17 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Aug 17 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Aug 17 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Aug 17 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Aug 17 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Aug 17 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Aug 17 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Aug 17 |
 | **[Department for Education](https://www.gov.uk/government/organisations/department-for-education)** | **[HEO Business Analyst](https://jobright.ai/jobs/info/6a8300efb5a0ac0e84a22d12?utm_campaign=Business%20Analyst&utm_source=1103)** | Darlington, England, United Kingdom | Hybrid | Aug 17 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 16 |
@@ -112,10 +114,10 @@ For a complete list, click the following sortable link below:
 | **[Florida Blue](https://www.floridablue.com)** | **[Associate Health Business Analyst - Nautilus Program](https://jobright.ai/jobs/info/6a7f70a9e2030208f276e153?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | On Site | Aug 14 |
 | **[GuideWell Source](https://www.guidewellsource.com/)** | **[Associate Health Business Analyst - Nautilus Program](https://jobright.ai/jobs/info/6a7f688aad9ff00c26bae07a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Aug 14 |
 | **[WebTPA](http://webtpa.com)** | **[Associate Health Business Analyst - Nautilus Program](https://jobright.ai/jobs/info/6a7f685c927c79391ad08b4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Aug 14 |
-| **[Norsat International](http://www.norsat.com)** | **[Business Analyst - Digital Transformation](https://jobright.ai/jobs/info/6a4ef6c90ea38951a6ff4f7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, BC, Canada | On Site | Aug 14 |
+| **[Norsat International](http://www.norsat.com)** | **[Business Analyst - Digital Transformation](https://jobright.ai/jobs/info/6a63141a99515267a6f012b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, BC, Canada | On Site | Aug 14 |
 | **[Blackstone](http://blackstone.com)** | **[2027 Blackstone Real Estate Sustainability Summer Analyst](https://jobright.ai/jobs/info/6a7f34ee927c79391ad07005?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Aug 14 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a621119c28982326de9491c?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, NY, United States | On Site | Aug 14 |
 | **[CFS](https://www.flycfs.co.za )** | **[Business Systems Specialist](https://jobright.ai/jobs/info/6a7ea1d819ce4e6e9d933d75?utm_campaign=Business%20Analyst&utm_source=1103)** | Romeoville, IL, United States | Remote | Aug 13 |
 | **[Crown Fine Art](https://www.crownfineart.com)** | **[Business Administrator Apprentice](https://jobright.ai/jobs/info/6a7f80ee927c79391ad09f3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Stockwell, England, United Kingdom | On Site | Aug 13 |
-| **[Janicki](http://www.janicki.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6a6793a7d0fb4c3df393d93a?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, WA, United States | On Site | Aug 13 |
+| **[Janicki](http://www.janicki.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6a678f742bda4d28428548a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, WA, United States | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
