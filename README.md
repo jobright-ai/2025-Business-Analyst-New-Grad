@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Townsville City Council](https://www.townsville.qld.gov.au)** | **[Business Systems Specialist](https://jobright.ai/jobs/info/6a8bf3e84afae74a08351c80?utm_campaign=Business%20Analyst&utm_source=1103)** | Townsville, Queensland, Australia | On Site | Aug 24 |
 | **[Robinhood](https://www.robinhood.com)** | **[Business Analyst (New Grad)](https://jobright.ai/jobs/info/6a88a83e4afae74a0834cdce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Aug 23 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[AWSI Operations Analyst , AWSI Business Operations: FaaST](https://jobright.ai/jobs/info/6a88e6ddd34f700f87fcaf3c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Aug 23 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Business analyst](https://jobright.ai/jobs/info/6a8b384be8b6601d1290bb38?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Aug 23 |
@@ -90,7 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, New York](https://jobright.ai/jobs/info/6a86cad425fc4e7ae3daa150?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Aug 20 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Aug 20 |
 | **[Amphenol Fiber Systems International](http://www.fibersystems.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a877b68e8b6601d12903d1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Allen, TX, United States | On Site | Aug 19 |
-| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8775ca25fc4e7ae3dad6aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Allen, TX, United States | On Site | Aug 19 |
+| **[Amphenol](http://www.amphenol-tcs.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8775c7d34f700f87fc5974?utm_campaign=Business%20Analyst&utm_source=1103)** | Allen, TX, United States | On Site | Aug 19 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Campus – Analytics & Modeling Program Associate](https://jobright.ai/jobs/info/6a8717ddd34f700f87fc3734?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Aug 19 |
 | **[Fitch Group, Inc.](https://www.fitch.group/)** | **[Business Analyst, New York](https://jobright.ai/jobs/info/6a86f878680f314a29d36312?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Aug 19 |
 | ↳ | **[Business Analyst, Chicago](https://jobright.ai/jobs/info/6a86f83c680f314a29d36305?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Aug 19 |
@@ -113,9 +114,9 @@ For a complete list, click the following sortable link below:
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Process Management and Integration](https://jobright.ai/jobs/info/6a84c3dfe12474455273c773?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Aug 17 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Business Analyst - SAP & Supply Chain](https://jobright.ai/jobs/info/6a84ca2b2f4f0014cae23079?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA, United States | On Site | Aug 17 |
 | **[Network Rail](http://www.networkrail.co.uk)** | **[Performance Knowledge Advisor](https://jobright.ai/jobs/info/6a839c703eeac101cfaa0f7d?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | On Site | Aug 17 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Aug 17 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Aug 17 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Aug 17 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Aug 17 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Aug 17 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Aug 17 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Aug 17 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Aug 17 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
