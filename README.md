@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Aug 25 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[ITPA11 - Business Analyst](https://jobright.ai/jobs/info/6a8d7cd1cc0cf2706852390f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lansing, MI, United States | Hybrid | Aug 25 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a690c2c05bae84301b5a22e?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, IL, United States | Hybrid | Aug 25 |
 | **[Smartly Technologies](https://smartly.net)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8d5986581f2d7bfdfe7238?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 25 |
 | **[Fly My Group](https://www.flymygroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8d4e2e2f736c304f2a9230?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 25 |
@@ -68,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Smartly Technologies](https://smartly.net)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8d4b6347679c68bf5e2924?utm_campaign=Business%20Analyst&utm_source=1103)** | New Hampshire, United States | Remote | Aug 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a8d4b3fa5639a4810325885?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee, United States | Remote | Aug 25 |
 | **[Elevate Aircraft Seating](https://elevate-seats.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a8cde30581f2d7bfdfe61d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntington Beach, CA, United States | On Site | Aug 24 |
-| **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Aug 24 |
+| **[State of Florida](http://www.myflorida.com)** | **[PERFORMANCE ANALYSIS AND RESEARCH SPECIALIST - 73005663](https://jobright.ai/jobs/info/6a8d9041581f2d7bfdfe7a49?utm_campaign=Business%20Analyst&utm_source=1103)** | Tallahassee, FL, United States | Hybrid | Aug 24 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[Junior Business Analyst (Ref: 21402)](https://jobright.ai/jobs/info/6a8cbecbcde3717f9e9bf083?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Aug 24 |
 | **[ZURU Edge](https://zuruedge.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a8c6036d34f700f87fd0121?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Aug 24 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a8cab151d96e6541c8c2466?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Aug 24 |
@@ -116,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Amphenol Fiber Systems International](http://www.fibersystems.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a877b64cde3717f9e9b2540?utm_campaign=Business%20Analyst&utm_source=1103)** | Allen, TX, United States | On Site | Aug 19 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8775c7d34f700f87fc5974?utm_campaign=Business%20Analyst&utm_source=1103)** | Allen, TX, United States | On Site | Aug 19 |
 | **[Fannie Mae](https://fanniemae.com)** | **[Campus – Analytics & Modeling Program Associate](https://jobright.ai/jobs/info/6a8717ddd34f700f87fc3734?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Aug 19 |
-| **[Fitch Group, Inc.](https://www.fitch.group/)** | **[Business Analyst, New York](https://jobright.ai/jobs/info/6a86f878680f314a29d36312?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Aug 19 |
-| ↳ | **[Business Analyst, Chicago](https://jobright.ai/jobs/info/6a86f83c680f314a29d36305?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Aug 19 |
+| **[Fitch Group, Inc.](https://www.fitch.group/)** | **[Business Analyst, Chicago](https://jobright.ai/jobs/info/6a86f83c680f314a29d36305?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Aug 19 |
+| ↳ | **[Business Analyst, New York](https://jobright.ai/jobs/info/6a86f878680f314a29d36312?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Aug 19 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[HMP Nottingham - Business Administrator (Ref: 21308)](https://jobright.ai/jobs/info/6a85e5e0d34f700f87fbeeec?utm_campaign=Business%20Analyst&utm_source=1103)** | Nottingham, England, United Kingdom | On Site | Aug 19 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Aug 19 |
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
