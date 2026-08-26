@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Transamerica](http://www.transamerica.com)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6a72055a02d93145bf89200b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Aug 26 |
 | **[California Department of Social Services](https://www.cdss.ca.gov/inforesources/cdss-programs/ihss/ihss-career-pathways-program)** | **[ANALYST II](https://jobright.ai/jobs/info/6a8a1f45e8b6601d1290a9c6?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | On Site | Aug 25 |
 | **[Signal Travel & Tours, Inc.](https://signaltravel.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8e40394b1bf45646962824?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a8e4038b93d14258ab451db?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Remote | Aug 25 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[RLG International](http://www.rlginternational.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a88b85cd34f700f87fca20d?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | On Site | Aug 21 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Aug 21 |
 | **[SpaceXAI](https://x.ai)** | **[Human Data - Business Operations Analyst](https://jobright.ai/jobs/info/6a8642184afae74a083445c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA, United States | On Site | Aug 21 |
-| **[AmTrust Financial Services, Inc.](https://amtrustgroup.com/warranty-special-risk/extended-warranty-administration)** | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a51c8be8d7d3e6cf1cc2e17?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | On Site | Aug 21 |
-| ↳ | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a282eab40ac8e329329f9cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, US | Hybrid | Aug 21 |
+| **[AmTrust Financial Services, Inc.](https://amtrustgroup.com/warranty-special-risk/extended-warranty-administration)** | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a282eab40ac8e329329f9cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, US | Hybrid | Aug 21 |
+| ↳ | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a51c8be8d7d3e6cf1cc2e17?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | On Site | Aug 21 |
 | **[Naryant](https://inovex.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a8863bd4afae74a0834b62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, ON, Canada | Hybrid | Aug 21 |
 | **[Parts Town](https://www.partstown.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a885b4c4afae74a0834b371?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL, United States | Hybrid | Aug 21 |
 | **[Camping World](https://investor.campingworld.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4ffeb3fc327f422fef74f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States of America | Hybrid | Aug 21 |
