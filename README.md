@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Signal Travel & Tours, Inc.](https://signaltravel.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8e40394b1bf45646962824?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 25 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a8e4038b93d14258ab451db?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Remote | Aug 25 |
 | **[Fly My Group](https://www.flymygroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8e3d46b93d14258ab4509b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 25 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Aug 25 |
 | **[Hometap](https://www.hometap.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a8dc817cc0cf27068525393?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Hybrid | Aug 25 |
@@ -101,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[AmTrust Financial Services, Inc.](https://amtrustgroup.com/warranty-special-risk/extended-warranty-administration)** | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a282eab40ac8e329329f9cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, US | Hybrid | Aug 21 |
 | ↳ | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a51c8be8d7d3e6cf1cc2e17?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | On Site | Aug 21 |
 | **[Naryant](https://inovex.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a8863bd4afae74a0834b62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, ON, Canada | Hybrid | Aug 21 |
-| **[Parts Town](https://www.partstown.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a885b4c4afae74a0834b371?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL, United States | Hybrid | Aug 21 |
+| **[Parts Town](https://www.partstown.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a885bd6cde3717f9e9b4c66?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL, United States | Hybrid | Aug 21 |
 | **[Camping World](https://investor.campingworld.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4ffeb3fc327f422fef74f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States of America | Hybrid | Aug 21 |
 | **[City of Austin](https://www.austintexas.gov)** | **[Business Process Specialist - Records Information Management (Austin City Clerk's Office)](https://jobright.ai/jobs/info/6a88ce4acde3717f9e9b73a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, United States | On Site | Aug 20 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a87747825fc4e7ae3dad61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Aug 20 |
@@ -116,10 +118,9 @@ For a complete list, click the following sortable link below:
 | **[Amphenol Fiber Systems International](http://www.fibersystems.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a877b64cde3717f9e9b2540?utm_campaign=Business%20Analyst&utm_source=1103)** | Allen, TX, United States | On Site | Aug 19 |
 | **[Amphenol](http://www.amphenol-tcs.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8775c7d34f700f87fc5974?utm_campaign=Business%20Analyst&utm_source=1103)** | Allen, TX, United States | On Site | Aug 19 |
 | **[Fannie Mae](https://fanniemae.com)** | **[Campus – Analytics & Modeling Program Associate](https://jobright.ai/jobs/info/6a8717ddd34f700f87fc3734?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Aug 19 |
-| **[Fitch Group, Inc.](https://www.fitch.group/)** | **[Business Analyst, Chicago](https://jobright.ai/jobs/info/6a86f83c680f314a29d36305?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Aug 19 |
-| ↳ | **[Business Analyst, New York](https://jobright.ai/jobs/info/6a86f878680f314a29d36312?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Aug 19 |
+| **[Fitch Group, Inc.](https://www.fitch.group/)** | **[Business Analyst, New York](https://jobright.ai/jobs/info/6a86f878680f314a29d36312?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Aug 19 |
+| ↳ | **[Business Analyst, Chicago](https://jobright.ai/jobs/info/6a86f83c680f314a29d36305?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Aug 19 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[HMP Nottingham - Business Administrator (Ref: 21308)](https://jobright.ai/jobs/info/6a85e5e0d34f700f87fbeeec?utm_campaign=Business%20Analyst&utm_source=1103)** | Nottingham, England, United Kingdom | On Site | Aug 19 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Aug 19 |
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
-| **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8d6877581f2d7bfdfe741e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
