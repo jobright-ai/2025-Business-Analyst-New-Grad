@@ -115,6 +115,6 @@ For a complete list, click the following sortable link below:
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Aug 21 |
 | **[SpaceXAI](https://x.ai)** | **[Human Data - Business Operations Analyst](https://jobright.ai/jobs/info/6a8642184afae74a083445c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA, United States | On Site | Aug 21 |
 | **[Naryant](https://inovex.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a8863bd4afae74a0834b62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, ON, Canada | Hybrid | Aug 21 |
-| **[Parts Town](https://www.partstown.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a885bd6cde3717f9e9b4c66?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL, United States | Hybrid | Aug 21 |
+| **[Parts Town](https://www.partstown.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a885b4c4afae74a0834b371?utm_campaign=Business%20Analyst&utm_source=1103)** | Addison, IL, United States | Hybrid | Aug 21 |
 | **[Camping World](https://investor.campingworld.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4ffeb3fc327f422fef74f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States of America | Hybrid | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
