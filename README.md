@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a8fa18ea19886486675e1a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA, United States | On Site | Aug 26 |
 | **[Effy Jewelry](https://www.effyjewelry.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a8f455df841e649a719180c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Aug 26 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Associate Business Technology Analyst](https://jobright.ai/jobs/info/6a8f189cd7c91d0cf446d93d?utm_campaign=Business%20Analyst&utm_source=1103)** | Cayce, SC, United States | Hybrid | Aug 26 |
 | **[Aegon](https://www.aegon.com/)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6a72431d71acd469eeda6f20?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA, United States | Hybrid | Aug 26 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a8cab151d96e6541c8c2466?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Aug 24 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7f82b8b56bea5779c0c533?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, AB, Canada | On Site | Aug 24 |
 | **[Real Chemistry](https://www.realchemistry.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8ca7fcd34f700f87fd1de2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Remote | Aug 24 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a8ca7e325fc4e7ae3db9abb?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Hybrid | Aug 24 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1,(SG 18), Business Systems Analyst Trainee 2,(SG-16), Business Systems Analyst Trainee 1 (SG-14) (NYHELPS)Item# 01040](https://jobright.ai/jobs/info/6a8cdd37581f2d7bfdfe6189?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, United States | Hybrid | Aug 24 |
 | **[Live! Casino & Hotel Maryland](https://www.livech.com)** | **[Junior Business Analyst - Maryland](https://jobright.ai/jobs/info/6a8c627f1d96e6541c8c068c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD, United States | On Site | Aug 24 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1,(SG 18), Business Systems Analyst Trainee 2,(SG-16), Business Systems Analyst Trainee 1 (SG-14) (NYHELPS)Item# 01040](https://jobright.ai/jobs/info/6a8c5c93581f2d7bfdfe3205?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, United States | Hybrid | Aug 24 |
@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Campus4Tech](https://campus4tech.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a877f8725fc4e7ae3dad8dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Aug 20 |
 | **[Mediq UK](https://www.mediq.co.uk)** | **[Business Analyst](https://jobright.ai/jobs/info/6a87200acde3717f9e9b0454?utm_campaign=Business%20Analyst&utm_source=1103)** | Castle Donington, England, United Kingdom | On Site | Aug 20 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a6a235216c69119640fc8a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Aug 20 |
-| **[Fitch Ratings](http://www.fitchratings.com)** | **[Business Analyst, Toronto](https://jobright.ai/jobs/info/6a86d0f0392e3905d571bbaa?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
