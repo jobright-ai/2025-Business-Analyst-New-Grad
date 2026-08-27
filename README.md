@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1,(SG 18), Business Systems Analyst Trainee 2,(SG-16), Business Systems Analyst Trainee 1 (SG-14) (NYHELPS)Item# 01035](https://jobright.ai/jobs/info/6a908271d96ad228f1261a0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, United States | Hybrid | Aug 27 |
+| ↳ | **[Business Systems Analyst 1,(SG 18), Business Systems Analyst Trainee 2,(SG-16), Business Systems Analyst Trainee 1 (SG-14) (NYHELPS)Item# 08683](https://jobright.ai/jobs/info/6a907b3c7c32860d14cf99d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, United States | Hybrid | Aug 27 |
 | **[Landis+Gyr](https://www.landisgyr.com/)** | **[Business Integration Analyst](https://jobright.ai/jobs/info/6a90668a2e254e06fb9f09ff?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 27 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator - Offender Management Unit (Ref: 21222)](https://jobright.ai/jobs/info/6a9057137c32860d14cf8c24?utm_campaign=Business%20Analyst&utm_source=1103)** | Denbury, England, United Kingdom | On Site | Aug 27 |
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9045177c32860d14cf859c?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area, United States | On Site | Aug 27 |
