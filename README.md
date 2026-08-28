@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Careers at MI5, MI6 and GCHQ](https://www.sis.gov.uk/careers)** | **[Business Change Analyst](https://jobright.ai/jobs/info/6a9178673603630099192b23?utm_campaign=Business%20Analyst&utm_source=1103)** | Cheltenham, England, United Kingdom | On Site | Aug 28 |
-| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a3c0d1a122f340d29cec4da?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp, CA | On Site | Aug 28 |
-| ↳ | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a58be5e856af468abfff925?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 28 |
+| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a58be5e856af468abfff925?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 28 |
+| ↳ | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a3c0d1a122f340d29cec4da?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp, CA | On Site | Aug 28 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Aug 28 |
 | **[CGI](https://www.cgi.com)** | **[Momentum Business Analyst](https://jobright.ai/jobs/info/6a9105fd2e254e06fb9f3668?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA, United States | Hybrid | Aug 27 |
 | **[Simon Fraser University](https://www.sfu.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a90cfdfa198864866763380?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Aug 27 |
@@ -118,6 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Hive](https://thehive.ai/)** | **[Business Analyst, Hive Models](https://jobright.ai/jobs/info/6a50e01d6a85fe03ca8562e3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Aug 23 |
 | **[Pilgrim's](https://www.pilgrims.com/)** | **[Sales Business Analyst](https://jobright.ai/jobs/info/6a6ce42932f9300c3a3e5cee?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Aug 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a8925e4e8b6601d1290956d?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA, United States | On Site | Aug 21 |
-| **[Network Rail](http://www.networkrail.co.uk)** | **[Business Review Assistant](https://jobright.ai/jobs/info/6a88b8cc680f314a29d3d7ed?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Aug 21 |
-| **[RLG International](http://www.rlginternational.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a88b85cd34f700f87fca20d?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
