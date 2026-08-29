@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Aug 29 |
+| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a51237778e364789ca593b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 29 |
+| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a529667e726ec56126a3b59?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 29 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1,(SG 18), Business Systems Analyst Trainee 2,(SG-16), Business Systems Analyst Trainee 1 (SG-14) (NYHELPS)Item# 01040](https://jobright.ai/jobs/info/6a8cdd37581f2d7bfdfe6189?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, United States | Hybrid | Aug 28 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator (Ref: 21693)](https://jobright.ai/jobs/info/6a91a82fc12c90443efc734c?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport, England, United Kingdom | On Site | Aug 28 |
 | **[LUC](https://landuse.co.uk/)** | **[Business Performance Analyst](https://jobright.ai/jobs/info/6a91a010a27a2d3c98488f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Manchester Area, United Kingdom | Hybrid | Aug 28 |
@@ -82,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Renewal by Andersen](https://www.renewalbyandersen.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/6a90af72d96ad228f1262ba4?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN, United States | On Site | Aug 26 |
 | **[CRC Group](https://www.crcgroup.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a90350e2e254e06fb9efa31?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Aug 26 |
 | **[Aegon](https://www.aegon.com/)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6a72431d71acd469eeda6f20?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA, United States | Hybrid | Aug 26 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Aug 26 |
-| ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Aug 26 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Aug 26 |
+| ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Aug 26 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst – Strategy & Analytics](https://jobright.ai/jobs/info/6a8ef0bc3ac3a34f92d7ea3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA, United States | Hybrid | Aug 26 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8f7ec62e254e06fb9ed863?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Aug 26 |
 | **[Transamerica](http://www.transamerica.com)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6a72055a02d93145bf89200b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Aug 26 |
