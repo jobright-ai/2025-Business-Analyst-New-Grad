@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a529667e726ec56126a3b59?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 30 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Aug 30 |
 | ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a51237778e364789ca593b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 30 |
-| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Aug 30 |
+| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a529667e726ec56126a3b59?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 30 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Aug 30 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a690c2c05bae84301b5a22e?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, IL, United States | Hybrid | Aug 29 |
 | **[OMERS](http://www.omers.com)** | **[Business Analyst, Data Integration & Performance Platform (12-Month Contract)](https://jobright.ai/jobs/info/6a76dcc94817aa4307049682?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Aug 29 |
@@ -71,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[LUC](https://landuse.co.uk/)** | **[Business Performance Analyst](https://jobright.ai/jobs/info/6a91a010a27a2d3c98488f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Manchester Area, United Kingdom | Hybrid | Aug 28 |
 | **[Transmaritime, Inc.](http://transmaritimecom.siteprotect.net/)** | **[Business Solutions Coordinator](https://jobright.ai/jobs/info/6a93d0b5c12c90443efccd4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Laredo, TX, United States | On Site | Aug 28 |
 | **[Careers at MI5, MI6 and GCHQ](https://www.sis.gov.uk/careers)** | **[Business Change Analyst](https://jobright.ai/jobs/info/6a9178673603630099192b23?utm_campaign=Business%20Analyst&utm_source=1103)** | Cheltenham, England, United Kingdom | On Site | Aug 28 |
-| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a58be5e856af468abfff925?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 28 |
-| ↳ | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a3c0d1a122f340d29cec4da?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp, CA | On Site | Aug 28 |
+| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a3c0d1a122f340d29cec4da?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp, CA | On Site | Aug 28 |
+| ↳ | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a58be5e856af468abfff925?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 28 |
 | **[CGI](https://www.cgi.com)** | **[Momentum Business Analyst](https://jobright.ai/jobs/info/6a9105fd2e254e06fb9f3668?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA, United States | Hybrid | Aug 27 |
 | **[Simon Fraser University](https://www.sfu.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a90cfdfa198864866763380?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Aug 27 |
 | **[Gaines Investment Trust](https://www.gainesinvestmenttrust.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a90b5197c32860d14cfb07e?utm_campaign=Business%20Analyst&utm_source=1103)** | La Jolla, CA, United States | On Site | Aug 27 |
@@ -118,11 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Aug 24 |
 | ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6a569acf53b3962b910b1462?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Remote | Aug 24 |
 | **[Townsville City Council](https://www.townsville.qld.gov.au)** | **[Business Systems Specialist](https://jobright.ai/jobs/info/6a8bf3e84afae74a08351c80?utm_campaign=Business%20Analyst&utm_source=1103)** | Townsville, Queensland, Australia | On Site | Aug 24 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670c9864261ccd2a0a9d?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA, United States | On Site | Aug 23 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267078e596854533796e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Aug 23 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670fc12c90443efc9dea?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC, United States | On Site | Aug 23 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a926709360363009919634c?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | Hybrid | Aug 23 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb59?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | On Site | Aug 23 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9266f7a27a2d3c9848bb4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Aug 23 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9266f68e596854533796e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | On Site | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
