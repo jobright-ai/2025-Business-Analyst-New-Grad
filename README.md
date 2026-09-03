@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teradyne](http://www.teradyne.com)** | **[Business Analyst, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6a99bdfc8a8b765bc55f522a?utm_campaign=Business%20Analyst&utm_source=1103)** | North Reading, MA, United States | On Site | Sep 03 |
 | **[Dine Brands Global](https://www.dinebrands.com)** | **[Business Analytics Analyst](https://jobright.ai/jobs/info/6a99b952ad752e2ad5501763?utm_campaign=Business%20Analyst&utm_source=1103)** | Pasadena, CA, United States | Hybrid | Sep 03 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Sep 03 |
 | **[Connection](http://www.pcconnection.com)** | **[IT Asset Analyst, Entry-Level](https://jobright.ai/jobs/info/6a998f52138838706058e7e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Sep 03 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Iberdrola](http://www.iberdrola.com)** | **[Business Process Expert](https://jobright.ai/jobs/info/6a9930748a8b765bc55f1f94?utm_campaign=Business%20Analyst&utm_source=1103)** | Glasgow, Scotland, United Kingdom | Hybrid | Sep 02 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a987726def18223c854f98d?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
 | ↳ | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a87747825fc4e7ae3dad61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
+| **[Employment Development Department](https://edd.ca.gov/en)** | **[ANALYST II](https://jobright.ai/jobs/info/6a99c7a9551435518ebf10b5?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 02 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a9873acdef18223c854f894?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | Remote | Sep 02 |
 | **[Green Infrastructure Partners](https://gipi.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a985fc311f73b6462c8e4a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, ON, Canada | On Site | Sep 02 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a98500b11f73b6462c8dd0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA, United States | Hybrid | Sep 02 |
@@ -103,6 +105,6 @@ For a complete list, click the following sortable link below:
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator (Ref: 21693)](https://jobright.ai/jobs/info/6a91a82fc12c90443efc734c?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport, England, United Kingdom | On Site | Aug 28 |
 | **[LUC](https://landuse.co.uk/)** | **[Business Performance Analyst](https://jobright.ai/jobs/info/6a91a010a27a2d3c98488f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Manchester Area, United Kingdom | Hybrid | Aug 28 |
 | **[Transmaritime, Inc.](http://transmaritimecom.siteprotect.net/)** | **[Business Solutions Coordinator](https://jobright.ai/jobs/info/6a93d0b5c12c90443efccd4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Laredo, TX, United States | On Site | Aug 28 |
-| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a58be5e856af468abfff925?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 28 |
-| ↳ | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a3c0d1a122f340d29cec4da?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp, CA | On Site | Aug 28 |
+| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a3c0d1a122f340d29cec4da?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp, CA | On Site | Aug 28 |
+| ↳ | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a58be5e856af468abfff925?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
