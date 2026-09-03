@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dine Brands Global](https://www.dinebrands.com)** | **[Business Analytics Analyst](https://jobright.ai/jobs/info/6a99b952ad752e2ad5501763?utm_campaign=Business%20Analyst&utm_source=1103)** | Pasadena, CA, United States | Hybrid | Sep 03 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Sep 03 |
 | **[Connection](http://www.pcconnection.com)** | **[IT Asset Analyst, Entry-Level](https://jobright.ai/jobs/info/6a998f52138838706058e7e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Sep 03 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Business analyst](https://jobright.ai/jobs/info/6a995afe50bfe8474621fbb7?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Sep 02 |
@@ -102,6 +103,6 @@ For a complete list, click the following sortable link below:
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator (Ref: 21693)](https://jobright.ai/jobs/info/6a91a82fc12c90443efc734c?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport, England, United Kingdom | On Site | Aug 28 |
 | **[LUC](https://landuse.co.uk/)** | **[Business Performance Analyst](https://jobright.ai/jobs/info/6a91a010a27a2d3c98488f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Manchester Area, United Kingdom | Hybrid | Aug 28 |
 | **[Transmaritime, Inc.](http://transmaritimecom.siteprotect.net/)** | **[Business Solutions Coordinator](https://jobright.ai/jobs/info/6a93d0b5c12c90443efccd4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Laredo, TX, United States | On Site | Aug 28 |
-| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a3c0d1a122f340d29cec4da?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp, CA | On Site | Aug 28 |
-| ↳ | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a58be5e856af468abfff925?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 28 |
+| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a58be5e856af468abfff925?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Aug 28 |
+| ↳ | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a3c0d1a122f340d29cec4da?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp, CA | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
