@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crew](http://turnberrysolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9a36f5040e5c3d0759b250?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN, United States | Hybrid | Sep 03 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tech & Transformation - ETP - New Grad 2027 - Multiple Locations](https://jobright.ai/jobs/info/6a969508d13b4819f39dc8a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Winnipeg, MB, Canada | Hybrid | Sep 03 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Sep 03 |
 | **[Amgen](https://www.amgen.com.sg)** | **[Undergraduate Co-op Student – Business Analyst](https://jobright.ai/jobs/info/6a997e638a8b765bc55f34d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Burnaby, BC, Canada | On Site | Sep 03 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[21222 - Business Administrator - Offender Management Unit](https://jobright.ai/jobs/info/6a96c8c4f5337b2cf731dece?utm_campaign=Business%20Analyst&utm_source=1103)** | Newton Abbot, England, United Kingdom | On Site | Sep 01 |
 | ↳ | **[21308 - HMP Nottingham - Business Administrator](https://jobright.ai/jobs/info/6a96c882d13b4819f39dcfa2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nottingham, England, United Kingdom | On Site | Sep 01 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a69ecb619d76667a2abcc9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL, United States | On Site | Sep 01 |
-| **[Volkswagen Financial Services (UK)](https://vwfs.co.uk)** | **[Business Performance Analyst Undergraduate Placement](https://jobright.ai/jobs/info/6a96c3f7e4e60e4b8da59e18?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Sep 01 |
 | **[Activate Consulting](http://www.activate.com)** | **[Summer Business Analyst](https://jobright.ai/jobs/info/6a96af62f5337b2cf731da3a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 01 |
 | **[Amazon](https://amazon.com)** | **[Business Ops, Key for Business - VAR](https://jobright.ai/jobs/info/6a9617c8f28891320e86013f?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV, United States | On Site | Aug 31 |
 | **[KLA](https://www.kla.com)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/6a9742f1e4e60e4b8da5d414?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI, United States | On Site | Aug 31 |
