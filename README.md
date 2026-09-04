@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capgemini](https://www.capgemini.com)** | **[SAP Hybris- Junior Business Analyst](https://jobright.ai/jobs/info/6a9af7299c24314c35f96c6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Sep 04 |
+| **[USC Auxiliary Services](http://aux.usc.edu)** | **[Budget Business Analyst](https://jobright.ai/jobs/info/6a9af8e3d5ff1f3f1c39cb8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 04 |
+| **[Overchain](https://overchain.io/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9af65e9c24314c35f96aaa?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Sep 04 |
 | **[Parts Town](https://www.partstown.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a885bd6cde3717f9e9b4c66?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN, United States | Hybrid | Sep 04 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a6a235216c69119640fc8a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Sep 04 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Sep 04 |
@@ -71,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Connection](http://www.pcconnection.com)** | **[IT Asset Analyst, Entry-Level](https://jobright.ai/jobs/info/6a998f52138838706058e7e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Sep 03 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Business analyst](https://jobright.ai/jobs/info/6a995afe50bfe8474621fbb7?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Sep 02 |
 | **[Iberdrola](http://www.iberdrola.com)** | **[Business Process Expert](https://jobright.ai/jobs/info/6a9930748a8b765bc55f1f94?utm_campaign=Business%20Analyst&utm_source=1103)** | Glasgow, Scotland, United Kingdom | Hybrid | Sep 02 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a987726def18223c854f98d?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
-| ↳ | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a87747825fc4e7ae3dad61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a87747825fc4e7ae3dad61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
+| ↳ | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a987726def18223c854f98d?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
 | **[Employment Development Department](https://edd.ca.gov/en)** | **[ANALYST II](https://jobright.ai/jobs/info/6a99c7a9551435518ebf10b5?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 02 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a9873acdef18223c854f894?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | Remote | Sep 02 |
 | **[Green Infrastructure Partners](https://gipi.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a985fc311f73b6462c8e4a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, ON, Canada | On Site | Sep 02 |
@@ -101,9 +104,9 @@ For a complete list, click the following sortable link below:
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/6a85f558e459fa3baa864fbd?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | Aug 30 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a95e3a14c22023a0793688f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA, United States | On Site | Aug 30 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a776d6f7b3417772adea61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Amarillo, TX, United States | Hybrid | Aug 30 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a51237778e364789ca593b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 30 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Aug 30 |
+| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a51237778e364789ca593b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 30 |
 | ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a529667e726ec56126a3b59?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Aug 30 |
-| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Aug 30 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Aug 30 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a690c2c05bae84301b5a22e?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, IL, United States | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
