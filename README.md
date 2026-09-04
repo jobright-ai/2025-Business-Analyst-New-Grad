@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[A Helping Hand Renovation LLC](https://helpinghandrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9a543e13883870605933c8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 03 |
+| **[A Helping Hand Renovation LLC](https://helpinghandrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9a769e13883870605937f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 03 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9a543e13883870605933c8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 03 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9a51a690a313642c6553bc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 03 |
 | **[Crew](http://turnberrysolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9a36f5040e5c3d0759b250?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN, United States | Hybrid | Sep 03 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tech & Transformation - ETP - New Grad 2027 - Multiple Locations](https://jobright.ai/jobs/info/6a969508d13b4819f39dc8a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Winnipeg, MB, Canada | Hybrid | Sep 03 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Connection](http://www.pcconnection.com)** | **[IT Asset Analyst, Entry-Level](https://jobright.ai/jobs/info/6a998f52138838706058e7e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Sep 03 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Business analyst](https://jobright.ai/jobs/info/6a995afe50bfe8474621fbb7?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Sep 02 |
 | **[Iberdrola](http://www.iberdrola.com)** | **[Business Process Expert](https://jobright.ai/jobs/info/6a9930748a8b765bc55f1f94?utm_campaign=Business%20Analyst&utm_source=1103)** | Glasgow, Scotland, United Kingdom | Hybrid | Sep 02 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a87747825fc4e7ae3dad61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
-| ↳ | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a987726def18223c854f98d?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a987726def18223c854f98d?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
+| ↳ | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a87747825fc4e7ae3dad61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
 | **[Employment Development Department](https://edd.ca.gov/en)** | **[ANALYST II](https://jobright.ai/jobs/info/6a99c7a9551435518ebf10b5?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 02 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a9873acdef18223c854f894?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | Remote | Sep 02 |
 | **[Green Infrastructure Partners](https://gipi.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a985fc311f73b6462c8e4a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, ON, Canada | On Site | Sep 02 |
