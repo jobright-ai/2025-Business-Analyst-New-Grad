@@ -58,19 +58,15 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a621119c28982326de9491c?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, NY, United States | On Site | Sep 05 |
-| **[A Full Renovation LLC](https://afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9c23fc75edfa11b470d8f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c23f968f82b4036735e17?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c23f875edfa11b470d8f0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
+| **[A Full Renovation LLC](https://afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9c23f875edfa11b470d8f0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c23f5c1d6f91bc3883e54?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c23f02c964816f65e8fbf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c21812c964816f65e8f8f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c3549c1d6f91bc3883f54?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c354dc1d6f91bc3883f55?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c353cdacf777321a8dccf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c350568f82b4036735ed4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c354768f82b4036735edf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c32c9a7ba386c5d66e13c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c32c8dacf777321a8dca4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c32c6a7ba386c5d66e13b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c32c9a7ba386c5d66e13c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c32c82c964816f65e9070?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | **[KLA](https://www.kla.com)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/6a9742f1e4e60e4b8da5d414?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI, United States | On Site | Sep 05 |
 | **[Buckeye Corrugated, Inc. (BCI)](https://www.bcipkg.com)** | **[Business Trainee](https://jobright.ai/jobs/info/68da45220b832179ca4ad014?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakeside, NY | On Site | Sep 05 |
