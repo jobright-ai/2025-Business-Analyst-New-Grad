@@ -58,11 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[A Helping Hand Renovation LLC](https://helpinghandrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9d09a7c1d6f91bc3885458?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cfbc7dacf777321a8f1cf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cfbadc1d6f91bc38853da?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cf7c875edfa11b470ee22?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/6a7cf4be7c52154b59f5d64e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 05 |
-| **[A Full Renovation LLC](https://afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbf33dacf777321a8e98b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbf32c1d6f91bc3884c31?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
+| **[A Full Renovation LLC](https://afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbf32c1d6f91bc3884c31?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbb6d75edfa11b470e68b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbb6ba7ba386c5d66edfc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbb6aa7ba386c5d66edfb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
@@ -71,14 +70,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbb56a7ba386c5d66edeb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbb52a7ba386c5d66ede8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbb46dacf777321a8e93c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbac875edfa11b470e66f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbac82c964816f65e9d09?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cba4468f82b4036736ba7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbac875edfa11b470e66f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cba43dacf777321a8e93a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cba3e68f82b4036736ba2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a621119c28982326de9491c?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, NY, United States | On Site | Sep 05 |
-| **[A Full Renovation LLC](https://afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9c3506dacf777321a8dcc8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c354dc1d6f91bc3883f55?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
+| **[A Full Renovation LLC](https://afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9c354dc1d6f91bc3883f55?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c3506dacf777321a8dcc8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c350568f82b4036735ed4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c32c9a7ba386c5d66e13c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | **[KLA](https://www.kla.com)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/6a9742f1e4e60e4b8da5d414?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI, United States | On Site | Sep 05 |
