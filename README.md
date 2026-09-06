@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KLA](https://www.kla.com)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/6a9742f1e4e60e4b8da5d414?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI, United States | On Site | Sep 06 |
 | **[A Helping Hand Renovation LLC](https://helpinghandrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9d09a7c1d6f91bc3885458?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cfbc7dacf777321a8f1cf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cfbadc1d6f91bc38853da?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst (Multiple Positions)](https://jobright.ai/jobs/info/6a7cf4be7c52154b59f5d64e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 05 |
-| **[A Full Renovation LLC](https://afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbf32c1d6f91bc3884c31?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbb6d75edfa11b470e68b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
+| **[A Full Renovation LLC](https://afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbb6d75edfa11b470e68b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbb6ba7ba386c5d66edfc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbb6aa7ba386c5d66edfb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cbb6875edfa11b470e684?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
@@ -76,10 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9cba3e68f82b4036736ba2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | **[Core Specialty Insurance Holdings, Inc.](https://corespecialty.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a621119c28982326de9491c?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, NY, United States | On Site | Sep 05 |
 | **[A Full Renovation LLC](https://afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9c3506dacf777321a8dcc8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c354dc1d6f91bc3883f55?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c350568f82b4036735ed4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9c32c9a7ba386c5d66e13c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 05 |
-| **[KLA](https://www.kla.com)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/6a9742f1e4e60e4b8da5d414?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI, United States | On Site | Sep 05 |
 | **[Buckeye Corrugated, Inc. (BCI)](https://www.bcipkg.com)** | **[Business Trainee](https://jobright.ai/jobs/info/68da45220b832179ca4ad014?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakeside, NY | On Site | Sep 05 |
 | **[PartnerRe](http://www.partnerre.com/)** | **[Business Data Analyst - Retro Administration Job Details / PartnerRE Ltd.](https://jobright.ai/jobs/info/6a767e63b17cba569035e724?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Sep 05 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Business Operations Analyst (Remote)](https://jobright.ai/jobs/info/6a9b463c138838706059780b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mahwah, NJ, United States | Remote | Sep 04 |
