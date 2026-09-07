@@ -58,8 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[A Helping Hand Renovation LLC](https://helpinghandrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9e48fbdacf777321a916bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e48f3a7ba386c5d671a8b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
 | **[A Full Renovation LLC](https://afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9e3d1adacf777321a9102c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e750ca7ba386c5d6721cf?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e468c2c964816f65ec927?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e468c27c94c3d5a1cc1e4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e468ca7ba386c5d671a32?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e26652c964816f65ebcf2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e4e9f68f82b403673999e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
@@ -94,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Connection](http://www.pcconnection.com)** | **[IT Asset Analyst, Entry-Level](https://jobright.ai/jobs/info/6a998f52138838706058e7e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Sep 03 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Business analyst](https://jobright.ai/jobs/info/6a995afe50bfe8474621fbb7?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Sep 02 |
 | **[Iberdrola](http://www.iberdrola.com)** | **[Business Process Expert](https://jobright.ai/jobs/info/6a9930748a8b765bc55f1f94?utm_campaign=Business%20Analyst&utm_source=1103)** | Glasgow, Scotland, United Kingdom | Hybrid | Sep 02 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a87747825fc4e7ae3dad61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
-| ↳ | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a987726def18223c854f98d?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a987726def18223c854f98d?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
+| ↳ | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a87747825fc4e7ae3dad61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
 | **[Employment Development Department](https://edd.ca.gov/en)** | **[ANALYST II](https://jobright.ai/jobs/info/6a99c7a9551435518ebf10b5?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 02 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a9873acdef18223c854f894?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | Remote | Sep 02 |
 | **[Green Infrastructure Partners](https://gipi.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a985fc311f73b6462c8e4a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, ON, Canada | On Site | Sep 02 |
@@ -118,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Knowesis Inc.](http://www.knowesis-inc.com/)** | **[Business Management Analyst I (Public Trust)](https://jobright.ai/jobs/info/6a95eb26f28891320e85f085?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Aug 31 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a958c483843db0159905a23?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Aug 31 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Aug 31 |
-| **[John Boos & Co.](https://www.johnboos.com/)** | **[Associate Business Systems Analyst - EDI](https://jobright.ai/jobs/info/6a95ea643843db0159908474?utm_campaign=Business%20Analyst&utm_source=1103)** | Effingham, IL, United States | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
