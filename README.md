@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Helping Hand Renovation LLC](https://helpinghandrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9e48fbdacf777321a916bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
 | **[A Full Renovation LLC](https://afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9e3d1adacf777321a9102c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e468c2c964816f65ec927?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e468ca7ba386c5d671a32?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e26652c964816f65ebcf2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e4e9f68f82b403673999e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Sep 06 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst, Supply Chain (Starlink Aviation)](https://jobright.ai/jobs/info/6a6370e08d5360344960247b?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodinville, WA, United States | On Site | Sep 06 |
 | **[Valley Bank](https://www.valley.com)** | **[Quantitative Business Analyst](https://jobright.ai/jobs/info/6a63dbf05c7e2d715ebae60c?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ, United States | On Site | Sep 06 |
@@ -82,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Parts Town](https://www.partstown.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a885bd6cde3717f9e9b4c66?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN, United States | Hybrid | Sep 04 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a6a235216c69119640fc8a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Sep 04 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6a7d48e0d77e8156a8e361c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | Remote | Sep 04 |
-| **[Capgemini](https://www.capgemini.com)** | **[SAP Hybris- Junior Business Analyst](https://jobright.ai/jobs/info/6a9af7299c24314c35f96c6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Sep 03 |
+| **[Capgemini](https://www.capgemini.com)** | **[SAP Hybris- Junior Business Analyst](https://jobright.ai/jobs/info/6a9b0a469c24314c35f97759?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Sep 03 |
 | **[Crew](http://turnberrysolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9a36f5040e5c3d0759b250?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN, United States | Hybrid | Sep 03 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Tech & Transformation - ETP - New Grad 2027 - Multiple Locations](https://jobright.ai/jobs/info/6a969508d13b4819f39dc8a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Winnipeg, MB, Canada | Hybrid | Sep 03 |
 | **[Amgen](https://www.amgen.com.sg)** | **[Undergraduate Co-op Student – Business Analyst](https://jobright.ai/jobs/info/6a997e638a8b765bc55f34d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Burnaby, BC, Canada | On Site | Sep 03 |
