@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bending Spoons](http://bendingspoons.com)** | **[Business analyst](https://jobright.ai/jobs/info/6a9f8827f6ea002358298665?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Sep 07 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Sep 07 |
 | **[A Helping Hand Renovation LLC](https://helpinghandrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9eb26f352f093fc756c808?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a9e48fbdacf777321a916bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 06 |
@@ -107,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6a7a2821a26ccc369f83cd04?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 01 |
 | **[Verisk](https://www.verisk.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a5e2f5767b2850e77def898?utm_campaign=Business%20Analyst&utm_source=1103)** | 545 Washington Blvd, Jersey City, NJ, 07310, US | Hybrid | Sep 01 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[21222 - Business Administrator - Offender Management Unit](https://jobright.ai/jobs/info/6a96c8c4f5337b2cf731dece?utm_campaign=Business%20Analyst&utm_source=1103)** | Newton Abbot, England, United Kingdom | On Site | Sep 01 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a69ecb619d76667a2abcc9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL, United States | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
