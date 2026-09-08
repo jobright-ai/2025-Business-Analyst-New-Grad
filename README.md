@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Acentra Health](https://acentra.com/)** | **[Business Analyst (HTS), Associate](https://jobright.ai/jobs/info/6aa00cbbdbc0e60e37e0b21f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 08 |
+| **[Arvato](https://arvato.de)** | **[Graduate IT & Business Process Analyst](https://jobright.ai/jobs/info/6aa039d33b5aa83237b078db?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, England, United Kingdom | On Site | Sep 08 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aa01806500b01124c776c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Sep 08 |
+| **[Acentra Health](https://acentra.com/)** | **[Business Analyst (HTS), Associate](https://jobright.ai/jobs/info/6aa00cbbdbc0e60e37e0b21f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 08 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Career Foundation Program (CFP) - Business](https://jobright.ai/jobs/info/6aa017d7ea127c3794694e72?utm_campaign=Business%20Analyst&utm_source=1103)** | Smithfield, VA, United States | On Site | Sep 08 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[21917 - Business Administrator - Activities](https://jobright.ai/jobs/info/6a9ff7bfa2266b538d22da41?utm_campaign=Business%20Analyst&utm_source=1103)** | Nottingham, England, United Kingdom | On Site | Sep 08 |
 | ↳ | **[21916 - Business Administrator](https://jobright.ai/jobs/info/6a9ff7bcea127c3794694649?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Sep 08 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Business Operations Analyst (Remote)](https://jobright.ai/jobs/info/6a9b463c138838706059780b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mahwah, NJ, United States | Remote | Sep 08 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Sep 08 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Sep 08 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Career Foundation Program (CFP) - Business](https://jobright.ai/jobs/info/6aa01d8c5b2d5633ef3bc7a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Smithfield, VA, United States | On Site | Sep 07 |
