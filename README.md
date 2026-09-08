@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Cadmus Group](http://www.cadmusgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6aa0453fa2266b538d22f546?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 08 |
 | **[Hometap](https://www.hometap.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a8dc817cc0cf27068525393?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Remote | Sep 08 |
+| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a494b57f9cbb100d1ab388f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 08 |
+| **[The Cadmus Group](http://www.cadmusgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6aa0453fa2266b538d22f546?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 08 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Sep 08 |
 | **[Arvato](https://arvato.de)** | **[Graduate IT & Business Process Analyst](https://jobright.ai/jobs/info/6aa039d33b5aa83237b078db?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, England, United Kingdom | On Site | Sep 08 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aa01806500b01124c776c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Sep 08 |
