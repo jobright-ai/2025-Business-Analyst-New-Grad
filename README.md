@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acentra Health](https://acentra.com/)** | **[Business Analyst (HTS), Associate](https://jobright.ai/jobs/info/6aa00cbbdbc0e60e37e0b21f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 08 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[21917 - Business Administrator - Activities](https://jobright.ai/jobs/info/6a9ff7bfa2266b538d22da41?utm_campaign=Business%20Analyst&utm_source=1103)** | Nottingham, England, United Kingdom | On Site | Sep 08 |
 | ↳ | **[21916 - Business Administrator](https://jobright.ai/jobs/info/6a9ff7bcea127c3794694649?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Sep 08 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Business Operations Analyst (Remote)](https://jobright.ai/jobs/info/6a9b463c138838706059780b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mahwah, NJ, United States | Remote | Sep 08 |
