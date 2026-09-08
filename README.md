@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Momentum Acquisitions Business Analyst](https://jobright.ai/jobs/info/6aa0710aa2266b538d23060f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA, United States | Hybrid | Sep 08 |
 | **[Hometap](https://www.hometap.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a8dc817cc0cf27068525393?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Remote | Sep 08 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a494b57f9cbb100d1ab388f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 08 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/6a67b5a25d2a117fb9cecdc3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Sep 08 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Bending Spoons](http://bendingspoons.com)** | **[Business analyst](https://jobright.ai/jobs/info/6a995afe50bfe8474621fbb7?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Sep 02 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Budget Business Analyst](https://jobright.ai/jobs/info/6a9e9b4d68f82b403673ac88?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 02 |
 | **[Iberdrola](http://www.iberdrola.com)** | **[Business Process Expert](https://jobright.ai/jobs/info/6a9930748a8b765bc55f1f94?utm_campaign=Business%20Analyst&utm_source=1103)** | Glasgow, Scotland, United Kingdom | Hybrid | Sep 02 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a987726def18223c854f98d?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
-| ↳ | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a87747825fc4e7ae3dad61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a87747825fc4e7ae3dad61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
+| ↳ | **[Business Systems Analyst I – IS](https://jobright.ai/jobs/info/6a987726def18223c854f98d?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado Springs, CO, United States | On Site | Sep 02 |
 | **[Employment Development Department](https://edd.ca.gov/en)** | **[ANALYST II](https://jobright.ai/jobs/info/6a99c7a9551435518ebf10b5?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Hybrid | Sep 02 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a9873acdef18223c854f894?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | Remote | Sep 02 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a98500b11f73b6462c8dd0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA, United States | Hybrid | Sep 02 |
