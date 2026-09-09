@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I Graduate](https://jobright.ai/jobs/info/6a9b2c37fe45b8490f607244?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA, United States | On Site | Sep 08 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I Graduate](https://jobright.ai/jobs/info/6a9b24e82cdc5958f53eb002?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA, United States | On Site | Sep 08 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Sep 08 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 08 |
 | **[SC&H](http://www.schgroup.com)** | **[Associate Business Analyst - Enterprise Advisory & Transformation](https://jobright.ai/jobs/info/6aa09045dbc0e60e37e0e718?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD, United States | On Site | Sep 08 |
@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[SAIL](https://sailmgmt.com)** | **[Assistant Business Manager - Affordable Housing](https://jobright.ai/jobs/info/6a70e0af1003bd7b70d6d376?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Paul, MN, United States | On Site | Sep 03 |
 | **[Teradyne](http://www.teradyne.com)** | **[Business Analyst, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6a99bdfc8a8b765bc55f522a?utm_campaign=Business%20Analyst&utm_source=1103)** | North Reading, MA, United States | On Site | Sep 03 |
 | **[Connection](http://www.pcconnection.com)** | **[IT Asset Analyst, Entry-Level](https://jobright.ai/jobs/info/6a998f52138838706058e7e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Sep 03 |
-| **[Bending Spoons](http://bendingspoons.com)** | **[Business analyst](https://jobright.ai/jobs/info/6a995afe50bfe8474621fbb7?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
