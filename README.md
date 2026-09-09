@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Sep 09 |
+| **[Covista](https://covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a846ce158ded76ad8fe6faa?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD, United States | Hybrid | Sep 09 |
+| ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a846cedd34f700f87fb8689?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL, United States | Hybrid | Sep 09 |
+| **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - CHI](https://jobright.ai/jobs/info/6aa173033272060a8e3efcdf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 09 |
+| ↳ | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/6aa173380ffb3d4fea6b4c73?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 09 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I Graduate](https://jobright.ai/jobs/info/6a9b2c37fe45b8490f607244?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA, United States | On Site | Sep 08 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Sep 08 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 08 |
 | **[SC&H](http://www.schgroup.com)** | **[Associate Business Analyst - Enterprise Advisory & Transformation](https://jobright.ai/jobs/info/6aa09045dbc0e60e37e0e718?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD, United States | On Site | Sep 08 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aa0b217500b01124c77aa25?utm_campaign=Business%20Analyst&utm_source=1103)** | Allendale, NJ, United States | Hybrid | Sep 08 |
+| **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Sep 08 |
+| **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6aa151bddbc0e60e37e10b87?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Sep 08 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a958c483843db0159905a23?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 08 |
 | **[The Cadmus Group](http://www.cadmusgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6aa0453fa2266b538d22f546?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 08 |
 | **[CGI](https://www.cgi.com)** | **[Momentum Acquisitions Business Analyst](https://jobright.ai/jobs/info/6aa0710aa2266b538d23060f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA, United States | Hybrid | Sep 08 |
@@ -100,6 +107,5 @@ For a complete list, click the following sortable link below:
 | **[Deloitte](https://www2.deloitte.com)** | **[Tech & Transformation - ETP - New Grad 2027 - Multiple Locations](https://jobright.ai/jobs/info/6a969508d13b4819f39dc8a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Winnipeg, MB, Canada | Hybrid | Sep 03 |
 | **[Amgen](https://www.amgen.com.sg)** | **[Undergraduate Co-op Student – Business Analyst](https://jobright.ai/jobs/info/6a997e638a8b765bc55f34d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Burnaby, BC, Canada | On Site | Sep 03 |
 | **[SAIL](https://sailmgmt.com)** | **[Assistant Business Manager - Affordable Housing](https://jobright.ai/jobs/info/6a70e0af1003bd7b70d6d376?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Paul, MN, United States | On Site | Sep 03 |
-| **[Teradyne](http://www.teradyne.com)** | **[Business Analyst, New College Graduate, (Teradyne, North Reading, MA)](https://jobright.ai/jobs/info/6a99bdfc8a8b765bc55f522a?utm_campaign=Business%20Analyst&utm_source=1103)** | North Reading, MA, United States | On Site | Sep 03 |
 | **[Connection](http://www.pcconnection.com)** | **[IT Asset Analyst, Entry-Level](https://jobright.ai/jobs/info/6a998f52138838706058e7e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
