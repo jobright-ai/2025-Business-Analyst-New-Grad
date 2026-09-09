@@ -58,11 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Sep 09 |
-| **[Covista](https://covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a846ce158ded76ad8fe6faa?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD, United States | Hybrid | Sep 09 |
-| ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a846cedd34f700f87fb8689?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL, United States | Hybrid | Sep 09 |
+| **[Covista](https://covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a846cedd34f700f87fb8689?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL, United States | Hybrid | Sep 09 |
+| ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a846ce158ded76ad8fe6faa?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD, United States | Hybrid | Sep 09 |
 | **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - CHI](https://jobright.ai/jobs/info/6aa173033272060a8e3efcdf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 09 |
 | ↳ | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/6aa173380ffb3d4fea6b4c73?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 09 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I Graduate](https://jobright.ai/jobs/info/6a9b2c37fe45b8490f607244?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA, United States | On Site | Sep 08 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I Graduate](https://jobright.ai/jobs/info/6a9b24e82cdc5958f53eb002?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA, United States | On Site | Sep 08 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Sep 08 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 08 |
 | **[SC&H](http://www.schgroup.com)** | **[Associate Business Analyst - Enterprise Advisory & Transformation](https://jobright.ai/jobs/info/6aa09045dbc0e60e37e0e718?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD, United States | On Site | Sep 08 |
